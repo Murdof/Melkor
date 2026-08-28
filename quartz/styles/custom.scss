@@ -634,7 +634,7 @@ body[data-slug="index"] article {
       rgba(0, 0, 0, 0.18),
       rgba(0, 0, 0, 0.30)
     ),
-    url("/assets/background.png") center center / cover no-repeat;
+    url(("assets/background.png")) center center / cover no-repeat;
 
   overflow: hidden;
 }
