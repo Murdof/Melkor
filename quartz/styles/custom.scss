@@ -1,3 +1,1262 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+/* =========================================================
+   MELKOR — TEMA
+   ========================================================= */
+
+:root {
+  --melkor-gold: #d6ad5c;
+  --melkor-gold-light: #e5c77c;
+  --melkor-gold-dark: #8f6b2f;
+  --melkor-green: #78b89b;
+  --melkor-green-dark: #29483d;
+  --melkor-bg: #090b0e;
+  --melkor-panel: #111419;
+  --melkor-panel-light: #171b20;
+  --melkor-border: rgba(214, 173, 92, 0.28);
+}
+
+/* =========================================================
+   FUNDO
+   ========================================================= */
+
+body {
+  background:
+    radial-gradient(
+      circle at 50% 20%,
+      rgba(214, 173, 92, 0.035),
+      transparent 35%
+    ),
+    var(--melkor-bg);
+}
+
+/* =========================================================
+   ÁREA CENTRAL
+   ========================================================= */
+
+.center {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.015),
+      transparent 30%
+    ),
+    var(--melkor-panel);
+
+  border-left: 1px solid rgba(214, 173, 92, 0.16);
+  border-right: 1px solid rgba(214, 173, 92, 0.16);
+}
+
+/* =========================================================
+   TÍTULOS
+   ========================================================= */
+
+.page-title a {
+  color: var(--melkor-gold-light) !important;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+article > h1,
+.center h1 {
+  color: var(--melkor-gold-light);
+  letter-spacing: 0.025em;
+}
+
+article h2 {
+  color: var(--melkor-gold);
+  border-bottom: 1px solid var(--melkor-border);
+  padding-bottom: 0.35rem;
+}
+
+article h3 {
+  color: #d9bf82;
+}
+
+/* =========================================================
+   TEXTO
+   ========================================================= */
+
+article p,
+article li {
+  line-height: 1.7;
+}
+
+article strong {
+  color: #e0c98d;
+}
+
+/* =========================================================
+   LINKS
+   ========================================================= */
+
+article a {
+  color: var(--melkor-green);
+  text-decoration: none;
+  transition:
+    color 0.15s ease,
+    text-shadow 0.15s ease;
+}
+
+article a:hover {
+  color: #a5d8bd;
+  text-shadow: 0 0 8px rgba(120, 184, 155, 0.2);
+}
+
+/* =========================================================
+   EXPLORER
+   ========================================================= */
+
+.explorer {
+  border-top: 1px solid rgba(214, 173, 92, 0.2);
+}
+
+.explorer-content {
+  padding-top: 0.6rem;
+}
+
+.explorer-content a {
+  transition:
+    color 0.15s ease,
+    padding-left 0.15s ease;
+}
+
+.explorer-content a:hover {
+  color: var(--melkor-gold-light);
+  padding-left: 0.2rem;
+}
+
+/* =========================================================
+   HERO
+   ========================================================= */
+
+.melkor-hero {
+  position: relative;
+  overflow: hidden;
+
+  margin: 1.5rem 0 2rem;
+  padding: 4rem 3rem;
+
+  min-height: 360px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+
+
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.35),
+      rgba(0, 0, 0, 0.35)
+    ),
+    url("/assets/background.png") center center / cover no-repeat;
+  border: 1px solid var(--melkor-border);
+
+
+  box-shadow:
+    inset 0 0 80px rgba(0, 0, 0, 0.45),
+    0 12px 40px rgba(0, 0, 0, 0.25);
+}
+
+/* detalhes decorativos */
+
+.melkor-hero::before,
+.melkor-hero::after {
+  content: "";
+
+
+  position: absolute;
+
+  width: 90px;
+  height: 90px;
+
+  border: 1px solid rgba(214, 173, 92, 0.28);
+
+  pointer-events: none;
+}
+
+.melkor-hero::before {
+  top: 12px;
+  left: 12px;
+
+  border-right: none;
+  border-bottom: none;
+}
+
+.melkor-hero::after {
+  right: 12px;
+  bottom: 12px;
+
+  border-left: none;
+  border-top: none;
+}
+
+.melkor-hero h1 {
+  position: relative;
+  z-index: 1;
+
+  margin: 0 0 0.5rem;
+
+  font-size: clamp(3rem, 8vw, 5.5rem);
+
+  color: var(--melkor-gold-light);
+
+  letter-spacing: 0.08em;
+
+  text-shadow:
+    0 2px 0 #705426,
+    0 5px 18px rgba(0, 0, 0, 0.7);
+}
+
+.melkor-hero .subtitle {
+  position: relative;
+  z-index: 1;
+
+  margin-bottom: 1.5rem;
+
+  color: var(--melkor-gold);
+  font-size: 0.85rem;
+  font-weight: 700;
+
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+}
+
+.melkor-hero p {
+  position: relative;
+  z-index: 1;
+
+  max-width: 650px;
+
+  color: #b8c4c1;
+  font-size: 1.05rem;
+}
+
+/* =========================================================
+   BOTÕES
+   ========================================================= */
+
+.melkor-hero-actions {
+  position: relative;
+  z-index: 1;
+
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+
+  margin-top: 1rem;
+}
+
+.melkor-btn {
+  display: inline-block;
+
+  padding: 0.7rem 1.3rem;
+
+  border: 1px solid var(--melkor-gold-dark);
+  border-radius: 6px;
+
+  color: var(--melkor-gold-light) !important;
+
+  background: rgba(0, 0, 0, 0.25);
+
+  font-weight: 600;
+
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.melkor-btn:hover {
+  background: rgba(214, 173, 92, 0.1);
+  border-color: var(--melkor-gold);
+  transform: translateY(-2px);
+  text-shadow: none;
+}
+
+.melkor-btn-primary {
+  background: rgba(214, 173, 92, 0.08);
+}
+
+/* =========================================================
+   CARDS DA PÁGINA INICIAL
+   ========================================================= */
+
+.melkor-card {
+  position: relative;
+
+  padding: 1.5rem;
+
+  margin: 1rem 0;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.025),
+      rgba(0, 0, 0, 0.08)
+    ),
+    var(--melkor-panel-light);
+
+  border: 1px solid rgba(214, 173, 92, 0.25);
+  border-left: 3px solid var(--melkor-gold-dark);
+
+  border-radius: 8px;
+
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease,
+    background 0.2s ease;
+}
+
+.melkor-card:hover {
+  border-color: rgba(214, 173, 92, 0.55);
+  transform: translateY(-2px);
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(214, 173, 92, 0.04),
+      rgba(0, 0, 0, 0.08)
+    ),
+    var(--melkor-panel-light);
+}
+
+.melkor-card h3 {
+  margin-top: 0;
+
+  color: var(--melkor-gold-light);
+}
+
+.melkor-card p {
+  color: #b7c2c0;
+}
+
+/* =========================================================
+   CITAÇÕES
+   ========================================================= */
+
+blockquote {
+  border-left: 3px solid var(--melkor-gold-dark);
+
+  background: rgba(214, 173, 92, 0.045);
+
+  padding: 0.8rem 1rem;
+
+  border-radius: 0 6px 6px 0;
+}
+
+/* =========================================================
+   CÓDIGO
+   ========================================================= */
+
+code {
+  border: 1px solid rgba(214, 173, 92, 0.16);
+}
+
+/* =========================================================
+   SELEÇÃO
+   ========================================================= */
+
+::selection {
+  background: rgba(214, 173, 92, 0.3);
+}
+
+/* =========================================================
+   DIVISÓRIAS
+   ========================================================= */
+
+hr {
+  border-color: rgba(214, 173, 92, 0.25);
+}
+
+/* =========================================================
+   SCROLLBAR
+   ========================================================= */
+
+::-webkit-scrollbar {
+  width: 9px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3a3020;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #66532e;
+}
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 800px) {
+  .melkor-hero {
+    padding: 3rem 1.5rem;
+    min-height: 320px;
+  }
+
+  .melkor-hero h1 {
+    font-size: 3rem;
+  }
+
+  .melkor-hero-actions {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .melkor-btn {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+
+/* =========================================================
+   MELKOR — HERO CALLOUT
+   ========================================================= */
+
+.callout[data-callout="hero"] {
+  position: relative;
+  overflow: hidden;
+
+  display: block !important;
+
+  margin: 1.5rem 0 2.5rem;
+  padding: 3.5rem 3rem !important;
+
+  min-height: 300px;
+
+  text-align: center;
+
+  background:
+    radial-gradient(
+      circle at 50% 35%,
+      rgba(214, 173, 92, 0.16),
+      transparent 48%
+    ),
+    linear-gradient(
+      135deg,
+      #0a0c0f,
+      #17140f 50%,
+      #090b0d
+    ) !important;
+
+  border: 1px solid rgba(214, 173, 92, 0.45) !important;
+  border-radius: 12px;
+
+  box-shadow:
+    inset 0 0 80px rgba(0, 0, 0, 0.5),
+    0 15px 40px rgba(0, 0, 0, 0.3);
+}
+
+/* Esconde o ícone padrão */
+.callout[data-callout="hero"] .callout-icon {
+  display: none !important;
+}
+
+/* Título MELKOR */
+.callout[data-callout="hero"] .callout-title {
+  display: block !important;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  text-align: center !important;
+  background: transparent !important;
+}
+
+.callout[data-callout="hero"] .callout-title-inner {
+  display: block !important;
+
+  font-family: Georgia, "Times New Roman", serif;
+
+  font-size: clamp(3.5rem, 8vw, 6rem);
+  line-height: 1;
+
+  letter-spacing: 0.1em;
+  font-weight: 700;
+
+  color: #e5c77c !important;
+
+  text-shadow:
+    0 2px 0 #705426,
+    0 5px 20px rgba(0, 0, 0, 0.8);
+}
+
+/* Conteúdo */
+.callout[data-callout="hero"] .callout-content {
+  display: block !important;
+
+  max-width: 680px;
+  margin: 1.5rem auto 0 !important;
+
+  text-align: center;
+}
+
+/* "Entre Mundos e Eras" */
+.callout[data-callout="hero"] .callout-content > p:first-child {
+  color: #d6ad5c;
+
+  font-size: 0.9rem;
+  font-weight: 700;
+
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+}
+
+/* Texto */
+.callout[data-callout="hero"] .callout-content > p {
+  color: #b8c4c1;
+  line-height: 1.7;
+}
+
+/* Links */
+.callout[data-callout="hero"] .callout-content a {
+  display: inline-block;
+
+  margin: 0.4rem;
+
+  padding: 0.7rem 1.3rem;
+
+  border: 1px solid rgba(214, 173, 92, 0.55);
+  border-radius: 6px;
+
+  background: rgba(0, 0, 0, 0.3);
+
+  color: #e5c77c !important;
+
+  font-weight: 600;
+
+  transition:
+    transform 0.15s ease,
+    background 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.callout[data-callout="hero"] .callout-content a:hover {
+  transform: translateY(-2px);
+
+  background: rgba(214, 173, 92, 0.1);
+
+  border-color: #e5c77c;
+
+  text-shadow: none;
+}
+
+/* Cantos decorativos */
+.callout[data-callout="hero"]::before,
+.callout[data-callout="hero"]::after {
+  content: "";
+
+  position: absolute;
+
+  width: 70px;
+  height: 70px;
+
+  border: 1px solid rgba(214, 173, 92, 0.3);
+
+  pointer-events: none;
+}
+
+.callout[data-callout="hero"]::before {
+  top: 12px;
+  left: 12px;
+
+  border-right: none;
+  border-bottom: none;
+}
+
+.callout[data-callout="hero"]::after {
+  right: 12px;
+  bottom: 12px;
+
+  border-left: none;
+  border-top: none;
+}
+
+/* =========================================================
+   HERO — FUNDO PERSONALIZADO
+   ========================================================= */
+
+.callout[data-callout="hero"] {
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.35),
+      rgba(0, 0, 0, 0.35)
+    ),
+    url("/assets/background.png") center center / cover no-repeat !important;
+
+  border: 1px solid var(--melkor-border);
+  border-radius: 12px;
+
+  min-height: 360px;
+}
+
+.callout[data-callout="hero"] .callout-content {
+  background: transparent !important;
+}
+
+/* =========================================================
+   HOME — HERO COMO PRIMEIRO ELEMENTO
+   ========================================================= */
+
+body[data-slug="index"] .article-title,
+body[data-slug="index"] .content-meta {
+  display: none !important;
+}
+
+body[data-slug="index"] article {
+  margin-top: 0 !important;
+}
+
+
+/* =========================================================
+   HERO PRINCIPAL — HOME
+   ========================================================= */
+
+.melkor-home-hero {
+  width: 100%;
+  min-height: 420px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: 0 0 1.25rem 0;
+  border: 1px solid var(--melkor-border);
+  border-radius: 12px;
+
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.18),
+      rgba(0, 0, 0, 0.30)
+    ),
+    url("/assets/background.png") center center / cover no-repeat;
+
+  overflow: hidden;
+}
+
+.melkor-home-hero-content {
+  text-align: center;
+}
+
+.melkor-home-hero h1 {
+  margin: 0 !important;
+
+  color: var(--melkor-gold-light) !important;
+  font-size: clamp(4rem, 8vw, 8rem) !important;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+
+  text-shadow:
+    0 4px 8px rgba(0, 0, 0, 0.8),
+    0 0 24px rgba(0, 0, 0, 0.5);
+}
+
+.melkor-home-hero p {
+  margin: 1.8rem 0 0 !important;
+
+  color: var(--melkor-gold-light);
+  font-size: 0.9rem;
+  font-weight: 600;
+
+  text-transform: uppercase;
+  letter-spacing: 0.45em;
+}
+
+
+/* =========================================================
+   NAVEGAÇÃO PRINCIPAL
+   ========================================================= */
+
+.melkor-nav {
+  width: 100%;
+
+  margin: 0 0 2rem 0;
+  padding: 1rem 1.25rem;
+
+  border-top: 1px solid var(--melkor-border);
+  border-bottom: 1px solid var(--melkor-border);
+}
+
+.melkor-nav-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  gap: 2.5rem;
+}
+
+.melkor-nav-link {
+  color: var(--melkor-gold-light) !important;
+
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+
+  text-decoration: none !important;
+  background: none !important;
+
+  transition:
+    color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.melkor-nav-link:hover,
+.melkor-nav-link.active {
+  color: var(--melkor-green) !important;
+}
+
+.melkor-nav-link:hover {
+  transform: translateY(-1px);
+}
+
+/* =========================================================
+   TOPBAR — MENU + PESQUISA NA MESMA LINHA
+   ========================================================= */
+
+.melkor-topbar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+
+  margin: 0 0 2rem 0;
+  padding: 0.8rem 0;
+
+  border-top: 1px solid var(--melkor-border);
+  border-bottom: 1px solid var(--melkor-border);
+}
+
+/* Menu ocupa a maior parte da faixa */
+.melkor-topbar .melkor-nav {
+  flex: 1 1 auto;
+
+  width: auto;
+  margin: 0;
+  padding: 0;
+
+  border: 0;
+}
+
+/* Mantém os itens do menu centralizados */
+.melkor-topbar .melkor-nav-links {
+  justify-content: center;
+}
+
+/* Header contém a pesquisa */
+.melkor-topbar > header {
+  flex: 0 0 auto;
+
+  margin: 0 !important;
+  padding: 0;
+
+  gap: 0;
+}
+
+/* Pesquisa pequena */
+.melkor-topbar .search {
+  width: 210px;
+  margin: 0 !important;
+}
+
+/* =========================================================
+   PESQUISA — MELHOR LEGIBILIDADE
+   ========================================================= */
+
+/* Escurece completamente o fundo atrás da pesquisa */
+.search > .search-container {
+  background: rgba(5, 7, 9, 0.94) !important;
+  backdrop-filter: blur(8px) !important;
+}
+
+/* Caixa principal da pesquisa */
+.search > .search-container > .search-space {
+  width: min(1100px, 88vw) !important;
+  margin-top: 8vh !important;
+}
+
+/* Campo de texto */
+.search > .search-container > .search-space > input {
+  background: #11151a !important;
+  color: #f0ede5 !important;
+
+  border: 1px solid var(--melkor-border) !important;
+  border-radius: 8px !important;
+
+  font-size: 1rem !important;
+}
+
+/* Área de resultados + prévia */
+.search > .search-container > .search-space > .search-layout {
+  background: #0d1115 !important;
+  border: 1px solid var(--melkor-border) !important;
+  border-radius: 8px !important;
+
+  overflow: hidden;
+}
+
+/* Coluna dos resultados */
+.search .results-container {
+  background: #101419 !important;
+}
+
+/* Área onde aparece o conteúdo da página */
+.search .preview-container {
+  background: #0d1115 !important;
+  color: #d8dedc !important;
+}
+
+/* Resultados individuais */
+.search .result-card {
+  background: transparent !important;
+  color: #d8dedc !important;
+
+  border-bottom: 1px solid rgba(214, 173, 92, 0.14) !important;
+}
+
+/* Resultado selecionado */
+.search .result-card:hover,
+.search .result-card:focus,
+.search .result-card.focus {
+  background: #1a2224 !important;
+}
+
+/* Nome das páginas encontradas */
+.search .result-card > h3 {
+  color: var(--melkor-gold-light) !important;
+}
+
+/* Texto secundário dos resultados */
+.search .result-card > p {
+  color: #aeb9b6 !important;
+}
+
+/* =========================================================
+   PÁGINAS DE PASTA — CARDS
+   ========================================================= */
+
+.page-listing > div > ul.section-ul {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+
+  margin: 2rem 0 0 !important;
+  padding: 0 !important;
+
+  list-style: none !important;
+}
+
+/* Cada item */
+.page-listing .section-ul > li.section-li {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Card */
+.page-listing .section-li > .section {
+  display: block !important;
+
+  height: 100%;
+  padding: 1.25rem 1.4rem;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.025),
+      rgba(255, 255, 255, 0.008)
+    ) !important;
+
+  border: 1px solid rgba(214, 173, 92, 0.22);
+  border-radius: 8px;
+
+  box-sizing: border-box;
+
+  transition:
+    border-color 0.2s ease,
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+/* =========================================================
+   CARDS — AJUSTE VISUAL
+   ========================================================= */
+
+.page-listing .section-li > .section {
+  position: relative;
+
+  min-height: 95px;
+
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+
+  padding: 1rem 1.25rem;
+}
+
+/* Centraliza completamente o conteúdo */
+.page-listing .section .desc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 100% !important;
+  height: 100%;
+}
+
+.page-listing .section .desc h3 {
+  width: 100%;
+  margin: 0 !important;
+
+  text-align: center;
+
+  border: none !important;
+}
+
+/* ADEUS linhas do tema */
+.page-listing .section .desc h3::before,
+.page-listing .section .desc h3::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* Texto */
+.page-listing .section .desc h3 > a.internal {
+  position: static;
+
+  width: 100%;
+  text-align: center;
+
+  color: #e2e2e2 !important;
+  background: none !important;
+
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Faz o card INTEIRO ser clicável */
+.page-listing .section .desc h3 > a.internal::before {
+  content: "" !important;
+
+  display: block !important;
+  position: absolute;
+
+  inset: 0;
+
+  z-index: 2;
+}
+
+/* Não usa o pseudo-elemento de decoração antigo */
+.page-listing .section .desc h3 > a.internal::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* Hover no card inteiro */
+.page-listing .section-li > .section:hover {
+  cursor: pointer;
+}
+
+.page-listing .section-li > .section:hover h3 > a.internal {
+  color: var(--melkor-gold-light) !important;
+}
+
+/* Remove data */
+.page-listing .section .meta {
+  display: none !important;
+}
+
+/* Remove tags do card */
+.page-listing .section .tags {
+  display: none !important;
+}
+
+/* Descrição */
+.page-listing .section .desc {
+  margin: 0 !important;
+  width: 100% !important;
+}
+
+/* Remove estilo de título antigo */
+.page-listing .section .desc h3 {
+  margin: 0 !important;
+  padding: 0 !important;
+
+  border: 0 !important;
+  background: none !important;
+
+  font-size: 1.15rem !important;
+}
+
+/* Link */
+.page-listing .section .desc h3 > a.internal {
+  display: block;
+
+  padding: 0 !important;
+
+  color: #ddd !important;
+  background: none !important;
+
+  border: 0 !important;
+  border-radius: 0 !important;
+
+  text-decoration: none !important;
+  box-shadow: none !important;
+
+  font-weight: 650;
+}
+
+/* Remove decoração automática do tema */
+.page-listing .section .desc h3 > a.internal::after,
+.page-listing .section .desc h3 > a.internal::before {
+  display: none !important;
+}
+
+/* Hover */
+.page-listing .section-li > .section:hover {
+  border-color: rgba(214, 173, 92, 0.65);
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(214, 173, 92, 0.07),
+      rgba(120, 184, 155, 0.025)
+    ) !important;
+
+  transform: translateY(-2px);
+}
+
+.page-listing .section-li > .section:hover a.internal {
+  color: var(--melkor-gold-light) !important;
+}
+
+/* Celular */
+@media (max-width: 800px) {
+  .page-listing > div > ul.section-ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* =========================================================
+   CARDS — LINK REAL OCUPA O CARD INTEIRO
+   ========================================================= */
+
+.page-listing .section-li > .section {
+  position: relative !important;
+  min-height: 95px;
+}
+
+/* O h3 deixa de limitar a área do link */
+.page-listing .section .desc h3 {
+  position: static !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+}
+
+/* O próprio link passa a cobrir TODO o card */
+.page-listing .section .desc h3 > a.internal {
+  position: absolute !important;
+  inset: 0 !important;
+
+  width: auto !important;
+  height: auto !important;
+
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+
+  padding: 1rem 1.5rem !important;
+
+  text-align: center;
+  color: #e2e2e2 !important;
+
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+
+  z-index: 10;
+  cursor: pointer;
+}
+
+/* Mata definitivamente as decorações do tema */
+.page-listing .section .desc h3 > a.internal::before,
+.page-listing .section .desc h3 > a.internal::after,
+.page-listing .section .desc h3::before,
+.page-listing .section .desc h3::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* Hover */
+.page-listing .section-li > .section:hover {
+  border-color: rgba(214, 173, 92, 0.65) !important;
+  cursor: pointer;
+}
+
+.page-listing .section-li > .section:hover a.internal {
+  color: var(--melkor-gold-light) !important;
+}
+
+/* =========================================================
+   TÍTULOS — LIMPEZA VISUAL
+   ========================================================= */
+
+.center h1,
+.center h2,
+.center h3,
+.center h4,
+.center h5,
+.center h6 {
+  border: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  background-image: none !important;
+}
+
+.center h1::before,
+.center h1::after,
+.center h2::before,
+.center h2::after,
+.center h3::before,
+.center h3::after,
+.center h4::before,
+.center h4::after,
+.center h5::before,
+.center h5::after,
+.center h6::before,
+.center h6::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Título principal das páginas */
+.center .article-title,
+.center article > h1:first-child {
+  color: var(--melkor-gold-light) !important;
+  margin-bottom: 1.5rem !important;
+  letter-spacing: 0.02em;
+}
+
+/* =========================================================
+   RODAPÉ — MAIS DISCRETO
+   ========================================================= */
+
+footer {
+  opacity: 0.45;
+  font-size: 0.8rem;
+}
+
+footer:hover {
+  opacity: 0.8;
+}
+
+/* =========================================================
+   PÁGINAS DE LEITURA — LARGURA CONFORTÁVEL
+   ========================================================= */
+
+/* Não afeta Home nem páginas de pasta */
+body:not([data-slug="index"]):not([data-slug$="/index"]) .popover-hint,
+body:not([data-slug="index"]):not([data-slug$="/index"]) article {
+  width: 100%;
+  max-width: 1100px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Em telas menores continua usando todo o espaço disponível */
+@media (max-width: 1150px) {
+  body:not([data-slug="index"]):not([data-slug$="/index"]) .popover-hint,
+  body:not([data-slug="index"]):not([data-slug$="/index"]) article {
+    max-width: 100%;
+  }
+}
+
+/* =========================================================
+   PÁGINA DE LEITURA — TÍTULO E BREADCRUMB
+   ========================================================= */
+
+/* Breadcrumb mais próximo do título */
+body:not([data-slug="index"]):not([data-slug$="/index"]) .breadcrumb-container {
+  margin-bottom: 0.45rem !important;
+}
+
+/* Título principal mais destacado */
+body:not([data-slug="index"]):not([data-slug$="/index"]) .article-title {
+  font-size: clamp(2rem, 3vw, 2.6rem) !important;
+  line-height: 1.1 !important;
+  margin-top: 0 !important;
+  margin-bottom: 1.35rem !important;
+}
+
+/* =========================================================
+   RODAPÉ — LIMPEZA
+   ========================================================= */
+
+footer {
+  display: none !important;
+}
+
+/* =========================================================
+   HOME — ESPAÇAMENTO
+   ========================================================= */
+
+body[data-slug="index"] .melkor-home-hero {
+  margin-bottom: 0 !important;
+}
+
+body[data-slug="index"] .page-header {
+  margin-top: 1rem !important;
+}
+
+/* =========================================================
+   HOME — PATCH NOTES
+   ========================================================= */
+
+body[data-slug="index"] .callout[data-callout="update"] {
+  margin: 1.25rem 0 2rem;
+
+  padding: 1.4rem 1.6rem;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(214, 173, 92, 0.07),
+      rgba(255, 255, 255, 0.015)
+    ) !important;
+
+  border: 1px solid rgba(214, 173, 92, 0.32) !important;
+  border-left: 3px solid var(--melkor-gold) !important;
+  border-radius: 8px !important;
+}
+
+/* Título do patch */
+body[data-slug="index"]
+.callout[data-callout="update"]
+.callout-title {
+  color: var(--melkor-gold-light) !important;
+
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+/* Remove ícone padrão do callout */
+body[data-slug="index"]
+.callout[data-callout="update"]
+.callout-icon {
+  display: none !important;
+}
+
+/* Texto */
+body[data-slug="index"]
+.callout[data-callout="update"]
+.callout-content {
+  color: #b8c7c4;
+}

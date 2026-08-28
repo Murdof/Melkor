@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Melkor
   pageTitleSuffix: ""
-  enableSPA: true
-  enablePopovers: true
+  enableSPA: false
+  enablePopovers: false
   analytics:
     provider: plausible
-  locale: en-US
+  locale: pt-BR
   baseUrl: murdof.github.io/Melkor
   ignorePatterns:
     - private
@@ -78,7 +78,7 @@ plugins:
     enabled: true
     order: 40
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -154,28 +154,30 @@ plugins:
     enabled: true
   - source: "@quartz-community/content-page"
     enabled: true
+
   - source: "@quartz-community/folder-page"
     enabled: true
+    options:
+      showFolderCount: false
+
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
+    options:
+      title: ""
+      folderClickBehavior: link
+      folderDefaultState: collapsed
+      useSavedState: false
     layout:
-      position: left
-      priority: 50
-  - source: "@quartz-community/graph"
-    enabled: true
-    layout:
-      position: right
+      position: header
       priority: 10
+
   - source: "@quartz-community/search"
     enabled: true
     layout:
-      position: left
+      position: header
       priority: 20
-      group: toolbar
-      groupOptions:
-        grow: true
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
@@ -290,13 +292,16 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content:
+      template: full-width
     folder:
+      template: full-width
       exclude:
         - reader-mode
       positions:
         right: []
     tag:
+      template: full-width
       exclude:
         - reader-mode
       positions:
