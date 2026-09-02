@@ -192,39 +192,64 @@ Um personagem pode tornar-se extremamente importante dentro dessa estrutura sem 
 
 ##### Ordem — Nv.1
 
-**Descrição:**  
-O Nobre organiza pessoas sob sua liderança, distribuindo funções e coordenando suas ações para que trabalhem de maneira mais eficiente.
+****Descrição:**
 
-**Efeito:**  
-Ao coordenar uma tarefa realizada por pessoas afetadas por sua **Hierarquia**, reduz o tempo necessário para concluir aquela atividade em:
+O Nobre sabe distribuir tarefas, manter o ritmo do grupo e evitar perda de tempo causada por desorganização durante atividades coletivas.
 
-> **20%**
+---
 
-Pode ser utilizado em atividades como:
+**Efeito:**
 
-- montar um acampamento;
-- organizar uma formação;
-- cortar madeira;
-- transportar materiais;
-- preparar uma defesa;
-- construir estruturas;
-- realizar outras tarefas coordenadas.
+Ao coordenar diretamente uma equipe sob sua autoridade durante uma **Jornada de Trabalho**, o grupo recebe:
 
-Ordem **não torna uma tarefa impossível em possível**.
+> **+1 Unidade total de produção**
 
-Ela melhora a eficiência de pessoas que já possuem condições de realizar aquela atividade.
+Esse bônus é aplicado ao resultado final da equipe.
 
-### Em combate
+### Exemplo
 
-Utilizar Ordem durante um combate custa:
+Uma equipe produziria:
 
-> **1 [[Pontos de Ação|PA]]**
+> 18 Unidades de Madeira
 
-Fora de combate:
+Com Ordem:
 
-> **Sem custo.**
+> **19 Unidades de Madeira**
 
-A Ordem precisa ser comunicada de alguma maneira que os envolvidos consigam compreender.
+---
+
+**Atividades por Tempo:**
+
+Caso a atividade não produza Unidades e seja determinada principalmente por tempo, como:
+
+- Construção.
+    
+- Transporte.
+    
+- Reparos.
+    
+- Escavação.
+    
+- Montagem.
+    
+
+a equipe recebe:
+
+> **+30 minutos de progresso adicional por Jornada de Trabalho**
+
+---
+
+**Limitações:**
+
+- O Nobre precisa possuir autoridade sobre a equipe.
+    
+- O bônus é aplicado ao grupo inteiro, não a cada trabalhador.
+    
+- Vários usos de Ordem sobre a mesma equipe não acumulam.
+    
+- Não cria recursos além da quantidade disponível.
+    
+- O Nobre precisa estar realmente coordenando a atividade.
 
 ---
 
@@ -330,35 +355,45 @@ A Hierarquia pode aumentar conforme essa Passiva evolui.
 
 ##### Administrador — Nv.1
 
-**Descrição:**  
-O Nobre aprende a organizar recursos, trabalhadores e processos produtivos de maneira mais eficiente.
+****Descrição:**
 
-Quando administra diretamente uma [[Base]], território, propriedade ou outra estrutura produtiva, melhora sua capacidade de produção.
+O Nobre sabe organizar trabalhadores, distribuir funções, reduzir desperdícios e manter uma operação produtiva funcionando de forma mais eficiente.
+
+---
 
 **Efeito:**
 
-> **+10% de Unidades produzidas nas atividades sob sua administração.**
+No início de uma **Jornada de Trabalho**, escolha uma atividade produtiva ou de extração que esteja diretamente sob sua administração.
 
-Esse bônus pode afetar atividades como:
+Ao final da Jornada, essa atividade recebe:
 
-- agricultura;
-- mineração;
-- extração de madeira;
-- fabricação;
-- produção de materiais;
-- outras formas organizadas de produção.
+> **+2 Unidades totais de produção**
 
-Administrador melhora a **produção da estrutura administrada**, e não a capacidade pessoal do Nobre de produzir recursos.
+O bônus é aplicado ao resultado final da operação, e não individualmente a cada trabalhador.
 
-**Exemplo:**
+### Exemplo
 
-> Uma produção normalmente gera **100 Unidades** de determinado recurso.
-> 
-> Sob a administração do Nobre:
-> 
-> `100 + 10% = 110 Unidades`
+Cinco Mineiros produziriam juntos:
 
-O bônus somente se aplica às atividades que realmente estejam sob sua administração.
+> 25 Unidades de Pedra
+
+Com Administrador:
+
+> **27 Unidades de Pedra**
+
+---
+
+**Limitações:**
+
+- Afeta apenas uma atividade ou operação por Jornada.
+    
+- O Nobre precisa possuir autoridade sobre os trabalhadores envolvidos.
+    
+- O bônus não é aplicado individualmente a cada trabalhador.
+    
+- Vários Nobres utilizando Administrador sobre a mesma operação não acumulam o benefício.
+    
+- Não cria recursos além do disponível na fonte explorada.
 
 ---
 

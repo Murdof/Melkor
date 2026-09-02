@@ -8,20 +8,20 @@ Embora estejam longe das capacidades extraordinárias de raças mais avançadas,
 
 ### Status Raciais
 
-|Status|Valor|
-|---|---|
-|**[[Vida]]**|20|
-|**[[Estamina]]**|100|
-|**Regeneração de Estamina**|5 por [[Turno]]|
-|**[[Mana]]**|0|
-|**Pontos Complementares**|6|
-|**Pontos de Dano**|1|
-|**Pontos de Defesa**|1|
-|**Pontos de Precisão**|1|
-|**[[Pontos de Ação]]**|2|
-|**[[Movimento\|Deslocamento — Andar]]**|3 m|
-|**[[Movimento\|Deslocamento — Correr]]**|8 m|
-|**Custo de [[Esquiva]]**|5 Estamina|
+| Status                                   | Valor           |
+| ---------------------------------------- | --------------- |
+| **[[Vida]]**                             | 20              |
+| **[[Estamina]]**                         | 100             |
+| **Regeneração de Estamina**              | 5 por [[Turno]] |
+| **[[Mana]]**                             | 0               |
+| **Pontos Complementares**                | 6               |
+| **Pontos de Dano**                       | 1               |
+| **Pontos de Defesa**                     | 1               |
+| **Pontos de Precisão**                   | 1               |
+| **[[Pontos de Ação]]**                   | 2               |
+| **[[Movimento\|Deslocamento — Andar]]**  | 3 m             |
+| **[[Movimento\|Deslocamento — Correr]]** | 8 m             |
+| **Custo de [[Esquiva]]**                 | 5 Estamina      |
 
 ---
 

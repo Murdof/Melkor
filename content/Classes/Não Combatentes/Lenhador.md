@@ -23,35 +23,59 @@ O Lenhador serve como base para futuras classes especializadas em **extração f
 
 ### Derrubada Eficiente — Nv.1
 
-**Descrição:**  
-O Lenhador analisa a árvore antes de iniciar o corte, identificando sua estrutura, direção de queda e a melhor maneira de aproveitar o material.
+**Descrição:**
 
-**Efeito:**  
-Reduz em:
+O Lenhador conhece os melhores pontos de corte, sabe posicionar suas ferramentas corretamente e trabalha a madeira com muito menos desperdício de esforço.
 
-> **20%**
+---
 
-o tempo necessário para **derrubar a árvore e processar sua madeira**.
+**Efeito:**
 
-**Exemplo:**
+Ao completar uma **Jornada de Trabalho dedicada à extração de madeira**, recebe:
 
-Se normalmente fossem necessários:
+> **+2 Unidades de Madeira**
 
-> **30 minutos**
+O bônus representa a maior eficiência durante derrubada, corte e preparação da madeira.
 
-para derrubar e processar uma árvore:
+---
 
-> `30 − 20% = 24 minutos`
+**Limitações:**
 
-O trabalho passa a levar:
+- O bônus é aplicado uma vez por Jornada de Trabalho.
+    
+- Exige ferramentas adequadas para o tipo de árvore trabalhada.
+    
+- Não permite extrair madeira de árvores que o personagem normalmente seria incapaz de cortar.
+    
+- Não cria Madeira além daquela disponível na fonte explorada.
 
-> **24 minutos**
+---
 
-Derrubada Eficiente não permite cortar normalmente algo para o qual o personagem **não possui ferramentas ou capacidade adequada**.
+**Custo:**
 
-O tamanho, resistência e propriedades da árvore continuam relevantes.
+O esforço aumenta severamente o desgaste físico.
 
-**Custo:** Nenhum.
+Durante uma Jornada utilizando Trabalho Intenso:
+
+> **A perda de Estamina Máxima causada pelo trabalho aumenta em 50%.**
+
+Trabalho Intenso não recupera Estamina e não permite ignorar Exaustão.
+
+Caso o personagem não possua condições físicas para continuar trabalhando, a habilidade é encerrada normalmente.
+
+---
+
+**Limites:**
+
+- O bônus é aplicado somente ao trabalho realizado pelo próprio Plebeu.
+    
+- Não aumenta a produção de outros trabalhadores.
+    
+- Não multiplica outros bônus de produção.
+    
+- Só pode conceder seu benefício **uma vez por Jornada de Trabalho**.
+    
+- Não cria recursos que não existam na fonte explorada.
 
 ---
 
@@ -59,29 +83,31 @@ O tamanho, resistência e propriedades da árvore continuam relevantes.
 
 ### Aproveitamento de Madeira — Nv.1
 
-**Descrição:**  
-O Lenhador sabe realizar cortes de forma a reduzir desperdícios e aproveitar partes da árvore que uma pessoa menos experiente poderia perder durante a extração.
+**Descrição:**
 
-**Efeito:**  
-Ao extrair madeira, recebe:
+O Lenhador sabe aproveitar melhor cada árvore abatida, reduzindo desperdícios durante o corte, separação e preparação da madeira.
 
-> **+10% de Unidades de Madeira**
+---
 
-**Exemplo:**
+**Efeito:**
 
-Uma árvore forneceria normalmente:
+Ao completar uma **Jornada de Trabalho dedicada à extração de madeira**, recebe:
 
-> **20 Unidades de Madeira**
+> **+1 Unidade de Madeira**
 
-Com Aproveitamento de Madeira:
+Esse bônus representa material que normalmente seria perdido durante o processamento.
 
-> `20 + 10% = 22`
+---
 
-O Lenhador obtém:
+**Limitações:**
 
-> **22 Unidades de Madeira**
-
-A Passiva aumenta o **aproveitamento do recurso existente**. Ela não cria madeira quando não existe material aproveitável.
+- O bônus é aplicado uma vez por Jornada de Trabalho.
+    
+- Exige que exista madeira suficiente para ser aproveitada.
+    
+- Não cria recursos além da quantidade disponível na fonte explorada.
+    
+- Não multiplica outros bônus de produção.
 
 ---
 

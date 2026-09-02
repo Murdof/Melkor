@@ -23,37 +23,31 @@ O Mineiro serve como base para futuras classes especializadas em **mineração, 
 
 ### Golpe de Mineração — Nv.1
 
-**Descrição:**  
-O Mineiro identifica uma região estruturalmente mais fraca da rocha ou veio mineral e utiliza suas ferramentas de forma mais eficiente para acelerar a extração.
+**Descrição:**
 
-**Efeito:**  
-Reduz em:
+O Mineiro sabe identificar pontos mais favoráveis na rocha e aplicar força de maneira precisa, extraindo material com menos desperdício de esforço.
 
-> **20%**
+---
 
-o tempo necessário para extrair aquele depósito.
+**Efeito:**
 
-**Exemplo:**
+Ao completar uma **Jornada de Trabalho dedicada à mineração**, recebe:
 
-Se um depósito normalmente exige:
+> **+1 Unidade do recurso extraído**
 
-> **30 minutos**
+Esse bônus representa maior eficiência durante a quebra, separação e retirada do material.
 
-para ser extraído:
+---
 
-> `30 − 20% = 24 minutos`
+**Limitações:**
 
-A extração passa a levar:
-
-> **24 minutos**
-
-Golpe de Mineração não aumenta diretamente a quantidade de recursos existentes no depósito.
-
-Também não permite extrair materiais para os quais o personagem **não possui ferramentas ou capacidade adequada**.
-
-A resistência da rocha, profundidade, ferramentas utilizadas e propriedades especiais do material continuam relevantes.
-
-**Custo:** Nenhum.
+- O bônus é aplicado uma vez por Jornada de Trabalho.
+    
+- Exige ferramentas adequadas para o material explorado.
+    
+- Não permite extrair materiais que o personagem normalmente não conseguiria minerar.
+    
+- Não cria recursos além da quantidade disponível no depósito.
 
 ---
 
@@ -61,29 +55,31 @@ A resistência da rocha, profundidade, ferramentas utilizadas e propriedades esp
 
 ### Extração Mineral — Nv.1
 
-**Descrição:**  
-O Mineiro sabe retirar minério e outros materiais da formação ao redor com maior cuidado, reduzindo desperdícios durante a extração.
+**Descrição:**
 
-**Efeito:**  
-Ao minerar, recebe:
+O Mineiro sabe separar melhor o minério da rocha ao redor, reduzindo perdas durante a extração e aproveitando material que normalmente seria descartado.
 
-> **+10% de Unidades do recurso extraído**
+---
 
-**Exemplo:**
+**Efeito:**
 
-Um depósito forneceria normalmente:
+Ao completar uma **Jornada de Trabalho dedicada à mineração**, recebe:
 
-> **20 Unidades de Ferro**
+> **+1 Unidade do recurso extraído**
 
-Com Extração Mineral:
+Esse bônus representa melhor aproveitamento do material retirado.
 
-> `20 + 10% = 22`
+---
 
-O Mineiro obtém:
+**Limitações:**
 
-> **22 Unidades de Ferro**
-
-A Passiva representa um **melhor aproveitamento do depósito existente**. Ela não cria recursos que não existam no local.
+- O bônus é aplicado uma vez por Jornada de Trabalho.
+    
+- Não cria recursos inexistentes.
+    
+- Não ultrapassa a quantidade disponível no depósito.
+    
+- Não multiplica outros bônus de produção.
 
 ---
 
