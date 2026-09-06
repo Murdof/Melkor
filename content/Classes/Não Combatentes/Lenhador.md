@@ -1,37 +1,43 @@
-O **Lenhador** é uma [[Classes|classe não combatente]] focada na **extração e aproveitamento de madeira e outros recursos florestais**.
+O **Lenhador** é uma [[Classes|Classe Não Combatente]] focada na **extração e aproveitamento de madeira e outros recursos florestais**.
 
-Seu conhecimento permite identificar as melhores formas de realizar o corte, **reduzindo o tempo necessário para derrubar e processar árvores enquanto aumenta a quantidade de recursos aproveitados**.
+Seu conhecimento permite identificar os melhores pontos de corte, utilizar melhor suas ferramentas e aproveitar partes da árvore que trabalhadores menos experientes normalmente desperdiçariam.
 
-É uma classe importante para o crescimento de **Cidades Base e assentamentos**, fornecendo matéria-prima essencial para construções, ferramentas, móveis, fortificações e diversas outras estruturas.
+É uma Classe importante para o crescimento de bases, assentamentos e cidades, fornecendo matéria-prima para construções, ferramentas, móveis, fortificações e diversas outras estruturas.
 
-O Lenhador serve como base para futuras classes especializadas em **extração florestal, manejo de florestas e obtenção de madeiras especiais**.
+O Lenhador serve como base para futuras Classes especializadas em **extração florestal, manejo de florestas e obtenção de madeiras especiais**.
 
 ---
 
-## Afinidades
+# Afinidades
 
 - Ofício
+    
 - Atletismo
+    
 - Percepção
+    
 - Sobrevivência
+    
 - [[Estamina]]
+    
 - Regeneração de Estamina
+    
 
 ---
 
-# Ativa
+# Ativas
 
-### Derrubada Eficiente — Nv.1
+### Derrubada Eficiente - Nv.1
 
 **Descrição:**
 
-O Lenhador conhece os melhores pontos de corte, sabe posicionar suas ferramentas corretamente e trabalha a madeira com muito menos desperdício de esforço.
+O Lenhador conhece os melhores pontos de corte, sabe posicionar suas ferramentas corretamente e consegue derrubar e processar árvores com maior eficiência.
 
 ---
 
 **Efeito:**
 
-Ao completar uma **Jornada de Trabalho dedicada à extração de madeira**, recebe:
+Ao completar uma [[Jornada|Jornada de Trabalho]] dedicada à extração de madeira, recebe:
 
 > **+2 Unidades de Madeira**
 
@@ -39,49 +45,48 @@ O bônus representa a maior eficiência durante derrubada, corte e preparação 
 
 ---
 
-**Limitações:**
+### Exemplo
 
-- O bônus é aplicado uma vez por Jornada de Trabalho.
+Uma atividade normalmente produziria:
+
+> **6 Unidades de Madeira**
+
+Com Derrubada Eficiente:
+
+> **8 Unidades de Madeira**
+
+---
+
+### Limitações
+
+- O bônus é aplicado uma vez por Jornada.
+    
+- Afeta somente a madeira extraída pelo próprio Lenhador.
     
 - Exige ferramentas adequadas para o tipo de árvore trabalhada.
     
-- Não permite extrair madeira de árvores que o personagem normalmente seria incapaz de cortar.
-    
-- Não cria Madeira além daquela disponível na fonte explorada.
-
----
-
-**Custo:**
-
-O esforço aumenta severamente o desgaste físico.
-
-Durante uma Jornada utilizando Trabalho Intenso:
-
-> **A perda de Estamina Máxima causada pelo trabalho aumenta em 50%.**
-
-Trabalho Intenso não recupera Estamina e não permite ignorar Exaustão.
-
-Caso o personagem não possua condições físicas para continuar trabalhando, a habilidade é encerrada normalmente.
-
----
-
-**Limites:**
-
-- O bônus é aplicado somente ao trabalho realizado pelo próprio Plebeu.
-    
-- Não aumenta a produção de outros trabalhadores.
+- Não permite cortar uma árvore que o personagem normalmente seria incapaz de derrubar.
     
 - Não multiplica outros bônus de produção.
     
-- Só pode conceder seu benefício **uma vez por Jornada de Trabalho**.
+- Não cria Madeira inexistente.
     
-- Não cria recursos que não existam na fonte explorada.
+- A quantidade extraída continua limitada pela quantidade disponível na fonte.
+    
+- Jornadas parciais seguem normalmente as regras de [[Jornada]].
+    
 
 ---
 
-# Passiva
+**Custo:** Nenhum.
 
-### Aproveitamento de Madeira — Nv.1
+O desgaste físico da atividade segue normalmente [[Jornada]].
+
+---
+
+# Passivas
+
+### Aproveitamento de Madeira - Nv.1
 
 **Descrição:**
 
@@ -91,7 +96,7 @@ O Lenhador sabe aproveitar melhor cada árvore abatida, reduzindo desperdícios 
 
 **Efeito:**
 
-Ao completar uma **Jornada de Trabalho dedicada à extração de madeira**, recebe:
+Ao completar uma [[Jornada|Jornada de Trabalho]] dedicada à extração de madeira, recebe:
 
 > **+1 Unidade de Madeira**
 
@@ -99,15 +104,40 @@ Esse bônus representa material que normalmente seria perdido durante o processa
 
 ---
 
-**Limitações:**
+### Exemplo
 
-- O bônus é aplicado uma vez por Jornada de Trabalho.
+Uma atividade normalmente produziria:
+
+> **6 Unidades de Madeira**
+
+Com Aproveitamento de Madeira:
+
+> **7 Unidades**
+
+Caso também utilize Derrubada Eficiente:
+
+> `6 + 2 + 1 = 9`
+
+Resultado:
+
+> **9 Unidades de Madeira**
+
+---
+
+### Limitações
+
+- O bônus é aplicado uma vez por Jornada.
     
-- Exige que exista madeira suficiente para ser aproveitada.
+- Afeta apenas o trabalho realizado pelo próprio Lenhador.
     
-- Não cria recursos além da quantidade disponível na fonte explorada.
+- Não cria recursos inexistentes.
     
-- Não multiplica outros bônus de produção.
+- Não ultrapassa a quantidade disponível na fonte explorada.
+    
+- Não multiplica outros bônus.
+    
+- Jornadas parciais seguem [[Jornada]].
+    
 
 ---
 
@@ -117,9 +147,9 @@ Esse bônus representa material que normalmente seria perdido durante o processa
 
 O **Madeireiro** é a evolução do Lenhador especializada na **extração de grandes quantidades de madeira**.
 
-Aprimora técnicas de derrubada, corte e aproveitamento dos troncos, buscando obter o máximo possível de uma área florestal com maior velocidade e menor desperdício.
+Aprimora técnicas de derrubada, corte e aproveitamento dos troncos, buscando retirar maiores quantidades de uma área florestal com maior eficiência.
 
-É a principal base para futuras classes especializadas em **extração florestal em grande escala, processamento de madeira e operações madeireiras**.
+É a principal base para futuras Classes especializadas em **extração florestal em grande escala e processamento de madeira**.
 
 **Requisito:** Lenhador Lv.10.
 
@@ -129,9 +159,9 @@ Aprimora técnicas de derrubada, corte e aproveitamento dos troncos, buscando ob
 
 O **Silvicultor** é a evolução do Lenhador especializada no **manejo e desenvolvimento de áreas florestais**.
 
-Em vez de pensar apenas na árvore que será cortada, aprende a avaliar e administrar a floresta como um recurso, escolhendo quais árvores retirar, quais preservar e como manter a região produtiva ao longo do tempo.
+Em vez de pensar apenas na árvore que será cortada, aprende a administrar a floresta como um recurso, escolhendo quais árvores retirar, quais preservar e como manter a região produtiva.
 
-É a principal base para futuras classes especializadas em **manejo florestal, reflorestamento, cultivo de árvores e desenvolvimento de florestas produtivas**.
+É a principal base para futuras Classes especializadas em **manejo florestal, reflorestamento e desenvolvimento de florestas produtivas**.
 
 **Requisito:** Lenhador Lv.10.
 
@@ -141,8 +171,21 @@ Em vez de pensar apenas na árvore que será cortada, aprende a avaliar e admini
 
 O **Extrator Florestal** é especializado em obter **recursos incomuns e valiosos encontrados em árvores e florestas**, principalmente aqueles que exigem técnicas específicas para serem retirados sem perder suas propriedades.
 
-Seu conhecimento permite trabalhar melhor com **madeiras raras, seivas, resinas, cascas e outros materiais especiais**, inclusive provenientes de espécies incomuns encontradas durante a exploração do mundo.
+Seu conhecimento permite trabalhar melhor com:
 
-É a principal base para futuras classes voltadas à **extração de materiais florestais raros e recursos especiais**.
+- madeiras raras;
+    
+- seivas;
+    
+- resinas;
+    
+- cascas;
+    
+- materiais especiais;
+    
+- recursos provenientes de espécies incomuns.
+    
+
+É a principal base para futuras Classes voltadas à **extração de materiais florestais raros e recursos especiais**.
 
 **Requisito:** Lenhador Lv.10.

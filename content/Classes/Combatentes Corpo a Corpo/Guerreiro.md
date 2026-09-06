@@ -10,7 +10,7 @@ Ele mantém toda a resistência e versatilidade adquiridas anteriormente, mas pa
 
 Estes valores são **somados** aos bônus já adquiridos pelo Recruta.
 
-- +50 Vida
+- +100 Vida
 - +100 Estamina
 - +15 Regeneração de Estamina
 - +4 Dano Melee

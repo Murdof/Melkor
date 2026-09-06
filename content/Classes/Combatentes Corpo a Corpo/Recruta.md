@@ -154,46 +154,48 @@ Ele **não exige um PA adicional** apenas por ser um Ataque Pesado.
 ##### Surto de Ação — Nv.1
 
 **Descrição:**  
-O Recruta força o próprio corpo além do ritmo normal por alguns instantes, conseguindo agir novamente imediatamente.
+O Recruta força o próprio corpo além do ritmo normal por alguns instantes, conseguindo realizar um novo período completo de ações imediatamente.
 
 ### Efeito
 
 Recebe:
 
-> **+1 [[Turno]] completo imediatamente.**
+> **+1 [[Turno]] Extra imediatamente.**
 
-Como cada Turno representa aproximadamente **2 segundos**, o personagem efetivamente força seu corpo a realizar mais um período completo de atividade naquele momento.
+O Turno Extra possui normalmente todos os [[Pontos de Ação|Pontos de Ação (PA)]] do personagem.
 
-O novo Turno possui seus [[Pontos de Ação|Pontos de Ação (PA)]] normalmente.
+### Turno Extra
 
-**Exemplo:**
+Um Turno concedido por Surto de Ação representa uma extensão artificial do Turno original.
 
-Se o personagem possui:
+Por isso, ele **não ativa novamente efeitos de início de Turno**.
 
-> **2 PA**
+Isso inclui:
 
-Então:
+- Regeneração de [[Estamina]];
+    
+- Regeneração de [[Mana]];
+    
+- Regeneração de [[Vida]];
+    
+- recuperação de outros recursos;
+    
+- Habilidades e Passivas ativadas no início do Turno;
+    
+- Condições que causariam seus efeitos no início do Turno.
+    
 
-> Turno normal → **2 PA**  
-> Surto de Ação → novo Turno → **+2 PA**
+Esses efeitos continuam acontecendo apenas no Turno natural do personagem.
 
-### Regeneração e início do novo Turno
+O Turno Extra ainda permite utilizar PA, movimentar-se, atacar e utilizar Habilidades normalmente, pagando todos os seus custos.
 
-Como Surto de Ação concede **um novo Turno completo**, efeitos que acontecem no início do próprio Turno também acontecem normalmente.
+### Limite
 
-Isso inclui, quando aplicável:
+Surto de Ação pode ser utilizado:
 
-> Regeneração de [[Estamina]], [[Mana]], [[Vida]] e outros efeitos de início de Turno.
+> **1 vez por [[Turno#Turno e Rodada|Rodada]].**
 
-Da mesma forma, Condições que produzem efeitos no início do Turno também são ativadas novamente.
-
-Portanto, utilizar vários Surtos de Ação não concede apenas mais ações: também **faz o personagem vivenciar os efeitos correspondentes a esses Turnos adicionais**.
-
-### Uso repetido
-
-Surto de Ação pode ser utilizado múltiplas vezes, desde que o personagem consiga pagar seu custo.
-
-Cada utilização cria um novo Turno completo.
+Turnos Extras não renovam esse limite.
 
 ### Custo
 

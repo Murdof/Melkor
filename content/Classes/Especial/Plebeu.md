@@ -43,67 +43,85 @@ Classe voltada à **produção, extração e construção**.
 
 ### Trabalho Intenso — Nv.1
 
+##### Aprendizado Prático - Nv.1
+
 **Descrição:**
 
-O Plebeu força seu corpo além do ritmo normal de trabalho, mantendo esforço contínuo por longos períodos para aumentar sua produtividade.
+O Plebeu aprende principalmente fazendo.
 
-Não é uma forma eficiente de trabalhar todos os dias. É uma habilidade para momentos em que terminar a tarefa rapidamente importa mais do que preservar o próprio corpo.
+Erros, repetição e experiência adquirida durante o trabalho permitem que ele desenvolva suas Classes profissionais mais rapidamente.
 
 ---
 
 **Efeito:**
 
-Ao iniciar uma **Jornada de Trabalho**, o Plebeu pode declarar **Trabalho Intenso**.
+Enquanto esta Passiva estiver adquirida e o [[Plebeu]] estiver ativo, seu efeito funciona automaticamente.
 
-Durante essa Jornada, ele recebe:
+Ao completar uma [[Jornada|Jornada de Trabalho]] relevante para outra Classe de Trabalho ativa, essa Classe recebe:
 
-> **+1 Unidade adicional** do recurso produzido ou coletado pessoalmente.
+> **+1 XP adicional**
 
-Caso a atividade não utilize Unidades e seja determinada principalmente por tempo:
-
-> **+1 hora de progresso adicional** durante aquela Jornada.
-
-### Exemplos
-
-Um Lenhador que produziria:
-
-> 6 Unidades de Madeira
-
-com Trabalho Intenso produz:
-
-> **7 Unidades de Madeira**
-
-Um trabalhador participando de uma construção por 6 horas conta como tendo realizado:
-
-> **7 horas de progresso**
+Esse XP é concedido além do XP normalmente recebido pela Jornada.
 
 ---
 
-**Custo:**
+### Exemplo
 
-O esforço aumenta severamente o desgaste físico.
+Um personagem possui:
 
-Durante uma Jornada utilizando Trabalho Intenso:
+> **Plebeu + Lenhador**
 
-> **A perda de Estamina Máxima causada pelo trabalho aumenta em 50%.**
+e completa uma Jornada de extração de madeira.
 
-Trabalho Intenso não recupera Estamina e não permite ignorar Exaustão.
+A Jornada concede normalmente:
 
-Caso o personagem não possua condições físicas para continuar trabalhando, a habilidade é encerrada normalmente.
+> **1 XP de Lenhador**
+
+Aprendizado Prático concede:
+
+> **+1 XP de Lenhador**
+
+Total:
+
+> **2 XP de Lenhador**
 
 ---
 
-**Limites:**
+### Jornada Parcial
 
-- O bônus é aplicado somente ao trabalho realizado pelo próprio Plebeu.
+Aprendizado Prático somente concede seu XP adicional quando uma Jornada completa é efetivamente concluída.
+
+Trabalho parcial gera normalmente **Progresso de Jornada**.
+
+### Exemplo
+
+> 3 horas de trabalho = 3/6 de Jornada
+
+Nenhum XP adicional é recebido ainda.
+
+Ao completar:
+
+> **6/6**
+
+a Jornada é concluída e Aprendizado Prático funciona automaticamente.
+
+---
+
+### Limitações
+
+- É uma **Passiva** e não precisa ser ativada.
     
-- Não aumenta a produção de outros trabalhadores.
+- Funciona automaticamente enquanto seus requisitos forem atendidos.
     
-- Não multiplica outros bônus de produção.
+- O personagem precisa realmente exercer uma atividade relacionada à Classe que receberá o XP.
     
-- Só pode conceder seu benefício **uma vez por Jornada de Trabalho**.
+- Não concede XP para Classes Combatentes através de trabalho comum.
     
-- Não cria recursos que não existam na fonte explorada.
+- Não concede XP caso aquela atividade não seja válida para a progressão da Classe.
+    
+- O XP adicional não é multiplicado por dividir uma Jornada em vários períodos.
+    
+- Uma Jornada superior a 6 horas é dividida normalmente em Jornadas completas conforme [[Jornada]].
 ---
 
 ### Improvisar — Nv.1

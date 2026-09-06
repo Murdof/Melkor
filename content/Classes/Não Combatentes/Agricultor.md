@@ -1,6 +1,6 @@
 O **Agricultor** é uma [[Classes|Classe Não Combatente]] focada no **cultivo, manutenção e aproveitamento de plantações**.
 
-Seu conhecimento permite preparar melhor o solo, cuidar das plantas e organizar o cultivo de forma mais eficiente, reduzindo o tempo necessário para que uma plantação esteja pronta e aumentando a quantidade de recursos obtidos durante a colheita.
+Seu conhecimento permite preparar melhor o solo, cuidar das plantas e organizar o cultivo de forma mais eficiente, acelerando o desenvolvimento das plantações e reduzindo perdas durante a colheita.
 
 O Agricultor não recebe benefícios voltados diretamente para combate. Sua progressão é dedicada principalmente à **produção agrícola e atividades relacionadas ao cultivo**.
 
@@ -14,93 +14,157 @@ Classe voltada à **agricultura e produção de recursos cultiváveis**.
 
 ### O que faz
 
-- Aumenta a eficiência de plantações
-- Reduz o tempo necessário para colheitas
-- Aumenta a quantidade de recursos obtidos
+- Melhora o desenvolvimento de plantações
+    
+- Aumenta a quantidade de recursos aproveitados durante colheitas
+    
 - Facilita atividades relacionadas ao cultivo
-- Permite desenvolver métodos agrícolas cada vez mais eficientes
+    
+- Permite especialização futura em diferentes formas de agricultura
+    
 
 ---
 
 # Afinidades
 
 - Ofício
+    
 - Percepção
+    
 - Sobrevivência
+    
 - Inteligência
+    
 - Atletismo
+    
 
 ---
 
 # Ativas
 
-### Cultivo Eficiente — Nv.1
+### Cultivo Eficiente - Nv.1
 
-**Descrição:**  
-O Agricultor utiliza seu conhecimento para preparar e cuidar de uma plantação de maneira mais eficiente, melhorando as condições de crescimento das plantas.
+**Descrição:**
 
-**Efeito:**  
-Reduz em:
+O Agricultor utiliza seu conhecimento para preparar o solo, cuidar das plantas, corrigir pequenos problemas e criar melhores condições para o desenvolvimento da plantação.
 
-> **10%**
+---
 
-o tempo necessário para a **próxima colheita** da plantação trabalhada.
+**Efeito:**
 
-**Exemplo:**
+Ao completar uma [[Jornada|Jornada de Trabalho]] dedicada ao cuidado de uma plantação, o trabalho realizado gera:
 
-Uma plantação normalmente levaria:
+> **+1 hora de progresso de desenvolvimento**
 
-> **10 dias**
+para aquela plantação.
 
-para ficar pronta.
+Isso significa que uma Jornada de:
 
-Após receber Cultivo Eficiente:
+> **6 horas**
 
-> `10 dias − 10% = 9 dias`
+faz a plantação avançar:
 
-A próxima colheita ficará pronta em:
+> **7 horas**
 
-> **9 dias**
+em seu desenvolvimento.
 
-O benefício representa o trabalho realizado pelo Agricultor sobre aquela plantação e não uma aceleração sobrenatural do tempo.
+---
 
-Cultivo Eficiente não permite ignorar necessidades fundamentais da plantação.
+### Exemplo
 
-Solo inadequado, falta de água, clima, doenças, pragas e outras condições ainda podem afetar o cultivo normalmente.
+Uma plantação ainda precisa de:
+
+> **24 horas de desenvolvimento**
+
+O Agricultor trabalha nela durante uma Jornada completa.
+
+Após 6 horas reais de trabalho:
+
+> **7 horas de desenvolvimento são contabilizadas.**
+
+Restam:
+
+> **17 horas**
+
+para que a plantação esteja pronta.
+
+---
+
+### Jornada Parcial
+
+Caso o Agricultor realize apenas parte de uma Jornada, o bônus acompanha proporcionalmente o progresso realizado, seguindo [[Jornada]].
+
+O arredondamento ocorre apenas no resultado final.
+
+---
+
+### Limitações
+
+- O Agricultor precisa trabalhar diretamente na plantação.
+    
+- O benefício é aplicado ao cultivo trabalhado durante aquela Jornada.
+    
+- O bônus não substitui água, nutrientes, solo adequado ou outras necessidades fundamentais da plantação.
+    
+- Pragas, doenças, clima e outros problemas continuam podendo prejudicar o cultivo.
+    
+- Não permite acelerar uma plantação que não possua condições de continuar se desenvolvendo.
+    
+- O benefício é aplicado uma vez por Jornada.
+    
 
 **Custo:** Nenhum.
 
-O tempo necessário para realizar o trabalho depende do **tamanho da plantação e das condições existentes**.
+O desgaste físico segue normalmente as regras de [[Jornada]].
 
 ---
 
 # Passivas
 
-### Colheita Eficiente — Nv.1
+### Colheita Eficiente - Nv.1
 
-**Descrição:**  
+**Descrição:**
+
 O Agricultor sabe reconhecer o momento adequado da colheita e aproveitar melhor aquilo que foi produzido, reduzindo perdas durante o processo.
 
-**Efeito:**  
-Ao realizar uma colheita, aumenta em:
+---
 
-> **+10% as Unidades obtidas**
+**Efeito:**
 
-**Exemplo:**
+Ao realizar pessoalmente uma colheita, recebe:
 
-Uma plantação produziria normalmente:
+> **+1 Unidade do recurso colhido**
 
-> **100 Unidades de Trigo**
+por [[Jornada|Jornada de Trabalho]] dedicada à colheita.
+
+---
+
+### Exemplo
+
+Uma colheita normalmente renderia:
+
+> **6 Unidades de Trigo**
 
 Com Colheita Eficiente:
 
-> `100 + 10% = 110`
+> **7 Unidades de Trigo**
 
-O Agricultor obtém:
+---
 
-> **110 Unidades de Trigo**
+### Limitações
 
-O bônus aumenta aquilo que pode ser **aproveitado da produção existente**. Ele não cria recursos quando a plantação não produziu nada.
+- O bônus afeta apenas a colheita realizada pelo próprio Agricultor.
+    
+- É aplicado uma vez por Jornada.
+    
+- Não multiplica outros bônus de produção.
+    
+- Não cria recursos quando a plantação não produziu nada.
+    
+- Não pode retirar mais recursos do que aquilo que existe ou pode ser aproveitado da plantação.
+    
+- Jornadas parciais seguem normalmente [[Jornada]].
+    
 
 ---
 
@@ -108,15 +172,15 @@ O bônus aumenta aquilo que pode ser **aproveitado da produção existente**. El
 
 O Agricultor possui grande sinergia com [[Plebeu]].
 
-Enquanto Agricultor representa **conhecimento e especialização agrícola**, Plebeu fornece benefícios gerais relacionados a trabalho e produção.
+Enquanto Agricultor representa **conhecimento e especialização agrícola**, Plebeu fornece benefícios gerais relacionados ao trabalho e produção.
 
-Por exemplo, um personagem com:
+Um personagem com:
 
 > **Plebeu + Agricultor**
 
-pode utilizar **Trabalho Intenso** para reduzir o tempo gasto em determinadas atividades agrícolas e receber os benefícios de **Trabalhador Experiente** durante sua produção.
+pode utilizar os benefícios das duas Classes durante uma atividade agrícola quando todos os requisitos forem atendidos.
 
-Quando dois efeitos forem aplicáveis à mesma atividade, cada um segue normalmente suas próprias regras.
+Bônus fixos compatíveis são somados normalmente, salvo quando algum efeito indicar que não acumula.
 
 ---
 
@@ -128,10 +192,10 @@ Seus benefícios são voltados para atividades agrícolas e não concedem direta
 
 > [[Vida]], [[Mana]], [[Estamina]], [[Dano]], [[Defesa]] ou [[Precisão]] de combate.
 
-Isso não impede que um Agricultor participe de um combate ou desenvolva atributos normalmente.
+Isso não impede que um Agricultor participe de combates ou desenvolva outros atributos através de outras fontes.
 
-A classificação significa apenas que **a própria Classe Agricultor não é construída para fornecer progressão de combate**.
+A classificação significa apenas que:
 
-Habilidades, equipamentos, outras Classes ou efeitos específicos ainda podem modificar isso.
+> **a Classe Agricultor é especializada em trabalho agrícola, não em combate.**
 
 > **Regra específica > regra geral.**

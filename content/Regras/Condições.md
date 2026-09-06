@@ -1,370 +1,558 @@
-As **Condições** representam estados temporários ou persistentes que alteram o funcionamento de um personagem, criatura ou outro alvo.
+As condições abaixo possuem um funcionamento padrão.
 
-Uma Condição pode ser causada por [[Ataque|Ataques]], Habilidades, magia, ferimentos, ambiente, doenças, venenos, efeitos mentais ou qualquer outra fonte.
+Uma Habilidade, criatura, item ou outro efeito pode modificar sua duração, intensidade, resistência ou funcionamento.
 
-Cada Condição possui suas próprias regras e determina como funciona, quanto tempo dura e como pode ser removida.
+Quando nenhuma regra específica for apresentada, utilize os valores desta seção.
 
 ---
 
-# Efeitos Positivos e Negativos
+# Tick de Condição
 
-Condições podem ser **positivas ou negativas**.
+Um **Tick** representa a ativação periódica de uma Condição.
 
-Efeitos positivos normalmente concedem benefícios, como:
+Quando uma Condição causar Dano ou outro efeito:
 
-> aumento de atributos, proteção, velocidade ou outras vantagens.
+> **por Turno**
 
-Efeitos negativos podem ser chamados de **Debuffs** e normalmente prejudicam o alvo.
+seu Tick acontece normalmente:
+
+> **no início do Turno natural do personagem afetado.**
+
+Um mesmo efeito produz apenas:
+
+> **1 Tick por Turno natural**
+
+salvo quando sua própria regra determinar o contrário.
+
+Turnos Extras concedidos artificialmente por Habilidades não produzem novos Ticks de Condições, salvo quando o efeito declarar explicitamente que contam para isso.
+
+---
+
+# Dano de Condição
+
+Quando uma Condição causa Dano através de seus Ticks, esse Dano representa um efeito que **já conseguiu afetar o alvo**.
+
+Por isso, salvo quando indicado o contrário:
+
+> **Defesa Física ou Mágica comum não é aplicada novamente a cada Tick.**
+
+Resistências, imunidades ou proteções especificamente adequadas à Condição ainda podem funcionar normalmente.
+
+### Exemplo
+
+Uma armadura pode reduzir o golpe que provocou um corte.
+
+Porém, depois que o personagem já está Sangrando:
+
+> a armadura não reduz novamente cada Tick do Sangramento.
+
+---
+
+# Queimadura
+
+**Queimadura** representa fogo, calor extremo ou outro efeito capaz de continuar queimando o alvo depois do contato inicial.
+
+## Queimadura Padrão
+
+Quando nenhuma intensidade diferente for definida:
+
+> **1d6 de Dano de Fogo por Tick**
+
+O Tick acontece:
+
+> **no início do Turno natural do afetado**
+
+Duração padrão:
+
+> **3 Turnos**
+
+---
+
+## Reaplicação
+
+Queimaduras normais não acumulam seu Dano automaticamente.
+
+Caso uma nova Queimadura de mesma intensidade seja aplicada:
+
+> **a duração é renovada.**
+
+Caso uma Queimadura mais forte seja aplicada:
+
+> **a mais forte substitui a anterior.**
+
+Uma fonte específica pode permitir acúmulo.
+
+---
+
+## Removendo Queimadura
+
+Uma Queimadura pode ser removida antes de sua duração acabar quando existir um método coerente para apagar ou neutralizar sua fonte.
 
 Exemplos:
 
-> Sangramento  
-> Atordoamento  
-> Envenenamento  
-> Medo  
-> Imobilização
+- água;
+    
+- rolar no chão;
+    
+- sufocar as chamas;
+    
+- magia apropriada;
+    
+- remover material incendiado;
+    
+- outro método coerente.
+    
 
-Uma Condição não precisa obrigatoriamente pertencer a apenas uma dessas categorias. Seu funcionamento é determinado pela própria regra.
+Quando apagar as chamas for uma ação relevante durante combate, normalmente exige:
 
----
+> **1 PA**
 
-# Aplicando uma Condição
+O Mestre pode determinar que determinados métodos sejam automáticos ou exijam testes dependendo da situação.
 
-A fonte que aplica uma Condição determina os requisitos necessários.
-
-Uma Condição pode:
-
-- ser aplicada automaticamente;
-- exigir que um [[Ataque]] acerte;
-- exigir que o alvo sofra [[Dano]];
-- permitir um teste para resistir;
-- depender de uma situação específica;
-- exigir qualquer outro requisito definido pelo efeito.
-
-Não existe um **teste universal para resistir a Condições**.
-
-Cada situação utiliza aquilo que fizer sentido.
+Queimaduras sobrenaturais podem possuir métodos próprios de remoção.
 
 ---
 
-# Resistindo a uma Condição
+# Sangramento
 
-Quando uma Condição permitir resistência, sua própria fonte determina como o teste funciona.
+**Sangramento** representa perda contínua de sangue causada por ferimentos capazes de permanecer abertos.
 
-**Exemplos:**
+Diferente de Queimadura:
 
-Um efeito mental pode utilizar:
+> **Sangramento não desaparece automaticamente apenas esperando alguns Turnos.**
 
-> Vontade ou [[Defesa|Defesa Mental]].
+Ele normalmente permanece até ser tratado, estabilizado ou removido por algum efeito apropriado.
 
-Um veneno pode utilizar:
+---
 
-> [[Defesa|Defesa Biológica]].
+## Intensidade do Sangramento
 
-Uma tentativa de prender fisicamente alguém pode envolver:
+Sangramento possui três intensidades padrão.
 
-> Atletismo, Agilidade ou outro teste apropriado.
+|Intensidade|Dano por Tick|
+|---|---|
+|Leve|1d4|
+|Moderado|1d6|
+|Grave|1d8|
 
-Uma maldição pode interagir com:
+O Tick acontece:
 
-> [[Defesa|Defesa Mágica]] ou [[Defesa|Defesa Espiritual]].
+> **no início do Turno natural do afetado.**
 
-Esses são apenas exemplos.
+Quando uma fonte apenas indicar:
 
-A natureza do efeito determina qual forma de resistência é apropriada.
+> **Sangramento**
+
+sem especificar intensidade, utiliza:
+
+> **Sangramento Leve**
+
+---
+
+## Novo Sangramento
+
+Caso o personagem já esteja Sangrando e receba outro Sangramento significativo, o Mestre ou a própria fonte pode aumentar sua intensidade.
+
+Progressão padrão:
+
+> Leve → Moderado → Grave
+
+O Sangramento não ultrapassa automaticamente:
+
+> **Grave**
+
+Fontes especiais podem possuir intensidades superiores ou Sangramentos independentes.
+
+---
+
+## Tratamento
+
+Sangramento pode ser reduzido ou encerrado através de métodos apropriados.
+
+Exemplos:
+
+- pressão sobre o ferimento;
+    
+- bandagens;
+    
+- primeiros socorros;
+    
+- sutura;
+    
+- magia capaz de fechar o ferimento;
+    
+- Habilidades específicas.
+    
+
+Um tratamento bem-sucedido pode:
+
+> reduzir a intensidade em um nível
+
+ou:
+
+> encerrar completamente o Sangramento
+
+dependendo do método utilizado e da gravidade do ferimento.
+
+Recuperar [[Vida]] não encerra Sangramento automaticamente.
+
+---
+
+# Atordoado
+
+Um personagem **Atordoado** perdeu temporariamente sua capacidade de reagir e agir normalmente.
+
+Enquanto estiver Atordoado:
+
+- não pode utilizar [[Pontos de Ação|PA]];
+    
+- não pode realizar movimento voluntário;
+    
+- não pode realizar [[Esquivar|Esquiva]];
+    
+- não pode [[Bloquear]];
+    
+- não pode [[Aparar]];
+    
+- não pode realizar outras Reações voluntárias;
+    
+- não pode manter conscientemente efeitos que exijam controle ativo.
+    
+
+Passivas e efeitos que não dependam de ação consciente continuam funcionando normalmente, salvo quando indicado o contrário.
+
+---
+
+## Duração Padrão
+
+Quando um efeito disser apenas:
+
+> **Atordoado por 1 Turno**
+
+a Condição permanece até:
+
+> **o final do próximo Turno natural do personagem afetado.**
+
+Depois disso, termina.
+
+Uma fonte específica pode utilizar outra duração.
+
+---
+
+# Aprisionado
+
+Um personagem **Aprisionado** está fisicamente ou magicamente preso por alguma fonte externa.
+
+Isso pode acontecer através de:
+
+- raízes;
+    
+- correntes;
+    
+- gelo;
+    
+- água;
+    
+- teias;
+    
+- magia;
+    
+- estruturas;
+    
+- criaturas;
+    
+- outros métodos.
+    
+
+---
+
+## Efeito Padrão
+
+Enquanto estiver Aprisionado:
+
+> **não pode se deslocar livremente.**
+
+Seu deslocamento é considerado:
+
+> **0**
+
+enquanto permanecer preso.
+
+Isso não significa automaticamente que perdeu todas as outras ações.
+
+Dependendo da forma de aprisionamento, ainda pode:
+
+- atacar;
+    
+- conjurar;
+    
+- falar;
+    
+- utilizar Habilidades;
+    
+- defender-se;
+    
+- interagir com objetos;
+    
+- tentar escapar.
+    
+
+A fonte do Aprisionamento determina aquilo que continua fisicamente possível.
+
+---
+
+# Escapando
+
+Não existe um único teste universal para escapar.
+
+Dependendo da fonte, pode ser possível:
+
+- utilizar Atletismo;
+    
+- utilizar Agilidade;
+    
+- cortar o material;
+    
+- quebrar a prisão;
+    
+- queimá-la;
+    
+- utilizar magia;
+    
+- utilizar uma Habilidade;
+    
+- receber ajuda;
+    
+- destruir sua fonte;
+    
+- encontrar outra solução coerente.
+    
+
+Quando a Habilidade responsável pelo Aprisionamento possuir uma Dificuldade própria:
+
+> utilize aquela Dificuldade.
+
+---
+
+# Destruindo a Prisão
+
+Quando o Aprisionamento possuir uma forma física ou mágica que possa ser atingida:
+
+> ela pode ser atacada.
+
+Um ataque precisa realmente atingir aquilo que mantém o personagem preso.
+
+A natureza do ataque continua importante.
+
+### Exemplos
+
+Uma lâmina pode cortar raízes.
+
+Fogo pode queimar vegetação.
+
+Um impacto poderoso pode quebrar gelo.
+
+Uma magia apropriada pode romper uma prisão mágica.
+
+---
+
+## Ataques externos
+
+Um aliado também pode tentar destruir a prisão por fora.
+
+Se um ataque atravessar ou atingir diretamente a estrutura responsável pelo Aprisionamento:
+
+> ele pode danificá-la ou destruí-la.
+
+Isso é especialmente importante para efeitos como bolhas, barreiras, gelo, raízes ou outras prisões expostas.
+
+A própria Habilidade pode possuir valores específicos de resistência.
+
+Quando não possuir, o Mestre resolve considerando:
+
+- força do ataque;
+    
+- natureza da prisão;
+    
+- material;
+    
+- tamanho;
+    
+- situação.
+    
 
 ---
 
 # Duração
 
-Uma Condição pode possuir uma duração determinada.
+Aprisionado não possui duração universal.
 
-Por exemplo:
+Ele permanece até que:
 
-> **1 Turno**  
-> **3 Turnos**  
-> **10 minutos**  
-> **Até ser tratado**  
-> **Até abandonar determinada área**  
-> **Até cumprir uma condição específica**
-
-Quando uma duração for medida em [[Turno|Turnos]], utiliza-se normalmente a duração padrão do sistema:
-
-> **1 Turno ≈ 2 segundos**
-
-Se nenhuma duração for definida, a própria natureza da Condição determina quando ela termina.
-
----
-
-# Efeitos por Turno
-
-Algumas Condições produzem um efeito repetidamente.
-
-Quando uma Condição indicar que algo acontece **por Turno**, o efeito ocorre normalmente **no início do Turno do personagem afetado**.
-
-**Exemplo:**
-
-> Sangramento: `−1 Vida por Turno`
-
-No início de cada Turno do personagem:
-
-> perde **1 de [[Vida]]**.
-
-Isso acontece uma única vez no próprio Turno do personagem, e não no Turno de cada participante da [[Turno#Turno e Rodada|Rodada]].
-
-Uma Condição específica pode determinar outro momento para seu efeito.
+- o alvo escape;
+    
+- a prisão seja destruída;
+    
+- sua fonte seja interrompida;
+    
+- sua duração termine;
+    
+- a Habilidade deixe de ser mantida;
+    
+- outro método apropriado seja utilizado.
+    
 
 ---
 
-# Condições Persistentes
+# Afogamento
 
-Nem toda Condição desaparece simplesmente esperando alguns Turnos.
+**Afogamento** acontece quando uma criatura que precisa respirar permanece incapaz de obter ar.
 
-Algumas permanecem até que sua causa seja resolvida.
+Criaturas que:
 
-**Exemplo:**
+- não respiram;
+    
+- respiram debaixo d'água;
+    
+- possuem imunidade apropriada;
+    
+- conseguem sobreviver sem ar;
+    
 
-Um Sangramento pode continuar:
-
-> **até o ferimento ser tratado.**
-
-Um personagem preso por correntes pode permanecer Imobilizado:
-
-> **até escapar, destruir as correntes ou ser libertado.**
-
-Uma doença pode permanecer:
-
-> **até ser tratada ou o organismo conseguir combatê-la.**
-
-Nesses casos, passar Turnos não remove automaticamente a Condição.
+não seguem estas regras normalmente.
 
 ---
 
-# Removendo uma Condição
+# Fôlego
 
-Não existe uma única forma universal de remover Condições.
+Uma criatura não começa a sofrer Dano imediatamente ao ficar submersa.
 
-Cada Condição determina aquilo que pode removê-la.
+Ela possui uma quantidade básica de:
 
-Dependendo da situação, isso pode envolver:
+> **Fôlego = 3 + Atletismo Turnos**
 
-- esperar sua duração;
-- Medicina;
-- [[Descanso]];
-- magia;
-- antídotos;
-- medicamentos;
-- destruir a fonte;
-- abandonar determinada área;
-- realizar um teste;
-- receber ajuda;
-- cumprir uma condição específica.
+O valor mínimo é:
 
-Uma mesma Condição também pode possuir **mais de uma solução possível**.
+> **3 Turnos**
 
----
+Cada Turno natural passado completamente sem conseguir respirar consome:
 
-# Diferentes Formas de Resolver o Mesmo Problema
+> **1 Turno de Fôlego**
 
-Os personagens não precisam necessariamente utilizar uma única solução prevista.
+### Exemplo
 
-Quando fizer sentido, uma Condição pode ser resolvida de diferentes maneiras.
+Um personagem possui:
 
-**Exemplo:**
+> +2 Atletismo
 
-Um personagem está preso por raízes.
+Seu Fôlego é:
 
-Ele poderia:
+> `3 + 2 = 5 Turnos`
 
-> usar Atletismo para rompê-las;
+Ele consegue permanecer sem respirar por aproximadamente:
 
-ou:
+> **10 segundos**
 
-> cortar as raízes;
-
-ou:
-
-> utilizar fogo;
-
-ou:
-
-> ser libertado por outro personagem;
-
-ou ainda:
-
-> utilizar uma Habilidade capaz de escapar.
-
-O Mestre determina se a solução proposta é possível considerando a situação e as propriedades do método utilizado.
+antes de começar a sofrer os efeitos graves do Afogamento.
 
 ---
 
-# Condições de Mesma Natureza
+# Dano de Afogamento
 
-Duas fontes podem provocar efeitos semelhantes sem necessariamente funcionarem da mesma maneira.
+Quando o Fôlego chegar a zero, no início de cada Turno natural em que a criatura continuar incapaz de respirar, sofre:
 
-Por exemplo, um personagem pode ser Atordoado por:
+> **1d8 de Dano de Afogamento**
 
-> uma pancada extremamente forte;
+Esse Dano:
 
-enquanto outro efeito pode Atordoá-lo através de:
+> **não é reduzido por Defesa Física ou Defesa Mágica comum.**
 
-> magia mental.
-
-Embora ambos possam impedir temporariamente suas ações, **a origem é diferente**.
-
-Consequentemente, formas de resistência ou remoção também podem ser diferentes.
-
-Uma resistência contra efeitos mentais não necessariamente protege contra uma pancada física apenas porque ambas provocam Atordoamento.
+Proteções específicas contra Afogamento, falta de oxigênio ou efeitos semelhantes ainda podem funcionar.
 
 ---
 
-# Acúmulo de Condições
+# Voltando a respirar
 
-Condições **não acumulam automaticamente**.
+Quando a criatura consegue voltar a respirar normalmente:
 
-A própria Condição ou a fonte que a aplica determina o que acontece quando o alvo recebe novamente o mesmo efeito.
+> **Afogamento é interrompido.**
 
-Ela pode:
+Ela deixa de sofrer seus Ticks.
 
-- renovar sua duração;
-- aumentar sua intensidade;
-- acumular aplicações;
-- substituir a aplicação anterior;
-- não produzir nenhum efeito adicional.
-
-**Exemplo:**
-
-Uma determinada fonte de Sangramento poderia dizer:
-
-> Cada aplicação adiciona `−1 Vida por Turno`.
-
-Nesse caso, três aplicações poderiam resultar em:
-
-> `−3 Vida por Turno`.
-
-Outra forma de Sangramento poderia simplesmente renovar sua duração.
-
-Portanto, nunca se presume que uma Condição acumula apenas porque foi aplicada novamente.
+Situações especiais, ferimentos ou longos períodos sem oxigênio ainda podem provocar outras consequências determinadas pelo Mestre.
 
 ---
 
-# Intensidade
+# Prisão de Água e Afogamento
 
-Algumas Condições podem possuir diferentes níveis de intensidade.
+Uma criatura presa dentro de uma massa de água segue normalmente as regras de Fôlego.
 
-Por exemplo:
+Enquanto não conseguir respirar:
 
-> Envenenamento Leve  
-> Envenenamento Moderado  
-> Envenenamento Grave
+> perde Fôlego a cada Turno natural.
 
-Ou:
+Quando seu Fôlego acabar:
 
-> Sangramento Nv.1  
-> Sangramento Nv.2  
-> Sangramento Nv.3
+> começa a sofrer **1d8 de Dano de Afogamento por Tick**.
 
-Isso **não é obrigatório** para todas as Condições.
-
-Somente Condições cuja regra utilize níveis ou intensidade seguem esse funcionamento.
+Romper a prisão, receber ar, escapar ou utilizar uma capacidade que permita respirar normalmente encerra o Afogamento.
 
 ---
 
-# Condições que Impedem Ações
+# Aplicação de Condições
 
-Algumas Condições podem impedir determinadas ações do personagem.
+A Condição determina **o que acontece depois que foi aplicada**.
 
-Um personagem pode ficar incapaz de:
+A fonte ainda precisa determinar **como ela é aplicada**.
 
-> realizar [[Ataque|Ataques]],  
-> utilizar [[Pontos de Ação|PA]],  
-> se movimentar,  
-> conjurar,  
-> utilizar determinadas Habilidades,  
-> realizar Reações.
+Por exemplo, uma Habilidade deve informar se a Condição:
 
-A Condição deve informar exatamente aquilo que está sendo impedido.
+- acontece automaticamente;
+    
+- exige um acerto;
+    
+- exige um teste;
+    
+- exige um Crítico;
+    
+- possui uma chance;
+    
+- depende de uma circunstância.
+    
 
-Estar impossibilitado de realizar uma ação também impede utilizar qualquer mecânica que dependa daquela ação.
+Portanto, escrever apenas:
 
----
+> **“pode causar Queimadura”**
 
-# Condições e Reações
+não define sozinho como a Queimadura acontece.
 
-Uma Condição pode impedir determinadas [[Esquivar|Esquivas]], [[Bloquear|Bloqueios]], [[Aparar|Aparos]] ou outras Reações quando isso fizer sentido.
-
-Um personagem completamente imobilizado, por exemplo, pode não possuir liberdade física suficiente para realizar uma Esquiva.
-
-Porém, isso **não significa automaticamente que todas as Reações foram perdidas**.
-
-Se ainda for fisicamente possível Bloquear ou Aparar, essas opções podem continuar disponíveis.
-
-A própria Condição e a situação determinam quais Reações permanecem possíveis.
-
----
-
-# Ferimentos e Condições
-
-Um ferimento pode causar uma ou várias Condições.
-
-**Exemplo:**
-
-Um corte profundo pode provocar:
-
-> Sangramento
-
-Tratar o Sangramento pode impedir a perda contínua de [[Vida]], mas isso não significa necessariamente que o ferimento desapareceu.
-
-Da mesma forma, recuperar Vida não remove automaticamente todas as Condições causadas pelo ferimento.
-
-**Ferimento, Condição e Vida podem representar partes diferentes do mesmo problema.**
-
----
-
-# Descanso
-
-Algumas Condições desaparecem ou melhoram através de [[Descanso]].
-
-A própria Condição determina:
-
-> qual tipo de Descanso é necessário;  
-> quanto tempo é necessário;  
-> se algum tratamento precisa acontecer antes;  
-> se o efeito é removido completamente ou apenas reduzido.
-
-Condições graves podem exigir vários períodos de recuperação.
-
----
-
-# Imunidade
-
-Um personagem pode ser **imune** a determinadas Condições ou fontes de Condições.
-
-Uma criatura sem organismo biológico, por exemplo, pode naturalmente ser incapaz de sofrer determinados efeitos biológicos.
-
-Da mesma forma, [[Classes]], [[Raças]], equipamentos, Habilidades ou Passivas podem conceder imunidades específicas.
-
-Imunidade a uma Condição impede seus efeitos apenas dentro das condições determinadas pela fonte da imunidade.
+A Habilidade responsável deve possuir um gatilho claro.
 
 ---
 
 # Regra Específica
 
-[[Classes]], [[Raças]], Habilidades, Passivas, equipamentos, ambientes e outros efeitos podem modificar qualquer regra relacionada às Condições.
+Habilidades, Classes, criaturas, equipamentos e outras fontes podem alterar estas Condições.
 
-Eles podem:
+Elas podem modificar:
 
-- aumentar ou reduzir duração;
-- alterar intensidade;
-- conceder resistência;
-- conceder imunidade;
-- permitir acumulação;
-- impedir acumulação;
-- remover Condições;
-- transferir Condições;
-- modificar seus efeitos;
-- permitir ações normalmente impedidas.
+- Dano;
+    
+- duração;
+    
+- intensidade;
+    
+- forma de resistência;
+    
+- forma de remoção;
+    
+- acúmulo;
+    
+- imunidades;
+    
+- efeitos adicionais.
+    
 
-Quando uma regra específica contradizer esta página:
+Quando isso acontecer:
 
 > **Regra específica > regra geral.**

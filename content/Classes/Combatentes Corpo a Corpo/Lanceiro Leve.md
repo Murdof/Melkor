@@ -61,11 +61,10 @@ Essas armas pertencem ao estilo do **Lanceiro Pesado**.
 
 ---
 
-# Bônus
 
 Ao adquirir Lanceiro Leve, recebe:
 
-- **+20 Vida**
+- **+70 Vida**
     
 - **+100 Estamina**
     
@@ -86,7 +85,7 @@ Esses valores são somados aos bônus herdados do Recruta.
 
 Considerando apenas os bônus naturais das duas Classes:
 
-> **+50 Vida**  
+> **+100 Vida**  
 > **+20 Mana**  
 > **+200 Estamina**  
 > **+30 Regeneração de Estamina**  
@@ -99,7 +98,6 @@ Considerando apenas os bônus naturais das duas Classes:
 > **+1 Vontade**
 
 ---
-
 # Afinidades
 
 O Lanceiro Leve mantém todas as Afinidades do Recruta:
