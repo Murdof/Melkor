@@ -28,11 +28,8 @@ title: Melkor
 > - Adicionada a regra de **Destino Selado**, permitindo que determinados acontecimentos sejam declarados previamente como imunes à interferência dos Lumes.
 > - Lumes não possuem limite fixo de armazenamento, mas grandes concentrações podem chamar a atenção de **Divindades e outras forças capazes de perceber o Destino**.
 
-```
-<details>
-<summary><strong>Atualizações Anteriores</strong></summary>
-
-> [!update] Versão 4.0  
+> [!update]- Atualizações Anteriores
+>> ## Versão 4.0
 > **6 de setembro de 2026**
 > 
 > A versão 4.0 expande o Melkor com novas regras de Jornada de Trabalho, Slots de Classe, Pontos de Alma e Condições padronizadas. A atualização também adiciona quatro Classes, três Raças, a Estátua Militar e importantes ajustes de balanceamento.
@@ -589,6 +586,4 @@ title: Melkor
 > - As antigas seções abstratas da página de Condições foram substituídas por definições concretas e procedimentos padronizados.
 >     
 > - Nenhuma remoção mecânica do Plebeu foi considerada confirmada nesta versão.
-</details>
 
-```
