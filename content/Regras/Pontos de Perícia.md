@@ -37,7 +37,7 @@ A progressão continua seguindo a mesma regra.
 
 # Limite Natural
 
-Cada Perícia está vinculada a um [[Atributos Centrais|Atributo Central]].
+Cada Perícia está vinculada a um [[Regra dos Atributos|Atributo Central]].
 
 O valor desenvolvido naturalmente em uma Perícia não pode ultrapassar o valor do Atributo Central associado.
 

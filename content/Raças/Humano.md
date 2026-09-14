@@ -1,6 +1,6 @@
 Os **Humanos** são uma raça equilibrada e adaptável, sem uma especialização natural dominante.
 
-Sua principal característica é a **versatilidade**. Humanos possuem uma base equilibrada de [[Atributos Centrais]], permitindo que suas escolhas de [[Classes]], [[Perícias]], Reservas e outros desenvolvimentos determinem aquilo em que irão se tornar.
+Sua principal característica é a **versatilidade**. Humanos possuem uma base equilibrada de [[Regra dos Atributos]], permitindo que suas escolhas de [[Classes]], [[Perícias]], Reservas e outros desenvolvimentos determinem aquilo em que irão se tornar.
 
 Embora não possuam as especializações naturais de muitas outras Raças, sua ausência de limitações marcantes permite seguir praticamente qualquer caminho.
 
@@ -54,7 +54,7 @@ Eles não representam [[Regras/Progressão Racial de Atributos Centrais#Pontos C
 
 Humanos não possuem uma especialização natural dominante.
 
-Sua Base Racial é distribuída igualmente entre todos os [[Atributos Centrais]], permitindo que seu desenvolvimento posterior determine suas principais características.
+Sua Base Racial é distribuída igualmente entre todos os [[Regra dos Atributos]], permitindo que seu desenvolvimento posterior determine suas principais características.
 
 Humanos não recebem penalidades naturais que os obriguem a seguir um determinado tipo de:
 

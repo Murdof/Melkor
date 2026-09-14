@@ -1,4 +1,4 @@
-Alguns [[Atributos Centrais]] permitem desenvolver **Reservas**.
+Alguns [[Regra dos Atributos]] permitem desenvolver **Reservas**.
 
 O jogador pode investir pontos separadamente nas Reservas disponíveis, respeitando o limite natural definido pelo Atributo Central correspondente.
 

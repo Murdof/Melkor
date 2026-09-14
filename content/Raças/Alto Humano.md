@@ -59,7 +59,7 @@ PC adquiridos durante a progressão racial permanecem separados e são adicionad
 
 Altos Humanos preservam a flexibilidade natural da humanidade em um estágio muito superior.
 
-Sua Base Racial permanece equilibrada entre todos os [[Atributos Centrais]], sem obrigar o personagem a seguir uma especialização específica.
+Sua Base Racial permanece equilibrada entre todos os [[Regra dos Atributos]], sem obrigar o personagem a seguir uma especialização específica.
 
 Um Alto Humano pode desenvolver livremente caminhos relacionados a:
 

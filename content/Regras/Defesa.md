@@ -24,7 +24,7 @@ O Dano Final normalmente não pode ser menor que:
 
 # Desenvolvimento de Defesa
 
-Defesa não é uma [[Perícias|Perícia]] nem um [[Atributos Centrais|Atributo Central]].
+Defesa não é uma [[Perícias|Perícia]] nem um [[Regra dos Atributos|Atributo Central]].
 
 Ela não é desenvolvida diretamente através de PP ou PC.
 

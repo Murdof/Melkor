@@ -145,7 +145,7 @@ A quantidade de PA pode ser modificada por:
 - [[Condições]];
 - outros efeitos.
 
-[[Atributos Centrais]] não aumentam PA automaticamente.
+[[Regra dos Atributos]] não aumentam PA automaticamente.
 
 Também podem existir efeitos que:
 

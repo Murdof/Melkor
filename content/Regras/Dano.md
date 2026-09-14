@@ -47,7 +47,7 @@ A própria arma, magia ou Habilidade determina:
 - se existe algum limite;
 - se existem múltiplos Escalonamentos.
 
-> **[[Atributos Centrais/Atributos Centrais|Atributos Centrais]] não são adicionados automaticamente ao Dano.**
+> **[[Regra dos Atributos|Atributos]] não são adicionados automaticamente ao Dano.**
 
 Possuir Força 10, por exemplo, não significa receber automaticamente +10 de Dano.
 

@@ -1,4 +1,4 @@
-As [[Regras/Raças|Raças]] determinam uma parte fundamental dos [[Atributos Centrais]] de um personagem.
+As [[Regras/Raças|Raças]] determinam uma parte fundamental dos [[Regra dos Atributos]] de um personagem.
 
 Cada Raça possui uma **Base Racial de Atributos Centrais**, definida de acordo com seu Tier.
 

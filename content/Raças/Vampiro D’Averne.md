@@ -441,7 +441,7 @@ Conforme novas gerações surgem, a ligação direta com Alana torna-se progress
 
 A Diluição do Sangue pode influenciar:
 
-- Base Racial dos [[Atributos Centrais]];
+- Base Racial dos [[Regra dos Atributos]];
 - Reservas;
 - Regenerações;
 - limite de progressão;

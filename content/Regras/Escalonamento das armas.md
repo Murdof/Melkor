@@ -1,4 +1,4 @@
-O **Escalonamento** determina quanto os [[Atributos Centrais]] do personagem contribuem para o [[Dano]] de uma arma.
+O **Escalonamento** determina quanto os [[Regra dos Atributos]] do personagem contribuem para o [[Dano]] de uma arma.
 
 Escalonamento é separado da [[Proficiência]] e do **Atributo Central de Manuseio**.
 

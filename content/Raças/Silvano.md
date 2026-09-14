@@ -63,7 +63,7 @@ Esses valores representam a **Base Racial** do Silvano.
 
 Eles não representam [[Regras/Progressão Racial de Atributos Centrais#Pontos Centrais|PC]] gastos.
 
-PC adquiridos durante a progressão racial são adicionados separadamente aos [[Atributos Centrais/Atributos Centrais|Atributos Centrais]] escolhidos pelo personagem.
+PC adquiridos durante a progressão racial são adicionados separadamente aos [[Regra dos Atributos|Atributos]] escolhidos pelo personagem.
 
 ---
 

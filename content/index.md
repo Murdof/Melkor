@@ -21,7 +21,7 @@ title: Melkor
 > - Testes usam a Perícia apropriada ou, quando ela não existir, o Atributo Central — sem somar ambos automaticamente.
 > - Adicionado o sistema de **PP — Pontos de Perícia**, com custos crescentes e progressão vinculada às Classes quando aplicável.
 >
-> Consulte [[Atributos Centrais/Atributos Centrais|Atributos Centrais]] e [[Regras/Pontos de Perícia|Pontos de Perícia]].
+> Consulte [[Regra dos Atributos|Atributos]] e [[Regras/Pontos de Perícia|Pontos de Perícia]].
 >
 > ### Proficiência e Precisão
 >
