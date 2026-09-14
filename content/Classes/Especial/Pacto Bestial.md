@@ -2,11 +2,11 @@
 
 O **Domador** é uma [[Classes|Classe de Combate]] especializada em **domesticar, treinar e lutar ao lado de criaturas**.
 
-Enquanto outras Classes desenvolvem principalmente o próprio corpo, armas ou magia, o Domador aprende a compreender comportamento, instintos e padrões de diferentes criaturas, transformando uma delas em uma verdadeira companheira de combate.
+Enquanto outras Classes desenvolvem principalmente o próprio corpo, armas ou magia, o Domador divide sua progressão com uma criatura que aprende a reconhecê-lo, compreender seus comandos e lutar ao seu lado.
 
-Sua eficiência depende tanto das próprias capacidades quanto da criatura que conseguiu domesticar.
+Sua principal ferramenta é [[Manejo Animal]], utilizada para interpretar comportamento, construir confiança, treinar comandos e desenvolver vínculos com criaturas domesticáveis.
 
-Um Domador pode desenvolver vínculos com:
+Um Domador pode desenvolver relações com:
 
 - animais;
 - feras;
@@ -20,75 +20,210 @@ Criaturas sapientes, entidades, seres especiais ou criaturas cuja própria natur
 
 ---
 
-# Bônus
+# Dados da Classe
 
-Ao adquirir Domador, recebe:
-
-- **+20 Vida**
-- **+50 Estamina**
-- **+10 Regeneração de Estamina**
-- **+1 Vontade**
-- **+2 Sobrevivência**
-- **+2 Percepção**
-- **+1 Precisão Melee**
-- **+1 Defesa Mental**
+- **Tier:** T1
+- **Tipo:** Combate
+- **Nível Máximo:** 10
+- **Árvore:** Domador
+- **Slot Compatível:** Universal ou Combate
 
 ---
 
-# Afinidades
+### Resumo
+
+Classe de Combate especializada em domesticação, treinamento e combate coordenado com criaturas.
+
+### O que faz
+
+- Domestica criaturas
+- Treina companheiros
+- Dá comandos em combate
+- Luta em conjunto com uma criatura
+- Melhora a eficiência ofensiva do companheiro
+- Utiliza a criatura para proteção
+- Desenvolve vínculos com animais e monstros
+- Serve como base para especializações bestiais
+
+---
+
+# Bônus de Classe
+
+## Reservas
+
+- +20 [[Vida]]
+- +50 [[Estamina]]
+
+## Regeneração
+
+- +10 Regeneração de Estamina
+
+## Perícias
+
+- +2 [[Manejo Animal]]
+- +2 [[Atributos Centrais/Intelecto#Sobrevivência|Sobrevivência]]
+- +1 [[Atributos Centrais/Intelecto#Percepção|Percepção]]
+- +1 [[Atributos Centrais/Espírito#Vontade|Vontade]]
+
+Esses valores são **Bônus de Classe** e não representam investimento natural realizado com PP.
+
+## Defesas
+
+- +1 [[Regras/Defesa|Defesa]] Mental
+
+---
+
+# Afinidades do Domador
+
+## Afinidades Bestiais
 
 - Animal
 - Domesticação
+
+## Afinidades de Perícia
+
+- Manejo Animal
 - Sobrevivência
 - Percepção
 - Vontade
 - Liderança
-- [[Estamina]]
+
+## Outras Afinidades
+
+- Estamina
 - Regeneração de Estamina
+
+---
+
+# Uso das Perícias
+
+## Manejo Animal
+
+[[Manejo Animal]] é a principal Perícia do Domador.
+
+Pode ser utilizada para:
+
+- aproximar-se de animais;
+- acalmar criaturas;
+- interpretar comportamento;
+- construir confiança;
+- ensinar comandos;
+- controlar uma montaria;
+- treinar criaturas;
+- realizar domesticação;
+- lidar com medo ou agressividade animal.
+
+Quando uma Habilidade de Domador exigir interação direta com comportamento animal ou treinamento:
+
+> **Manejo Animal é o método padrão.**
+
+---
+
+## Sobrevivência
+
+Sobrevivência auxilia o Domador a compreender a criatura dentro de seu ambiente natural.
+
+Pode ser utilizada para:
+
+- rastrear;
+- encontrar alimento;
+- localizar habitat;
+- reconhecer território;
+- identificar sinais de presença;
+- compreender hábitos naturais;
+- cuidar de necessidades básicas.
+
+---
+
+## Percepção
+
+Percepção permite identificar mudanças no comportamento e estado da criatura.
+
+Pode ajudar a notar:
+
+- medo;
+- agressividade;
+- ferimentos;
+- desconforto;
+- comportamento incomum;
+- alterações físicas;
+- sinais de doença;
+- preparação para atacar ou fugir.
+
+---
+
+## Vontade
+
+Vontade representa a resistência mental do Domador.
+
+Ela não é mais utilizada como método padrão de domesticação.
+
+Pode continuar sendo relevante contra:
+
+- medo;
+- controle;
+- pressão mental;
+- interferências sobrenaturais;
+- outras situações apropriadas.
 
 ---
 
 # Criaturas Domadas
 
-Uma criatura domesticada pelo Domador continua sendo uma criatura independente.
+Uma criatura domesticada pelo Domador continua sendo:
+
+> **uma criatura independente.**
 
 Ela possui:
 
-- sua própria [[Vida]];
-- seus próprios Status;
-- suas próprias Habilidades;
-- suas próprias resistências;
-- suas próprias capacidades naturais.
+- própria [[Vida]];
+- próprias Reservas;
+- próprios Status;
+- próprias Habilidades;
+- próprias Defesas;
+- próprias características;
+- própria consciência.
 
-A criatura pode:
+Ela pode:
 
 - sofrer [[Condições]];
 - ser ferida;
 - ficar inconsciente;
 - fugir;
+- desobedecer em circunstâncias extremas;
 - morrer.
 
-Domesticar uma criatura não a transforma em uma invocação ou extensão sobrenatural do Domador.
+Domesticar uma criatura:
+
+> **não a transforma em uma invocação.**
+
+Também não transforma sua consciência em extensão sobrenatural do Domador.
 
 ---
 
-## Aquisição
+# Aquisição de Criaturas
 
 O Domador:
 
 > **não recebe automaticamente uma criatura ao adquirir a Classe.**
 
-Ele precisa encontrar uma criatura adequada e realizar seu processo de domesticação.
+Ele precisa:
+
+1. encontrar uma criatura válida;
+2. estabelecer condições para interação;
+3. iniciar o processo de domesticação;
+4. conseguir os Progressos necessários;
+5. completar o vínculo.
 
 ---
 
 # Limite de Tier
 
-O **Domador Tier 1** pode domesticar criaturas de no máximo:
+Um **Domador Tier 1** pode domesticar através desta Classe criaturas de até:
 
 > **Top Tier 1**
 
-Isso inclui criaturas classificadas como:
+Isso inclui:
 
 - Tier 1 Baixo;
 - Tier 1 Médio;
@@ -99,55 +234,60 @@ Criaturas de:
 
 > **Tier 2 ou superior**
 
-não podem ser domesticadas através das capacidades do Domador Tier 1.
+não podem ser domesticadas pelas capacidades normais de Domador T1.
 
-Esse limite é absoluto.
+Esse limite não pode ser ultrapassado apenas através de:
 
-Mesmo que o Domador obtenha:
+- [[Regras/Crítico|Crítico]];
+- rolagem extremamente alta;
+- bônus;
+- [[Regras/Vantagem|Vantagem]];
+- ajuda externa.
 
-- um Crítico;
-- uma rolagem extremamente alta;
-- grandes bônus;
-- ajuda externa;
+> **Um resultado alto não torna possível aquilo que a Classe ainda não consegue fazer.**
 
-ele ainda não pode ultrapassar o limite de Tier da Classe.
+Uma regra específica, artefato, evento ou método especial pode estabelecer outra forma de vínculo.
 
-Evoluções futuras do Domador podem aumentar esse limite.
+Nesse caso:
+
+> **Regra específica > regra geral.**
 
 ---
 
 # Limite de Criaturas em Combate
 
-O Domador pode possuir diferentes criaturas domesticadas ao longo de sua jornada.
+O Domador pode possuir diferentes criaturas domesticadas.
 
-Entretanto, no Tier 1, somente:
+Entretanto, no Tier 1, apenas:
 
 > **1 Criatura Domada**
 
-pode atuar diretamente ao seu lado em combate.
+pode atuar diretamente ao seu lado em combate através das capacidades da Classe.
 
-Outras criaturas precisam permanecer em locais apropriados, como:
+As outras precisam permanecer em locais apropriados, como:
 
-- Base;
+- [[Regras/Núcleo de Base|Base]];
 - estábulos;
 - cercados;
 - ninhos;
-- habitats preparados;
-- outras instalações compatíveis.
+- habitats;
+- instalações adequadas.
 
-Evoluções futuras podem alterar esse limite.
+Evoluções podem aumentar esse limite.
 
 ---
 
 # Ativas
 
-## Domar Criatura — Nv.1
+## Domar Criatura | Nv.1
 
-O Domador utiliza conhecimento, comportamento, condicionamento e construção gradual de confiança para transformar uma criatura selvagem em uma criatura domesticada.
+**Descrição:**
 
-Domesticar uma criatura:
+O Domador utiliza conhecimento sobre comportamento, condicionamento e construção de confiança para desenvolver um vínculo com uma criatura selvagem.
 
-> **não acontece automaticamente através de uma única rolagem.**
+Domesticação:
+
+> **não é uma única rolagem.**
 
 É um processo.
 
@@ -155,22 +295,22 @@ Domesticar uma criatura:
 
 ### Condições para Domesticação
 
-Uma criatura precisa estar em uma situação que permita iniciar ou continuar o processo.
+O processo precisa ocorrer em uma situação onde alguma forma de aproximação seja possível.
 
-Isso pode acontecer quando estiver:
+Exemplos:
 
-- derrotada sem ser morta;
+- criatura derrotada sem ser morta;
 - capturada;
-- encurralada;
 - alimentada;
 - tratada;
 - cuidada;
 - acostumada à presença do Domador;
-- separada de uma ameaça;
-- convencida de que o Domador não representa perigo;
-- em outra situação apropriada determinada pelo Mestre.
+- protegida de uma ameaça;
+- criada desde jovem;
+- aproximada gradualmente;
+- outra circunstância apropriada.
 
-Encontrar uma criatura hostil no meio de um combate:
+Encontrar uma criatura hostil durante um combate:
 
 > **não permite domesticá-la instantaneamente.**
 
@@ -178,11 +318,11 @@ Encontrar uma criatura hostil no meio de um combate:
 
 ### Teste
 
-Quando existir uma oportunidade apropriada, o Domador realiza:
+Quando existir uma oportunidade válida:
 
-> **Dado + Vontade**
+> **Dado + Manejo Animal + Modificadores**
 
-contra uma:
+contra:
 
 > **Dificuldade de Domesticação**
 
@@ -190,70 +330,77 @@ determinada pela criatura.
 
 ---
 
-### Dificuldade
+### Dificuldade de Domesticação
 
-A Dificuldade pode considerar fatores como:
+A Dificuldade pode considerar:
 
 - Tier;
 - categoria dentro do Tier;
 - Nível;
 - inteligência;
 - agressividade;
+- territorialidade;
 - fome;
 - ferimentos;
-- territorialidade;
-- comportamento;
+- medo;
 - espécie;
 - natureza mágica;
-- relação anterior com o Domador;
-- maneira como foi capturada;
+- comportamento;
+- relação anterior;
+- forma como foi capturada;
 - tratamento recebido.
 
-Uma criatura estar dentro do Tier permitido:
+Estar dentro do Tier permitido:
 
-> **não significa que será fácil domesticá-la.**
+> **não significa ser fácil de domesticar.**
 
-Uma criatura **Top Tier 1** pode ser extremamente difícil de domesticar.
+Uma criatura Top Tier 1 pode possuir uma Dificuldade extremamente elevada.
 
 ---
 
-### Progresso de Domesticação
+# Progresso de Domesticação
 
-Em sucesso:
+Cada sucesso válido concede:
 
-> recebe **1 Progresso de Domesticação**
+> **1 Progresso de Domesticação**
 
 com aquela criatura.
 
-Criaturas simples podem exigir:
-
-> **1 Progresso**
-
-Criaturas mais difíceis podem exigir:
-
-> **vários Progressos**
-
-antes de serem completamente domesticadas.
-
-O número necessário depende da criatura.
-
----
+O número necessário depende da dificuldade natural da criatura.
 
 ### Exemplos
 
-Uma criatura pequena e naturalmente sociável pode exigir:
+Criatura simples e sociável:
 
 > **1 Progresso**
 
-Uma fera territorial e agressiva pode exigir:
+Fera territorial:
 
 > **3 Progressos**
 
-Uma criatura rara ou **Top Tier 1** pode exigir:
+Criatura rara ou Top Tier 1:
 
 > **5 ou mais Progressos**
 
-além de condições especiais.
+Também podem existir requisitos especiais.
+
+---
+
+### Progresso representa relação
+
+Progresso de Domesticação não é apenas uma barra numérica.
+
+Cada avanço representa uma mudança real na relação, como:
+
+- redução da hostilidade;
+- aceitação da presença;
+- alimentação voluntária;
+- tolerância ao toque;
+- compreensão de comandos;
+- reconhecimento;
+- confiança.
+
+O Mestre pode exigir acontecimentos coerentes entre diferentes etapas.
 
 ---
 
@@ -261,87 +408,104 @@ além de condições especiais.
 
 Uma falha normalmente:
 
-> **não concede Progresso de Domesticação.**
+> **não concede Progresso.**
 
-Dependendo da criatura e da situação, também pode causar:
+Dependendo da situação, também pode provocar:
 
-- aumento temporário da Dificuldade;
 - perda de confiança;
-- medo;
+- aumento temporário da Dificuldade;
 - fuga;
-- reação agressiva;
+- medo;
+- agressividade;
 - ataque;
-- interrupção temporária do processo.
+- interrupção do processo.
+
+A consequência depende da criatura e das circunstâncias.
 
 ---
 
-### Limitações
+### Alvos Inválidos
 
-Domar Criatura não funciona automaticamente contra:
+Domar Criatura não funciona normalmente contra:
 
 - personagens;
 - povos sapientes;
-- criaturas completamente inteligentes;
+- criaturas plenamente sapientes;
 - entidades;
-- criaturas controladas por poderes superiores;
-- seres cuja natureza impeça domesticação.
+- seres cuja natureza impeça domesticação;
+- criaturas submetidas a forças que impossibilitem o vínculo.
 
-Criaturas especiais podem possuir métodos próprios de vínculo.
+Esses seres podem possuir outros métodos de:
+
+- pacto;
+- aliança;
+- negociação;
+- contrato;
+- vínculo.
+
+> **Domesticação não é escravização mental.**
 
 ---
 
-## Comando de Ataque — Nv.1
+## Comando de Ataque | Nv.1
 
-O Domador direciona sua Criatura Domada contra um alvo específico, utilizando comandos e sinais treinados para aumentar sua eficiência ofensiva.
+**Descrição:**
+
+O Domador direciona sua Criatura Domada contra um alvo específico através de comandos treinados.
 
 ### Alvo
 
-Escolha uma criatura que possa ser percebida tanto pelo:
+Escolha uma criatura que possa ser percebida pelo:
 
 - Domador;
-- quanto pela Criatura Domada.
+- companheiro.
 
 ### Efeito
 
-A Criatura Domada recebe:
+O próximo [[Ataque]] da Criatura Domada contra aquele alvo recebe:
 
-> **+2 Precisão**
+> **+2 [[Regras/Precisão|Precisão]]**
 
-em seu próximo Ataque contra o alvo indicado.
+Se acertar:
 
-Caso o Ataque acerte:
+> **+3 de [[Regras/Dano|Dano]] Fixo**
 
-> **+3 de Dano Fixo**
+naquele ataque.
 
-naquele Ataque.
+O Dano adicional possui o mesmo tipo de Dano do ataque utilizado.
 
-O bônus desaparece:
+### Duração
 
-- após o Ataque;
-- ou no início do próximo Turno do Domador.
+O comando permanece até:
+
+- a criatura realizar o ataque;
+- o alvo deixar de ser válido;
+- o início do próximo [[Regras/Turno|Turno]] do Domador.
 
 ### Alcance
 
 > **20 metros**
 
-A criatura precisa conseguir perceber ou compreender o comando.
+O companheiro precisa conseguir perceber ou compreender o comando.
 
 ### Custo
 
-> **1 PA + 10 Estamina**
+> **1 PA + 10 [[Estamina]]**
 
 ---
 
-## Proteja! — Nv.1
+## Proteja! | Nv.1
 
-O Domador ordena que sua Criatura Domada abandone momentaneamente a ofensiva e proteja alguém próximo.
+**Descrição:**
 
-### Alvo
+O Domador ordena que sua criatura abandone momentaneamente parte da ofensiva para proteger alguém próximo.
+
+### Alvo Protegido
 
 Escolha:
 
-- o próprio Domador;
-- ou uma criatura aliada próxima da Criatura Domada.
+- o Domador;
+- um aliado próximo da Criatura Domada.
 
 ### Efeito
 
@@ -349,17 +513,48 @@ Até o início do próximo Turno do Domador, a Criatura Domada recebe:
 
 > **+3 Defesa Física**
 
-Além disso, caso o alvo protegido seja atacado por uma criatura dentro do alcance físico da Criatura Domada, ela pode tentar:
+Além disso, pode tentar interceptar ataques direcionados ao alvo protegido.
 
-> **Interferir no Ataque**
+---
 
-utilizando uma defesa apropriada.
+### Interceptação
 
-Em sucesso:
+Para interceptar, a criatura precisa:
 
-> o Ataque é redirecionado contra a Criatura Domada.
+- perceber o ataque;
+- conseguir alcançar sua trajetória;
+- estar fisicamente apta;
+- possuir uma defesa válida.
 
-A criatura sofre normalmente o Ataque caso seja atingida.
+Ao conseguir interceptar:
+
+> **o ataque passa a ser direcionado contra a Criatura Domada.**
+
+Ela então realiza normalmente uma defesa disponível, como:
+
+- [[Esquivar]];
+- [[Bloquear]];
+- [[Aparar]];
+- outra reação válida.
+
+A defesa:
+
+> **não é gratuita.**
+
+Todos os custos e requisitos da reação utilizada continuam sendo aplicados.
+
+---
+
+### Limitações
+
+Proteja! não permite que a criatura:
+
+- atravesse paredes;
+- teleporte;
+- intercepte ataques inalcançáveis;
+- proteja alguém que esteja fisicamente fora de sua capacidade de intervenção.
+
+A posição real continua importando.
 
 ### Custo
 
@@ -367,148 +562,344 @@ A criatura sofre normalmente o Ataque caso seja atingida.
 
 ---
 
-## Investida da Matilha — Nv.1
+## Investida da Matilha | Nv.1
 
-O Domador coordena seu próprio Ataque com o de sua criatura, criando uma ofensiva conjunta contra o mesmo inimigo.
+**Descrição:**
 
-### Efeito
+O Domador coordena seu próprio ataque com o de sua criatura, criando uma ofensiva conjunta contra o mesmo inimigo.
 
-Escolha uma criatura que esteja dentro do alcance de Ataque do Domador e de sua Criatura Domada.
+### Requisitos
 
-O Domador realiza:
+O alvo precisa estar:
 
-> **1 Ataque normal**
-
-Se acertar:
-
-> a Criatura Domada pode imediatamente realizar **1 Ataque**
-
-contra o mesmo alvo.
-
-Esse Ataque recebe:
-
-> **+2 Precisão**
-
-### Restrição
+- ao alcance de um ataque válido do Domador;
+- ao alcance de um ataque válido da Criatura Domada.
 
 A criatura precisa estar:
 
 - consciente;
 - capaz de atacar;
-- dentro do alcance;
 - capaz de compreender o comando.
 
-### Custo
+---
 
-> **1 PA + custo normal do Ataque do Domador +15 Estamina**
+### Ataque do Domador
 
-Caso o Ataque da criatura possua custo próprio:
+O Domador realiza:
 
-> ele é pago normalmente.
+> **1 Ataque normal**
+
+utilizando normalmente:
+
+- Precisão;
+- [[Regras/Proficiência|Proficiência]] ou método apropriado;
+- Dano;
+- Escalonamento;
+- propriedades;
+- custos.
+
+---
+
+### Ataque da Criatura
+
+Se o ataque do Domador acertar:
+
+> **a Criatura Domada pode imediatamente realizar 1 Ataque contra o mesmo alvo.**
+
+Esse ataque recebe:
+
+> **+2 Precisão**
+
+A criatura utiliza normalmente todas as propriedades de seu próprio ataque.
+
+---
+
+### PA
+
+Investida da Matilha exige:
+
+> **custo normal de PA do ataque do Domador + 1 PA**
+
+O PA adicional representa a coordenação necessária para criar o ataque conjunto.
+
+---
+
+### Recursos
+
+O Domador paga:
+
+> **custo normal de seu ataque + 15 Estamina**
+
+A Criatura Domada paga normalmente:
+
+> **o custo de seu próprio ataque**
+
+quando existir.
+
+---
+
+### Limitações
+
+Se o ataque inicial do Domador errar:
+
+> **o ataque coordenado da criatura não ocorre.**
+
+Investida da Matilha não concede um novo Turno à criatura.
+
+É apenas um ataque imediato criado pela Habilidade.
 
 ---
 
 # Passivas
 
-## Elo do Domador — Nv.1
+## Elo do Domador | Nv.1
 
-A convivência permite que o Domador reconheça pequenas alterações no comportamento de suas criaturas.
+**Descrição:**
+
+A convivência com suas criaturas permite que o Domador reconheça detalhes sutis de comportamento e necessidade.
+
+### Percepção
 
 Enquanto estiver lidando diretamente com uma Criatura Domada, recebe:
 
 > **+2 Percepção**
 
-em Testes diretamente relacionados a ela.
+em testes diretamente relacionados àquela criatura.
+
+Pode auxiliar a perceber:
+
+- medo;
+- dor;
+- doença;
+- irritação;
+- agressividade;
+- comportamento incomum;
+- necessidade física.
+
+---
+
+### Sobrevivência
 
 Também recebe:
 
 > **+2 Sobrevivência**
 
-para ações envolvendo:
+para situações envolvendo:
 
 - rastrear a criatura;
-- localizar seus rastros;
-- cuidar de ferimentos;
-- encontrar alimento apropriado;
-- identificar comportamento anormal;
-- perceber medo;
-- perceber agressividade;
-- reconhecer desconforto;
-- analisar necessidades básicas.
+- localizar sinais de passagem;
+- procurar alimento apropriado;
+- reconhecer habitat adequado;
+- compreender hábitos naturais;
+- cuidar de necessidades básicas.
 
-Esses bônus não se aplicam genericamente a qualquer Teste de Percepção ou Sobrevivência.
+Esses bônus não se aplicam genericamente a qualquer utilização das Perícias.
 
 ---
 
-## Treinamento de Combate — Nv.1
+## Treinamento de Combate | Nv.1
 
-O Domador ensina sua criatura a interpretar comandos simples e agir de maneira organizada durante confrontos.
+**Descrição:**
 
-Enquanto estiver seguindo diretamente as ordens do Domador, a Criatura Domada recebe:
+O Domador treina sua criatura para interpretar comandos durante situações de combate.
+
+### Efeito
+
+Enquanto estiver:
+
+> **seguindo diretamente os comandos do Domador**
+
+a Criatura Domada recebe:
 
 > **+2 Precisão**
 
 em seus Ataques.
 
-O bônus não funciona caso a criatura:
+Esse valor é um:
 
-- esteja descontrolada;
-- esteja agindo contra as ordens do Domador;
-- esteja sob controle de outra criatura;
-- esteja incapaz de perceber os comandos;
-- tenha rompido temporariamente sua obediência.
+> **Modificador de Precisão**
+
+e não altera permanentemente qualquer Proficiência ou capacidade natural da criatura.
 
 ---
 
-## Confiança Mútua — Nv.1
+### Não funciona quando
 
-O vínculo estabelecido entre Domador e criatura reduz seu medo de permanecer ao lado dele em situações perigosas.
+A criatura:
 
-Criaturas Domadas recebem:
+- está descontrolada;
+- não consegue perceber os comandos;
+- está agindo deliberadamente contra o Domador;
+- está sob controle de outra criatura;
+- perdeu temporariamente sua obediência;
+- está em uma condição que a impeça de seguir instruções.
 
-> **+3 em Testes contra Medo**
+---
 
-quando estiverem próximas do Domador.
+## Confiança Mútua | Nv.1
 
-Também recebem:
+**Descrição:**
 
-> **+3 em Testes contra efeitos que tentem obrigá-las a atacar o próprio Domador**
+O vínculo desenvolvido com o Domador ajuda a criatura a permanecer ao lado dele mesmo diante de situações assustadoras ou interferências externas.
 
-quando existir um Teste apropriado para resistir.
+### Medo
+
+Quando estiver próxima do Domador, a Criatura Domada recebe:
+
+> **+3 em testes contra Medo**
+
+---
+
+### Controle contra o Domador
+
+Também recebe:
+
+> **+3 em testes para resistir a efeitos que tentem obrigá-la a atacar o próprio Domador**
+
+quando existir um teste apropriado para resistir.
+
+---
+
+### Limitação
 
 Confiança Mútua:
 
 > **não concede imunidade a controle mental.**
 
+Caso um efeito não permita qualquer resistência:
+
+> o bônus não cria automaticamente um teste que não existe.
+
+---
+
+# Obediência e Vontade Própria
+
+Uma Criatura Domada aprende a confiar e obedecer ao Domador.
+
+Isso não significa que perdeu:
+
+> **instintos ou vontade própria.**
+
+Uma ordem pode tornar-se difícil ou impossível de seguir quando exigir algo completamente contrário à natureza ou treinamento da criatura.
+
+Exemplos:
+
+- entrar voluntariamente em fogo;
+- abandonar filhotes;
+- atacar algo que a aterroriza;
+- permanecer imóvel enquanto está sendo morta;
+- realizar comportamento que nunca foi treinado.
+
+Quando houver incerteza, o Mestre pode exigir:
+
+> **Dado + Manejo Animal + Modificadores**
+
+considerando:
+
+- vínculo;
+- treinamento;
+- natureza da ordem;
+- medo;
+- situação;
+- personalidade da criatura.
+
+---
+
+# Treinamento
+
+Depois de domesticada, uma criatura pode aprender comandos e comportamentos através de treinamento.
+
+Exemplos:
+
+- atacar;
+- recuar;
+- proteger;
+- esperar;
+- seguir;
+- buscar;
+- guardar;
+- transportar;
+- montar;
+- patrulhar.
+
+Comandos simples e naturais são mais fáceis de ensinar.
+
+Comportamentos complexos podem exigir:
+
+- tempo;
+- múltiplos testes;
+- condições;
+- Habilidades;
+- níveis superiores;
+- capacidades compatíveis da própria criatura.
+
+Domador não permite ensinar uma criatura a realizar algo:
+
+> **fisicamente impossível para ela.**
+
+---
+
+# Relação com Manejo Animal
+
+Qualquer personagem pode desenvolver [[Manejo Animal]].
+
+Porém:
+
+> **Manejo Animal não substitui Domador.**
+
+A Perícia permite:
+
+- acalmar;
+- conduzir;
+- treinar;
+- interagir;
+- lidar com animais.
+
+A Classe Domador fornece regras especiais como:
+
+- domesticação de criaturas perigosas;
+- Progresso de Domesticação;
+- limite de Tier;
+- companheiro ativo em combate;
+- comandos de combate;
+- Habilidades de vínculo.
+
+Portanto:
+
+> **Manejo Animal é a competência.**
+
+> **Domador é a especialização que transforma essa competência em um sistema de companheiro de combate.**
+
 ---
 
 # Evoluções
 
-Ao alcançar os requisitos necessários, o Domador pode aprofundar diferentes aspectos de sua relação com criaturas.
-
----
-
 ## Mestre das Feras
 
-O **Mestre das Feras** especializa-se em criaturas fisicamente poderosas, agressivas e perigosas.
+O **Mestre das Feras** especializa-se em utilizar criaturas fisicamente poderosas e perigosas.
 
-Seu treinamento favorece:
+Seu desenvolvimento favorece:
 
 - força;
 - resistência;
 - ferocidade;
 - ataques coordenados;
-- utilização das capacidades naturais da criatura.
+- capacidades naturais;
+- criaturas de combate.
 
-É um caminho voltado para aqueles que desejam lutar ao lado de uma criatura extremamente perigosa.
+É o caminho para quem prefere:
 
-**Requisito:** Domador Lv.10.
+> **uma criatura extremamente poderosa ao seu lado.**
+
+**Requisito:**
+
+> **Domador Lv.10**
 
 ---
 
 ## Cavaleiro de Feras
 
-O **Cavaleiro de Feras** especializa-se em utilizar criaturas domesticadas como montarias de combate.
+O **Cavaleiro de Feras** especializa-se em utilizar criaturas como montarias de combate.
 
 Seu desenvolvimento envolve:
 
@@ -516,46 +907,62 @@ Seu desenvolvimento envolve:
 - mobilidade;
 - investidas;
 - posicionamento;
-- coordenação entre cavaleiro e montaria.
+- coordenação entre cavaleiro e montaria;
+- treinamento de montarias incomuns.
 
-Futuras Evoluções podem permitir a utilização de montarias cada vez mais incomuns.
+**Requisito:**
 
-**Requisito:** Domador Lv.10.
+> **Domador Lv.10**
 
 ---
 
 ## Senhor da Matilha
 
-O **Senhor da Matilha** desenvolve técnicas para coordenar várias criaturas em vez de depender exclusivamente de uma única companheira poderosa.
+O **Senhor da Matilha** prefere utilizar várias criaturas em conjunto.
 
-Seu estilo utiliza:
+Seu desenvolvimento envolve:
 
-- números;
+- múltiplos companheiros;
 - posicionamento;
 - cercos;
-- ataques simultâneos;
-- comportamento coletivo.
+- ataques coordenados;
+- comportamento coletivo;
+- comandos em grupo.
 
-É o caminho mais adequado para Domadores interessados em formar verdadeiras matilhas.
+É o caminho voltado para Domadores que preferem:
 
-**Requisito:** Domador Lv.10.
+> **quantidade e coordenação**
+
+em vez de depender de uma única criatura poderosa.
+
+**Requisito:**
+
+> **Domador Lv.10**
 
 ---
 
 ## Vinculador de Monstros
 
-O **Vinculador de Monstros** se especializa na domesticação de criaturas monstruosas, mágicas ou extremamente incomuns.
+O **Vinculador de Monstros** especializa-se em criaturas cuja domesticação normalmente é extremamente difícil.
 
-Seu desenvolvimento favorece a compreensão de:
+Pode aprofundar conhecimentos relacionados a:
 
 - monstros;
 - criaturas mágicas;
-- criaturas exóticas;
-- seres de comportamento incomum;
-- criaturas com capacidades sobrenaturais.
+- seres exóticos;
+- criaturas sobrenaturais;
+- comportamentos incomuns.
 
-Essa Evolução não ignora automaticamente limites de Tier.
+Essa evolução:
 
-Ela representa uma especialização em criaturas cuja domesticação normalmente seria especialmente difícil.
+> **não ignora automaticamente limites de Tier.**
 
-**Requisito:** Domador Lv.10.
+Ela representa especialização em criaturas cuja natureza exige conhecimentos e métodos mais avançados.
+
+**Requisito:**
+
+> **Domador Lv.10**
+
+---
+
+> **Regra específica > regra geral.**

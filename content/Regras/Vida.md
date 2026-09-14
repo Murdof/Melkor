@@ -1,12 +1,69 @@
-A **Vida** representa a capacidade do personagem de continuar consciente e sobrevivendo aos danos sofridos.
+A **Vida** é uma [[Desenvolvimento de Reservas|Reserva]] que representa a capacidade do personagem de continuar consciente e sobrevivendo aos danos sofridos.
 
-[[Dano]] recebido reduz a **Vida Atual** do personagem. A Vida pode chegar a valores negativos, e esses valores determinam a gravidade de seu estado.
+[[Dano]] recebido reduz a **Vida Atual** do personagem.
+
+A Vida pode atingir valores negativos, determinando a gravidade do estado do personagem.
 
 > **1 ou mais de Vida → Consciente**  
 > **0 até −9 de Vida → Coma**  
 > **−10 de Vida → Morte**
 
-[[Classes]], [[Raças]], Habilidades e outros efeitos podem modificar essas regras.
+[[Classes]], [[Raças]], Habilidades, Passivas e outros efeitos podem modificar essas regras.
+
+---
+
+# Vida Máxima
+
+A Vida Máxima pode ser formada por diferentes fontes:
+
+- Raça;
+- Classe;
+- investimento em Vida;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- outros efeitos.
+
+Essas fontes são somadas quando compatíveis.
+
+---
+
+# Desenvolvimento de Vida
+
+Vida está vinculada ao Atributo Central [[Constituição]].
+
+O personagem pode utilizar [[SP]] para desenvolver sua Reserva de Vida.
+
+Cada ponto de investimento concede:
+
+> **+10 Vida Máxima**
+
+O número de pontos desenvolvidos naturalmente em Vida não pode ultrapassar a Constituição do personagem.
+
+> **Investimento em Vida ≤ Constituição**
+
+Constituição não concede Vida automaticamente.
+
+Ela determina apenas o limite natural de desenvolvimento da Reserva.
+
+Os custos e regras gerais de investimento seguem [[Desenvolvimento de Reservas]].
+
+---
+
+# Bônus Externos
+
+Bônus provenientes de:
+
+- Raças;
+- Classes;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- efeitos especiais;
+
+são adicionados separadamente à Vida Máxima.
+
+Esses bônus não representam pontos investidos na Reserva e podem ultrapassar o limite natural de Constituição quando permitido.
 
 ---
 
@@ -19,10 +76,12 @@ Enquanto estiver em Coma:
 - fica inconsciente;
 - não pode realizar ações normalmente;
 - não pode utilizar [[Pontos de Ação|PA]];
-- continua sujeito a danos, [[Condições|condições]] e efeitos que já estejam ativos;
+- continua sujeito a [[Dano]], [[Condições]] e efeitos ativos;
 - pode continuar perdendo Vida.
 
-O Coma permanece enquanto o personagem estiver entre **0 e −9 de Vida**.
+O Coma permanece enquanto o personagem estiver entre:
+
+> **0 e −9 de Vida**
 
 Ao atingir **−10 de Vida**, o personagem morre.
 
@@ -32,13 +91,13 @@ Ao atingir **−10 de Vida**, o personagem morre.
 
 Quando chegar seu [[Turno]], um personagem em Coma pode tentar acordar realizando:
 
-> **1d20 puro contra uma Dificuldade determinada pelo Mestre.**
+> **1d20 puro contra uma Dificuldade determinada pelo Mestre**
 
-Esse teste normalmente **não recebe atributos ou bônus**.
+Esse teste normalmente não recebe Atributos, Perícias ou outros bônus.
 
-Habilidades, Passivas, [[Condições|condições]] ou outros efeitos podem modificar o teste quando especificado.
+Habilidades, Passivas, [[Condições]] e outros efeitos podem modificar o teste quando especificado.
 
-### Sucesso
+## Sucesso
 
 O personagem acorda imediatamente com:
 
@@ -46,54 +105,27 @@ O personagem acorda imediatamente com:
 
 A partir desse momento deixa de estar em Coma.
 
-### Falha
+## Falha
 
-O personagem permanece em Coma e poderá tentar novamente em seu próximo [[Turno]].
+O personagem permanece em Coma e pode tentar novamente em seu próximo Turno.
 
-Falhar no teste **não causa dano adicional por si só**.
-
----
-
-# Ferimentos durante o Coma
-
-Ferimentos que provocam **perda contínua de Vida** continuam funcionando normalmente enquanto o personagem estiver em Coma.
-
-Isso inclui cortes com sangramento e outros ferimentos semelhantes que façam o personagem perder Vida a cada [[Turno]].
-
-**Exemplo:**
-
-O personagem caiu com:
-
-> **0 de Vida**
-
-Possui um ferimento com Sangramento:
-
-> **−1 Vida por Turno**
-
-No próximo Turno:
-
-> `0 → −1`
-
-No seguinte:
-
-> `−1 → −2`
-
-E assim sucessivamente até que o ferimento seja tratado ou o personagem alcance **−10 de Vida e morra**.
+Falhar no teste não causa perda adicional de Vida por si só.
 
 ---
 
-## Ferimentos impedem acordar
+# Ferimentos Durante o Coma
 
-Enquanto possuir **um ferimento ativo que cause perda de Vida por Turno**, o personagem **não pode realizar o Teste para Acordar**.
+Ferimentos que causam perda contínua de Vida continuam funcionando normalmente enquanto o personagem estiver em Coma.
 
-Primeiro é necessário tratar o ferimento responsável pela perda contínua de Vida.
+Enquanto possuir um ferimento ativo que cause perda de Vida por Turno:
 
-> **Ferimento causando perda de Vida → não realiza o teste.**  
-> **Ferimento tratado → pode voltar a realizar o teste normalmente em seu Turno.**
+> **o personagem não pode realizar o Teste para Acordar.**
 
-Isso se aplica especificamente a **ferimentos que causam perda contínua de Vida**, como sangramentos e efeitos semelhantes.
+O ferimento precisa ser tratado antes que o personagem possa voltar a realizar o teste.
 
-Possuir qualquer ferimento comum **não impede automaticamente** o personagem de acordar.
+Isso se aplica apenas a efeitos que causem perda contínua de Vida.
+
+Possuir um ferimento que não cause perda contínua não impede automaticamente o personagem de acordar.
 
 ---
 
@@ -103,32 +135,43 @@ Ao atingir:
 
 > **−10 de Vida**
 
-o personagem **morre**.
+o personagem morre.
 
-Qualquer [[Dano]] recebido enquanto estiver em Coma continua reduzindo sua Vida normalmente, incluindo [[Ataque|Ataques]], ferimentos contínuos e outros efeitos capazes de causar dano.
+Todo Dano recebido enquanto estiver em Coma continua reduzindo sua Vida normalmente.
 
-**Exemplo:**
-
-> Vida atual: −7  
-> Dano recebido: 5  
-> `−7 − 5 = −12`
-
-O personagem ultrapassou o limite de −10 e morre.
+Se o Dano fizer a Vida ultrapassar −10, o personagem também morre.
 
 ---
 
-# Cura durante o Coma
+# Cura Durante o Coma
 
 Um personagem em Coma pode receber cura normalmente.
 
 A cura aumenta sua Vida a partir do valor atual.
 
-**Exemplo:**
+Ao retornar para:
 
-> Vida: −6  
-> Cura recebida: +10  
-> Vida resultante: **4**
+> **1 ou mais de Vida**
 
-Ao retornar para **1 ou mais de Vida através de cura**, o personagem deixa o Coma sem precisar realizar o Teste para Acordar, salvo quando alguma condição específica determinar o contrário.
+através de cura, o personagem deixa o Coma sem precisar realizar o Teste para Acordar, salvo quando alguma regra específica determinar o contrário.
 
-Tratar um ferimento que causa perda contínua de Vida **não recupera automaticamente a Vida perdida**. O tratamento apenas impede que o ferimento continue causando dano, salvo quando o método utilizado também possuir efeito de cura.
+Tratar um ferimento que causa perda contínua de Vida não recupera automaticamente a Vida perdida.
+
+O tratamento apenas impede novas perdas, salvo quando também possuir um efeito de cura.
+
+---
+
+# Regra Específica
+
+[[Raças]], [[Classes]], Habilidades, Passivas, itens, [[Condições]] e outros efeitos podem alterar:
+
+- Vida Máxima;
+- limites de desenvolvimento;
+- estado de Coma;
+- limite de morte;
+- formas de cura;
+- outras regras relacionadas à Vida.
+
+Quando uma regra específica contradizer esta página:
+
+> **Regra específica > regra geral.**

@@ -1,251 +1,429 @@
 O **Neófito** é uma [[Classes|classe]] de combate focada nos **fundamentos da magia**, utilizando [[Mana]] para conjurar ataques, controlar inimigos e produzir diferentes efeitos mágicos.
 
-Sua principal força está na **versatilidade**. O Neófito ainda não possui uma especialização definida, experimentando diferentes formas de magia para causar [[Dano]], restringir adversários e adaptar suas conjurações às necessidades do combate.
+Sua principal força está na **versatilidade**.
 
-É o primeiro passo para aqueles que desejam se aprofundar nas artes mágicas, servindo como base para caminhos muito diferentes entre si: desde o **domínio dos elementos**, passando pelas diversas disciplinas da **feitiçaria**, até o estudo de **artes ocultas e efeitos mais incomuns da magia**.
+O Neófito ainda não possui uma especialização definida. Ele aprende os fundamentos necessários para formar, controlar e direcionar magia, experimentando diferentes formas de conjuração antes de escolher um caminho específico.
+
+Seu treinamento também inclui conhecimentos básicos sobre fenômenos mágicos, permitindo reconhecer e estudar feitiços, runas, encantamentos e outras manifestações sobrenaturais.
+
+O Neófito serve como base para caminhos muito diferentes entre si, desde o **domínio dos elementos**, passando pelas diferentes disciplinas da **feitiçaria**, até o estudo de **artes ocultas e conhecimentos perigosos**.
 
 ---
 
-### Bônus
+# Dados da Classe
+
+- **Tier:** T1
+- **Tipo:** Combate Mágico
+- **Nível Máximo:** 10
+- **Árvore:** Neófito
+- **Slot Compatível:** Universal ou Combate
+
+---
+
+### Resumo
+
+Classe mágica básica focada em versatilidade, conjuração e domínio inicial da Mana.
+
+### O que faz
+
+- Desbloqueia o uso de Mana
+- Realiza ataques mágicos
+- Aprende fundamentos de conjuração
+- Reconhece fenômenos mágicos
+- Utiliza diferentes tipos de magia
+- Controla ou restringe inimigos
+- Serve como base para diferentes especializações mágicas
+
+---
+
+# Bônus de Classe
+
+## Recurso Desbloqueado
+
+Ao adquirir Neófito:
+
+> **[[Mana]] é desbloqueada.**
+
+O personagem passa a poder utilizar e desenvolver sua Reserva de Mana normalmente.
+
+---
+
+## Reservas
 
 - +10 [[Vida]]
 - +100 [[Mana]]
+
+## Regeneração
+
 - +5 Regeneração de [[Estamina]]
-- +10 Regeneração de Mana
-- +2 Inteligência
-- +1 Vontade
-- +2 Precisão Mágica
-- +2 Defesa Mágica
+- +10 Regeneração de [[Mana]]
+
+## Perícias
+
+- +2 [[Conjuração]]
+- +2 [[Arcanismo]]
+- +1 [[Atributos Centrais/Espírito#Vontade|Vontade]]
+
+Esses valores são **Bônus de Classe** e não representam investimento natural realizado com PP.
+
+## Defesas
+
+- +2 [[Regras/Defesa|Defesa]] Mágica
 - +1 Defesa Mental
 
 ---
 
-## Afinidades
+# Afinidades do Neófito
 
 - Mana
 - Regeneração de Mana
-- Estamina
 - Regeneração de Estamina
-- Dano Mágico
-- Precisão Mágica
+- Conjuração
+- Arcanismo
 - Defesa Mágica
 - Defesa Mental
-- Inteligência
 - Vontade
-- Percepção
+- [[Atributos Centrais/Intelecto#Percepção|Percepção]]
+
+---
+
+# Perícias Mágicas
+
+## Conjuração
+
+**Conjuração** representa a capacidade técnica de formar, controlar e direcionar magia.
+
+É uma Perícia ligada a:
+
+> **[[Atributos Centrais/Intelecto|Intelecto]]**
+
+Conjuração pode ser utilizada para:
+
+- direcionar projéteis mágicos;
+- controlar a formação de um feitiço;
+- manter precisão durante uma conjuração;
+- manipular magia que exija controle técnico;
+- executar Habilidades mágicas que utilizem Conjuração como método.
+
+Quando uma Habilidade mágica exigir um [[Ataque]] e não determinar outra Base de [[Regras/Precisão|Precisão]]:
+
+> **Base de Precisão = Conjuração**
+
+Portanto:
+
+> **Ataque = Dado + Conjuração + Modificadores**
+
+Intelecto não é somado novamente ao teste.
+
+Uma Habilidade específica pode utilizar outro método quando sua própria regra determinar.
+
+---
+
+## Arcanismo
+
+**Arcanismo** representa conhecimento teórico e compreensão de fenômenos mágicos.
+
+É uma Perícia ligada a:
+
+> **Intelecto**
+
+Pode ser utilizada para:
+
+- reconhecer uma magia;
+- identificar runas;
+- compreender encantamentos;
+- analisar efeitos mágicos;
+- estudar círculos ou inscrições;
+- reconhecer propriedades de um objeto mágico;
+- compreender fenômenos arcanos;
+- recordar conhecimentos relacionados à magia.
+
+Quando necessário:
+
+> **Dado + Arcanismo + Modificadores**
+
+contra uma Dificuldade apropriada.
+
+Arcanismo permite compreender magia.
+
+> **Não significa automaticamente ser capaz de conjurá-la, dissipá-la ou reproduzi-la.**
 
 ---
 
 # Ativas
 
-##### Bola de Fogo — Nv.1
+##### Bola de Fogo | Nv.1
 
 **Descrição:**  
-O Neófito concentra Mana em uma pequena esfera de fogo e a lança contra um alvo. Ao atingir, a esfera explode.
+O Neófito concentra Mana em uma pequena esfera de fogo e a lança contra um alvo.
 
-**Dano:**
+Ao atingir, a esfera explode.
 
-> **10 de Dano Mágico de Fogo.**
+### Ataque
 
-**Efeito:**  
-A explosão atinge também criaturas em até **2 metros** do ponto de impacto, causando:
+Bola de Fogo utiliza:
+
+> **Conjuração**
+
+como sua Base de Precisão.
+
+Portanto:
+
+> **Dado + Conjuração + Modificadores**
+
+### Dano
+
+O alvo principal sofre:
+
+> **10 de Dano Mágico de Fogo**
+
+### Explosão
+
+Criaturas em até:
+
+> **2 metros do ponto de impacto**
+
+sofrem:
 
 > **5 de Dano Mágico de Fogo**
 
-O alvo principal pode sofrer **Queimadura**.
+A explosão não exige um novo ataque contra cada criatura, salvo quando alguma regra específica determinar o contrário.
 
-A aplicação da Queimadura depende das propriedades da habilidade e das circunstâncias do ataque, seguindo as regras de [[Condições]].
+### Queimadura
 
-**Alcance:**
+O alvo principal pode sofrer [[Regras/Condições#Queimadura|Queimadura]] quando as circunstâncias e propriedades do efeito permitirem.
+
+A aplicação segue normalmente as regras da Condição.
+
+### Alcance
 
 > **20 metros**
 
-**Custo:**
+### Custo
 
 > **10 [[Mana]] + 1 [[Pontos de Ação|PA]]**
 
-O ataque utiliza normalmente a [[Precisão|Precisão Mágica]] do Neófito quando necessário.
-
 ---
 
-##### Corte de Vento — Nv.1
+##### Corte de Vento | Nv.1
 
 **Descrição:**  
 O Neófito comprime o ar e dispara uma lâmina de vento extremamente rápida contra o alvo.
 
-**Dano:**
+### Ataque
 
-> **8 de Dano Mágico**
+Utiliza:
 
-**Efeito:**  
-Recebe:
+> **Conjuração**
 
-> **+3 de Precisão Mágica**
+como Base de Precisão.
 
-ao realizar o [[Ataque]].
+Além disso, recebe:
 
-Esse bônus é adicionado normalmente ao teste e conta para determinar o dado utilizado conforme [[Dados e Testes]].
+> **+3 de Precisão**
 
-**Alcance:**
+naquele ataque.
+
+Portanto:
+
+> **Dado + Conjuração + 3 + outros Modificadores**
+
+O +3 é um **Modificador de Precisão**.
+
+Ele não aumenta permanentemente Conjuração.
+
+### Dano
+
+> **8 de Dano Mágico de Vento**
+
+### Alcance
 
 > **25 metros**
 
-**Custo:**
+### Custo
 
 > **6 [[Mana]] + 1 [[Pontos de Ação|PA]]**
 
 ---
 
-##### Bala de Pedra — Nv.1
+##### Bala de Pedra | Nv.1
 
 **Descrição:**  
-O Neófito forma e dispara uma massa compacta de pedra contra o alvo em alta velocidade.
+O Neófito forma uma massa compacta de pedra e a dispara contra o alvo em alta velocidade.
 
-**Dano:**
+Embora sua criação seja mágica, o projétil formado é matéria física.
+
+### Ataque
+
+Utiliza:
+
+> **Conjuração**
+
+como Base de Precisão.
+
+### Dano
 
 > **10 de Dano Físico**
 
-Esse detalhe é importante: embora seja uma habilidade mágica e use **Precisão Mágica**, a pedra é matéria física.
-
 Portanto:
 
-> **Ataque:** Precisão Mágica  
+> **Ataque:** Conjuração  
 > **Dano:** Físico  
 > **Defesa aplicada:** Defesa Física
 
-Isso dá ao Neófito uma ferramenta contra criaturas com Defesa Mágica alta.
+Isso permite que o Neófito utilize magia para produzir uma ameaça física contra criaturas que possuam elevada Defesa Mágica.
 
-O teste de ataque continua utilizando as regras normais de [[Precisão]].
+### Impacto
 
-**Efeito:**  
-No Nv.1:
+Bala de Pedra recebe:
 
-> **+2 de impacto contra objetos/estruturas ou testes envolvendo quebrar algo.**
+> **+2 em testes ou efeitos relacionados a quebrar objetos e estruturas**
 
-Esse bônus representa a força física do projétil e não transforma automaticamente qualquer objeto em algo quebrável.
+quando sua força de impacto for relevante.
 
-A resistência, material, tamanho e demais propriedades do objeto continuam relevantes.
+Esse bônus não torna automaticamente qualquer objeto quebrável.
 
-**Alcance:**
+Material, resistência, tamanho e circunstâncias continuam importando.
+
+### Alcance
 
 > **20 metros**
 
-**Custo:**
+### Custo
 
 > **8 [[Mana]] + 1 [[Pontos de Ação|PA]]**
 
 ---
 
-##### Prisão de Água — Nv.1
+##### Prisão de Água | Nv.1
 
 **Descrição:**  
-O Neófito forma uma grande bolha de água ao redor do alvo, aprisionando-o e restringindo seus movimentos.
+O Neófito forma uma grande massa de água ao redor de uma criatura, tentando aprisioná-la e restringir seus movimentos.
 
 ### Tentativa de Aprisionamento
 
-Antes da bolha se fechar completamente, o alvo pode tentar escapar utilizando:
+Antes que a prisão se forme completamente, o alvo pode tentar escapar.
 
-> **Agilidade**
+Normalmente realiza:
 
-A Dificuldade é:
+> **Dado + [[Atributos Centrais/Destreza#Agilidade|Agilidade]] + Modificadores**
 
-> **8 + Precisão Mágica do Neófito**
+contra:
 
-**Exemplo:**
+> **Dificuldade = 8 + Conjuração do Neófito**
+
+Modificadores específicos da Habilidade ou de outros efeitos podem alterar essa Dificuldade.
+
+### Exemplo
 
 Se o Neófito possui:
 
-> **6 de Precisão Mágica**
+> **Conjuração 6**
 
 a Dificuldade será:
 
 > `8 + 6 = 14`
 
-Se passar no teste, o alvo escapa antes da formação completa da prisão.
+O alvo realiza seu teste contra:
 
-Se falhar, fica preso dentro da bolha.
+> **Dificuldade 14**
 
-Os dados utilizados seguem normalmente [[Dados e Testes]].
+Se passar, escapa antes que a prisão se feche.
+
+Se falhar, fica aprisionado.
+
+---
 
 ### Efeito
 
-Enquanto aprisionado, o alvo não pode se deslocar livremente e permanece **submerso**.
+Enquanto estiver dentro da Prisão de Água:
 
-Se for uma criatura que **precisa respirar e pode se afogar**, sofre **Dano de Afogamento por [[Turno]]**.
+- não pode se deslocar livremente;
+- permanece submerso;
+- precisa escapar da prisão para recuperar sua movimentação normal.
+
+Criaturas que precisam respirar podem sofrer normalmente os efeitos relacionados a permanecer submersas.
 
 Criaturas que:
 
 - não respiram;
-- conseguem respirar debaixo d'água;
-- sejam naturalmente imunes a afogamento;
+- respiram debaixo d'água;
+- sejam imunes a afogamento;
 
-não sofrem esse Dano simplesmente por permanecer dentro da Prisão.
+não sofrem consequências de afogamento simplesmente por permanecer dentro da prisão.
+
+---
 
 ### Escapar após ser preso
 
-Depois que a Prisão estiver completamente formada, o alvo ainda pode tentar escapar.
+Depois que a prisão estiver formada, o alvo ainda pode tentar escapar.
 
-Isso pode ser feito através de:
+Métodos possíveis incluem:
 
 - força física;
 - Habilidades apropriadas;
 - destruir ou romper a prisão;
-- receber ajuda externa;
-- utilizar magia;
-- qualquer outro método coerente com a situação.
+- magia;
+- ajuda externa;
+- outras soluções coerentes com a situação.
 
-Não existe uma única solução obrigatória.
+Não existe uma única forma obrigatória de escapar.
 
-A forma utilizada determina qual teste ou regra será necessária, seguindo o princípio estabelecido em [[Condições]].
+O método utilizado determina qual teste, Defesa ou regra será aplicada.
+
+---
 
 ### Duração
 
-A Prisão de Água **não possui duração fixa**.
+Prisão de Água não possui duração fixa.
 
-O Neófito pode continuar mantendo a magia enquanto conseguir sustentá-la.
+O Neófito pode mantê-la enquanto conseguir sustentar a magia.
 
 ### Manutenção
 
 > **6 [[Mana]] por [[Turno]]**
 
-O custo corresponde à metade do custo inicial da habilidade.
+No início do Turno do Neófito:
 
-Seguindo a regra de [[Mana]], no início do Turno do Neófito:
-
-> **1. Regenera Mana**  
-> **2. Paga a manutenção da Prisão de Água**  
-> **3. Continua normalmente seu Turno**
+1. Regenera Mana normalmente.
+2. Paga a manutenção da Prisão.
+3. Continua seu Turno.
 
 Se o Neófito:
 
 - não possuir Mana suficiente;
-- decidir não pagar a manutenção;
+- decidir não pagar;
 - ficar incapacitado;
 - perder o controle da magia;
 
-a bolha se desfaz.
+a Prisão de Água se desfaz.
 
-**Custo inicial:**
+### Custo Inicial
 
 > **12 [[Mana]] + 1 [[Pontos de Ação|PA]]**
 
+---
+
 # Passivas
 
-##### Sobrecarga — Nv.1
+##### Sobrecarga | Nv.1
 
 **Descrição:**  
 O Neófito pode alimentar uma magia com uma quantidade maior de [[Mana]], aumentando sua potência além do normal.
 
-**Efeito:**  
-Ao conjurar uma habilidade que cause [[Dano]], pode aumentar o **custo inicial de Mana em 50%**.
+### Efeito
 
-Ao fazer isso, o Dano causado pela habilidade aumenta em:
+Ao conjurar uma Habilidade que cause [[Dano]], pode aumentar seu custo inicial de Mana em:
+
+> **+50%**
+
+Ao fazer isso, o Dano da Habilidade aumenta em:
 
 > **+25%**
 
-A decisão de utilizar Sobrecarga deve ser feita **antes da conjuração**.
+A decisão precisa ser tomada antes da conjuração.
 
-**Exemplo:**
+### Exemplo
 
 Uma magia custa:
 
@@ -255,43 +433,46 @@ Com Sobrecarga:
 
 > `10 + 50% = 15 Mana`
 
-Se essa magia normalmente causa:
+Se normalmente causa:
 
 > **20 de Dano**
 
 passa a causar:
 
-> `20 + 25% = 25 de Dano`
+> `20 + 25% = 25`
 
-O aumento segue normalmente a ordem de cálculo definida em [[Dano]].
+Resultado:
 
-Sobrecarga modifica apenas o **custo inicial** da magia.
+> **25 de Dano**
 
-Custos de manutenção não são aumentados, a menos que alguma Habilidade diga especificamente o contrário.
+Sobrecarga modifica apenas o custo inicial da Habilidade.
+
+Custos de manutenção não são aumentados, salvo quando uma regra específica determinar o contrário.
 
 ---
 
-##### Conjuração Eficiente — Nv.1
+##### Conjuração Eficiente | Nv.1
 
 **Descrição:**  
-Com prática, o Neófito aprende a controlar melhor o fluxo de Mana durante a formação inicial de suas magias, reduzindo pequenos desperdícios durante a conjuração.
+Com prática, o Neófito aprende a controlar melhor o fluxo de Mana durante a formação inicial de suas magias.
 
-**Efeito:**  
+### Efeito
+
 Reduz em:
 
 > **1 [[Mana]]**
 
-o **custo inicial** das Habilidades mágicas utilizadas pelo Neófito.
+o custo inicial das Habilidades mágicas utilizadas pelo Neófito.
 
-O custo de uma magia nunca pode ser reduzido para menos de:
+O custo inicial nunca pode ser reduzido para menos de:
 
 > **1 Mana**
 
 Conjuração Eficiente não reduz custos de manutenção.
 
-**Exemplo:**
+### Exemplo
 
-Uma magia com custo inicial de:
+Uma Habilidade que custa:
 
 > **10 Mana**
 
@@ -299,7 +480,7 @@ passa a custar:
 
 > **9 Mana**
 
-Uma magia de:
+Uma Habilidade que custa:
 
 > **1 Mana**
 
@@ -307,43 +488,44 @@ continua custando:
 
 > **1 Mana**
 
-Quando outros efeitos modificarem o custo da magia, as modificações são aplicadas conforme suas próprias regras.
-
 ---
 
-##### Pressão Mágica — Nv.1
+##### Pressão Mágica | Nv.1
 
 **Descrição:**  
-A magia do Neófito exerce maior pressão sobre seus alvos, tornando mais difícil resistir diretamente aos efeitos de suas conjurações.
+As conjurações do Neófito exercem maior pressão sobre seus alvos, tornando mais difícil resistir diretamente aos seus efeitos.
 
-**Efeito:**  
-Aumenta em:
+### Efeito
 
-> **+1 a Dificuldade**
+Quando uma Habilidade do Neófito exigir que outra criatura realize um teste contra uma Dificuldade criada pela própria Habilidade:
 
-dos testes realizados por outras criaturas para resistir às Habilidades do Neófito.
+> **+1 na Dificuldade**
 
-A Passiva funciona apenas quando a própria Habilidade exige que o alvo realize um **teste contra uma Dificuldade**.
+Pressão Mágica não concede Precisão e não aumenta Dano.
 
-Ela não concede +1 de [[Precisão]] e não aumenta diretamente o [[Dano]].
+### Exemplo
 
-**Exemplo:**
+Prisão de Água utiliza:
 
-A **Prisão de Água** possui:
+> `Dificuldade = 8 + Conjuração`
 
-> `Dificuldade = 8 + Precisão Mágica`
+Se o Neófito possui:
 
-Se normalmente a Dificuldade fosse **14**, Pressão Mágica faria com que fosse:
+> **Conjuração 6**
+
+a Dificuldade normal seria:
+
+> **14**
+
+Com Pressão Mágica:
 
 > **15**
-
-Os testes continuam seguindo normalmente as regras de [[Dados e Testes]].
 
 ---
 
 # Evolução
 
-Ao alcançar os requisitos necessários, o Neófito pode abandonar sua formação mágica básica e seguir um caminho mais especializado.
+Ao alcançar os requisitos necessários, o Neófito pode seguir um caminho mágico mais especializado.
 
 As principais evoluções são:
 
@@ -351,7 +533,7 @@ As principais evoluções são:
 > **Feiticeiro**  
 > **Ocultista**
 
-Cada uma representa uma forma diferente de compreender e desenvolver a magia.
+Cada caminho representa uma forma diferente de compreender e desenvolver a magia.
 
 ---
 
@@ -359,7 +541,7 @@ Cada uma representa uma forma diferente de compreender e desenvolver a magia.
 
 O **Mago** é a evolução do Neófito focada principalmente no **estudo e domínio da magia elemental**.
 
-Enquanto o Neófito utiliza diferentes formas básicas de magia, o Mago começa a compreender profundamente os elementos, aprendendo a manipulá-los com maior potência, controle e eficiência.
+Enquanto o Neófito aprende os fundamentos da Conjuração, o Mago começa a compreender profundamente as forças elementais e aprende a manipulá-las com maior potência, controle e eficiência.
 
 Seu desenvolvimento pode envolver elementos como:
 
@@ -371,11 +553,9 @@ Seu desenvolvimento pode envolver elementos como:
 - Eletricidade;
 - outros elementos existentes no mundo.
 
-O Mago ainda pode utilizar diferentes tipos de magia, mas sua progressão é especialmente direcionada para o **domínio elemental**.
+O Mago ainda pode utilizar diferentes formas de magia, mas sua progressão é direcionada principalmente ao domínio elemental.
 
-Esse caminho serve como base para futuras Classes ainda mais especializadas.
-
-Um Mago que se aprofunde suficientemente em determinado elemento pode futuramente alcançar Classes dedicadas exclusivamente a ele.
+Pode futuramente originar Classes extremamente especializadas em elementos específicos.
 
 **Exemplos:**
 
@@ -384,7 +564,7 @@ Um Mago que se aprofunde suficientemente em determinado elemento pode futurament
 > Mago → Mago de Terra  
 > Mago → Mago de Ar
 
-Outros caminhos elementais podem existir conforme as possibilidades encontradas no mundo.
+Outras especializações podem existir conforme os elementos encontrados e desenvolvidos no mundo.
 
 **Requisito:**
 
@@ -394,11 +574,11 @@ Outros caminhos elementais podem existir conforme as possibilidades encontradas 
 
 ## Feiticeiro
 
-O **Feiticeiro** é a evolução do Neófito especializada nas formas de magia que **não dependem diretamente do domínio elemental**.
+O **Feiticeiro** é a evolução do Neófito especializada em formas de magia que **não dependem diretamente do domínio elemental**.
 
-Enquanto o Mago concentra seu desenvolvimento nos elementos, o Feiticeiro explora a enorme variedade de efeitos que podem ser produzidos através da manipulação mágica.
+Enquanto o Mago aprofunda os elementos, o Feiticeiro explora diferentes disciplinas e aplicações da magia.
 
-Seu campo de estudo pode incluir:
+Seu desenvolvimento pode envolver:
 
 - encantamentos;
 - feitiços ofensivos não elementais;
@@ -411,17 +591,15 @@ Seu campo de estudo pode incluir:
 - manipulação de propriedades mágicas;
 - outras disciplinas semelhantes.
 
-Isso torna o Feiticeiro um caminho extremamente amplo.
-
 Dois Feiticeiros podem desenvolver capacidades completamente diferentes dependendo das disciplinas que decidirem estudar.
 
-Um pode se especializar em encantamentos e manipulação.
+Um pode especializar-se em encantamentos e manipulação.
 
-Outro pode desenvolver telecinese e feitiços ofensivos.
+Outro pode desenvolver telecinese e magia ofensiva.
 
-Outro pode dedicar-se à criação de poções e transformação de matéria.
+Outro pode dedicar-se a poções e transformação.
 
-Suas futuras evoluções dependem principalmente **das disciplinas mágicas que o personagem desenvolver**.
+Suas futuras evoluções dependem principalmente das disciplinas mágicas desenvolvidas pelo personagem.
 
 **Requisito:**
 
@@ -433,7 +611,7 @@ Suas futuras evoluções dependem principalmente **das disciplinas mágicas que 
 
 O **Ocultista** é a evolução do Neófito que se aprofunda em conhecimentos mágicos **raros, perigosos ou pouco compreendidos**.
 
-Enquanto Magos estudam principalmente os elementos e Feiticeiros exploram disciplinas mágicas mais amplas, o Ocultista busca aquilo que normalmente permanece escondido.
+Enquanto Magos aprofundam o domínio elemental e Feiticeiros estudam disciplinas mágicas mais amplas, o Ocultista busca aquilo que normalmente permanece escondido.
 
 Seu desenvolvimento pode envolver:
 
@@ -447,17 +625,20 @@ Seu desenvolvimento pode envolver:
 - formas incomuns de magia;
 - forças cuja natureza ainda não é completamente compreendida.
 
-Ser um Ocultista **não significa automaticamente ser maligno**.
+Ser um Ocultista não significa automaticamente ser maligno.
 
 O termo representa principalmente o tipo de conhecimento estudado.
 
-Um personagem pode estudar maldições para utilizá-las, compreender como removê-las ou simplesmente aprender a combatê-las.
+Um personagem pode estudar uma maldição para:
 
-Da mesma forma, estudar entidades ou rituais não significa necessariamente servi-los.
+- utilizá-la;
+- compreendê-la;
+- removê-la;
+- proteger-se contra ela.
+
+Da mesma forma, estudar entidades ou pactos não significa necessariamente servi-los.
 
 Entretanto, muitos desses conhecimentos possuem riscos que outras formas de magia normalmente não apresentam.
-
-O Ocultista pode futuramente alcançar Classes extremamente diferentes dependendo **do conhecimento que encontrar, das práticas que desenvolver e das forças com as quais decidir interagir**.
 
 **Requisito:**
 
@@ -469,12 +650,10 @@ O Ocultista pode futuramente alcançar Classes extremamente diferentes dependend
 
 De forma geral:
 
-> **Mago** → domínio dos **elementos**.  
-> **Feiticeiro** → domínio de **disciplinas mágicas não elementais**.  
-> **Ocultista** → domínio de **conhecimentos mágicos raros, perigosos ou ocultos**.
+> **Mago** → domínio dos **elementos**.
 
-Essas divisões representam o caminho principal de cada Classe, mas não significam que todo conhecimento mágico do mundo precise obrigatoriamente pertencer a apenas uma delas.
+> **Feiticeiro** → domínio de **disciplinas mágicas não elementais**.
 
-[[Habilidades]], métodos especiais de aprendizado, artefatos, professores, descobertas e outras [[Classes]] podem permitir que um personagem desenvolva capacidades fora de seu caminho normal.
+> **Ocultista** → domínio de **conhecimentos raros, perigosos ou ocultos**.
 
-> **Regra específica > regra geral.**
+As três evoluções continuam herdando os fundamentos de [[Conjuração]] e [[Arcanismo]] desenvolvidos pelo Neófito.

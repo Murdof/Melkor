@@ -1,47 +1,97 @@
 O **Dano** representa quanto um [[Ataque]], arma, magia, Habilidade ou outro efeito consegue causar a um alvo.
 
-O dano normalmente é calculado **depois que o [[Ataque]] acerta**.
+O Dano normalmente é calculado depois que o [[Ataque]] acerta.
 
-A fórmula básica é:
+A fórmula geral é:
 
-> **Dano da arma/habilidade + Dano da ficha + Modificadores**
+> **Dano Base + Escalonamento + Bônus Fixos + Modificadores**
 
-Após todos os efeitos do ataque serem calculados, a [[Defesa]] correspondente é aplicada para determinar quanto de [[Vida]] será realmente perdido.
+Após todos os efeitos do ataque serem calculados, a [[Defesa]] correspondente é aplicada para determinar quanto de [[Vida]] será perdido.
 
 ---
 
 # Dano Base
 
-Cada arma, magia ou Habilidade determina seu próprio **Dano Base**.
+Cada arma, magia, Habilidade ou efeito determina seu próprio **Dano Base**.
 
-Ele pode utilizar dados:
+O Dano Base pode ser:
 
-> Espada: `2d8`
+- um valor fixo;
+- uma quantidade de dados;
+- uma combinação dos dois;
+- uma fórmula própria definida pela fonte.
 
-possuir um valor fixo:
+O personagem não possui um valor genérico de Dano que seja comprado ou desenvolvido diretamente.
 
-> Habilidade: `10 de Dano`
+---
 
-ou utilizar outra fórmula definida pela própria habilidade.
+# Escalonamento
 
-Depois de determinar o Dano Base, são adicionados os bônus de Dano correspondentes da ficha.
+Armas, magias e Habilidades podem possuir **Escalonamento**.
 
-**Exemplo:**
+O Escalonamento determina se alguma característica do personagem contribui para o Dano causado.
 
-> Espada: `2d8`  
-> Dano Melee: `+5`
+Uma arma pode possuir Escalonamento com:
 
-O ataque causa:
+- [[Força]];
+- [[Destreza]];
+- Força e Destreza;
+- outro Atributo Central;
+- outra característica;
+- nenhum Escalonamento.
 
-> `2d8 + 5`
+A própria arma, magia ou Habilidade determina:
+
+- qual valor é utilizado;
+- quanto desse valor é convertido em Dano;
+- se existe algum limite;
+- se existem múltiplos Escalonamentos.
+
+> **[[Atributos Centrais/Atributos Centrais|Atributos Centrais]] não são adicionados automaticamente ao Dano.**
+
+Possuir Força 10, por exemplo, não significa receber automaticamente +10 de Dano.
+
+O valor utilizado depende do Escalonamento definido pela fonte.
+
+---
+
+# Proficiência e Dano
+
+[[Proficiência]] representa treinamento e domínio no uso de uma arma.
+
+Ela participa principalmente da [[Precisão]] e do controle da arma.
+
+> **Proficiência não aumenta o Dano automaticamente.**
+
+Classes, Habilidades, Passivas, equipamentos ou propriedades específicas podem fazer com que Proficiência contribua para o Dano.
+
+---
+
+# Dano Mágico
+
+Magias e Habilidades mágicas possuem seu próprio Dano Base e podem possuir seus próprios Escalonamentos.
+
+[[Intelecto]] ou [[Espírito]] não são adicionados automaticamente ao Dano de uma magia.
+
+O Dano mágico pode ser aumentado por fontes como:
+
+- Classes;
+- Afinidades;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- efeitos especiais;
+- Escalonamentos definidos pela própria magia.
+
+Cada magia determina como seu Dano é calculado.
 
 ---
 
 # Categorias de Dano
 
-O sistema separa o Dano em diferentes categorias de acordo com sua natureza e forma de aplicação.
+O sistema separa o Dano de acordo com sua natureza.
 
-Entre elas estão:
+As categorias principais são:
 
 - **Dano Físico**
 - **Dano Mágico**
@@ -51,87 +101,83 @@ Entre elas estão:
 
 Cada categoria normalmente interage com sua [[Defesa]] correspondente.
 
-O Dano Físico ainda pode possuir especializações relacionadas à forma ou distância do ataque, como **Melee, Curta/Média Distância e Longa Distância**.
+Uma fonte também pode possuir características adicionais, como:
 
-A arma, Habilidade ou efeito determina qual bônus de Dano da ficha deve ser utilizado.
+- Melee;
+- Curta Distância;
+- Média Distância;
+- Longa Distância;
+- Elemental;
+- outras propriedades específicas.
+
+Essas características podem ser utilizadas por Habilidades, equipamentos, Passivas e outros efeitos.
+
+---
+
+# Bônus de Dano
+
+Depois do Dano Base e do Escalonamento, podem ser adicionados bônus provenientes de:
+
+- Classes;
+- Raças;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- Afinidades;
+- condições;
+- outros efeitos.
+
+Esses bônus podem afetar:
+
+- todo o Dano;
+- determinada categoria de Dano;
+- determinada arma;
+- determinada Proficiência;
+- determinado elemento;
+- determinada distância;
+- determinada Habilidade;
+- outra condição específica.
 
 ---
 
 # Ordem de Cálculo
 
-Quando um ataque possuir diferentes bônus, porcentagens, multiplicadores e outros efeitos, utilize a seguinte ordem:
+Quando um ataque possuir diferentes bônus, porcentagens, multiplicadores e outros efeitos, utilize:
 
 > **1. Dano Base**  
-> **2. Bônus fixos de Dano**  
-> **3. Modificadores percentuais**  
-> **4. Multiplicadores**  
-> **5. [[Crítico]]**  
-> **6. Dano Bruto Final**  
-> **7. [[Defesa]]**
+> **2. Escalonamento**  
+> **3. Bônus fixos de Dano**  
+> **4. Modificadores percentuais**  
+> **5. Multiplicadores**  
+> **6. [[Crítico]]**  
+> **7. Dano Bruto Final**  
+> **8. [[Defesa]]**
 
 Essa ordem é utilizada salvo quando uma regra específica determinar outra forma de cálculo.
 
 ---
 
-## 1. Dano Base
+# Modificadores Percentuais
 
-Primeiro, determine ou role o dano da arma, magia ou Habilidade.
+Depois dos valores fixos, são aplicados os modificadores percentuais.
 
-**Exemplo:**
+Quando o cálculo resultar em um número decimal:
 
-> Espada: `2d8`
+> **arredonde para baixo.**
 
-Resultado:
-
-> `9`
+Uma regra específica pode determinar outra forma de arredondamento.
 
 ---
 
-## 2. Bônus Fixos
+# Multiplicadores
 
-Depois, adicione os bônus correspondentes da ficha, equipamentos, Habilidades e outros efeitos.
+Depois dos modificadores percentuais, são aplicados multiplicadores como:
 
-**Exemplo:**
+> `×2`, `×3`, `×4`
 
-> Dano Base: `9`  
-> Dano Melee: `+5`
+Multiplicadores diferentes podem funcionar juntos quando nenhuma das regras envolvidas impedir isso.
 
-Resultado:
-
-> `14`
-
----
-
-## 3. Modificadores Percentuais
-
-Depois dos bônus fixos, são aplicados modificadores percentuais.
-
-**Exemplo:**
-
-> Dano: `14`  
-> Ataque Pesado: `+50%`
-
-Resultado:
-
-> `14 × 1,5 = 21`
-
-Quando o cálculo resultar em um número decimal, o resultado é **arredondado para baixo**, salvo quando uma regra específica disser o contrário.
-
----
-
-## 4. Multiplicadores
-
-Depois dos modificadores percentuais, são aplicados multiplicadores como `×2`, `×3` etc.
-
-Por exemplo, [[Dano Furtivo]] normalmente causa:
-
-> **Dano ×2**
-
-Se o ataque possuir 21 de Dano:
-
-> `21 × 2 = 42`
-
-Multiplicadores diferentes podem funcionar juntos, salvo quando alguma das regras envolvidas impedir isso.
+[[Dano Furtivo]] e outros efeitos podem utilizar multiplicadores próprios.
 
 ---
 
@@ -139,197 +185,72 @@ Multiplicadores diferentes podem funcionar juntos, salvo quando alguma das regra
 
 Depois dos modificadores normais do ataque, é resolvido o [[Crítico]].
 
-O Crítico **não simplesmente dobra o resultado já rolado**.
+O Crítico não simplesmente dobra o resultado já rolado.
 
-Ele gera uma **nova execução do dano daquele ataque**, rolando novamente seus dados.
+Ele gera uma **nova execução do Dano daquele ataque**, rolando novamente os dados e aplicando novamente os modificadores que fazem parte daquele ataque.
 
-Os modificadores que fazem parte daquele ataque também são aplicados ao dano adicional do Crítico.
+O Dano original e o Dano adicional do Crítico fazem parte do **mesmo Ataque**.
 
-**Exemplo:**
-
-Um ataque possui:
-
-> Espada: `2d8`  
-> Dano Melee: `+5`  
-> Ataque Pesado: `+50%`
-
-Dano normal:
-
-> `2d8 = 9`  
-> `9 + 5 = 14`  
-> `14 × 1,5 = 21`
-
-Dano adicional do Crítico:
-
-> novo `2d8 = 11`  
-> `11 + 5 = 16`  
-> `16 × 1,5 = 24`
-
-O ataque causou:
-
-> `21 + 24 = 45 de Dano Bruto`
-
-O [[Crítico]] faz parte do **mesmo ataque**. Portanto, a [[Defesa]] não é aplicada separadamente contra cada uma dessas partes.
+A [[Defesa]] é aplicada somente depois que todo o Dano Bruto daquele Ataque for determinado.
 
 ---
 
 # Acúmulo de Efeitos
 
-Um mesmo ataque pode receber vários efeitos de Dano simultaneamente.
+Um mesmo Ataque pode receber vários efeitos de Dano simultaneamente.
 
-Por exemplo, um ataque pode ser:
+Bônus fixos, porcentagens, multiplicadores, Dano Furtivo, Crítico e outros efeitos podem funcionar juntos quando nenhuma regra específica impedir essa combinação.
 
-> Ataque Pesado
-> 
-> - [[Dano Furtivo]]
-> - [[Crítico]]
-
-Todos podem funcionar juntos caso nenhuma das regras envolvidas diga o contrário.
-
-### Exemplo Completo
-
-Ataque:
-
-> Espada: `2d8`  
-> Dano Melee: `+5`  
-> Ataque Pesado: `+50%`  
-> [[Dano Furtivo]]: `×2`  
-> O ataque foi [[Crítico]].
-
-Primeiro dano:
-
-> `2d8 = 9`  
-> `9 + 5 = 14`  
-> `14 × 1,5 = 21`  
-> `21 × 2 = 42`
-
-Dano adicional do Crítico:
-
-> novo `2d8 = 11`  
-> `11 + 5 = 16`  
-> `16 × 1,5 = 24`  
-> `24 × 2 = 48`
-
-Dano Bruto Final:
-
-> `42 + 48 = 90`
-
-Se o alvo possuir:
-
-> **10 de Defesa Física**
-
-Então:
-
-> `90 − 10 = 80`
-
-O alvo perde:
-
-> **80 de [[Vida]]**
+Cada efeito é aplicado seguindo a ordem normal de cálculo.
 
 ---
 
 # Defesa
 
-Depois que todo o Dano Bruto do ataque for calculado, aplica-se a [[Defesa]] correspondente.
+Depois que todo o Dano Bruto do Ataque for calculado, aplica-se a [[Defesa]] correspondente.
 
 A fórmula geral é:
 
 > **Dano Bruto − Defesa = Dano Final**
 
-**Exemplo:**
+O Dano Final normalmente não pode ficar abaixo de:
 
-> Dano Bruto: `25`  
-> Defesa Física: `8`
+> **0**
 
-Resultado:
-
-> `25 − 8 = 17 de Dano`
-
-A [[Vida]] do alvo é reduzida em 17.
-
----
-
-## Defesa Superior ao Dano
-
-Normalmente, o Dano Final não pode ficar abaixo de **0**.
-
-**Exemplo:**
-
-> Dano Bruto: `8`  
-> Defesa: `12`
-
-Resultado:
-
-> **0 de Dano**
-
-A Defesa absorveu completamente o ataque.
-
-Isso não significa necessariamente que o ataque não atingiu o personagem. Ele acertou, mas **não conseguiu causar Dano suficiente para superar sua proteção**.
+Um ataque pode atingir o alvo e ainda causar 0 de Dano caso não consiga superar sua Defesa.
 
 ---
 
 # Penetração de Defesa
 
-Algumas armas, Habilidades e efeitos podem **ignorar parte da [[Defesa]]** do alvo.
+Algumas armas, Habilidades e efeitos podem ignorar parte da [[Defesa]] do alvo.
 
-**Exemplo:**
+A Penetração reduz a Defesa utilizada contra aquele Dano.
 
-> Alvo: 10 Defesa Física  
-> Ataque: ignora 3 Defesa Física
-
-Para aquele ataque:
-
-> `10 − 3 = 7 Defesa Física`
-
-Então apenas 7 pontos serão utilizados para reduzir o Dano.
-
-Se um efeito ignorar completamente determinada Defesa, ela não será utilizada no cálculo daquele Dano.
+Se um efeito ignorar completamente determinada Defesa, ela não será utilizada no cálculo correspondente.
 
 ---
 
 # Múltiplos Tipos de Dano
 
-Um único ataque pode causar mais de um tipo de Dano.
+Um único Ataque pode causar mais de um tipo de Dano.
 
-**Exemplo:**
+Quando isso acontecer, cada parte do Dano é comparada separadamente com sua [[Defesa]] correspondente.
 
-> `10 Dano Físico`  
-> `+ 6 Dano Mágico de Fogo`
-
-Nesse caso, cada parte é comparada separadamente com sua [[Defesa]] correspondente.
-
-Depois, os resultados são somados para determinar a perda total de [[Vida]].
-
-**Exemplo:**
-
-O alvo possui:
-
-> 4 Defesa Física  
-> 2 Defesa Mágica
-
-Então:
-
-> `10 − 4 = 6 Físico`  
-> `6 − 2 = 4 Mágico`
-
-Dano Final:
-
-> `6 + 4 = 10`
-
-O alvo perde **10 de Vida**.
+Depois das reduções, os valores restantes são somados para determinar a perda total de [[Vida]].
 
 ---
 
 # Dano sem Ataque
 
-Nem todo Dano precisa necessariamente de um teste de [[Ataque]].
+Nem todo Dano exige um teste de [[Ataque]].
 
 Quedas, ambientes perigosos, venenos, armadilhas, efeitos internos e determinadas Habilidades podem causar Dano diretamente.
 
 A própria fonte determina:
 
 - se existe algum teste;
-- qual [[Defesa]] é utilizada;
+- qual Defesa é utilizada;
 - se a Defesa pode reduzir o Dano;
 - se alguma Reação pode evitá-lo.
 
@@ -343,18 +264,19 @@ Dano Direto ignora a [[Defesa]] indicada pela própria fonte e reduz diretamente
 
 > **Dano Direto não deve ser presumido.**
 
-Um ataque somente ignora Defesa quando sua regra disser explicitamente que isso acontece.
+Um efeito somente ignora Defesa quando sua regra disser explicitamente que isso acontece.
 
 ---
 
 # Regra Específica
 
-[[Classes]], [[Raças]], armas, Habilidades, Passivas, [[Condições|condições]] e outros efeitos podem alterar qualquer etapa do cálculo de Dano.
+[[Classes]], [[Raças]], armas, Habilidades, Passivas, equipamentos, Afinidades, [[Condições]] e outros efeitos podem alterar qualquer etapa do cálculo de Dano.
 
 Eles podem:
 
 - adicionar dados;
 - adicionar Dano fixo;
+- adicionar ou modificar Escalonamentos;
 - aumentar ou reduzir Dano por porcentagem;
 - aplicar multiplicadores;
 - alterar [[Crítico]];

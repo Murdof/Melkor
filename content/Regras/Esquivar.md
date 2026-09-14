@@ -1,76 +1,84 @@
 A **Esquiva** é uma reação defensiva utilizada para **evitar completamente um [[Ataque]]**, saindo de sua trajetória antes que ele atinja o personagem.
 
-Diferente da [[Defesa]] Física ou Mágica, a Esquiva não reduz o [[Dano]] recebido. Se for bem-sucedida, o ataque simplesmente **não atinge o alvo**.
+Diferente da [[Defesa]] Física ou Mágica, a Esquiva não reduz o [[Dano]] recebido.
 
-### Teste de Esquiva
-
-Quando um personagem é alvo de um ataque que pode ser esquivado, ele pode gastar a **[[Estamina]] necessária para Esquivar** e realizar:
-
-**Dado + Agilidade**
-
-O resultado é comparado diretamente ao **resultado do teste de [[Ataque]] do inimigo**.
-
-- **Esquiva ≥ Ataque:** o ataque é evitado.
-- **Esquiva < Ataque:** o ataque acerta normalmente.
-
-**Exemplo:**
-
-O inimigo realiza um ataque e consegue **17**.
-
-O defensor possui **+4 de Agilidade** e decide Esquivar:
-
-> d20 + 4 → resultado **19**
-
-Como **19 ≥ 17**, o personagem evita completamente o ataque.
+Se for bem-sucedida, o ataque simplesmente **não atinge o alvo**.
 
 ---
 
-### Custo de Estamina
+# Teste de Esquiva
 
-Toda Esquiva possui um **custo de [[Estamina]]**.
+Quando um personagem é alvo de um ataque que pode ser esquivado, ele pode pagar o custo necessário de [[Estamina]] e realizar:
 
-Esse custo é determinado pela [[Raças|Raça]] do personagem e pode posteriormente ser modificado por [[Classes]], equipamentos, habilidades, [[Condições|condições]] ou outros efeitos.
+> **Dado + [[Atributos Centrais/Destreza#Agilidade|Agilidade]] + Modificadores**
 
-A Estamina é gasta **independentemente do sucesso ou da falha da Esquiva**.
+O resultado é comparado diretamente ao resultado do teste de [[Ataque]] inimigo.
+
+> **Esquiva ≥ Ataque:** o ataque é evitado.  
+> **Esquiva < Ataque:** o ataque acerta normalmente.
+
+Os dados utilizados seguem normalmente as regras de [[Dados e Testes]].
+
+---
+
+# Custo de Estamina
+
+Toda Esquiva possui um custo de [[Estamina]].
+
+Esse custo é determinado pela [[Raças|Raça]] do personagem e pode ser modificado por:
+
+- Classes;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- Condições;
+- outros efeitos.
+
+A Estamina é gasta independentemente do sucesso ou da falha da Esquiva.
 
 Se o personagem não possuir Estamina suficiente para pagar o custo, não pode Esquivar.
 
 ---
 
-### Esquivar não utiliza PA
+# Esquivar e Pontos de Ação
 
-A Esquiva é uma **reação**, portanto não consome os [[Pontos de Ação]] normais do [[Turno]] do personagem.
+A Esquiva é uma **reação**, portanto não consome [[Pontos de Ação|PA]].
 
-Enquanto possuir [[Estamina]] suficiente, o personagem pode tentar Esquivar de **múltiplos ataques**.
+Enquanto possuir Estamina suficiente e continuar fisicamente capaz de Esquivar, o personagem pode reagir a múltiplos ataques.
 
-Isso cria uma limitação natural:
-
-> Quanto mais vezes alguém é atacado, mais Estamina precisa gastar para continuar tentando evitar os golpes.
-
-Um personagem muito ágil pode ser extremamente difícil de acertar, mas pressioná-lo continuamente pode acabar esgotando seus recursos.
+Quanto mais ataques precisar evitar, maior será o consumo de Estamina.
 
 ---
 
-### Limitações
+# Limitações
 
-Nem todo [[Ataque]] pode necessariamente ser evitado através de uma Esquiva comum.
+Nem todo [[Ataque]] pode ser evitado através de uma Esquiva comum.
 
-O personagem precisa possuir **condições físicas e espaço suficiente para se mover**.
+O personagem precisa possuir:
 
-Estar imobilizado, inconsciente, completamente preso ou sob determinados [[Condições|efeitos]] pode impedir a Esquiva.
+- capacidade física para reagir;
+- liberdade de movimento;
+- espaço suficiente para sair da trajetória do ataque;
+- Estamina suficiente.
 
-Ataques muito amplos, ambientes sem espaço para escapar ou habilidades especiais também podem possuir regras próprias.
+Estar imobilizado, inconsciente, preso ou sob determinadas [[Condições]] pode impedir a Esquiva.
 
-A possibilidade de Esquivar sempre depende da **natureza do ataque e da situação**.
+Ataques muito amplos, ambientes sem espaço para escapar e Habilidades especiais também podem limitar ou impedir essa reação.
 
-### Resumo
+A possibilidade de Esquivar depende da natureza do ataque e da situação.
 
-**Ataque inimigo:** `Dado + Precisão`  
-**Esquiva:** `Dado + Agilidade`
+---
 
-**Esquiva ≥ Ataque →** evita completamente o ataque.  
-**Esquiva < Ataque →** é atingido normalmente.
+# Resumo
 
-**Custo:** [[Estamina]] determinada pela [[Raças|Raça]] e modificadores.  
+> **Ataque inimigo:** Dado + [[Regras/Precisão#Precisão Final|Precisão Final]]
+
+> **Esquiva:** Dado + Agilidade + Modificadores
+
+> **Esquiva ≥ Ataque:** ataque evitado.
+
+> **Esquiva < Ataque:** ataque acerta normalmente.
+
+**Custo:** [[Estamina]] determinada pela Raça e modificadores.  
 **PA:** nenhum.  
-**Limite:** enquanto possuir Estamina e for fisicamente possível Esquivar.
+**Limite:** enquanto possuir Estamina e condições para Esquivar.

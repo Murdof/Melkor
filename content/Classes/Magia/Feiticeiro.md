@@ -1,211 +1,364 @@
-> **Tier 2**  
-> **Evolução de: Neófito**
+O **Feiticeiro** é a evolução do [[Neófito]] especializada em **magia rápida, flexível e manipulação direta da estrutura mágica**.
 
-O **Feiticeiro** é a evolução do [[Neófito]] especializada nas formas de magia que **não dependem diretamente do domínio elemental**.
+Enquanto o [[Mago]] tende a concentrar grandes quantidades de Mana em conjurações elementais mais poderosas e preparadas, o Feiticeiro desenvolve a capacidade de **moldar, alterar e executar magia rapidamente conforme a situação muda**.
 
-Enquanto o [[Mago]] aprofunda seu conhecimento sobre fogo, água, terra, vento e outros elementos, o Feiticeiro explora aquilo que pode ser feito através da **manipulação direta da magia**.
+Seu principal diferencial não é necessariamente causar o maior [[Regras/Dano|Dano]] possível em uma única conjuração.
 
-Seu estudo pode envolver disciplinas muito diferentes entre si:
+Sua força está em:
+
+- velocidade;
+- flexibilidade;
+- adaptação;
+- controle;
+- alteração de propriedades mágicas;
+- resposta imediata ao campo;
+- variedade de disciplinas.
+
+O Feiticeiro aprende a tratar magia como algo maleável.
+
+Em vez de limitar-se apenas aos elementos, pode desenvolver conhecimentos relacionados a:
 
 - encantamentos;
-    
 - telecinese;
-    
 - levitação;
-    
 - transfiguração;
-    
 - adivinhação;
-    
 - manipulação de propriedades mágicas;
-    
-- feitiços ofensivos não elementais;
-    
-- criação e alteração de efeitos mágicos;
-    
+- magia não elemental;
+- dissipação;
+- alquimia mágica;
 - poções;
-    
+- criação e alteração de efeitos;
 - outras formas de feitiçaria.
-    
 
-Por isso, dois Feiticeiros podem se desenvolver de maneiras completamente diferentes.
+Por isso:
 
-Um pode se tornar especialista em controlar objetos e criaturas através da telecinese.
+> **dois Feiticeiros podem desenvolver repertórios completamente diferentes.**
 
-Outro pode dedicar sua vida a encantamentos.
+Um pode tornar-se especialista em Telecinese.
 
-Outro pode aprender a transformar matéria, criar poções ou estudar formas de prever acontecimentos.
+Outro pode dedicar-se a Encantamentos.
 
-O Feiticeiro não abandona os fundamentos elementais aprendidos anteriormente, mas deixa de tratá-los como seu principal caminho de desenvolvimento.
+Outro pode desenvolver Transfiguração, Adivinhação, Alquimia ou outras disciplinas.
+
+Essa tendência para magias rápidas:
+
+> **não significa que todo feitiço do Feiticeiro seja instantâneo.**
+
+Feitiços mais complexos ainda podem exigir:
+
+- concentração;
+- preparação;
+- maior quantidade de PA;
+- tempo de Cast;
+- condições específicas.
+
+A diferença está na direção principal da Classe.
+
+> **O Feiticeiro procura fazer a magia responder rapidamente à sua intenção.**
 
 ---
 
-## Função
+# Dados da Classe
 
-> **Controle Mágico / Utilidade / Dano Mágico / Suporte**
+- **Tier:** T2
+- **Tipo:** Combate / Magia
+- **Nível Máximo:** 20
+- **Árvore:** Neófito → Feiticeiro
+- **Slot:** utiliza o mesmo Slot ocupado por Neófito
+
+---
+
+# Função
+
+> **Magia Rápida / Controle Mágico / Utilidade / Versatilidade**
 
 Especializado em:
 
+- conjurações rápidas;
 - magia não elemental;
-    
 - manipulação mágica;
-    
 - controle de criaturas e objetos;
-    
 - encantamentos;
-    
 - modificação de propriedades;
-    
-- suporte mágico;
-    
-- dissipação de magia;
-    
-- versatilidade;
-    
-- resolução de situações através de diferentes disciplinas mágicas.
-    
+- suporte;
+- dissipação;
+- adaptação imediata;
+- diferentes disciplinas mágicas.
 
 ---
 
-## Requisito
+# Identidade do Feiticeiro
+
+A principal característica do Feiticeiro é:
+
+> **adaptar a magia à situação.**
+
+Onde o Mago tende a investir mais poder, tempo e Mana em uma conjuração, o Feiticeiro tende a procurar:
+
+- uma solução mais rápida;
+- uma alteração de propriedade;
+- uma nova aplicação;
+- um efeito de controle;
+- uma resposta direta à ameaça.
+
+Isso não significa que Feiticeiro possui automaticamente:
+
+- menos Dano;
+- menor alcance;
+- magias fracas;
+- ausência de grandes conjurações.
+
+Significa apenas que sua progressão favorece:
+
+> **flexibilidade e manipulação**
+
+em vez de:
+
+> **potência bruta através de Cast prolongado.**
+
+Cada Habilidade ainda define individualmente:
+
+- PA;
+- Mana;
+- Cast;
+- concentração;
+- manutenção;
+- duração;
+- demais requisitos.
+
+---
+
+# Requisito
+
+Para evoluir:
 
 > **Neófito Nv.10**
 
+A evolução não exige um novo Slot.
+
 ---
 
-# Bônus
+# Herança
 
-Ao adquirir Feiticeiro, recebe:
+Feiticeiro mantém tudo que foi desenvolvido através de [[Neófito]], incluindo:
 
-- **+120 Mana**
-    
-- **+15 Regeneração de Mana**
-    
-- **+2 Dano Mágico**
-    
-- **+4 Precisão Mágica**
-    
-- **+2 Defesa Mágica**
-    
-- **+3 Inteligência**
-    
-- **+2 Vontade**
-    
-- **+1 Percepção**
-    
+- Bônus de Classe;
+- Habilidades;
+- Passivas;
+- Afinidades;
+- progressão;
+- SP pertencente à mesma Árvore.
 
-Esses valores são somados aos bônus herdados do [[Neófito]].
+Os bônus abaixo são:
 
-### Total herdado + Feiticeiro
+> **somados aos bônus já adquiridos pelo Neófito.**
 
-Considerando apenas os bônus naturais das duas Classes:
+---
 
-> **+10 Vida**  
-> **+220 Mana**  
-> **+5 Regeneração de Estamina**  
-> **+25 Regeneração de Mana**  
-> **+2 Dano Mágico**  
-> **+6 Precisão Mágica**  
-> **+4 Defesa Mágica**  
-> **+1 Defesa Mental**  
-> **+5 Inteligência**  
-> **+3 Vontade**  
-> **+1 Percepção**
+# Bônus do Feiticeiro
+
+## Reservas
+
+- +120 [[Mana]]
+
+## Regeneração
+
+- +15 Regeneração de Mana
+
+## Perícias
+
+- +4 [[Conjuração]]
+- +3 [[Arcanismo]]
+- +2 [[Atributos Centrais/Espírito#Vontade|Vontade]]
+- +1 [[Atributos Centrais/Intelecto#Percepção|Percepção]]
+
+Esses valores são **Bônus de Classe**.
+
+Eles não representam investimento natural realizado através de PP.
+
+## Defesas
+
+- +2 [[Regras/Defesa|Defesa]] Mágica
 
 ---
 
 # Afinidades
 
-O Feiticeiro mantém todas as Afinidades do Neófito:
+Feiticeiro mantém todas as Afinidades válidas herdadas de Neófito e adiciona:
 
-- Mana
-    
-- Regeneração de Mana
-    
-- Estamina
-    
-- Regeneração de Estamina
-    
-- Dano Mágico
-    
-- Precisão Mágica
-    
-- Defesa Mágica
-    
-- Defesa Mental
-    
-- Inteligência
-    
-- Vontade
-    
-- Percepção
-    
+- Conjuração
+- Arcanismo
+- Encantamento
+- Telecinese
+- Transfiguração
+- Adivinhação
 
-E adiciona:
+Outras disciplinas mágicas podem ser adquiridas conforme forem:
 
-- **Encantamento**
-    
-- **Telecinese**
-    
-- **Transfiguração**
-    
-- **Adivinhação**
-    
+- estudadas;
+- descobertas;
+- ensinadas;
+- desenvolvidas;
+- desbloqueadas.
 
-Outras disciplinas mágicas podem ser adquiridas conforme forem estudadas ou descobertas.
+---
+
+# Conjuração
+
+[[Conjuração]] representa:
+
+> **executar, controlar e direcionar magia.**
+
+É utilizada normalmente para:
+
+- Ataques Mágicos;
+- Telecinese;
+- Dissipação;
+- controle de efeitos;
+- direcionamento de magia;
+- execução de feitiços;
+- manipulações mágicas ativas.
+
+Quando uma Habilidade realizar um [[Regras/Ataque|Ataque]] e não definir outro método:
+
+> **Dado + Conjuração + Modificadores**
+
+Conjuração:
+
+> **não é somada novamente com [[Atributos Centrais/Intelecto|Intelecto]].**
+
+---
+
+# Arcanismo
+
+[[Arcanismo]] representa:
+
+> **compreender a magia.**
+
+É utilizado para:
+
+- analisar feitiços;
+- identificar encantamentos;
+- compreender matrizes;
+- estudar fenômenos mágicos;
+- reconhecer disciplinas;
+- interpretar propriedades mágicas;
+- investigar efeitos desconhecidos.
+
+Arcanismo:
+
+> **não substitui Conjuração.**
+
+Compreender uma magia não significa automaticamente conseguir:
+
+- conjurá-la;
+- dissipá-la;
+- reproduzi-la;
+- controlá-la.
+
+---
+
+# Disciplinas Mágicas
+
+Encantamento, Telecinese, Transfiguração, Adivinhação e outras disciplinas:
+
+> **não são automaticamente Perícias separadas.**
+
+Quando uma ação exigir:
+
+> **execução ou controle de magia**
+
+utiliza-se normalmente:
+
+> **Conjuração**
+
+Quando exigir:
+
+> **compreensão, estudo ou análise**
+
+utiliza-se normalmente:
+
+> **Arcanismo**
+
+Uma nova Perícia só precisa ser criada caso futuramente exista uma necessidade mecânica que não seja bem representada pelas Perícias atuais.
 
 ---
 
 # Habilidades Herdadas
 
-O Feiticeiro mantém normalmente as Habilidades do Neófito:
+O Feiticeiro mantém normalmente as Habilidades do [[Neófito]], incluindo:
 
-> **Bola de Fogo**  
-> **Corte de Vento**  
-> **Bala de Pedra**  
-> **Prisão de Água**
+- Bola de Fogo;
+- Corte de Vento;
+- Bala de Pedra;
+- Prisão de Água.
 
-Também mantém suas Passivas:
+Também mantém suas Passivas herdadas.
 
-> **Sobrecarga**  
-> **Conjuração Eficiente**  
-> **Pressão Mágica**
+Diferente do [[Mago]], o Feiticeiro:
 
-Diferente do Mago, o Feiticeiro **não aprimora naturalmente as Habilidades elementais herdadas**.
+> **não aprimora automaticamente as Habilidades elementais herdadas.**
 
-Seu desenvolvimento ocorre através de novas disciplinas mágicas.
+Seu desenvolvimento Tier 2 ocorre através de novas formas de manipulação mágica.
 
 ---
 
-# Ativas Novas
+# Ativas Tier 2
 
-## 1. Projétil Arcano - Nv.1
+## Projétil Arcano | Nv.1
 
 O Feiticeiro concentra Mana pura em um pequeno núcleo e o dispara contra o alvo.
 
-Diferente de uma magia elemental, o Projétil Arcano não utiliza fogo, gelo, eletricidade ou qualquer outro elemento.
+Diferente de uma magia elemental:
+
+> **Projétil Arcano não possui elemento.**
+
+---
+
+### Ataque
+
+> **Dado + Conjuração + Modificadores**
+
+O Ataque recebe:
+
+> **+3 de [[Regras/Precisão|Precisão]]**
+
+Esse valor é um:
+
+> **Modificador de Precisão**
+
+e não aumenta permanentemente Conjuração.
+
+---
 
 ### Dano
 
 > **20 Dano Mágico**
 
-O ataque é considerado:
+O Dano é considerado:
 
-> **Dano Mágico não elemental**
+> **Mágico Não Elemental**
 
-Portanto, resistências ou vulnerabilidades específicas a elementos não são aplicadas.
+Portanto, não recebe automaticamente propriedades de:
 
-A [[Defesa Mágica]] continua funcionando normalmente.
+- Fogo;
+- Água;
+- Terra;
+- Vento;
+- Gelo;
+- Eletricidade;
+- outro elemento.
 
-### Precisão
+Defesa Mágica é aplicada normalmente.
 
-Por possuir uma trajetória simples e ser formado diretamente através da Mana, recebe:
-
-> **+3 Precisão Mágica**
+---
 
 ### Alcance
 
 > **30 metros**
+
+---
 
 ### Custo
 
@@ -213,372 +366,745 @@ Por possuir uma trajetória simples e ser formado diretamente através da Mana, 
 
 ---
 
-## 2. Telecinese - Nv.1
+## Telecinese | Nv.1
 
-O Feiticeiro utiliza sua Mana para exercer força sobre objetos ou criaturas sem tocá-los diretamente.
+O Feiticeiro utiliza Mana para exercer força à distância sobre matéria física.
 
-### Objetos
+Pode afetar:
 
-Pode manipular objetos dentro de:
-
-> **20 metros**
-
-Um objeto normalmente pode ser deslocado até:
-
-> **8 metros**
-
-durante a utilização.
-
-No Nv.1, a habilidade pode manipular objetos de aproximadamente:
-
-> **até 100 kg**
-
-Objetos maiores ou situações especiais podem exigir:
-
-- mais Mana;
-    
-- testes adicionais;
-    
-- níveis superiores da Habilidade;
-    
-- condições apropriadas.
-    
-
-### Criaturas
-
-Telecinese também pode ser utilizada contra uma criatura.
-
-O alvo realiza um teste apropriado, normalmente utilizando:
-
-- Atletismo;
-    
-- Agilidade;
-    
-- Vontade;
-    
-- outra resistência coerente.
-    
-
-contra:
-
-> **8 + Precisão Mágica do Feiticeiro**
-
-Em falha, o Feiticeiro pode deslocá-lo até:
-
-> **5 metros**
-
-Também pode erguê-lo até:
-
-> **3 metros do chão**
-
-### Arremesso
-
-Caso uma criatura ou objeto seja arremessado violentamente contra:
-
-- parede;
-    
-- chão;
-    
-- objeto sólido;
-    
-- outra criatura;
-    
-
-pode sofrer:
-
-> **12 Dano Físico**
-
-O Mestre pode alterar esse Dano caso a massa, velocidade ou superfície envolvida justifique um resultado diferente.
-
-### Limitações
-
-Telecinese não permite:
-
-- esmagar órgãos internos diretamente;
-    
-- controlar movimentos extremamente precisos dentro do corpo;
-    
-- manipular automaticamente criaturas gigantes;
-    
-- ignorar completamente o peso de um objeto;
-    
-- arrancar equipamentos presos ou empunhados sem resistência.
-    
-
-### Custo
-
-> **25 Mana + 1 PA**
+- objetos;
+- equipamentos;
+- criaturas;
+- outros alvos fisicamente manipuláveis.
 
 ---
-
-## 3. Encantamento Transitório - Nv.1
-
-O Feiticeiro insere temporariamente uma matriz mágica em um equipamento.
-
-Escolha:
-
-- arma;
-    
-- armadura;
-    
-- foco mágico.
-    
-
-O objeto precisa estar:
-
-> **a até 5 metros**
-
-### Arma Encantada
-
-Uma arma recebe:
-
-> **+6 Dano Mágico**
-
-em seus ataques.
-
-Esse Dano é adicional ao Dano normal da arma.
-
----
-
-### Armadura Encantada
-
-Uma armadura recebe:
-
-> **+4 Defesa Mágica**
-
----
-
-### Foco Encantado
-
-Um foco utilizado para conjuração recebe:
-
-> **+3 Precisão Mágica**
-
----
-
-### Duração
-
-> **3 Turnos**
-
-### Limite
-
-Uma mesma criatura pode receber benefícios de apenas:
-
-> **1 Encantamento Transitório do mesmo Feiticeiro por vez**
-
-Aplicar outro substitui o anterior.
-
-O efeito termina caso o item seja destruído.
-
-### Custo
-
-> **30 Mana + 1 PA**
-
----
-
-## 4. Dissipação Arcana - Nv.1
-
-O Feiticeiro interfere diretamente na estrutura de uma magia ativa, tentando desfazer a matriz que mantém o efeito funcionando.
-
-### Alvo
-
-Pode tentar dissipar:
-
-- Buffs mágicos;
-    
-- Debuffs mágicos;
-    
-- barreiras mágicas;
-    
-- encantamentos temporários;
-    
-- ilusões mantidas por magia;
-    
-- efeitos persistentes;
-    
-- outras manifestações mágicas apropriadas.
-    
 
 ### Alcance
 
 > **20 metros**
 
-### Teste
+---
 
-O Feiticeiro realiza um teste utilizando:
+# Objetos
 
-> **Precisão Mágica**
+Um objeto desimpedido de até aproximadamente:
 
-Caso a Habilidade que criou o efeito possua uma Dificuldade própria:
+> **100 kg**
 
-> utiliza essa Dificuldade.
+pode ser manipulado.
 
-Caso não exista uma Dificuldade definida, utiliza:
+Durante uma utilização, pode ser deslocado até:
 
-> **10 + Precisão Mágica do criador do efeito**
+> **8 metros**
+
+desde que exista espaço e trajetória apropriados.
+
+---
+
+# Objetos Resistidos
+
+Caso o objeto esteja:
+
+- preso;
+- fixado;
+- empunhado;
+- sendo segurado;
+- resistindo de alguma maneira;
+
+a manipulação pode exigir:
+
+> **Dado + Conjuração + Modificadores**
+
+contra uma resistência apropriada.
+
+---
+
+# Criaturas
+
+Contra uma criatura, Telecinese utiliza:
+
+> **Teste Oposto**
+
+O Feiticeiro realiza:
+
+> **Dado + Conjuração + Modificadores**
+
+A criatura pode resistir através de um método apropriado.
+
+Normalmente:
+
+> **Dado + [[Atributos Centrais/Constituição#Atletismo|Atletismo]] + Modificadores**
+
+ou:
+
+> **Dado + [[Atributos Centrais/Destreza#Agilidade|Agilidade]] + Modificadores**
+
+ou:
+
+> **Dado + Vontade + Modificadores**
+
+O método utilizado depende da forma como a criatura tenta resistir.
+
+---
+
+# Sucesso
+
+Em sucesso, escolha um dos efeitos:
+
+> **deslocar o alvo até 5 metros**
+
+ou:
+
+> **erguê-lo até 3 metros do chão**
+
+A criatura não fica automaticamente incapaz de agir.
+
+Suas possibilidades continuam dependendo de:
+
+- posição;
+- Habilidades;
+- alcance;
+- [[Regras/Condições|Condições]];
+- ambiente.
+
+---
+
+# Arremesso
+
+Caso uma criatura ou objeto seja lançado violentamente contra:
+
+- parede;
+- chão;
+- estrutura;
+- objeto sólido;
+- outra criatura;
+
+pode sofrer:
+
+> **12 Dano Físico**
+
+Defesa Física é aplicada normalmente.
+
+Massa, velocidade, altura e superfície podem alterar esse valor quando apropriado.
+
+---
+
+# Limitações
+
+Telecinese Nv.1 não permite:
+
+- esmagar órgãos internos diretamente;
+- controlar sangue dentro do corpo;
+- manipular órgãos;
+- executar movimentos microscópicos;
+- ignorar peso indefinidamente;
+- manipular automaticamente criaturas gigantes;
+- arrancar automaticamente equipamento empunhado;
+- controlar outra criatura como uma marionete.
+
+---
+
+# Custo
+
+> **25 Mana + 1 PA**
+
+---
+
+## Encantamento Transitório | Nv.1
+
+O Feiticeiro insere temporariamente uma matriz mágica em um equipamento.
+
+### Alvo
+
+Escolha:
+
+- arma;
+- armadura;
+- foco mágico.
+
+O objeto precisa estar a até:
+
+> **5 metros**
+
+---
+
+# Arma Encantada
+
+A arma passa a causar:
+
+> **+6 Dano Mágico**
+
+em seus Ataques.
+
+Esse Dano é adicional ao Dano normal.
+
+Ele é resolvido separadamente contra:
+
+> **Defesa Mágica**
+
+---
+
+# Armadura Encantada
+
+A armadura passa a conceder:
+
+> **+4 Defesa Mágica**
+
+ao usuário enquanto permanecer equipada.
+
+---
+
+# Foco Encantado
+
+Quando uma Habilidade for executada através daquele Foco e utilizar Conjuração:
+
+> **+3 no Teste de Conjuração**
+
+Esse valor é um:
+
+> **Modificador do Teste**
+
+e não aumenta permanentemente a Perícia.
+
+---
+
+# Duração
+
+> **3 Turnos**
+
+---
+
+# Limite
+
+Uma mesma criatura pode beneficiar-se de apenas:
+
+> **1 Encantamento Transitório do mesmo Feiticeiro por vez.**
+
+Aplicar outro:
+
+> **substitui o anterior.**
+
+O efeito termina caso o item seja destruído ou deixe de existir.
+
+---
+
+# Custo
+
+> **30 Mana + 1 PA**
+
+---
+
+## Dissipação Arcana | Nv.1
+
+O Feiticeiro interfere diretamente na matriz que sustenta uma manifestação mágica ativa.
+
+Pode tentar dissipar:
+
+- Buffs;
+- Debuffs;
+- Barreiras Mágicas;
+- encantamentos temporários;
+- ilusões;
+- campos;
+- efeitos persistentes;
+- outras manifestações mágicas apropriadas.
+
+---
+
+# Alcance
+
+> **20 metros**
+
+---
+
+# Teste
+
+Realiza:
+
+> **Dado + Conjuração + Modificadores**
+
+contra:
+
+> **Dificuldade do efeito**
+
+quando ela existir.
+
+---
+
+# Sem Dificuldade própria
+
+Caso o efeito não possua uma Dificuldade definida, utilize como referência:
+
+> **10 + Conjuração do criador**
+
+ou:
+
+> **a Perícia equivalente utilizada para criar ou sustentar o efeito**
+
+quando apropriado.
+
+---
+
+# Sucesso
 
 Em sucesso:
 
-> **um efeito mágico temporário é dissipado.**
+> **1 efeito mágico temporário válido é dissipado.**
 
-### Efeitos permanentes
+---
 
-Dissipação Arcana não destrói permanentemente:
+# Efeitos Permanentes
+
+Dissipação Arcana não destrói automaticamente:
 
 - itens mágicos;
-    
-- encantamentos permanentes;
-    
 - artefatos;
-    
-- estruturas mágicas permanentes.
-    
+- encantamentos permanentes;
+- estruturas mágicas permanentes;
+- características raciais;
+- propriedades permanentes de Classe.
 
-Quando apropriado, pode apenas:
+Quando fizer sentido, um sucesso pode:
 
-> **suprimir o efeito por 1 Turno**
+> **suprimir temporariamente**
 
-caso tenha sucesso.
+uma propriedade por:
 
-### Magias especiais
+> **1 [[Regras/Turno|Turno]]**
+
+caso o efeito seja suscetível à interferência.
+
+---
+
+# Magias Especiais
 
 Efeitos como:
 
 - maldições;
-    
 - pactos;
-    
-- rituais;
-    
-- selos complexos;
-    
-- poderes de entidades;
-    
+- rituais complexos;
+- selos;
 - magia divina;
-    
+- poderes de entidades;
 - fenômenos desconhecidos;
-    
 
-podem exigir métodos específicos e não são automaticamente removidos por Dissipação Arcana.
+podem exigir:
 
-### Custo
+- métodos específicos;
+- componentes;
+- conhecimento;
+- Habilidades;
+- requisitos próprios.
+
+Dissipação Arcana:
+
+> **não é uma forma universal de apagar qualquer magia.**
+
+---
+
+# Custo
 
 > **35 Mana + 1 PA**
 
 ---
 
-# Passivas Novas
+# Passivas Tier 2
 
-## 1. Matriz Maleável - Nv.1
+## Matriz Maleável | Nv.1
 
-O Feiticeiro aprende a modificar a estrutura de uma magia enquanto ainda está formando sua matriz.
+O Feiticeiro aprende a modificar a estrutura de uma magia enquanto ela ainda está sendo formada.
 
-Ao utilizar uma Habilidade **não elemental**, pode escolher **um** dos seguintes benefícios:
+Essa capacidade representa diretamente sua tendência de:
 
-> **+3 Precisão Mágica**
+> **adaptar rapidamente a conjuração à situação.**
+
+---
+
+# Requisito
+
+A Habilidade precisa ser:
+
+> **não elemental**
+
+---
+
+# Efeito
+
+Uma vez por Turno, antes de executar a Habilidade, escolha:
+
+### Precisão
+
+> **+3 de Precisão**
+
+caso a Habilidade realize um Ataque.
 
 ou:
 
-> **+1 na Dificuldade para resistir à Habilidade**
+### Resistência
+
+> **+1 na Dificuldade**
+
+para resistir aos efeitos daquela Habilidade.
 
 ou:
+
+### Alcance
 
 > **+5 metros de Alcance**
 
-A escolha é realizada antes da conjuração.
+quando a Habilidade possuir um alcance apropriado.
 
-### Limite
+---
+
+# Limite
+
+Apenas:
+
+> **1 opção**
+
+pode ser aplicada à mesma conjuração.
 
 Matriz Maleável pode ser utilizada:
 
 > **1 vez por Turno**
 
-Não pode aplicar mais de uma opção à mesma conjuração.
+Habilidades elementais herdadas do Neófito:
 
-Habilidades elementais herdadas do Neófito não recebem esse benefício.
+> **não recebem esse benefício.**
 
 ---
 
-## 2. Análise Arcana - Nv.1
+## Análise Arcana | Nv.1
 
-O estudo de diferentes disciplinas permite que o Feiticeiro reconheça padrões presentes em fenômenos mágicos.
+O Feiticeiro aprende a desmontar mentalmente uma manifestação mágica em suas partes, reconhecendo sua estrutura e funcionamento.
 
-Ao analisar:
+### Pode analisar
 
-- uma Habilidade;
-    
-- um encantamento;
-    
-- uma poção;
-    
-- uma transformação;
-    
-- uma barreira;
-    
-- um objeto mágico;
-    
-- uma manifestação persistente;
-    
-- outra estrutura mágica;
-    
+- Habilidade Mágica;
+- encantamento;
+- poção;
+- transformação;
+- Barreira;
+- objeto mágico;
+- matriz;
+- fenômeno;
+- efeito persistente;
+- outra estrutura mágica.
 
-recebe:
+---
 
-> **+5 no teste utilizado para compreendê-la**
+# Teste
 
-quando houver um teste.
+Quando necessário:
 
-Dependendo do sucesso e das informações disponíveis, o Feiticeiro pode descobrir características como:
+> **Dado + Arcanismo + Modificadores**
+
+Análise Arcana concede:
+
+> **+5 no Teste**
+
+quando estiver sendo utilizada especificamente para compreender a estrutura mágica analisada.
+
+---
+
+# Informações possíveis
+
+Dependendo do resultado, pode descobrir:
 
 - natureza da magia;
-    
-- disciplina utilizada;
-    
+- disciplina;
 - funcionamento aproximado;
-    
-- duração;
-    
-- forma de ativação;
-    
-- fonte de energia;
-    
-- possíveis métodos de interferência.
-    
-
-### Compreensão
-
-Após identificar com sucesso um efeito mágico ativo, recebe:
-
-> **+3 em testes para resistir, dissipar ou interferir diretamente naquele efeito**
-
-até o final da cena.
-
-Análise Arcana não concede conhecimento impossível.
-
-Um fenômeno completamente desconhecido ainda pode revelar apenas informações parciais.
+- fonte energética;
+- duração aparente;
+- método de ativação;
+- forma de manutenção;
+- propriedades relevantes;
+- possíveis vulnerabilidades;
+- métodos prováveis de interferência.
 
 ---
-# Evolução
 
-O Feiticeiro possui uma quantidade especialmente grande de caminhos futuros.
+# Compreensão
 
-Suas evoluções dependem principalmente das disciplinas que decidir desenvolver.
+Depois de analisar com sucesso um efeito mágico específico, o Feiticeiro recebe:
 
-Alguns exemplos:
+> **+3**
 
-> **Encantador**  
-> Especialista em Buffs, encantamento de objetos e criação de propriedades mágicas.
+em Testes diretamente relacionados a:
 
-> **Transmutador**  
-> Especialista em transformação de matéria, propriedades e formas.
+- resistir àquele efeito;
+- dissipá-lo;
+- interferir nele;
+- romper sua estrutura;
 
-> **Telecinético**  
-> Especialista em manipulação de objetos, criaturas, força e movimento através da magia.
+até:
 
-> **Alquimista Arcano**  
-> Especialista em poções, reagentes e criação de efeitos mágicos através de substâncias.
+> **o final da cena**
 
-> **Adivinho**  
-> Especialista em obtenção de informações através de magia, observação de eventos e previsão.
+ou até o efeito deixar de existir.
 
-Outros caminhos podem existir dependendo dos conhecimentos encontrados pelo personagem.
+---
+
+# Exemplo
+
+O Feiticeiro analisa uma Barreira utilizando:
+
+> **Arcanismo**
+
+Depois utiliza:
+
+> **Dissipação Arcana**
+
+contra aquela mesma Barreira.
+
+Como compreendeu sua estrutura:
+
+> **+3 no Teste de Dissipação**
+
+---
+
+# Limitações
+
+Análise Arcana não permite:
+
+- copiar automaticamente uma magia;
+- aprender uma Habilidade apenas observando;
+- descobrir informação sem evidência;
+- compreender instantaneamente qualquer fenômeno;
+- ignorar proteções contra análise.
+
+Uma magia completamente desconhecida pode revelar apenas:
+
+> **informações parciais.**
+
+---
+
+# Feiticeiro e Magia Elemental
+
+O Feiticeiro continua capaz de utilizar normalmente as Habilidades elementais herdadas do [[Neófito]].
+
+Entretanto:
+
+> **não recebe automaticamente aprimoramentos elementais através desta evolução.**
+
+Isso cria uma separação clara entre os dois caminhos.
+
+### Mago
+
+> aprofunda elementos e potência de conjuração.
+
+### Feiticeiro
+
+> aprofunda manipulação, velocidade e versatilidade mágica.
+
+### Ocultista
+
+> representa outro caminho mágico quando desenvolvido.
+
+---
+
+# Magia Rápida
+
+Magia rápida faz parte da identidade do Feiticeiro.
+
+Isso não significa que todas as suas Habilidades:
+
+> **precisam obrigatoriamente custar 1 PA.**
+
+O conceito significa que sua progressão tende a favorecer:
+
+- conjurações curtas;
+- respostas imediatas;
+- efeitos adaptáveis;
+- alterações realizadas durante a própria execução;
+- menor dependência de preparação prolongada.
+
+Habilidades futuras ainda podem possuir:
+
+- Cast;
+- concentração;
+- preparação;
+- manutenção;
+- múltiplos Turnos.
+
+Quando isso acontecer:
+
+> **a própria Habilidade define seus requisitos.**
+
+---
+
+# Diferença entre Feiticeiro e Mago
+
+## Feiticeiro
+
+O Feiticeiro tende a priorizar:
+
+- velocidade;
+- flexibilidade;
+- adaptação;
+- manipulação;
+- controle;
+- resposta imediata;
+- variedade de disciplinas.
+
+Sua pergunta principal é:
+
+> **“como posso moldar essa magia para resolver a situação agora?”**
+
+---
+
+## Mago
+
+O [[Mago]] tende a priorizar:
+
+- potência;
+- Cast;
+- preparação;
+- grandes quantidades de Mana;
+- conjurações elementais;
+- efeitos de maior escala.
+
+Sua pergunta principal é:
+
+> **“quanto poder posso colocar nessa conjuração?”**
+
+---
+
+# Tendência, não restrição
+
+Essa diferença:
+
+> **não é uma proibição absoluta.**
+
+Um Feiticeiro pode possuir:
+
+- magia demorada;
+- ritual;
+- feitiço de alta potência;
+- Habilidade de concentração.
+
+Um Mago pode possuir:
+
+- magia rápida;
+- reação;
+- conjuração simples;
+- Habilidade de baixo custo.
+
+A diferença está:
+
+> **na direção principal de desenvolvimento de cada Classe.**
+
+---
+
+# Feiticeiro e Arqueiro Arcano
+
+[[Arqueiro Arcano]] utiliza Feiticeiro como um de seus requisitos porque depende diretamente das bases desenvolvidas por esta Classe:
+
+- manipulação de propriedades;
+- Encantamento;
+- Telecinese;
+- Conjuração;
+- alteração de matrizes;
+- adaptação de magia durante a execução.
+
+Por isso, seu requisito inclui:
+
+> **Feiticeiro Nv.20**
+
+junto de:
+
+> **Arqueiro Nv.20**
+
+---
+
+# Evoluções
+
+O Feiticeiro possui uma quantidade especialmente grande de possíveis caminhos futuros.
+
+Suas Evoluções dependem principalmente das disciplinas desenvolvidas.
+
+## Encantador
+
+Especialista em:
+
+- Buffs;
+- encantamentos;
+- propriedades mágicas;
+- equipamentos mágicos.
+
+---
+
+## Transmutador
+
+Especialista em:
+
+- transformação de matéria;
+- alteração de propriedades;
+- formas;
+- transfiguração.
+
+---
+
+## Telecinético
+
+Especialista em:
+
+- força mágica;
+- movimento;
+- manipulação de objetos;
+- controle telecinético.
+
+---
+
+## Alquimista Arcano
+
+Especialista em:
+
+- poções;
+- reagentes;
+- substâncias;
+- efeitos mágicos preparados.
+
+---
+
+## Adivinho
+
+Especialista em:
+
+- informação;
+- observação mágica;
+- previsão;
+- investigação sobrenatural.
+
+---
+
+Outros caminhos podem existir conforme forem:
+
+- descobertos;
+- estudados;
+- ensinados;
+- desenvolvidos pelo personagem.
+
+---
+
+# Estrutura da Classe
+
+Feiticeiro Tier 2 adiciona:
+
+> **4 Habilidades Ativas**
+
+e:
+
+> **2 Passivas**
+
+às capacidades herdadas de Neófito.
+
+Sua força não vem de possuir mais Habilidades gratuitamente que outras Classes do mesmo Tier.
+
+Ela vem da:
+
+> **quantidade de aplicações que suas ferramentas mágicas podem produzir.**
+
+---
+
+> **Regra específica > regra geral.**

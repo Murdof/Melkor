@@ -2,9 +2,21 @@ O **Recruta** é uma [[Classes|classe]] de combate focada nos **fundamentos do c
 
 Sua principal característica é a versatilidade. O Recruta pode investir [[Estamina]] para realizar **ataques mais poderosos**, forçar seu corpo para **agir além do ritmo normal** ou assumir uma **Postura Defensiva**, abandonando a ofensiva para proteger a si mesmo e aliados próximos.
 
-É uma classe preparada para permanecer na linha de frente, utilizando sua boa Regeneração de Estamina para sustentar ataques, defesas e [[Reação|reações]] durante confrontos prolongados.
+É uma classe preparada para permanecer na linha de frente, utilizando sua boa Regeneração de Estamina para sustentar ataques, defesas e [[Regras/Turno#Reações|reações]] durante confrontos prolongados.
 
-O Recruta serve como base para diferentes caminhos de combate físico, podendo evoluir para estilos especializados em **ofensiva, proteção, combate corporal ou atuação organizada em grupo**.
+O treinamento básico do Recruta também inclui fundamentos de combate corporal, permitindo que continue se defendendo mesmo quando estiver sem uma arma adequada.
+
+O Recruta serve como base para diferentes caminhos de combate físico, podendo evoluir para estilos especializados em **ofensiva, proteção ou combate corporal**.
+
+---
+
+# Dados da Classe
+
+- **Tier:** T1
+- **Tipo:** Combate
+- **Nível Máximo:** 10
+- **Árvore:** Recruta
+- **Slot Compatível:** Universal ou Combate
 
 ---
 
@@ -15,42 +27,58 @@ Classe base focada em combate direto, resistência e presença na linha de frent
 ### O que faz
 
 - Absorve [[Dano]]
-- Mantém inimigos próximos e controla espaço
-- Troca golpes de forma constante
-- Sustenta combate prolongado
+- Protege aliados próximos
+- Mantém inimigos sob pressão
+- Sustenta combates prolongados
+- Adapta-se a diferentes estilos de combate físico
+- Mantém capacidade básica de combate mesmo desarmado
 
 ---
 
-### Bônus
+# Bônus de Classe
+
+## Reservas
 
 - +30 [[Vida]]
-- +20 [[Mana]]
 - +100 [[Estamina]]
-- +15 Regeneração de Estamina
-- +2 Precisão Melee
-- +2 Defesa Física
-- +2 Defesa Mental
-- +1 Agilidade
-- +1 Atletismo
-- +1 Vontade
 
-### Afinidades do Recruta
+## Regeneração
+
+- +15 Regeneração de Estamina
+
+## Perícias
+
+- +1 [[Atributos Centrais/Destreza#Agilidade|Agilidade]]
+- +1 Atletismo
+- +1 [[Atributos Centrais/Força#Combate Desarmado|Combate Desarmado]]
+- +1 [[Atributos Centrais/Espírito#Vontade|Vontade]]
+
+Esses valores são **Bônus de Classe** e não representam investimento natural realizado com PP.
+
+## Defesas
+
+- +2 [[Regras/Defesa|Defesa]] Física
+- +2 Defesa Mental
+
+---
+
+# Afinidades do Recruta
 
 - Vida
 - Estamina
 - Regeneração de Estamina
-- Dano Melee
-- Precisão Melee
 - Defesa Física
 - Defesa Mental
+- Agilidade
 - Atletismo
+- Combate Desarmado
 - Vontade
 
 ---
 
 # Ativas
 
-##### Postura Defensiva — Nv.1
+##### Postura Defensiva - Nv.1
 
 **Descrição:**  
 O Recruta abandona completamente a ofensiva e concentra toda sua capacidade em defender a si mesmo e seus aliados.
@@ -61,7 +89,9 @@ Enquanto a postura estiver ativa, recebe:
 
 Além disso, pode **interceptar ataques direcionados a aliados que estejam a até 8 metros dele**.
 
-Não existe limite fixo de interceptações. Enquanto possuir [[Estamina]] suficiente para continuar defendendo e for fisicamente capaz de realizar a interceptação, pode continuar protegendo seus aliados.
+Não existe limite fixo de interceptações.
+
+Enquanto possuir [[Estamina]] suficiente para continuar defendendo e for fisicamente capaz de realizar a interceptação, pode continuar protegendo seus aliados.
 
 ### Interceptação
 
@@ -71,11 +101,13 @@ A partir desse momento, o ataque passa a ser tratado como direcionado ao própri
 
 Ele então precisa realizar normalmente uma defesa válida, como:
 
-> [[Bloquear]], [[Esquivar]] ou [[Aparar]], caso tenha condições de utilizá-la.
+> [[Bloquear]], [[Esquivar]] ou [[Aparar]]
 
-A defesa segue suas regras e paga **seu próprio custo normal de Estamina**.
+caso tenha condições de utilizá-la.
 
-Isso significa que a Postura Defensiva permite **interceptar o ataque**, mas não concede uma defesa gratuita.
+A defesa segue suas próprias regras e paga normalmente seus custos.
+
+Postura Defensiva permite **interceptar o ataque**, mas não concede uma defesa gratuita.
 
 ### Limitações da Interceptação
 
@@ -83,7 +115,7 @@ O Recruta precisa ser realmente capaz de alcançar a trajetória do ataque.
 
 Estar a até 8 metros do aliado significa apenas que ele está dentro da distância máxima permitida pela Habilidade.
 
-Isso **não significa que consiga automaticamente interceptar qualquer ataque**.
+Isso não significa que consiga automaticamente interceptar qualquer ataque.
 
 Paredes, obstáculos, imobilização, posição, natureza do ataque e outras circunstâncias podem tornar uma interceptação impossível.
 
@@ -99,103 +131,103 @@ Enquanto estiver em Postura Defensiva:
 
 ### Custo
 
-> **1 [[Pontos de Ação|PA]] + 10 Estamina** para entrar na postura.
+> **1 [[Pontos de Ação|PA]] + 10 Estamina**
 
-Permanecer nela **não possui custo adicional**.
+para entrar na postura.
+
+Permanecer nela não possui custo adicional.
 
 Sair da Postura Defensiva é gratuito.
 
 ---
 
-##### Ataque Pesado — Nv.1
+##### Ataque Pesado - Nv.1
 
 **Descrição:**  
 O Recruta coloca mais força e energia em um ataque físico, aumentando consideravelmente sua potência em troca de maior consumo de [[Estamina]].
 
-### Dano
+### Efeito
+
+O ataque recebe:
 
 > **+50% de Dano**
 
 O bônus é aplicado ao [[Dano]] daquele ataque seguindo a ordem normal de cálculo.
 
-**Exemplo:**
+### Exemplo
 
-> Ataque causaria 30 de Dano.  
+Um ataque causaria:
+
+> **30 de Dano**
+
+Com Ataque Pesado:
+
 > `30 + 50% = 45`
-> 
-> **45 de Dano.**
+
+Resultado:
+
+> **45 de Dano**
 
 ### Custo
 
-O ataque consome seu custo normal de Estamina **+50% do custo da arma**.
+Ataque Pesado utiliza o custo normal do ataque e acrescenta:
 
-**Exemplo:**
+> **+50% do custo de Estamina do ataque**
 
-Uma espada possui custo de:
+### Exemplo
+
+Uma espada possui um ataque que custa:
 
 > **15 Estamina**
 
-Ataque Pesado:
+Com Ataque Pesado:
 
 > `15 + 50% = 22,5`
 
-Quando necessário, o custo é arredondado **para cima**:
+Quando necessário, o custo é arredondado para cima:
 
 > **23 Estamina**
 
 ### PA
 
-Ataque Pesado utiliza o mesmo [[Pontos de Ação|PA]] que seria utilizado pelo ataque normal.
+Ataque Pesado utiliza o mesmo custo de [[Pontos de Ação|PA]] do ataque utilizado.
 
-Ele **não exige um PA adicional** apenas por ser um Ataque Pesado.
+Ele não exige PA adicional apenas por ser um Ataque Pesado.
 
 ---
 
-##### Surto de Ação — Nv.1
+##### Surto de Ação - Nv.1
 
 **Descrição:**  
-O Recruta força o próprio corpo além do ritmo normal por alguns instantes, conseguindo realizar um novo período completo de ações imediatamente.
+O Recruta força o próprio corpo além do ritmo normal por alguns instantes, recuperando imediatamente sua capacidade de continuar agindo.
 
 ### Efeito
 
-Recebe:
+Ao utilizar Surto de Ação:
 
-> **+1 [[Turno]] Extra imediatamente.**
+> **seu PA Atual é recuperado até seu PA Máximo.**
 
-O Turno Extra possui normalmente todos os [[Pontos de Ação|Pontos de Ação (PA)]] do personagem.
+Surto de Ação não cria um novo [[Turno]].
 
-### Turno Extra
+Ele apenas permite que o Recruta continue realizando ações durante o Turno atual.
 
-Um Turno concedido por Surto de Ação representa uma extensão artificial do Turno original.
+### Não ativa novamente
 
-Por isso, ele **não ativa novamente efeitos de início de Turno**.
-
-Isso inclui:
+Surto de Ação não ativa novamente:
 
 - Regeneração de [[Estamina]];
-    
 - Regeneração de [[Mana]];
-    
 - Regeneração de [[Vida]];
-    
-- recuperação de outros recursos;
-    
-- Habilidades e Passivas ativadas no início do Turno;
-    
-- Condições que causariam seus efeitos no início do Turno.
-    
+- recuperação de outras Reservas;
+- Habilidades ativadas no início do Turno;
+- Passivas ativadas no início do Turno;
+- efeitos de [[Condições]] relacionados ao início do Turno.
 
-Esses efeitos continuam acontecendo apenas no Turno natural do personagem.
-
-O Turno Extra ainda permite utilizar PA, movimentar-se, atacar e utilizar Habilidades normalmente, pagando todos os seus custos.
+Esses efeitos continuam ocorrendo apenas no Turno natural do personagem.
 
 ### Limite
 
-Surto de Ação pode ser utilizado:
-
 > **1 vez por [[Turno#Turno e Rodada|Rodada]].**
-
-Turnos Extras não renovam esse limite.
 
 ### Custo
 
@@ -203,141 +235,164 @@ Turnos Extras não renovam esse limite.
 
 ---
 
-##### Investida — Nv.1
+##### Investida - Nv.1
 
 **Descrição:**  
-O Recruta realiza uma corrida explosiva para reduzir rapidamente a distância entre ele e um inimigo.
+O Recruta realiza um avanço explosivo para reduzir rapidamente a distância entre ele e uma ameaça.
 
 ### Efeito
 
 Pode percorrer até:
 
-> **2× sua distância normal de Corrida.**
+> **2× seu [[Regras/Deslocamento|Deslocamento]] atual**
 
-A distância é calculada utilizando a Corrida atual do personagem conforme [[Movimento]].
+em direção a um inimigo ou ameaça identificada.
 
-**Exemplo:**
+### Exemplo
 
-Se naquele momento consegue Correr:
+Se o personagem possui:
 
-> **8 metros**
+> **6 metros de Deslocamento**
 
-A Investida permite:
+pode percorrer durante a Investida:
 
-> `8 × 2 = 16 metros`
+> `6 × 2 = 12 metros`
 
 ### Direção
 
-A Investida precisa ser realizada **em direção a um inimigo ou ameaça identificada**.
+A Investida precisa ser realizada com o objetivo de **reduzir distância de uma ameaça identificada**.
 
-Ela não pode ser utilizada simplesmente como uma Corrida dobrada para exploração, viagem ou fuga.
+Ela não pode ser utilizada simplesmente para aumentar o deslocamento durante:
 
-### Dano
+- exploração;
+- viagem;
+- fuga;
+- movimentação sem propósito ofensivo.
 
-> **Nenhum.**
+O personagem ainda precisa possuir uma rota fisicamente possível até o destino.
 
-Investida **não concede um ataque gratuito**.
+Paredes, obstáculos, terreno e outras limitações continuam sendo aplicados normalmente.
 
-Depois de alcançar o alvo, o personagem ainda precisa possuir [[Pontos de Ação|PA]] e pagar normalmente os custos necessários caso queira realizar um [[Ataque]].
+### Ataque
+
+Investida não concede um ataque gratuito.
+
+Depois de alcançar seu destino, o personagem ainda precisa possuir [[Pontos de Ação|PA]] e pagar normalmente os custos necessários caso queira realizar um [[Ataque]].
 
 ### Custo
 
 > **1 PA + 20 [[Estamina]]**
 
+---
+
 # Passivas
 
-##### Contra-Ataque — Nv.1
+##### Contra-Ataque - Nv.1
 
 **Descrição:**  
 O Recruta aprende a transformar uma defesa bem-sucedida em uma oportunidade imediata de ataque.
 
-Após **defender com sucesso um [[Ataque]] corpo a corpo**, pode realizar imediatamente um ataque corpo a corpo contra o agressor.
+Após defender com sucesso um [[Ataque]] corpo a corpo, pode realizar imediatamente um ataque corpo a corpo contra o agressor.
 
 O Contra-Ataque:
 
 - não consome [[Pontos de Ação|PA]];
-- utiliza normalmente a [[Precisão]] correspondente;
+- utiliza normalmente a [[Precisão]] correspondente ao método utilizado;
 - utiliza normalmente o [[Dano]] da arma ou método empregado;
 - exige que o agressor esteja ao alcance;
-- paga normalmente o custo de [[Estamina]] da arma **+10 Estamina adicionais**.
+- paga normalmente o custo de [[Estamina]] do ataque;
+- acrescenta **+10 Estamina** ao custo.
 
-**Exemplo:**
+O Contra-Ataque também pode utilizar [[Atributos Centrais/Força#Combate Desarmado|Combate Desarmado]] caso o Recruta esteja em posição e condições físicas adequadas para realizar o ataque dessa forma.
 
-O Recruta utiliza uma espada cujo ataque normalmente custa:
+### Exemplo
+
+O Recruta utiliza uma espada cujo ataque custa:
 
 > **15 Estamina**
 
-Após defender com sucesso um ataque corpo a corpo, decide utilizar Contra-Ataque:
+Ao realizar um Contra-Ataque:
 
 > `15 + 10 = 25 Estamina`
 
-O Contra-Ataque custa:
+Custo final:
 
 > **25 Estamina**
 
 ### Restrição
 
-Contra-Ataque **não pode ser utilizado enquanto [[#Postura Defensiva — Nv.1|Postura Defensiva]] estiver ativa**.
+Contra-Ataque não pode ser utilizado enquanto **Postura Defensiva** estiver ativa.
 
-Isso acontece porque, durante a Postura Defensiva, o Recruta abandona completamente sua ofensiva para concentrar-se em proteger a si mesmo e seus aliados.
+Durante a Postura Defensiva, o Recruta abandona completamente sua ofensiva para concentrar-se em proteger a si mesmo e seus aliados.
 
 ---
 
-##### Inabalável — Nv.1
+##### Inabalável - Nv.1
 
 **Descrição:**  
 O treinamento do Recruta permite que ele mantenha sua posição mesmo quando forças externas tentam derrubá-lo ou deslocá-lo.
 
-**Efeito:**  
+### Efeito
+
 Recebe:
 
-> **+2 em testes para resistir a empurrões, quedas, arrastões e outros deslocamentos físicos forçados.**
+> **+2 em testes para resistir a deslocamentos físicos forçados.**
+
+Isso inclui situações como:
+
+- empurrões;
+- quedas forçadas;
+- arrastões;
+- puxões;
+- impactos;
+- outros efeitos semelhantes.
 
 O bônus é aplicado ao teste utilizado naquela situação.
 
 A forma de resistência depende da origem do efeito.
 
-Por exemplo, uma tentativa de empurrar fisicamente o Recruta pode envolver [[Atletismo]], enquanto outro tipo de deslocamento pode exigir um teste diferente.
+Uma tentativa de empurrar fisicamente o Recruta, por exemplo, pode envolver [[Atributos Centrais/Constituição#Atletismo|Atletismo]], enquanto outro tipo de efeito pode exigir um teste diferente.
 
-Inabalável aumenta a capacidade do Recruta de resistir ao deslocamento, mas **não torna possível resistir fisicamente a algo que esteja completamente além de sua capacidade**.
+Inabalável aumenta a capacidade do Recruta de resistir ao deslocamento, mas não torna possível resistir fisicamente a algo que esteja completamente além de sua capacidade.
 
 ---
 
-##### Recuperação Vital — Nv.1
+##### Recuperação Vital - Nv.1
 
 **Descrição:**  
 O treinamento físico e a resistência do Recruta permitem que seu corpo se recupere lentamente mesmo durante situações de combate.
 
-**Efeito:**  
-Regenera:
+### Efeito
 
-> **2 de [[Vida]] por [[Turno]]**
+No início do próprio [[Turno]], recupera:
 
-A regeneração acontece **no início do próprio Turno do Recruta**, juntamente com as demais regenerações da ficha.
+> **2 de [[Vida]]**
 
-A [[Vida]] recuperada não pode ultrapassar sua Vida Máxima.
+A Vida recuperada não pode ultrapassar sua Vida Máxima.
 
-### Limitação
+### Requisitos
 
-A Recuperação Vital funciona enquanto o personagem estiver:
+Recuperação Vital funciona enquanto o personagem estiver:
 
 > **vivo e consciente.**
 
-Ela não funciona enquanto o Recruta estiver em [[Vida|Coma]].
+Ela não funciona enquanto o Recruta estiver em [[Regras/Vida#Coma|Coma]].
 
-Além disso, Recuperação Vital:
+### Limitações
+
+Recuperação Vital:
 
 - não regenera membros perdidos;
 - não remove ferimentos;
-- não encerra [[Sangramento]];
+- não encerra [[Regras/Condições#Sangramento|Sangramento]];
 - não remove doenças;
 - não remove [[Condições]];
 - não substitui tratamento;
 - não recupera automaticamente Ferimentos Pesados.
 
-Ela recupera apenas **Vida**.
+Ela recupera apenas [[Vida]].
 
-Portanto, um Recruta pode recuperar seus pontos de Vida enquanto ainda permanece com as consequências de um ferimento que precise ser tratado ou recuperado através de [[Descanso]].
+Portanto, um Recruta pode recuperar seus pontos de Vida enquanto ainda permanece com consequências de um ferimento que precise ser tratado ou recuperado através de [[Descanso]].
 
 ---
 
@@ -347,11 +402,20 @@ Portanto, um Recruta pode recuperar seus pontos de Vida enquanto ainda permanece
 
 O **Guerreiro** é a evolução do Recruta voltada para o **combate ofensivo e domínio de armas**.
 
-A classe aprimora sua capacidade de permanecer em confronto direto, realizar ataques poderosos e utilizar diferentes armas com maior eficiência. Seu foco está em **pressionar o adversário e vencer através da superioridade marcial**.
+A Classe aprimora sua capacidade de permanecer em confronto direto, realizar ataques poderosos e utilizar diferentes armas com maior eficiência.
 
-É a principal base para futuras classes especializadas em **armas, força, técnicas ofensivas e estilos de combate físico**.
+Seu foco está em **pressionar o adversário e vencer através da superioridade marcial**.
 
-**Requisito:** Recruta Lv.10.
+É a principal base para futuras Classes especializadas em:
+
+- armas;
+- [[Atributos Centrais/Força|Força]];
+- técnicas ofensivas;
+- estilos avançados de combate físico.
+
+**Requisito:**
+
+> **Recruta Lv.10**
 
 ---
 
@@ -359,11 +423,19 @@ A classe aprimora sua capacidade de permanecer em confronto direto, realizar ata
 
 O **Guardião** é a evolução do Recruta voltada para **defesa, resistência e proteção de aliados**.
 
-Em vez de priorizar a quantidade de dano causado, especializa-se em permanecer na linha de frente, **interceptar ameaças, resistir a ataques e impedir que inimigos alcancem aqueles que estão sob sua proteção**.
+Em vez de priorizar a quantidade de Dano causado, especializa-se em permanecer na linha de frente, interceptar ameaças, resistir a ataques e impedir que inimigos alcancem aqueles que estão sob sua proteção.
 
-É a principal base para futuras classes especializadas em **bloqueio, proteção, resistência e controle defensivo do campo de batalha**.
+É a principal base para futuras Classes especializadas em:
 
-**Requisito:** Recruta Lv.10.
+- bloqueio;
+- proteção;
+- resistência;
+- interceptação;
+- controle defensivo do campo de batalha.
+
+**Requisito:**
+
+> **Recruta Lv.10**
 
 ---
 
@@ -371,8 +443,26 @@ Em vez de priorizar a quantidade de dano causado, especializa-se em permanecer n
 
 O **Lutador** é a evolução do Recruta voltada para o **combate corporal e domínio do próprio corpo como arma**.
 
-Especializa-se em golpes desarmados, agarrões, derrubadas e outras técnicas de combate próximo, dependendo menos de armas convencionais para enfrentar seus adversários.
+O conhecimento básico de [[Atributos Centrais/Força#Combate Desarmado|Combate Desarmado]] desenvolvido pelo Recruta passa a ser aprofundado de forma muito mais especializada.
 
-É a principal base para futuras classes especializadas em **artes marciais, combate desarmado, agarramento e técnicas físicas avançadas**.
+O Lutador desenvolve:
 
-**Requisito:** Recruta Lv.10.
+- golpes desarmados;
+- agarrões;
+- derrubadas;
+- controle corporal;
+- técnicas marciais;
+- uso avançado do próprio corpo como arma.
+
+Depende menos de armas convencionais para enfrentar seus adversários.
+
+É a principal base para futuras Classes especializadas em:
+
+- artes marciais;
+- [[Atributos Centrais/Força#Combate Desarmado|Combate Desarmado]];
+- [[Atributos Centrais/Força#Agarramento|Agarramento]];
+- técnicas físicas avançadas.
+
+**Requisito:**
+
+> **Recruta Lv.10**

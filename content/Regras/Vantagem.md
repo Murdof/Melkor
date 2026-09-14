@@ -55,7 +55,7 @@ Estar em maior número ou atrás de alguém **não concede Vantagem automaticame
 
 [[Dano Furtivo]] e Vantagem são mecânicas diferentes.
 
-**Dano Furtivo:** o alvo não percebe adequadamente o atacante ou o ataque.
+**[[Regras/Dano|Dano]] Furtivo:** o alvo não percebe adequadamente o atacante ou o ataque.
 
 **Vantagem:** o alvo sabe que a ameaça existe, mas está em uma situação que dificulta sua capacidade de responder efetivamente.
 

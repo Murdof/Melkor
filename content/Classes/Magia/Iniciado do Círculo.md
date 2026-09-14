@@ -1,261 +1,409 @@
-O **Iniciado do Círculo** é aquele que começou a estabelecer uma conexão real com as forças vivas do mundo.
+O **Iniciado do Círculo** é uma [[Classes|classe]] mágica voltada à conexão com as **forças vivas do mundo natural**.
 
-Diferente de um simples conhecedor da natureza, o Iniciado é capaz de **sentir sua presença, canalizar sua energia e interagir diretamente com seres vivos**, ainda que de maneira limitada.
+Diferente de alguém que apenas conhece plantas, animais e ambientes selvagens, o Iniciado consegue estabelecer um vínculo real com a natureza, utilizando [[Mana]] para estimular vida, influenciar vegetação e despertar características presentes em criaturas naturais.
 
-Sua força não vem de dominar a natureza, mas de estabelecer um vínculo com ela.
+Sua força não vem de dominar a natureza à força.
 
-Plantas podem responder à sua presença. Animais tornam-se mais fáceis de compreender. Ferimentos podem ser tratados utilizando energia vital. Instintos podem ser despertados temporariamente e até presenças espirituais ligadas ao mundo natural começam a se tornar perceptíveis.
+> Ela vem de estabelecer uma conexão com ela.
 
-O Iniciado do Círculo é uma classe extremamente versátil, mas pouco especializada.
+Plantas podem responder à sua presença. Animais tornam-se mais fáceis de compreender. Ferimentos podem ser tratados através de energia vital. Instintos animais podem ser despertados temporariamente e até manifestações espirituais ligadas ao mundo natural começam a se tornar perceptíveis.
 
-Essa ausência de especialização é justamente o que permite que diferentes indivíduos sigam caminhos completamente distintos dentro do Círculo.
+O Iniciado do Círculo é uma Classe extremamente versátil, mas pouco especializada.
+
+Essa ausência de especialização permite que diferentes personagens sigam caminhos completamente distintos dentro do Círculo.
 
 ---
-### Bônus
 
-- **+20 Vida**
-- **+50 Mana**
-- **+100 Estamina**
-- **+10 Regeneração de Estamina**
-- **+5 Regeneração de Mana**
-- **+1 Vontade**
-- **+2 Percepção**
-- **+1 Sexto Sentido**
-- **+2 Sobrevivência**
-- **+1 Defesa Biológica**
-- **+1 Defesa Espiritual**
+# Dados da Classe
 
-### Afinidades do Iniciado do Círculo
+- **Tier:** T1
+- **Tipo:** Magia Natural
+- **Nível Máximo:** 10
+- **Árvore:** Iniciado do Círculo
+- **Slot Compatível:** Universal ou Combate
 
-- **Natureza**
-- **Vida**
-- **Animal**
-- **Espiritual**
-- **Transformação**
-- **Invocação**
-- **Veneno**
-----
+---
+
+### Resumo
+
+Classe mágica natural focada em vínculo com plantas, animais, vida e manifestações espirituais da natureza.
+
+### O que faz
+
+- Manipula vegetação existente
+- Recupera Vida
+- Adapta temporariamente o próprio corpo
+- Comunica-se com criaturas naturais
+- Interage melhor com animais
+- Reconhece sinais do ambiente
+- Percebe desequilíbrios naturais
+- Serve como origem para diferentes especializações naturais
+
+---
+
+# Bônus de Classe
+
+## Recurso Desbloqueado
+
+Ao adquirir Iniciado do Círculo:
+
+> **[[Mana]] é desbloqueada.**
+
+O personagem passa a poder utilizar e desenvolver sua Reserva de Mana normalmente.
+
+---
+
+## Reservas
+
+- +20 [[Vida]]
+- +50 [[Mana]]
+- +100 [[Estamina]]
+
+## Regeneração
+
+- +10 Regeneração de Estamina
+- +5 Regeneração de Mana
+
+## Perícias
+
+- +1 [[Atributos Centrais/Espírito#Vontade|Vontade]]
+- +1 [[Atributos Centrais/Intelecto#Percepção|Percepção]]
+- +1 [[Atributos Centrais/Espírito#Sexto Sentido|Sexto Sentido]]
+- +2 [[Atributos Centrais/Intelecto#Sobrevivência|Sobrevivência]]
+- +1 [[Manejo Animal]]
+
+Esses valores são **Bônus de Classe** e não representam investimento natural realizado com PP.
+
+## Defesas
+
+- +1 [[Regras/Defesa|Defesa]] Biológica
+- +1 Defesa Espiritual
+
+---
+
+# Afinidades do Iniciado do Círculo
+
+## Afinidades Naturais
+
+- Natureza
+- Vida
+- Animal
+- Espiritual
+- Transformação
+- Invocação
+- Veneno
+
+## Afinidades de Perícia
+
+- Vontade
+- Percepção
+- Sexto Sentido
+- Sobrevivência
+- Manejo Animal
+
+---
+
+# Manejo Animal
+
+**Manejo Animal** representa a capacidade de interagir, conduzir, acalmar e treinar animais através de comportamento, postura, comandos e experiência prática.
+
+É uma Perícia ligada a:
+
+> **[[Atributos Centrais/Presença|Presença]]**
+
+Pode ser utilizada para:
+
+- acalmar um animal;
+- aproximar-se sem provocá-lo;
+- conduzir uma montaria;
+- controlar um animal treinado;
+- ensinar comandos;
+- lidar com animais assustados;
+- orientar animais domesticados;
+- estabelecer hábitos através de treinamento.
+
+Quando necessário:
+
+> **Dado + Manejo Animal + Modificadores**
+
+contra uma Dificuldade apropriada ou um Teste Oposto determinado pela situação.
+
+Manejo Animal não é controle mental.
+
+Um animal não executará automaticamente uma ação completamente contrária aos próprios instintos apenas porque o teste foi alto.
+
+Também não concede comunicação verbal com animais.
+
+Habilidades como **Comunhão do Círculo** podem permitir formas de interação que Manejo Animal sozinho não consegue realizar.
+
+---
+
+# Magia do Círculo
+
+O Iniciado do Círculo utiliza [[Mana]], mas suas Habilidades não dependem automaticamente de [[Conjuração]].
+
+Cada Habilidade determina como sua magia funciona.
+
+Quando uma Habilidade do Círculo exigir força de vínculo ou imposição sobre outra criatura, normalmente poderá utilizar:
+
+> **Vontade**
+
+Outras Habilidades podem funcionar diretamente sem teste.
+
+Portanto:
+
+> utilizar Mana não significa automaticamente utilizar Conjuração.
+
+Uma evolução futura pode desenvolver formas de magia natural que utilizem Conjuração ou outro método específico.
+
+---
 
 # Ativas
 
-### Raízes Prensoras — Nv.1
+## Raízes Prensoras | Nv.1
 
 **Descrição:**
 
-O Iniciado do Círculo canaliza sua energia através da vegetação próxima, fazendo raízes, cipós e plantas avançarem rapidamente sobre uma criatura e restringirem seus movimentos.
+O Iniciado do Círculo canaliza energia através da vegetação próxima, fazendo raízes, cipós e plantas avançarem rapidamente sobre uma criatura e restringirem seus movimentos.
 
-A habilidade não cria vegetação do nada. É necessário existir vegetação, raízes ou solo natural capaz de sustentar o crescimento próximo ao alvo.
+A Habilidade não cria vegetação do nada.
 
-#### Tentativa de Aprisionamento
+É necessário existir:
+
+- vegetação;
+- raízes;
+- cipós;
+- plantas;
+- solo natural capaz de sustentar o crescimento;
+
+próximo ao alvo.
+
+### Tentativa de Aprisionamento
 
 O alvo realiza:
 
-> **Dado + Agilidade**
+> **Dado + [[Atributos Centrais/Destreza#Agilidade|Agilidade]] + Modificadores**
 
 contra:
 
 > **Dificuldade = 10 + Vontade do Iniciado**
 
-Essa Habilidade não realiza um Ataque convencional. O teste representa o alvo tentando escapar do crescimento antes que as raízes consigam prendê-lo completamente.
+Raízes Prensoras não realiza um [[Regras/Ataque|Ataque]] convencional.
 
-Os dados utilizados seguem normalmente a progressão de **Dados e Testes**.
+O teste representa a criatura tentando escapar antes que a vegetação consiga prendê-la completamente.
 
-**Exemplo:**
+### Exemplo
 
 Se o Iniciado possui:
 
-> +4 Vontade
+> **Vontade 4**
 
 a Dificuldade será:
 
 > `10 + 4 = 14`
 
-Um alvo com +6 Agilidade realiza:
+Se o alvo passar no teste, escapa antes da formação completa.
 
-> `d20 + 6 contra Dificuldade 14`
+Se falhar:
 
-Se passar, escapa das raízes.
+> **fica preso.**
 
-Se falhar, fica preso.
+---
 
-#### Efeito
+### Efeito
 
 Enquanto estiver preso:
 
-> **Não pode se deslocar.**
+> **não pode se deslocar.**
 
-O alvo ainda pode:
+A criatura ainda pode realizar ações que não dependam de movimentação, como:
 
 - atacar;
-    
 - conjurar;
-    
 - defender-se;
-    
 - utilizar Habilidades;
-    
-- realizar ações que não dependam de movimentação.
-    
+- manipular objetos ao alcance.
 
-A condição restringe principalmente seu deslocamento.
+---
 
-#### Escapando
+### Escapando
 
-Durante seu próprio Turno, o alvo pode gastar:
+Durante o próprio [[Turno]], o alvo pode gastar:
 
 > **1 PA**
 
-para tentar se libertar utilizando:
+para tentar se libertar.
 
-> **Dado + Atletismo**
+Pode tentar romper as raízes através de:
 
-ou:
+> **Dado + [[Atributos Centrais/Força|Força]] + Modificadores**
 
-> **Dado + Agilidade**
+ou escapar através de mobilidade:
 
-contra a mesma Dificuldade utilizada originalmente.
+> **Dado + Agilidade + Modificadores**
 
-Também pode escapar através de:
+contra a mesma Dificuldade utilizada pela Habilidade.
+
+A escolha representa métodos diferentes.
+
+**Força:**
+
+> romper, rasgar ou afastar fisicamente as raízes.
+
+**Agilidade:**
+
+> escapar por uma abertura, contorcer-se ou retirar-se antes que a vegetação consiga mantê-lo preso.
+
+Também podem existir outras soluções, como:
 
 - cortar as raízes;
-    
-- queimar a vegetação;
-    
-- destruir o ponto que o mantém preso;
-    
-- utilizar uma Habilidade apropriada;
-    
+- queimá-las;
+- destruir o ponto de fixação;
+- utilizar uma Habilidade;
 - receber ajuda externa.
-    
 
-A solução utilizada precisa ser coerente com a situação.
+A solução precisa ser fisicamente coerente.
 
-#### Manutenção
+---
 
-Enquanto desejar manter as raízes reforçadas:
+### Manutenção
 
-> **4 Mana por Turno**
+Enquanto desejar manter a vegetação sobrenaturalmente reforçada:
+
+> **4 [[Mana]] por Turno**
 
 No início do Turno do Iniciado:
 
-> 1. Regenera Mana
->     
-> 2. Paga 4 Mana
->     
-> 3. As raízes continuam sendo alimentadas
->     
+1. Regenera Mana normalmente.
+2. Paga a manutenção.
+3. As raízes continuam recebendo energia.
 
-Caso deixe de pagar a manutenção, as plantas deixam de receber energia sobrenatural.
+Caso a manutenção termine, a vegetação deixa de possuir o crescimento e força sobrenaturais concedidos pela Habilidade.
 
-Isso não significa necessariamente que desapareçam instantaneamente. Se raízes físicas já estiverem enroladas no alvo, o Mestre pode determinar que ainda precisem ser removidas normalmente, mas deixam de possuir o crescimento e força sobrenaturais da Habilidade.
+Raízes físicas que já estejam enroladas em uma criatura não precisam necessariamente desaparecer instantaneamente.
 
-#### Alcance
+A situação física restante pode precisar ser resolvida normalmente.
+
+---
+
+### Alcance
 
 > **12 metros**
 
 ### Custo Inicial
 
-> **8 Mana + 1 PA**
+> **8 [[Mana]] + 1 [[Pontos de Ação|PA]]**
 
-#### Limitações
+### Limitações
 
-Não funciona adequadamente em locais completamente desprovidos de vida vegetal ou solo apropriado, como:
+A Habilidade pode ser limitada ou impossibilitada em locais completamente incompatíveis com crescimento vegetal.
+
+Exemplos:
 
 - salas totalmente metálicas;
-    
 - superfícies artificiais isoladas;
-    
 - regiões esterilizadas;
-    
-- locais onde a vegetação simplesmente não possa existir.
-    
+- ambientes sem vegetação ou solo apropriado.
 
-Uma pequena planta em um vaso também não transforma magicamente uma sala inteira em uma floresta.
+Uma pequena planta não fornece automaticamente vegetação suficiente para dominar uma grande área.
 
-A quantidade e qualidade da vegetação existente continuam importando.
+> **A quantidade e condição da vegetação existente continuam importando.**
 
 ---
 
-### Seiva Vital — Nv.1
+## Seiva Vital | Nv.1
 
 **Descrição:**
 
-O Iniciado conduz energia vital para o organismo de uma criatura, estimulando seus processos naturais de recuperação.
+O Iniciado conduz energia vital para o organismo de uma criatura, estimulando seus próprios processos naturais de recuperação.
 
-Ao contrário da cura especializada de um Acólito, o Iniciado não reconstrói o corpo através de magia restauradora refinada. Ele força o organismo a aproveitar melhor sua própria vitalidade.
+Diferente da magia restauradora especializada de um [[Acólito]], o Iniciado estimula a vitalidade existente no próprio organismo.
 
-#### Efeito
+### Efeito
 
 Recupera:
 
-> **8 de Vida**
+> **8 de [[Vida]]**
 
 ### Teste
 
 > **Não exige Teste.**
 
-O alvo precisa estar dentro do alcance e ser um alvo válido para a Habilidade.
+O alvo precisa apenas estar dentro do alcance e ser válido para a Habilidade.
 
-#### Limitações
+### Limitações
 
-Seiva Vital recupera apenas Vida perdida.
+Seiva Vital recupera Vida perdida.
 
 Ela não:
 
 - regenera membros;
-    
 - remove doenças;
-    
 - remove venenos;
-    
-- encerra Sangramento;
-    
-- remove Condições;
-    
+- encerra [[Regras/Condições#Sangramento|Sangramento]];
+- remove [[Regras/Condições|Condições]];
 - recupera Estamina;
-    
 - recupera Mana;
-    
-- desfaz ferimentos que exijam tratamento específico.
-    
+- trata automaticamente ferimentos que exijam métodos específicos.
 
-Uma criatura pode recuperar seus pontos de Vida e ainda continuar sofrendo as consequências físicas de um ferimento.
+Uma criatura pode recuperar Vida e ainda permanecer fisicamente ferida.
 
-#### Alcance
+### Alcance
 
 > **6 metros**
 
-#### Custo
+### Custo
 
-> **8 Mana + 1 PA**
+> **8 [[Mana]] + 1 [[Pontos de Ação|PA]]**
 
 ---
 
-## Aspecto Bestial — Nv.1
+## Aspecto Bestial | Nv.1
 
 **Descrição:**
 
-O Iniciado desperta temporariamente características presentes nos animais, adaptando parcialmente o próprio corpo.
+O Iniciado desperta temporariamente características presentes em animais, adaptando parcialmente o próprio corpo.
 
-Não ocorre uma transformação completa. São alterações menores e temporárias, como mudança nas pupilas, tensão muscular, postura, sentidos mais aguçados, crescimento superficial de pelos ou endurecimento da pele.
+Não ocorre uma transformação completa.
 
-Ao utilizar a Habilidade, escolha **1 Aspecto**.
+As alterações podem incluir:
+
+- mudança das pupilas;
+- alteração da postura;
+- sentidos mais aguçados;
+- tensão muscular;
+- crescimento superficial de pelos;
+- endurecimento da pele;
+- pequenas mudanças anatômicas.
+
+Ao utilizar a Habilidade:
+
+> **escolha 1 Aspecto.**
 
 ---
 
-#### Olhos do Predador
+### Olhos do Predador
 
-Os sentidos tornam-se muito mais aguçados.
+Os sentidos tornam-se temporariamente mais aguçados.
 
 Recebe:
 
 > **+3 Percepção**
 
-Pode representar visão de ave de rapina, olfato de predador, audição aguçada ou outra adaptação coerente.
+Pode representar:
+
+- visão de ave de rapina;
+- olfato de predador;
+- audição aguçada;
+- outra adaptação sensorial coerente.
+
+O aspecto melhora a Percepção.
+
+Ele não concede automaticamente propriedades completas do animal utilizado como inspiração.
 
 ---
 
-#### Reflexos Felinos
+### Reflexos Felinos
 
 O corpo torna-se mais responsivo e flexível.
 
@@ -263,36 +411,34 @@ Recebe:
 
 > **+2 Agilidade**
 
-Como esse bônus faz parte diretamente de testes de Agilidade realizados durante a duração, ele também conta normalmente para determinar o tamanho do dado utilizado.
+O bônus é aplicado normalmente aos testes que utilizem Agilidade.
 
 ---
 
-#### Força da Fera
+### Força da Fera
 
-A musculatura é temporariamente reforçada.
+A musculatura do Iniciado é temporariamente reforçada através da energia natural.
 
 Recebe:
 
-> **+3 Atletismo**
+> **+2 Força**
 
-O benefício pode ser utilizado em testes envolvendo:
+Esse valor é um **Bônus temporário de Atributo Central**.
 
-- força física;
-    
-- escalada;
-    
-- agarramento;
-    
-- empurrões;
-    
-- resistência física apropriada;
-    
-- outras ações relacionadas a Atletismo.
-    
+Ele pode afetar normalmente características que utilizem Força enquanto o Aspecto estiver ativo.
+
+Por exemplo:
+
+- testes diretos de Força;
+- Capacidade de Carga;
+- Escalonamentos que utilizem Força;
+- efeitos que dependam diretamente da Força.
+
+O bônus não representa PC investido e não altera permanentemente o valor natural do personagem.
 
 ---
 
-#### Couro Selvagem
+### Couro Selvagem
 
 A pele e os tecidos tornam-se temporariamente mais resistentes.
 
@@ -300,21 +446,17 @@ Recebe:
 
 > **+3 Defesa Física**
 
-A Defesa funciona normalmente:
-
-> `Dano Físico − Defesa Física = Dano Final`
-
 ---
 
-#### Duração
+### Duração
 
 > **3 Turnos**
 
-#### Custo
+### Custo
 
-> **8 Mana + 1 PA**
+> **8 [[Mana]] + 1 [[Pontos de Ação|PA]]**
 
-#### Limitações
+### Limite
 
 Apenas:
 
@@ -322,440 +464,408 @@ Apenas:
 
 pode permanecer ativo por vez.
 
-Utilizar Aspecto Bestial novamente substitui imediatamente o Aspecto anterior.
+Utilizar Aspecto Bestial novamente substitui o Aspecto anterior.
 
-Os benefícios não se acumulam entre si.
+Os benefícios não se acumulam.
 
-Aspecto Bestial também não concede automaticamente características complexas do animal escolhido.
+### Limitações
+
+Aspecto Bestial não concede automaticamente características complexas do animal utilizado como referência.
 
 Por exemplo:
 
-> Olhos do Predador não concede voo por escolher uma águia.
+> Olhos do Predador não concede voo ao imitar uma águia.
 
-> Força da Fera não concede garras por escolher um urso.
+> Força da Fera não concede garras ao imitar um urso.
 
-> Reflexos Felinos não permite cair de qualquer altura sem sofrer Dano.
+> Reflexos Felinos não concede imunidade a quedas.
 
-Essas capacidades pertencem a transformações mais desenvolvidas.
+Transformações mais profundas pertencem a Classes e Habilidades especializadas.
 
 ---
 
-## Comunhão do Círculo — Nv.1
+## Comunhão do Círculo | Nv.1
 
 **Descrição:**
 
 O Iniciado abre sua percepção para aquilo que pertence ao mundo natural, estabelecendo um vínculo temporário com animais, criaturas naturais e manifestações espirituais ligadas à natureza.
 
-Essa conexão permite transmitir e receber **intenções simples**, mesmo quando não existe uma linguagem compartilhada.
+Essa conexão permite transmitir e receber:
 
-#### Alvos
+> **intenções simples**
 
-Pode ser utilizada sobre:
+mesmo sem uma linguagem compartilhada.
+
+### Alvos
+
+Comunhão pode ser utilizada sobre:
 
 - animais;
-    
 - feras naturais;
-    
 - criaturas fortemente ligadas à natureza;
-    
-- espíritos naturais que o Iniciado seja capaz de perceber.
-    
+- espíritos naturais que o Iniciado consiga perceber.
 
-Não funciona automaticamente sobre qualquer criatura apenas porque ela vive em uma floresta.
+Uma criatura não se torna automaticamente um alvo válido apenas por viver em uma floresta.
 
-Humanoides, mortos-vivos, construtos e criaturas sem ligação natural apropriada não se tornam alvos válidos somente por estarem naquele ambiente.
+Humanoides, mortos-vivos, construtos e seres sem ligação natural apropriada não são afetados apenas por estarem em um ambiente natural.
 
 ---
 
-#### Criatura Disposta ou Neutra
+### Criatura Disposta ou Neutra
 
-Se a criatura não estiver resistindo à comunicação:
+Caso a criatura não esteja resistindo à comunicação:
 
-> **Não existe Teste.**
+> **não existe Teste.**
 
-Durante a Comunhão, o Iniciado consegue transmitir e compreender conceitos simples.
+O Iniciado pode transmitir e compreender intenções simples.
 
 Exemplos:
 
-> perigo  
-> alimento  
-> inimigo  
-> amigo  
-> siga  
-> espere  
-> fuja  
-> venha  
-> procure  
-> proteja  
-> direção  
-> medo  
-> território
+- perigo;
+- alimento;
+- inimigo;
+- amigo;
+- siga;
+- espere;
+- fuja;
+- venha;
+- procure;
+- proteja;
+- direção;
+- medo;
+- território.
 
-Isso não concede automaticamente inteligência humana ao alvo.
+Comunhão não aumenta a inteligência da criatura.
 
-Um lobo continua pensando como um lobo.
+> Um lobo continua pensando como um lobo.
 
 ---
 
-#### Criatura Hostil
+### Criatura Hostil
 
-Caso o Iniciado tente estabelecer a Comunhão com uma criatura que esteja ativamente resistindo:
+Quando uma criatura válida resiste ativamente à Comunhão:
 
 **Iniciado:**
 
-> **Dado + Vontade**
+> **Dado + Vontade + Modificadores**
 
 contra:
 
 **Alvo:**
 
-> **Dado + Vontade**
+> **Dado + Vontade + Modificadores**
 
-É um **Teste Oposto**.
+É realizado um:
+
+> **Teste Oposto**
 
 O maior resultado vence.
 
-Cada participante utiliza o dado correspondente ao próprio bônus total.
+---
 
-#### Sucesso
+### Sucesso
 
-Se o Iniciado vencer, estabelece o vínculo durante:
+Caso o Iniciado vença, estabelece o vínculo durante:
 
 > **3 Turnos**
 
 A criatura consegue compreender suas intenções simples e o Iniciado consegue perceber as dela.
 
-Além disso, uma criatura animal ou natural de inteligência limitada **hesita momentaneamente** diante da conexão.
+Além disso, uma criatura animal ou natural de inteligência limitada hesita momentaneamente diante da conexão.
 
 Até o início do próximo Turno do Iniciado:
 
-> a criatura não atacará voluntariamente o próprio Iniciado, a menos que seja atacada por ele.
+> **a criatura não atacará voluntariamente o Iniciado.**
 
-Isso **não controla a criatura**.
+Esse efeito termina imediatamente caso o Iniciado a ataque.
+
+### Não é controle
+
+Comunhão não controla a criatura.
 
 Ela ainda pode:
 
 - atacar outros personagens;
-    
 - fugir;
-    
-- defender seu território;
-    
+- defender território;
 - ignorar pedidos;
-    
-- agir conforme seus próprios interesses.
-    
+- proteger filhotes;
+- agir segundo seus próprios interesses.
 
-Se o Iniciado atacar a criatura, esse efeito de hesitação termina imediatamente.
+---
 
-#### Falha
+### Falha
 
-Se perder o Teste Oposto:
+Caso o Iniciado perca o Teste Oposto:
 
-> a conexão não é estabelecida.
+> **a conexão não é estabelecida.**
 
-O Iniciado compreende apenas que a criatura rejeitou sua tentativa.
+Ele apenas percebe que sua tentativa foi rejeitada.
 
-#### Espíritos
+---
 
-Contra espíritos naturais, a Comunhão permite principalmente **comunicação**.
+### Espíritos
+
+Contra espíritos naturais, Comunhão permite principalmente:
+
+> **comunicação.**
 
 Ela não concede automaticamente:
 
-- controle espiritual;
-    
+- controle;
 - expulsão;
-    
 - aprisionamento;
-    
 - invocação;
-    
-- pactos;
-    
-- domínio sobre o espírito.
-    
+- pacto;
+- domínio espiritual.
 
-Essas capacidades pertencem a disciplinas mais avançadas.
+Essas capacidades pertencem a formas mais avançadas de interação espiritual.
 
-#### Alcance
+---
+
+### Alcance
+
+Para estabelecer a Comunhão:
 
 > **12 metros**
 
-Depois que a Comunhão for estabelecida, o vínculo permanece enquanto a criatura estiver a até:
+Após estabelecida, permanece enquanto a criatura estiver a até:
 
 > **30 metros**
 
-Se ultrapassar essa distância, a conexão é encerrada.
+Caso ultrapasse essa distância, o vínculo é encerrado.
 
-#### Custo
+### Custo
 
-> **6 Mana + 1 PA**
+> **6 [[Mana]] + 1 [[Pontos de Ação|PA]]**
 
-#### Duração
+### Duração
 
 > **3 Turnos**
 
-Fora de combate, o Mestre pode permitir que uma conversa simples continue por mais tempo quando não houver pressão de tempo.
+Fora de combate, o Mestre pode permitir que uma interação simples continue por mais tempo quando não houver pressão de tempo.
 
 ---
 
 # Passivas
 
-## Sintonia Natural
+## Sintonia Natural | Nv.1
 
-O Iniciado do Círculo desenvolveu uma sensibilidade constante para os sinais do mundo vivo.
+**Descrição:**
 
-Ele percebe detalhes que normalmente passariam despercebidos, como alterações no comportamento animal, vegetação doente, rastros naturais, mudanças incomuns em um ecossistema ou sinais de corrupção.
+O Iniciado do Círculo desenvolveu uma sensibilidade constante para sinais produzidos pelo mundo vivo.
 
-#### Efeito
+Ele percebe alterações no comportamento animal, vegetação doente, rastros naturais, mudanças incomuns em ecossistemas e outros sinais de desequilíbrio.
+
+### Efeito
 
 Recebe:
 
-> **+2 em Testes de Percepção, Sobrevivência ou Sexto Sentido**
+> **+2 em testes de Percepção, Sobrevivência ou Sexto Sentido**
 
-quando o Teste estiver diretamente relacionado à natureza.
+quando o teste estiver **diretamente relacionado à natureza**.
 
-Exemplos:
+Pode aplicar-se a situações como:
 
-- rastrear animais ou criaturas naturais;
-    
-- identificar sinais deixados pela fauna;
-    
-- perceber movimentação incomum de animais;
-    
+- rastrear animais;
+- identificar sinais da fauna;
+- perceber comportamento animal incomum;
 - encontrar água ou abrigo natural;
-    
-- identificar plantas perigosas ou úteis;
-    
-- perceber que determinada região está biologicamente alterada;
-    
-- detectar corrupção ou desequilíbrio natural;
-    
+- reconhecer plantas úteis ou perigosas;
+- perceber alterações biológicas em uma região;
+- detectar corrupção natural;
 - reconhecer sinais de predadores;
-    
-- identificar alterações anormais em um ecossistema.
-    
+- perceber desequilíbrios em um ecossistema.
 
-#### Limitação
+### Limitação
 
-O bônus só existe quando a natureza é diretamente relevante para o Teste.
+O bônus depende diretamente do contexto.
 
-Por exemplo:
+Procurar rastros de um animal:
 
-> Procurar pegadas de um animal na floresta recebe o bônus.
+> **recebe o bônus.**
 
-> Procurar um ladrão escondido dentro de uma casa não recebe.
+Procurar um ladrão dentro de uma casa:
 
-> Perceber que todos os animais de uma região estão fugindo recebe o bônus.
+> **não recebe.**
 
-> Procurar uma chave escondida dentro de uma gaveta não recebe.
+Perceber que todos os animais estão fugindo de determinada área:
 
-O bônus também não transforma conhecimento natural em conhecimento absoluto.
+> **recebe o bônus.**
 
-Encontrar uma planta desconhecida não significa automaticamente saber todas as suas propriedades.
+Procurar uma chave em uma gaveta:
+
+> **não recebe.**
+
+Sintonia Natural também não concede conhecimento absoluto.
+
+Encontrar uma planta desconhecida não significa automaticamente conhecer todas as suas propriedades.
 
 ---
 
-## Presença do Círculo
+## Presença do Círculo | Nv.1
+
+**Descrição:**
 
 A conexão do Iniciado com o mundo natural começa a ser percebida pelas próprias criaturas que fazem parte dele.
 
-Animais e entidades naturais conseguem sentir, mesmo que instintivamente, que existe algo diferente naquele indivíduo.
+Animais e entidades naturais podem sentir instintivamente que existe algo diferente naquele indivíduo.
 
 Isso não significa obediência.
 
-Significa apenas que estabelecer um vínculo com essas criaturas se torna mais fácil.
+> Significa que estabelecer uma relação tende a ser mais fácil.
 
-#### Animais Não Hostis
+---
 
-Animais que não possuem um motivo concreto para atacar normalmente **não consideram imediatamente o Iniciado uma ameaça ou presa**.
+### Animais Não Hostis
 
-Eles podem:
+Animais que não possuam um motivo concreto para atacar normalmente não consideram imediatamente o Iniciado uma ameaça ou presa.
+
+Podem:
 
 - observá-lo;
-    
 - manter distância;
-    
 - demonstrar curiosidade;
-    
-- permitir uma aproximação cuidadosa;
-    
-- reagir de maneira menos agressiva.
-    
+- permitir aproximação cuidadosa;
+- reagir com menor agressividade.
 
 Isso não impede ataques quando existe um motivo real.
 
-Um animal ainda pode atacar se estiver:
+Um animal ainda pode atacar quando estiver:
 
 - protegendo filhotes;
-    
 - defendendo território;
-    
 - faminto;
-    
 - ferido;
-    
 - acuado;
-    
 - treinado para atacar;
-    
 - sendo controlado;
-    
 - naturalmente extremamente agressivo.
-    
 
 ---
 
-#### Comunhão
+### Comunhão
 
-Sempre que utilizar **Comunhão do Círculo** contra:
-
-- animais;
-    
-- criaturas naturais;
-    
-- espíritos naturais;
-    
-
-o Iniciado recebe:
+Quando utilizar **Comunhão do Círculo** contra um alvo válido, recebe:
 
 > **+2 Vontade**
 
-no Teste realizado pela Habilidade.
+exclusivamente para o teste realizado pela Habilidade.
 
-Exemplo:
+### Exemplo
 
 O Iniciado possui:
 
-> **+4 Vontade**
+> **Vontade 4**
 
-Ao utilizar Comunhão do Círculo:
+Durante Comunhão:
 
-> `d20 + 4 + 2`
+> `Dado + 4 + 2`
 
-Resultado:
-
-> `d20 + 6`
-
-Caso o bônus total alcance os requisitos para mudança de dado, aplica-se normalmente a regra de **Dados e Testes**.
+O bônus total utilizado normalmente determina o dado conforme [[Dados e Testes]].
 
 ---
 
-#### Vínculo Estabelecido
+### Vínculo Estabelecido
 
-Quando o Iniciado consegue estabelecer uma interação pacífica significativa com uma criatura através da **Comunhão do Círculo**, aquela criatura passa a reconhecê-lo.
+Quando o Iniciado estabelece uma interação pacífica significativa com uma criatura através de Comunhão do Círculo, aquela criatura pode passar a reconhecê-lo.
 
-Enquanto não ocorrer algo que destrua essa relação, o Iniciado recebe:
+Enquanto nada destruir essa relação, recebe:
 
-> **+2 em Testes relacionados à interação com aquela criatura específica.**
+> **+2 em testes relacionados à interação com aquela criatura específica.**
 
-Esse bônus pode ser utilizado para:
+Isso pode incluir, quando apropriado:
 
+- [[Manejo Animal]];
 - acalmá-la;
-    
-- convencê-la a permitir aproximação;
-    
-- pedir que o acompanhe;
-    
+- permitir aproximação;
 - solicitar ajuda simples;
-    
 - compreender seu comportamento;
-    
-- continuar uma interação iniciada anteriormente.
-    
+- continuar uma interação anterior.
 
 O bônus:
 
 > **não é cumulativo.**
 
-Uma criatura que reconhece o Iniciado continua possuindo vontade própria.
+A criatura continua possuindo vontade própria.
 
-Ela não se torna:
+Ela não se torna automaticamente:
 
 - servo;
-    
 - companheiro;
-    
 - invocação;
-    
 - familiar;
-    
 - criatura controlada.
-    
 
-Criar vínculos dessa natureza exige Habilidades ou Classes especializadas.
+Relações desse nível exigem regras ou Habilidades específicas.
 
 ---
+
 # Evoluções Tier 2
 
 ## Druida
 
 O **Druida** aprofunda sua conexão com o equilíbrio natural e aprende a manipular diferentes aspectos da vida de forma harmoniosa.
 
-É a evolução mais versátil do Iniciado do Círculo, combinando:
+É a evolução mais versátil do Iniciado do Círculo.
+
+Seu desenvolvimento combina:
 
 - flora;
-    
 - cura;
-    
 - transformação;
-    
 - magia natural;
-    
 - controle ambiental.
-    
 
-O Druida não se especializa em um único aspecto da natureza.
+O Druida não se especializa em apenas um aspecto da natureza.
 
-Sua força está justamente em utilizar vários deles em conjunto.
+Sua força está em combinar diferentes manifestações naturais conforme a situação.
+
+**Requisito:**
+
+> **Iniciado do Círculo Lv.10**
 
 ---
 
 ## Xamã
 
-O **Xamã** abandona parte da ligação puramente física com a natureza e passa a interagir com aquilo que existe além dela.
+O **Xamã** aprofunda principalmente o aspecto espiritual da ligação do Círculo.
 
-Seu poder vem de:
+Seu desenvolvimento envolve:
 
 - espíritos;
-    
 - ancestrais;
-    
 - totens;
-    
 - entidades naturais;
-    
 - rituais;
-    
 - vínculos espirituais.
-    
 
-Enquanto outros caminhos manipulam diretamente vida e matéria, o Xamã aprende a negociar, invocar e canalizar forças que normalmente não podem ser vistas.
+Enquanto outros caminhos concentram-se na matéria viva, o Xamã aprende a perceber, negociar e canalizar forças que normalmente não são visíveis.
+
+**Requisito:**
+
+> **Iniciado do Círculo Lv.10**
 
 ---
 
 ## Metamorfo
 
-O **Metamorfo** transforma a própria carne em sua principal ferramenta.
+O **Metamorfo** transforma o próprio corpo em sua principal ferramenta.
 
-Em vez de apenas reproduzir pequenos instintos animais, ele aprende a alterar profundamente seu corpo, assumindo características de diferentes criaturas conforme a necessidade.
+O que no Iniciado existe apenas como pequenas alterações através de Aspecto Bestial passa a evoluir para transformações muito mais profundas.
 
-Seu caminho é focado em:
+Seu desenvolvimento envolve:
 
 - transformação corporal;
-    
 - adaptações animais;
-    
 - formas híbridas;
-    
 - sentidos aprimorados;
-    
 - mobilidade;
-    
 - combate físico.
-    
 
-Quanto mais evolui, menos seu corpo possui uma forma verdadeiramente fixa.
+**Requisito:**
+
+> **Iniciado do Círculo Lv.10**
 
 ---
 
@@ -763,48 +873,45 @@ Quanto mais evolui, menos seu corpo possui uma forma verdadeiramente fixa.
 
 O **Guardião Selvagem** transforma sua conexão natural em força, resistência e proteção.
 
-É a evolução mais marcial do Iniciado do Círculo, utilizando energia natural para fortalecer o próprio corpo, defender aliados e controlar o território ao seu redor.
+É a evolução mais marcial do Iniciado do Círculo.
 
-Seu foco está em:
+Seu desenvolvimento envolve:
 
 - combate corpo a corpo;
-    
 - resistência;
-    
 - defesa;
-    
 - proteção de aliados;
-    
 - controle territorial;
-    
 - fortalecimento natural.
-    
 
-Onde o Druida manipula a natureza, o Guardião Selvagem se torna parte de sua linha de defesa.
+Onde o Druida manipula a natureza ao seu redor:
+
+> **o Guardião Selvagem torna-se parte da própria linha de defesa da natureza.**
+
+**Requisito:**
+
+> **Iniciado do Círculo Lv.10**
 
 ---
 
 ## Invocador Bestial
 
-O **Invocador Bestial** aprofunda sua ligação com criaturas naturais até transformá-las em parte fundamental de seu estilo de combate.
+O **Invocador Bestial** aprofunda sua ligação com animais e criaturas naturais até transformá-los em parte fundamental de seu estilo.
 
-Ele desenvolve vínculos com animais, feras e enxames, coordenando diferentes criaturas enquanto permanece relativamente seguro atrás delas.
-
-Seu foco está em:
+Seu desenvolvimento envolve:
 
 - companheiros animais;
-    
 - invocações;
-    
+- [[Manejo Animal]];
 - comandos;
-    
 - enxames;
-    
 - combate coordenado;
-    
 - fortalecimento de criaturas aliadas.
-    
 
-A verdadeira força do Invocador Bestial raramente está apenas nele.
+A verdadeira força do Invocador Bestial raramente está apenas no próprio personagem.
 
-Está na quantidade, variedade e qualidade das criaturas que respondem ao seu chamado.
+> Está nas criaturas que respondem ao seu chamado.
+
+**Requisito:**
+
+> **Iniciado do Círculo Lv.10**

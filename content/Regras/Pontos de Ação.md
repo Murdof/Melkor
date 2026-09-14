@@ -1,80 +1,164 @@
-Os **Pontos de Ação (PA)** representam quantas ações um personagem consegue realizar dentro de seu [[Turno]].
+Os **Pontos de Ação (PA)** representam quanto um personagem consegue realizar dentro de seu [[Turno]].
 
-Cada turno representa **2 segundos**, e durante esse período o personagem pode gastar seus PA para atacar, [[Movimento|movimentar-se]], utilizar habilidades, interagir com objetos ou realizar outras ações.
+Cada Turno representa:
 
-## Uso dos Pontos de Ação
+> **2 segundos**
 
-Cada ação possui seu próprio custo de PA, determinado pela ação, habilidade ou equipamento utilizado.
+Durante esse período, o personagem utiliza seus PA para realizar ações como atacar, movimentar-se, utilizar Habilidades, itens ou interagir com o ambiente.
 
-Ações comuns normalmente custam:
+---
 
-**1 PA**
+# Uso dos Pontos de Ação
 
-Exemplos:
+Cada ação possui seu próprio custo de PA.
 
-- realizar um [[Ataque]];
-- utilizar uma Habilidade Ativa;
-- andar ou correr;
-- utilizar um item;
-- realizar uma interação que possa ser concluída naquele período.
+O custo é determinado pela:
 
-Se o personagem possuir **2 PA**, pode realizar duas ações de 1 PA durante seu turno.
+- ação;
+- arma;
+- Habilidade;
+- equipamento;
+- ou regra responsável.
 
-As ações **não precisam ser diferentes**.
+Uma ação somente pode ser realizada quando o personagem possuir PA suficiente para pagar seu custo.
 
-Um personagem pode, por exemplo:
+---
 
-> Atacar + Atacar  
-> Mover + Atacar  
-> Atacar + Mover  
-> Mover + Mover  
-> Usar Habilidade + Atacar
+# Quantidade de Ações
 
-Desde que consiga pagar todos os custos envolvidos.
+Não existe uma quantidade fixa de ações por Turno.
 
-## PA e Recursos
+A quantidade depende dos PA disponíveis e do custo das ações realizadas.
 
-Possuir PA suficiente **não significa que o personagem consegue realizar qualquer quantidade de ações**.
+> **Ações possíveis = PA disponível ÷ custo das ações**
 
-Além dos PA, uma ação pode exigir **[[Estamina]], [[Mana]] ou outro recurso**.
+A mesma ação pode ser realizada múltiplas vezes quando o personagem possuir PA e recursos suficientes.
 
-Se um ataque custa:
+---
 
-**1 PA + 15 Estamina**
+# Ataques
 
-o personagem precisa possuir ambos para realizá-lo.
+Cada [[Ataque]] possui seu próprio custo de PA.
 
-PA representa **tempo disponível no turno**.  
-Estamina, Mana e outros recursos representam **a capacidade de executar a ação**.
+> **O custo de PA do Ataque é determinado pela arma, Habilidade ou método utilizado.**
 
-## Reações
+Não existe um limite universal de ataques por Turno.
+
+Um personagem pode realizar quantos Ataques seus PA e recursos permitirem.
+
+---
+
+# Armas e PA
+
+O custo de PA é uma das principais características que diferenciam as armas.
+
+Armas voltadas para [[Força]] normalmente possuem:
+
+- maior [[Dano]] por golpe;
+- maior impacto;
+- maior custo de PA;
+- menor quantidade de ataques possíveis por Turno.
+
+Armas voltadas para [[Destreza]] normalmente possuem:
+
+- menor custo de PA;
+- ataques mais rápidos;
+- menor Dano individual;
+- maior quantidade de ataques possíveis por Turno.
+
+Armas híbridas podem possuir valores intermediários.
+
+Essas características não são regras obrigatórias para todas as armas.
+
+A própria arma determina seu custo de PA.
+
+---
+
+# Movimento
+
+Movimentar-se normalmente possui um custo de PA.
+
+Ao realizar uma ação de movimento, o personagem utiliza seu [[Deslocamento]] conforme as regras correspondentes.
+
+Classes, Habilidades, Passivas e outros efeitos podem modificar ou remover esse custo.
+
+---
+
+# PA e Recursos
+
+PA representa o **tempo disponível dentro do Turno**.
+
+[[Estamina]], [[Mana]], [[Regras/Ki|Ki]], [[Regras/Reiryoku|Reiryoku]] e outros recursos representam a **capacidade de executar determinadas ações**.
+
+Uma ação pode exigir simultaneamente:
+
+> **PA + Recurso**
+
+Possuir apenas um deles não é suficiente.
+
+O personagem precisa conseguir pagar todos os custos da ação.
+
+---
+
+# Reações
 
 Nem toda ação utiliza PA.
 
-Reações defensivas como [[Esquivar]], [[Bloquear]] e [[Aparar]] **não consomem Pontos de Ação**, pois acontecem em resposta a uma ação externa.
+Reações defensivas como:
 
-Elas ainda possuem seus respectivos custos de **[[Estamina]], [[Mana]] ou outros recursos**.
+- [[Esquivar]];
+- [[Bloquear]];
+- [[Aparar]];
 
-Por isso, um personagem pode continuar se defendendo mesmo depois de gastar todos os seus PA, desde que ainda possua recursos e condições para isso.
+não consomem PA por padrão.
 
-## Ações mais demoradas
+Elas ainda possuem seus próprios custos de Estamina, Mana ou outros recursos.
 
-Nem toda ação pode ser concluída em apenas 1 PA ou mesmo dentro de um único [[Turno|turno]].
+Por isso, gastar todos os PA do Turno não impede automaticamente o personagem de realizar Reações.
 
-Ações mais complexas podem exigir:
+---
+
+# Ações Demoradas
+
+Nem toda ação pode ser concluída com poucos PA ou dentro de um único Turno.
+
+Ações mais demoradas podem exigir:
 
 - múltiplos PA;
-- vários turnos;
-- ou um determinado período de tempo fora de combate.
+- vários Turnos;
+- determinado período de tempo;
+- outras condições específicas.
 
-O custo é determinado pela complexidade e duração da ação.
+A própria ação determina seu tempo necessário.
 
-Abrir uma porta pode exigir apenas **1 PA**, enquanto arrombar uma fechadura complexa, realizar um tratamento ou executar outro trabalho demorado pode exigir muito mais tempo.
+---
 
-## Modificadores de PA
+# Modificadores de PA
 
-[[Classes]], Habilidades, Passivas, [[Condições|condições]] e outros efeitos podem **aumentar, reduzir ou alterar a quantidade de PA disponível**.
+A quantidade de PA pode ser modificada por:
 
-Também podem existir habilidades que concedem ações ou turnos adicionais.
+- [[Raças]];
+- [[Classes]];
+- Habilidades;
+- Passivas;
+- equipamentos;
+- [[Condições]];
+- outros efeitos.
 
-Quando uma regra específica modificar o funcionamento dos Pontos de Ação, **a regra específica tem prioridade sobre a regra geral**.
+[[Atributos Centrais]] não aumentam PA automaticamente.
+
+Também podem existir efeitos que:
+
+- aumentem ou reduzam PA;
+- diminuam o custo de determinadas ações;
+- aumentem o custo de determinadas ações;
+- concedam ações adicionais;
+- permitam ações sem custo de PA.
+
+---
+
+# Regra Específica
+
+Quando uma arma, Habilidade, Classe ou outro efeito alterar o funcionamento dos Pontos de Ação:
+
+> **Regra específica > regra geral.**

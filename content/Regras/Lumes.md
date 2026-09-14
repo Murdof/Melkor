@@ -325,7 +325,7 @@ O personagem pode interferir diretamente no fluxo temporal recente.
 
 Normalmente:
 
-> retorna-se ao início do Turno ou ao instante imediatamente anterior à decisão que causou o acontecimento.
+> retorna-se ao início do [[Regras/Turno|Turno]] ou ao instante imediatamente anterior à decisão que causou o acontecimento.
 
 Os eventos posteriores deixam de ter ocorrido.
 

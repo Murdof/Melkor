@@ -20,7 +20,7 @@ Andar normalmente:
 
 - custa **1 [[Pontos de Ação|PA]]**;
 - não consome [[Estamina]];
-- não recebe bônus natural de Agilidade.
+- não recebe bônus natural de [[Atributos Centrais/Destreza#Agilidade|Agilidade]].
 
 O personagem não precisa percorrer toda a distância disponível.
 
@@ -78,7 +78,7 @@ Agilidade também pode ser utilizada em [[Dados e Testes|Testes]] envolvendo arr
 
 # Atletismo e Resistência
 
-Enquanto Agilidade determina a velocidade, Atletismo representa a capacidade física de **manter uma corrida por longas distâncias**.
+Enquanto Agilidade determina a velocidade, [[Atributos Centrais/Constituição#Atletismo|Atletismo]] representa a capacidade física de **manter uma corrida por longas distâncias**.
 
 > **Agilidade = Velocidade**  
 > **Atletismo = Resistência**
@@ -141,7 +141,7 @@ Habilidades e outros efeitos podem ultrapassar essa limitação quando especific
 
 # Regeneração Durante Corrida
 
-Enquanto estiver **correndo continuamente**, o personagem não recebe sua [[Estamina|Regeneração de Estamina]] natural.
+Enquanto estiver **correndo continuamente**, o personagem não recebe sua [[Regras/Estamina#Regeneração de Estamina|Regeneração de Estamina]] natural.
 
 A Regeneração volta a funcionar quando o personagem **interrompe a corrida ou reduz seu ritmo para uma atividade que permita recuperação**.
 
@@ -230,9 +230,9 @@ Habilidades, equipamentos e outras características podem reduzir ou ignorar ess
 
 # Movimento e Esforço
 
-Corridas prolongadas também contribuem para o desgaste da [[Estamina|Estamina Máxima]].
+Corridas prolongadas também contribuem para o desgaste da [[Regras/Estamina#Estamina Máxima|Estamina Máxima]].
 
-O Mestre determina o [[Estamina|Nível de Esforço]] de acordo com a intensidade e as condições da corrida.
+O Mestre determina o [[Regras/Estamina#Níveis de Esforço|Nível de Esforço]] de acordo com a intensidade e as condições da corrida.
 
 Uma corrida confortável pode representar um esforço **Moderado**, enquanto correr continuamente no limite da própria velocidade, carregando peso ou enfrentando condições severas pode ser considerado **Pesado ou Extremo**.
 

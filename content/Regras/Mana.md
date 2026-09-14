@@ -1,91 +1,149 @@
-A **Mana** representa a energia utilizada para conjurar magias, sustentar efeitos sobrenaturais e utilizar Habilidades que dependam de poder mágico.
+A **Mana** é uma [[Desenvolvimento de Reservas|Reserva]] utilizada para conjurar magias, sustentar efeitos sobrenaturais e utilizar Habilidades que dependam de energia mágica.
 
-A quantidade disponível e sua capacidade de regeneração são determinadas pela ficha do personagem através de [[Raças]], [[Classes]], Habilidades, Passivas, equipamentos e outros efeitos.
+A Mana é dividida em:
 
-A Mana é dividida em **Mana Atual**, **Mana Máxima** e **Regeneração de Mana**.
-
----
-
-## Mana Atual
-
-A **Mana Atual** representa a quantidade de energia mágica disponível naquele momento.
-
-Sempre que uma magia ou Habilidade possuir um custo de Mana, esse valor é retirado da Mana Atual.
-
-**Exemplo:**
-
-> Mana: **30/50**  
-> Custo da Magia: **10 Mana**  
-> Mana restante: **20/50**
-
-O personagem precisa possuir Mana suficiente para pagar **todo o custo**.
-
-Se possuir apenas 7 Mana, não poderá utilizar uma Habilidade que custe 10, salvo quando alguma regra específica permitir.
+- **Mana Atual**
+- **Mana Máxima**
+- **Regeneração de Mana**
 
 ---
 
-## Mana Máxima
+# Acesso à Mana
 
-A **Mana Máxima** determina a quantidade total de Mana que o personagem consegue armazenar.
+Mana é uma Reserva que precisa ser **desbloqueada**.
 
-**Exemplo:**
+Um personagem que não possui acesso à Mana:
 
-> **35/100 Mana**
+> **não pode investir pontos em Mana.**
 
-O personagem possui 35 de Mana disponível, podendo recuperar até o máximo de 100.
+O acesso pode ser concedido por:
 
-Um personagem pode possuir:
+- [[Classes]];
+- [[Raças]];
+- Habilidades;
+- Passivas;
+- outros efeitos que indiquem explicitamente o desbloqueio.
 
-> **0 de Mana Máxima**
+Desbloquear Mana não concede automaticamente pontos de investimento nela, salvo quando a própria fonte determinar isso.
 
-Isso significa apenas que ele **não possui Mana disponível naturalmente**.
+---
 
-[[Raças]], [[Classes]], Habilidades, Passivas, equipamentos e outros efeitos podem conceder ou aumentar sua Mana Máxima.
+# Mana Máxima
+
+A **Mana Máxima** representa a quantidade total de Mana que o personagem consegue armazenar.
+
+Ela pode ser formada por diferentes fontes:
+
+- Raça;
+- Classe;
+- investimento em Mana;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- outros efeitos.
+
+Essas fontes são somadas quando compatíveis.
+
+---
+
+# Desenvolvimento de Mana
+
+Mana está vinculada ao Atributo Central [[Intelecto]].
+
+Depois que Mana estiver desbloqueada, o personagem pode utilizar [[SP]] para desenvolver essa Reserva.
+
+Cada ponto de investimento concede:
+
+> **+10 Mana Máxima**
+
+O número de pontos desenvolvidos naturalmente em Mana não pode ultrapassar o Intelecto do personagem.
+
+> **Investimento em Mana ≤ Intelecto**
+
+Intelecto não concede Mana automaticamente.
+
+Ele determina apenas o limite natural de desenvolvimento da Reserva.
+
+Os custos e regras gerais de investimento seguem [[Desenvolvimento de Reservas]].
+
+---
+
+# Bônus Externos
+
+Bônus provenientes de:
+
+- Raças;
+- Classes;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- efeitos especiais;
+
+são adicionados separadamente à Mana Máxima.
+
+Esses bônus não representam pontos investidos na Reserva e podem ultrapassar o limite natural de Intelecto quando permitido.
+
+---
+
+# Mana Atual
+
+A **Mana Atual** representa a quantidade de Mana disponível naquele momento.
+
+Sempre que uma magia, Habilidade ou outro efeito possuir um custo de Mana:
+
+> o custo é retirado da Mana Atual.
+
+O personagem precisa possuir Mana suficiente para pagar todo o custo.
+
+Se não possuir Mana suficiente:
+
+> **o efeito não pode ser utilizado.**
+
+Uma regra específica pode permitir exceções.
+
+A Mana Atual não pode ultrapassar a Mana Máxima.
 
 ---
 
 # Regeneração de Mana
 
-A **Regeneração de Mana** determina quanto o personagem recupera naturalmente no início de seu próprio [[Turno]].
+A **Regeneração de Mana** determina quanto o personagem recupera no início de seu próprio [[Turno]].
 
-> **Mana recuperada = Regeneração de Mana da ficha**
+> **Mana recuperada = Regeneração de Mana**
 
-Essa regeneração acontece **uma única vez por [[Turno#Turno e Rodada|Rodada]]**, no início do Turno daquele personagem.
-
-**Exemplo:**
-
-Um personagem possui:
-
-> Mana: **12/50**  
-> Regeneração de Mana: **6**
-
-No início de seu Turno:
-
-> `12 + 6 = 18/50`
+A Regeneração acontece normalmente uma vez por [[Turno#Turno e Rodada|Rodada]], no início do Turno do personagem.
 
 A Mana Atual nunca pode ultrapassar a Mana Máxima.
 
-Se estiver em:
-
-> `48/50`
-
-e possuir 6 de Regeneração:
-
-> `48 + 6 → 50/50`
-
-Os pontos excedentes são perdidos.
+Qualquer recuperação excedente é perdida.
 
 ---
 
-## Gastos Fora do Turno
+# Fontes de Regeneração
+
+A Regeneração de Mana pode ser concedida ou modificada por:
+
+- Raças;
+- Classes;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- [[Condições]];
+- outros efeitos.
+
+Investir na Mana Máxima não aumenta automaticamente sua Regeneração.
+
+> **Mana Máxima e Regeneração de Mana são valores separados.**
+
+---
+
+# Gastos Fora do Turno
 
 Mana pode ser utilizada fora do próprio [[Turno]] quando uma Reação, Habilidade ou outro efeito permitir.
 
-Por exemplo, uma magia utilizada para [[Aparar]] consome normalmente sua Mana.
+Esse gasto não concede uma nova Regeneração.
 
-Esse gasto **não ativa uma nova Regeneração**.
-
-O personagem somente recuperará Mana novamente quando chegar o início de seu próximo Turno.
+O personagem recupera Mana novamente apenas quando ocorrer normalmente sua próxima Regeneração ou outro efeito permitir.
 
 ---
 
@@ -93,79 +151,70 @@ O personagem somente recuperará Mana novamente quando chegar o início de seu p
 
 Algumas magias e Habilidades permanecem ativas enquanto o personagem continuar pagando um **custo de manutenção**.
 
-Quando uma habilidade possuir manutenção, seu custo será informado em sua própria descrição.
+Quando um efeito possuir manutenção, seu custo deve estar indicado em sua própria regra.
 
-**Exemplo:**
+O custo inicial é pago quando o efeito é utilizado.
 
-> Custo inicial: **12 Mana**  
-> Manutenção: **6 Mana por Turno**
+Depois disso, o custo de manutenção é pago conforme a frequência determinada pela própria Habilidade.
 
-O custo inicial é pago ao utilizar a habilidade.
+Quando a manutenção ocorrer uma vez por Turno, a ordem padrão no início do Turno é:
 
-Depois disso, o custo de manutenção é pago **uma vez a cada Turno do usuário** enquanto ele desejar manter o efeito.
+> **1. Regeneração de Mana**  
+> **2. Pagamento dos custos de Manutenção**  
+> **3. Início normal das ações**
 
-Caso não possua Mana suficiente ou decida não pagar o custo, a habilidade é encerrada.
+Se o personagem não possuir Mana suficiente para pagar a manutenção:
 
-### Ordem no início do Turno
+> **o efeito é encerrado.**
 
-Quando Regeneração e Manutenção acontecerem no mesmo Turno, a ordem padrão é:
-
-> **1. Regenera Mana**  
-> **2. Paga custos de Manutenção**  
-> **3. Inicia suas ações normalmente**
-
-**Exemplo:**
-
-O personagem começa seu Turno com:
-
-> 3 Mana  
-> +5 Regeneração  
-> = **8 Mana**
-
-Possui uma magia com manutenção de 6:
-
-> `8 − 6 = 2 Mana`
-
-A magia permanece ativa e o personagem começa suas ações com **2 Mana**.
+Uma regra específica pode determinar outra consequência.
 
 ---
 
 # Mana em 0
 
-Chegar a **0 de Mana** não causa dano, inconsciência ou qualquer penalidade automática.
+Chegar a:
 
-O personagem simplesmente não possui energia mágica disponível para pagar novos custos.
+> **0 Mana**
 
-> **0 Mana = incapaz de utilizar efeitos que exijam Mana até recuperá-la.**
+não causa automaticamente [[Regras/Dano|Dano]], inconsciência ou outra penalidade.
 
-Habilidades ou [[Condições|condições]] específicas podem criar consequências adicionais para ficar sem Mana.
+O personagem simplesmente não possui Mana disponível para pagar novos custos.
+
+Habilidades, Passivas, [[Condições]] ou outros efeitos podem criar consequências específicas para chegar a 0 Mana.
 
 ---
 
 # Mana Fora de Combate
 
-Fora de combate, não é necessário simular [[Turno|Turnos]] continuamente apenas para recuperar Mana.
+Fora de combate, não é necessário simular Turnos continuamente apenas para recuperar Mana.
 
-Quando houver tempo suficiente e nenhuma situação que exija controle preciso, a recuperação pode ser calculada utilizando a Regeneração do personagem e o tempo transcorrido.
+Quando houver tempo suficiente e nenhuma situação exigir controle preciso, a recuperação pode ser calculada utilizando:
 
-Como cada [[Turno]] representa **2 segundos**, a Regeneração continua seguindo essa mesma proporção quando for necessário calcular exatamente.
+- Regeneração de Mana;
+- tempo transcorrido;
+- outras regras de recuperação aplicáveis.
 
-O Mestre pode simplesmente considerar a Mana recuperada completamente quando houver tempo mais do que suficiente para isso.
+Como cada [[Turno]] representa aproximadamente **2 segundos**, essa proporção pode ser utilizada quando for necessário calcular a recuperação exatamente.
+
+Quando houver tempo mais do que suficiente, o Mestre pode considerar a Mana completamente recuperada.
 
 ---
 
-## Regras Específicas
+# Regra Específica
 
-[[Raças]], [[Classes]], Habilidades, Passivas, equipamentos, [[Condições|condições]] e outros efeitos podem modificar:
+[[Raças]], [[Classes]], Habilidades, Passivas, equipamentos, [[Condições]] e outros efeitos podem modificar:
 
+- acesso à Mana;
 - Mana Máxima;
-- Regeneração de Mana;
+- Mana Atual;
+- Regeneração;
 - custos de Mana;
 - custos de Manutenção;
-- formas de recuperar Mana;
-- possibilidade de utilizar Mana abaixo do custo necessário;
+- formas de recuperação;
+- limite natural de desenvolvimento;
 - consequências de chegar a 0 Mana.
 
-Quando uma regra específica modificar o funcionamento da Mana, **a regra específica possui prioridade sobre esta regra geral**.
+Quando uma regra específica contradizer esta página:
 
----
+> **Regra específica > regra geral.**

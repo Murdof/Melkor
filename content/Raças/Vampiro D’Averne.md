@@ -16,14 +16,22 @@ Tudo aquilo que futuramente definirá os D’Averne deverá surgir através da e
 
 # Informações da Linhagem
 
-**Nome:** Clã D’Averne  
-**Progenitora:** Alana D’Averne  
-**Natureza:** Vampírica  
-**Raridade da Linhagem:** Lendária  
-**Tier Atual:** 1  
-**Nível Racial da Progenitora:** 0  
-**Nível Racial Máximo Atual:** 20  
-**Foco Inicial da Linhagem:** Velocidade
+| Característica | Valor |
+|---|---|
+| **Nome** | Clã D’Averne |
+| **Progenitora** | Alana D’Averne |
+| **Natureza** | Vampírica |
+| **Raridade** | Lendário |
+| **Tier Atual** | T1 |
+| **Nível Racial da Progenitora** | 0 |
+| **Nível Racial Máximo Atual** | 20 |
+| **Foco Inicial** | Velocidade |
+
+Apesar de sua **Raridade Lendária**, o Clã surgiu inicialmente com força equivalente a uma:
+
+> **Raça T1**
+
+Sua Raridade representa principalmente seu potencial de crescimento, suas características especiais e a capacidade de construir uma linhagem completamente própria.
 
 ---
 
@@ -42,65 +50,126 @@ Ela é a origem absoluta do Sangue do Clã.
 Por esse motivo, o Clã começou sem:
 
 - Habilidades de Linhagem;
-    
 - Defeitos de Linhagem;
-    
 - gerações anteriores;
-    
 - conhecimentos vampíricos ancestrais;
-    
 - estruturas políticas;
-    
 - tradições;
-    
 - território próprio;
-    
 - benefícios provenientes de outro Clã.
-    
 
-Apesar de sua **Raridade Lendária**, o Clã surgiu inicialmente com força equivalente a uma:
+---
 
-> **Raça Tier 1**
+# Atributos Centrais
 
-Sua Raridade representa principalmente seu potencial de crescimento e a capacidade de construir uma linhagem completamente própria.
+O Sangue D’Averne possui uma Base Racial fortemente orientada para velocidade, reflexos e mobilidade.
+
+| Atributo Central | Base Racial |
+|---|---:|
+| [[Força]] | **3** |
+| [[Constituição]] | **4** |
+| [[Destreza]] | **7** |
+| [[Intelecto]] | **3** |
+| [[Espírito]] | **4** |
+| [[Presença]] | **3** |
+
+Total da Base Racial:
+
+> **24 pontos**
+
+Esses valores representam a **Base Racial T1** dos D’Averne mais próximos do Sangue original.
+
+Eles não representam [[Regras/Progressão Racial de Atributos Centrais#Pontos Centrais|PC]] gastos.
+
+PC adquiridos através da progressão racial são adicionados separadamente aos Atributos Centrais escolhidos pelo personagem.
+
+Gerações posteriores podem possuir Bases Raciais diferentes conforme as futuras regras de diluição do Sangue.
 
 ---
 
 # Status Raciais D’Averne
 
-Os integrantes mais próximos da origem do Sangue D’Averne possuem como base racial atual:
+Os integrantes mais próximos da origem do Sangue D’Averne possuem:
 
-|Status|Valor|
-|---|---|
-|**[[Vida]]**|30|
-|**[[Estamina]]**|140|
-|**Regeneração de Estamina**|9 por [[Turno]]|
-|**[[Mana]]**|40|
-|**Regeneração de Mana**|3 por [[Turno]]|
-|**Pontos Complementares**|12|
-|**Pontos de Dano**|2|
-|**Pontos de Defesa**|2|
-|**Pontos de Precisão**|3|
-|**[[Pontos de Ação]]**|2|
-|**[[Movimento\|Deslocamento — Andar]]**|4 m|
-|**[[Movimento\|Deslocamento — Correr]]**|12 m|
-|**Custo de [[Esquiva]]**|4 Estamina|
+| Característica | Valor |
+|---|---:|
+| **[[Vida]] Base** | 30 |
+| **[[Estamina]] Base** | 140 |
+| **Regeneração de Estamina** | 9 por [[Turno]] |
+| **[[Mana]] Base** | 40 |
+| **Regeneração de Mana** | 3 por [[Turno]] |
+| **[[Ki]]** | Não desbloqueado |
+| **[[Reiryoku]]** | Não desbloqueado |
+| **[[Pontos de Ação\|PA]]** | 2 |
+| **[[Regras/Deslocamento\|Deslocamento]] Base** | 4 m |
+| **Custo de [[Esquivar]]** | 4 Estamina |
 
 Esses valores representam o estado inicial da linhagem em seu atual estágio de desenvolvimento.
 
-Gerações posteriores podem possuir valores diferentes conforme a pureza do Sangue e as regras de cada geração.
+Gerações posteriores podem possuir valores diferentes conforme sua proximidade com a Progenitora e a pureza de seu Sangue.
 
 ---
 
-# Pontos Complementares
+# Reservas
 
-A base racial D’Averne possui:
+## Vida
 
-> **12 Pontos Complementares**
+Os D’Averne possuem naturalmente:
 
-Esses pontos são distribuídos normalmente entre os atributos Complementares disponíveis.
+> **30 de [[Vida]] Base**
 
-O Foco da Linhagem não fornece pontos adicionais automaticamente.
+Essa Vida racial é somada normalmente aos investimentos e demais bônus recebidos pelo personagem.
+
+---
+
+## Estamina
+
+Os D’Averne possuem naturalmente:
+
+> **140 de [[Estamina]] Base**
+
+Também possuem:
+
+> **9 de Regeneração de Estamina por Turno**
+
+No início de seu próprio [[Turno]], recuperam 9 de Estamina Atual, sem ultrapassar sua Estamina Máxima.
+
+Essa regeneração não recupera reduções temporárias da Estamina Máxima causadas por esforço ou Exaustão.
+
+---
+
+# Mana Vampírica
+
+O Sangue D’Averne possui capacidade natural de armazenar [[Mana]].
+
+Para um D’Averne:
+
+> **Mana começa desbloqueada.**
+
+Os integrantes mais próximos do Sangue original possuem:
+
+> **40 de Mana Base**
+
+e:
+
+> **3 de Regeneração de Mana por Turno**
+
+A Mana racial é somada aos investimentos realizados através de [[Desenvolvimento de Reservas]] e aos demais bônus do personagem.
+
+Possuir Mana não concede automaticamente acesso a magias ou Habilidades capazes de utilizá-la.
+
+---
+
+# Ki e Reiryoku
+
+O Sangue D’Averne não possui atualmente acesso racial natural a:
+
+- [[Ki]];
+- [[Reiryoku]].
+
+Essas Reservas permanecem bloqueadas até serem desbloqueadas por uma fonte apropriada.
+
+O desenvolvimento futuro da linhagem pode alterar essa característica.
 
 ---
 
@@ -112,44 +181,46 @@ O primeiro aspecto desenvolvido pelo Sangue D’Averne foi a:
 
 > **Velocidade**
 
-Desde seu nascimento, a linhagem apresenta predisposição sobrenatural para movimentos rápidos, reflexos elevados e capacidade de manter esforço físico intenso durante longos períodos.
+Desde seu nascimento, a linhagem apresenta predisposição sobrenatural para:
+
+- aceleração;
+- reflexos;
+- perseguição;
+- esquivas;
+- movimentação silenciosa;
+- ataques rápidos;
+- deslocamentos sobrenaturais;
+- ações baseadas em velocidade.
 
 Esse foco está representado principalmente por:
 
-> **140 Estamina**
+- **Destreza Racial 7**;
+- **140 de Estamina Base**;
+- **9 de Regeneração de Estamina**;
+- **Deslocamento Base de 4 metros**;
+- **4 Estamina por Esquiva**.
 
-> **9 Regeneração de Estamina**
+---
 
-> **3 Pontos de Precisão**
+# Impulso Vampírico
 
-> **12 metros de Corrida**
+Quando um D’Averne utiliza seu movimento para correr, perseguir ou realizar uma movimentação explosiva compatível com sua natureza vampírica, recebe:
 
-> **4 Estamina por Esquiva**
+> **+4 metros de Deslocamento naquela ação de movimento.**
 
-A linhagem também apresenta grande potencial para desenvolver futuramente Habilidades relacionadas a:
+Esse bônus não aumenta permanentemente o Deslocamento do personagem.
 
-- aceleração;
-    
-- perseguição;
-    
-- reflexos;
-    
-- esquivas;
-    
-- movimentação silenciosa;
-    
-- ataques rápidos;
-    
-- deslocamentos sobrenaturais;
-    
-- ações baseadas em velocidade.
-    
+Habilidades e evoluções futuras podem modificar essa característica.
 
-O Foco da Linhagem não concede automaticamente:
+---
+
+# Velocidade e Pontos de Ação
+
+O Foco em Velocidade não concede automaticamente:
 
 > **Pontos de Ação adicionais.**
 
-Qualquer capacidade capaz de aumentar o número de ações realizadas durante um [[Turno]] precisa ser adquirida através de uma Habilidade específica.
+A velocidade do D’Averne permite que ele se mova e reaja de maneira extraordinária, mas aumentar a quantidade de ações executadas em um [[Turno]] exige uma Habilidade, Passiva ou outro efeito específico.
 
 ---
 
@@ -161,65 +232,83 @@ O Foco em Velocidade concede naturalmente ao Sangue D’Averne a Afinidade:
 
 Além dela, Alana escolheu quatro Afinidades Primordiais para sua linhagem:
 
-> **Percepção**
-
-> **Sexto Sentido**
-
-> **Furtividade**
-
-> **Vontade**
+- **Percepção**
+- **Sexto Sentido**
+- **Furtividade**
+- **Vontade**
 
 Portanto, as Afinidades iniciais do Clã D’Averne são:
 
 - **Agilidade**
-    
 - **Percepção**
-    
 - **Sexto Sentido**
-    
 - **Furtividade**
-    
 - **Vontade**
-    
 
 ---
 
-## Identidade das Afinidades
+# Identidade das Afinidades
 
-Essas Afinidades formam a primeira identidade sobrenatural do Sangue D’Averne.
-
-A linhagem possui predisposição para desenvolver capacidades relacionadas a:
+Essas Afinidades representam uma predisposição sobrenatural do Sangue D’Averne para desenvolver capacidades relacionadas a:
 
 - velocidade;
-    
 - mobilidade;
-    
 - reflexos;
-    
 - percepção aguçada;
-    
 - detecção de ameaças;
-    
 - instintos sobrenaturais;
-    
 - perseguição;
-    
 - caça;
-    
 - movimentação furtiva;
-    
 - emboscadas;
-    
-- controle mental próprio;
-    
-- resistência da vontade.
-    
+- resistência mental;
+- força de vontade.
 
-As Afinidades não concedem automaticamente Habilidades.
+As Afinidades não concedem automaticamente valores nas [[Perícias]] de mesmo nome.
 
-Elas representam principalmente:
+Elas representam:
 
 > **compatibilidade natural do Sangue com determinados caminhos de desenvolvimento.**
+
+---
+
+# Deslocamento
+
+O Deslocamento Base dos D’Averne é:
+
+> **4 metros**
+
+O Deslocamento normal segue:
+
+> **Deslocamento = Deslocamento Base + Atletismo**
+
+O [[#Impulso Vampírico|Impulso Vampírico]] pode aumentar esse valor durante movimentos explosivos apropriados.
+
+Classes, Habilidades, Passivas, equipamentos e outros efeitos podem modificar o Deslocamento normalmente.
+
+---
+
+# Esquiva Vampírica
+
+O custo racial padrão para utilizar [[Esquivar]] é:
+
+> **4 Estamina**
+
+A velocidade e os reflexos naturais da linhagem tornam movimentos evasivos menos desgastantes.
+
+Esse custo pode ser modificado por Classes, Habilidades, Passivas, equipamentos, [[Regras/Condições|Condições]] e outros efeitos.
+
+---
+
+# Pontos de Ação
+
+Os D’Averne possuem naturalmente:
+
+> **2 [[Pontos de Ação|PA]]**
+
+PA adicionais não são concedidos automaticamente pelo Foco em Velocidade.
+
+Eles precisam ser obtidos através de fontes específicas.
 
 ---
 
@@ -233,7 +322,7 @@ Não existe um custo numérico de Sangue para realizar o processo.
 
 ---
 
-## Consentimento
+# Consentimento
 
 Uma criatura somente pode ser transformada em um D’Averne caso:
 
@@ -263,30 +352,22 @@ Ao final do processo, caso sobreviva:
 
 A transformação não possui uma chance universal de sucesso.
 
-O risco depende do indivíduo que está sendo transformado.
+O risco depende do indivíduo transformado.
 
 Fatores relevantes podem incluir:
 
 - Raça;
-    
 - organismo;
-    
 - condição física;
-    
 - características sobrenaturais;
-    
 - compatibilidade com o Sangue;
-    
-- condições especiais;
-    
+- Condições;
 - acontecimentos anteriores;
-    
-- outros fatores considerados relevantes.
-    
+- outros fatores relevantes.
 
 > **O risco de morte é determinado individualmente pelo Mestre.**
 
-Algumas criaturas podem possuir alta compatibilidade com o Sangue D’Averne.
+Algumas criaturas podem possuir grande compatibilidade com o Sangue D’Averne.
 
 Outras podem apresentar grande risco ou até incapacidade de completar a transformação.
 
@@ -300,19 +381,17 @@ No **Nível Racial 0**, Alana pode possuir no máximo:
 
 Esses indivíduos são Vampiros transformados pessoalmente pela Progenitora.
 
-Eles representam a primeira geração da linhagem.
+Eles representam a **Primeira Geração** da linhagem.
 
-Enquanto esse limite estiver preenchido, Alana não poderá criar outro Descendente Direto até que sua capacidade de criação aumente ou alguma condição especial altere esse limite.
+Enquanto esse limite estiver preenchido, Alana não poderá criar outro Descendente Direto até que sua capacidade aumente ou uma regra específica altere o limite.
 
 ---
 
 # Gerações do Clã
 
-O Clã D’Averne é organizado biologicamente de acordo com a distância de cada Vampiro em relação à Progenitora.
+O Clã D’Averne é organizado biologicamente pela distância de cada Vampiro em relação à Progenitora.
 
-A estrutura básica é:
-
-> **Alana D’Averne — Progenitora**
+> **Alana D’Averne, Progenitora**
 
 ↓
 
@@ -328,7 +407,7 @@ A estrutura básica é:
 
 ↓
 
-> **Gerações posteriores**
+> **Gerações Posteriores**
 
 Quanto mais distante um Vampiro estiver da Progenitora:
 
@@ -342,44 +421,58 @@ Vampiros transformados diretamente por Alana pertencem à:
 
 > **Primeira Geração**
 
-Esses indivíduos possuem a ligação mais pura possível com o Sangue original.
+Esses indivíduos possuem a ligação mais pura possível com o Sangue original abaixo da própria Progenitora.
 
-Por esse motivo:
+Por isso:
 
-> **a Primeira Geração é significativamente mais poderosa que as gerações posteriores.**
+> **a Primeira Geração é significativamente mais poderosa que gerações posteriores.**
 
 Os membros dessa geração podem ser conhecidos dentro do Clã como:
 
 > **Primogênitos**
 
-caso essa nomenclatura seja adotada pela própria linhagem.
+caso essa nomenclatura seja adotada pela linhagem.
 
 ---
 
 # Diluição do Sangue
 
-Conforme uma nova geração surge, a ligação direta com Alana torna-se progressivamente menor.
+Conforme novas gerações surgem, a ligação direta com Alana torna-se progressivamente menor.
 
-Essa diluição pode influenciar:
+A Diluição do Sangue pode influenciar:
 
-- Status Raciais;
-    
+- Base Racial dos [[Atributos Centrais]];
+- Reservas;
+- Regenerações;
 - limite de progressão;
-    
-- acesso a determinadas Habilidades;
-    
+- acesso a Habilidades Raciais;
 - força das características herdadas;
-    
 - capacidade de criar novos Vampiros;
-    
 - potencial de evolução;
-    
 - autoridade sanguínea;
-    
 - outras características do Clã.
-    
 
-Nem toda característica desenvolvida pela Progenitora precisa necessariamente alcançar todas as gerações.
+Nem toda característica desenvolvida pela Progenitora precisa alcançar todas as gerações.
+
+As regras específicas de cada geração determinam aquilo que é herdado.
+
+---
+
+# Progressão Racial
+
+O Vampiro D’Averne é atualmente uma Raça:
+
+> **T1**
+
+Seu Nível Racial Máximo atual é:
+
+> **Nível 20**
+
+A progressão racial da Progenitora utiliza normalmente as regras de [[Regras/Progressão Racial de Atributos Centrais#Pontos Centrais|PC]].
+
+Os PC adquiridos durante sua progressão são adicionados separadamente à Base Racial.
+
+A evolução especial da linhagem descrita abaixo acontece em conjunto com essa progressão.
 
 ---
 
@@ -395,25 +488,14 @@ Alana pode escolher:
 
 > **1 nova Habilidade Racial**
 
-Essa Habilidade torna-se parte do Sangue D’Averne.
-
 Os Marcos atuais são:
 
-### Nível 5
-
-> **+1 Habilidade Racial**
-
-### Nível 10
-
-> **+1 Habilidade Racial**
-
-### Nível 15
-
-> **+1 Habilidade Racial**
-
-### Nível 20
-
-> **+1 Habilidade Racial**
+| Nível Racial | Desenvolvimento |
+|---:|---|
+| **5** | +1 Habilidade Racial |
+| **10** | +1 Habilidade Racial |
+| **15** | +1 Habilidade Racial |
+| **20** | +1 Habilidade Racial |
 
 Essas escolhas representam não apenas a evolução individual de Alana.
 
@@ -427,19 +509,13 @@ Elas representam:
 
 Por padrão, uma Habilidade adquirida através da evolução da Progenitora passa a fazer parte do Sangue do Clã.
 
-Isso significa que:
-
-> **os descendentes também podem receber essa Habilidade.**
-
-Entretanto, algumas características podem possuir limitações hereditárias.
-
-Cada Habilidade deverá indicar até onde ela é transmitida.
+Entretanto, cada Habilidade determina seu alcance hereditário.
 
 ---
 
 ## Toda a Linhagem
 
-A característica alcança todos os integrantes do Clã.
+A característica alcança:
 
 > **Progenitora + todas as gerações**
 
@@ -449,7 +525,7 @@ A característica alcança todos os integrantes do Clã.
 
 A característica existe apenas nas gerações mais próximas da origem.
 
-Exemplo:
+Por exemplo:
 
 > **Progenitora + Primeira Geração**
 
@@ -463,23 +539,23 @@ A característica existe exclusivamente na Progenitora.
 
 ---
 
-Também podem existir outras limitações, como:
+Também podem existir outros limites, como:
 
 > **Até Segunda Geração**
 
-ou condições próprias determinadas pela Habilidade.
+ou condições próprias definidas pela Habilidade.
 
 ---
 
 # Defeitos da Linhagem
 
-A evolução do Clã não precisa ocorrer apenas através de desenvolvimento positivo.
+A evolução do Clã também pode ocorrer através da incorporação voluntária de fraquezas ao próprio Sangue.
 
 Em cada Marco Racial de:
 
 > **Nível 5, 10, 15 e 20**
 
-Alana pode voluntariamente escolher:
+Alana pode escolher:
 
 > **1 Defeito de Linhagem**
 
@@ -487,17 +563,13 @@ Ao aceitar esse Defeito, recebe:
 
 > **+1 Habilidade Racial adicional**
 
-Portanto, em um Marco normal:
-
-> **1 Habilidade Racial**
-
-Caso um Defeito seja escolhido:
+Portanto, um Marco pode conceder:
 
 > **1 Habilidade Racial normal**
 
-mais:
+e, caso um Defeito seja escolhido:
 
-> **1 Habilidade Racial adicional**
+> **+1 Habilidade Racial adicional**
 
 ---
 
@@ -507,11 +579,11 @@ Pode ser escolhido no máximo:
 
 > **1 Defeito por Marco Racial**
 
-Portanto, entre os Níveis 5 e 20, o Clã poderá desenvolver voluntariamente até:
+Entre os Níveis 5 e 20, o Clã pode desenvolver voluntariamente até:
 
 > **4 Defeitos de Linhagem**
 
-Esses Defeitos poderiam permitir até:
+Esses Defeitos podem permitir até:
 
 > **4 Habilidades Raciais adicionais**
 
@@ -523,75 +595,67 @@ Por padrão:
 
 > **Defeitos também são transmitidos pelo Sangue.**
 
-Isso significa que uma fraqueza incorporada à linhagem pode afetar seus descendentes.
+Assim como Habilidades Raciais, cada Defeito pode possuir um alcance hereditário.
 
-Entretanto, assim como Habilidades, um Defeito pode possuir alcance específico.
-
-Pode afetar:
+Ele pode afetar:
 
 - toda a linhagem;
-    
-- apenas Progenitora e Primeira Geração;
-    
+- Progenitora e Primeira Geração;
 - até determinada geração;
-    
 - somente a Progenitora;
-    
 - grupos específicos de descendentes.
-    
 
 A gravidade do Defeito deve ser proporcional ao benefício adquirido através dele.
 
-Defeitos sem consequência mecânica significativa não são suficientes para conceder uma Habilidade adicional.
+> **Um Defeito sem consequência mecânica significativa não concede uma Habilidade Racial adicional.**
 
 ---
 
 # Construção da Identidade D’Averne
 
-O Clã D’Averne não possui todas as suas características definidas desde o nascimento.
+O Clã D’Averne não possui todas as suas características definidas desde seu nascimento.
 
-Elas serão construídas durante sua própria história.
+Elas serão construídas durante sua história.
 
 As escolhas realizadas pela Progenitora podem futuramente determinar:
 
 - aparência vampírica;
-    
 - características físicas;
-    
 - capacidades mágicas;
-    
 - técnicas de velocidade;
-    
 - poderes sensoriais;
-    
 - capacidades furtivas;
-    
 - métodos de alimentação;
-    
 - regeneração;
-    
 - transformações;
-    
 - fraquezas;
-    
 - relação entre gerações;
-    
 - autoridade sanguínea;
-    
-- comportamento do Sangue.
-    
+- comportamento do Sangue;
+- novas Reservas;
+- novas Afinidades;
+- outras características raciais.
 
-Dessa forma, o desenvolvimento de Alana também representa o desenvolvimento de toda a linhagem.
+O desenvolvimento de Alana também representa o desenvolvimento da própria linhagem.
 
 ---
 
 # Estado Atual do Clã D’Averne
 
 **Progenitora:** Alana D’Averne  
-**Raridade:** Lendária  
-**Tier Atual:** 1  
+**Raridade:** Lendário  
+**Tier Atual:** T1  
 **Nível Racial Atual:** 0  
 **Nível Racial Máximo:** 20
+
+**Base Racial:**
+
+> Força 3  
+> Constituição 4  
+> Destreza 7  
+> Intelecto 3  
+> Espírito 4  
+> Presença 3
 
 **Foco da Linhagem:**
 
@@ -601,16 +665,12 @@ Dessa forma, o desenvolvimento de Alana também representa o desenvolvimento de 
 
 > Agilidade
 
-**Afinidades Primordiais escolhidas:**
+**Afinidades Primordiais:**
 
 - Percepção
-    
 - Sexto Sentido
-    
 - Furtividade
-    
 - Vontade
-    
 
 **Descendentes Diretos Máximos:**
 
@@ -639,6 +699,16 @@ Dessa forma, o desenvolvimento de Alana também representa o desenvolvimento de 
 **Risco da Transformação:**
 
 > Determinado individualmente pelo Mestre
+
+---
+
+# Regra Específica
+
+Características desenvolvidas futuramente pelo Sangue D’Averne podem modificar as regras desta página.
+
+Quando uma Habilidade Racial, Defeito de Linhagem, evolução ou outro efeito específico contradizer uma regra geral:
+
+> **Regra específica > regra geral.**
 
 ---
 

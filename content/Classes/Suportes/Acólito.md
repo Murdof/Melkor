@@ -1,281 +1,361 @@
-O **Acólito** é uma [[Classes|classe]] de combate focada em **suporte, cura e proteção de aliados**, utilizando magia para manter seu grupo em condições de continuar lutando.
+O **Acólito** é uma [[Classes|classe]] de suporte mágico focada em **cura, fortalecimento e proteção de aliados**.
 
-Sua principal força está em **restaurar [[Vida]], fortalecer aliados e remover efeitos negativos**, podendo responder a diferentes problemas conforme eles surgem durante o confronto. Embora tenha pouca capacidade ofensiva própria, sua presença pode mudar completamente o resultado de uma batalha ao manter outros combatentes ativos e fortalecidos.
+Sua principal força está em manter o grupo em condições de continuar lutando.
 
-Com boa capacidade de [[Mana]] e recuperação constante, o Acólito consegue sustentar suas habilidades durante confrontos prolongados, mas precisa administrar cuidadosamente **quem ajudar e quando agir**.
+O Acólito utiliza [[Mana]] para restaurar [[Vida]], fortalecer aliados, criar proteções temporárias e remover efeitos prejudiciais.
 
-O Acólito serve como base para futuras classes especializadas em **cura, fortalecimento e purificação**, permitindo que cada caminho aprofunde uma das principais formas de suporte mágico.
+Diferente de Classes mágicas voltadas principalmente para causar Dano, o Acólito desenvolve técnicas destinadas a **preservar, restaurar e fortalecer outras criaturas**.
+
+Seu treinamento também envolve conhecimentos básicos de [[Atributos Centrais/Intelecto#Medicina|Medicina]], permitindo compreender melhor ferimentos e limitações do corpo, enquanto [[Atributos Centrais/Espírito#Vontade|Vontade]] e [[Atributos Centrais/Espírito#Sexto Sentido|Sexto Sentido]] ajudam a lidar com efeitos mentais, espirituais e sobrenaturais.
+
+O Acólito serve como base para futuras Classes especializadas em **cura, bênçãos e purificação**.
 
 ---
 
-### Bônus
+# Dados da Classe
+
+- **Tier:** T1
+- **Tipo:** Suporte Mágico
+- **Nível Máximo:** 10
+- **Árvore:** Acólito
+- **Slot Compatível:** Universal ou Combate
+
+---
+
+### Resumo
+
+Classe mágica de suporte focada em manter aliados vivos, fortalecidos e protegidos.
+
+### O que faz
+
+- Recupera [[Vida]]
+- Fortalece aliados
+- Aumenta Defesas
+- Remove efeitos prejudiciais
+- Auxilia no tratamento de ferimentos
+- Sustenta o grupo durante combates prolongados
+- Desenvolve percepção de efeitos espirituais e sobrenaturais
+
+---
+
+# Bônus de Classe
+
+## Recurso Desbloqueado
+
+Ao adquirir Acólito:
+
+> **[[Mana]] é desbloqueada.**
+
+O personagem passa a poder utilizar e desenvolver sua Reserva de Mana normalmente.
+
+---
+
+## Reservas
 
 - +20 [[Vida]]
 - +50 [[Mana]]
 - +100 [[Estamina]]
+
+## Regeneração
+
 - +5 Regeneração de Estamina
 - +6 Regeneração de Mana
-- +1 Inteligência
+
+## Perícias
+
+- +2 [[Conjuração]]
+- +1 [[Atributos Centrais/Intelecto#Medicina|Medicina]]
 - +2 Vontade
-- +2 Precisão Mágica
+- +1 Sexto Sentido
+
+Esses valores são **Bônus de Classe** e não representam investimento natural realizado com PP.
+
+## Defesas
+
 - +2 Defesa Mágica
 - +2 Defesa Mental
-- +1 Sexto Sentido
 
 ---
 
-### Afinidades — Acólito
+# Afinidades do Acólito
 
 - Vida
 - Mana
 - Regeneração de Mana
 - Estamina
 - Regeneração de Estamina
-- Precisão Mágica
+- Conjuração
+- Medicina
+- Vontade
+- Sexto Sentido
 - Defesa Mágica
 - Defesa Mental
 - Defesa Espiritual
 - Defesa Biológica
-- Inteligência
-- Vontade
-- Sexto Sentido
-- Medicina
 
 ---
 
 # Ativas
 
-##### Cura — Nv.1
+##### Cura | Nv.1
 
-**Descrição:**
+**Descrição:**  
+O Acólito utiliza [[Mana]] para acelerar a recuperação do corpo de uma criatura.
 
-O Acólito utiliza [[Mana]] para acelerar a recuperação do corpo de um alvo.
+### Efeito
 
-**Efeito:**  
-Recupera:
+O alvo recupera:
 
 > **10 de [[Vida]]**
 
-Cura recupera **Vida perdida por Dano**.
+Cura restaura Vida perdida por [[Dano]].
 
-Ela não regenera membros, não remove doenças, venenos, [[Condições]] ou outros efeitos por si só.
+Ela não remove automaticamente a causa do ferimento.
 
-Ferimentos ou efeitos que precisem de tratamento específico continuam existindo mesmo que a Vida seja restaurada.
+Portanto, Cura não:
 
-**Alcance:**
+- regenera membros perdidos;
+- encerra [[Regras/Condições#Sangramento|Sangramento]];
+- remove venenos;
+- remove doenças;
+- remove [[Condições]];
+- trata automaticamente ferimentos graves;
+- substitui um tratamento que a própria condição exija.
 
-> **8 metros**
+Uma criatura pode recuperar Vida através de Cura e ainda continuar sofrendo as consequências de um ferimento.
 
-**Custo:**
-
-> **8 Mana + 1 [[Pontos de Ação|PA]]**
-
----
-
-##### Fortalecer — Nv.1
-
-**Descrição:**  
-O Acólito fortalece temporariamente um aliado, aumentando sua capacidade ofensiva.
-
-**Efeito:**  
-O alvo recebe:
-
-> **+3 de [[Dano]] por 3 [[Turno|Turnos]]**
-
-O jogador que recebe o Buff escolhe qual tipo de Dano será fortalecido:
-
-> +3 Dano Melee  
-> +3 Dano Curto/Médio  
-> +3 Dano Longo  
-> +3 Dano Mágico
-
-Somente o tipo escolhido recebe o bônus.
-
-**Exemplo:**
-
-Um personagem escolhe:
-
-> **+3 Dano Melee**
-
-Durante a duração de Fortalecer, seus ataques Melee recebem o bônus, mas seus ataques mágicos ou de longa distância não.
-
-O bônus entra normalmente no cálculo de [[Dano]].
-
-**Alcance:**
+### Alcance
 
 > **8 metros**
 
-**Duração:**
-
-> **3 Turnos**
-
-**Custo:**
+### Custo
 
 > **8 [[Mana]] + 1 [[Pontos de Ação|PA]]**
 
 ---
 
-##### Purificar — Nv.1
+##### Fortalecer | Nv.1
 
 **Descrição:**  
-O Acólito utiliza [[Mana]] para remover uma [[Condições|condição]] prejudicial que esteja afetando o alvo.
+O Acólito fortalece temporariamente um aliado, aumentando a potência de uma forma específica de ataque.
 
-**Efeito:**  
-Tenta remover:
+### Efeito
 
-> **1 Debuff**
+Ao utilizar Fortalecer, escolha uma das seguintes categorias:
 
-Para efeitos comuns ou fracos, a remoção pode ocorrer diretamente.
+> **Ataques Corpo a Corpo**  
+> **Ataques à Distância**  
+> **Habilidades Mágicas**
 
-Quando a própria condição possuir resistência ou quando sua potência tornar a remoção incerta, o Acólito realiza o teste apropriado.
+Durante a duração, ataques que pertençam à categoria escolhida recebem:
 
-Normalmente:
+> **+3 de Dano**
 
-> **Dado + Vontade do Acólito + Modificadores**
+Esse valor é tratado como:
+
+> **Bônus Fixo de Dano**
+
+e utiliza o mesmo tipo de Dano causado pelo ataque.
+
+Fortalecer não cria uma nova categoria de Dano.
+
+Ele apenas determina quais ataques recebem o bônus.
+
+### Exemplo
+
+O alvo recebe:
+
+> **Fortalecer: Ataques Corpo a Corpo**
+
+Uma espada que normalmente causa:
+
+> `2d8 + 4 Dano Físico`
+
+passa a causar:
+
+> `2d8 + 7 Dano Físico`
+
+Um arco ou magia utilizados pelo mesmo personagem não recebem o bônus.
+
+### Alcance
+
+> **8 metros**
+
+### Duração
+
+> **3 [[Turno|Turnos]]**
+
+### Custo
+
+> **8 [[Mana]] + 1 [[Pontos de Ação|PA]]**
+
+---
+
+##### Purificar | Nv.1
+
+**Descrição:**  
+O Acólito utiliza [[Mana]] para desfazer uma interferência prejudicial que esteja afetando uma criatura.
+
+### Efeito
+
+Purificar pode tentar remover:
+
+> **1 Condição ou efeito negativo compatível com a Habilidade.**
+
+Efeitos simples ou de baixa potência podem ser removidos diretamente quando sua própria regra permitir.
+
+Quando houver resistência à remoção, é realizado um teste.
+
+O método padrão é:
+
+> **Dado + Vontade + Modificadores**
 
 contra:
 
 > **Dificuldade do efeito**
 
-O dado utilizado segue normalmente [[Dados e Testes]].
+### Natureza do efeito
 
-Isso substitui o antigo **d20 fixo**, já que os testes do sistema agora utilizam o dado correspondente ao bônus total.
+Nem todo efeito prejudicial funciona da mesma maneira.
 
-### Exemplo
+Uma:
 
-Se uma maldição possui:
+- doença;
+- maldição;
+- corrupção espiritual;
+- interferência mental;
+- toxina;
+- magia persistente;
 
-> **Dificuldade 18 para ser removida**
+pode possuir suas próprias regras para remoção.
 
-e o Acólito possui:
+Quando uma regra específica determinar outro método, ela substitui o teste padrão de Vontade.
 
-> **+7 de Vontade**
+Por exemplo, uma futura Habilidade pode permitir utilizar:
 
-o teste será:
+- [[Atributos Centrais/Intelecto#Medicina|Medicina]] contra determinados efeitos biológicos;
+- [[Conjuração]] contra determinadas interferências mágicas;
+- [[Atributos Centrais/Espírito#Sexto Sentido|Sexto Sentido]] contra certos fenômenos espirituais.
 
-> **d20 + 7 contra Dificuldade 18**
-
-Se futuramente seu bônus utilizado no teste chegar a +17:
-
-> **d30 + 17 contra a Dificuldade**
+> **Regra específica > regra geral.**
 
 ### Limitações
 
 Purificar não remove automaticamente:
 
 - ferimentos físicos;
-- perda de membros;
-- perda de [[Estamina]] Máxima por esforço;
-- efeitos que exijam tratamento específico;
-- condições cuja própria regra determine que não podem ser removidas dessa maneira.
+- membros perdidos;
+- perda de Estamina Máxima causada por esforço;
+- efeitos permanentes;
+- condições que exijam tratamento específico;
+- efeitos que explicitamente não possam ser removidos por Purificar.
 
-A própria origem do efeito determina como ele pode ser removido, seguindo [[Condições]].
-
-Uma Habilidade específica do Acólito ou de suas evoluções pode posteriormente permitir remover algo que normalmente Purificar não conseguiria.
-
-**Alcance:**
+### Alcance
 
 > **8 metros**
 
-**Custo:**
+### Custo
 
 > **10 [[Mana]] + 1 [[Pontos de Ação|PA]]**
 
 ---
 
-##### Proteção — Nv.1
+##### Proteção | Nv.1
 
 **Descrição:**  
-O Acólito envolve um aliado com uma camada temporária de energia protetora.
+O Acólito envolve uma criatura com uma camada temporária de energia protetora.
 
-**Efeito:**  
-Escolhe **uma [[Defesa]]**:
+### Efeito
 
-> Defesa Física  
-> Defesa Mágica  
-> Defesa Mental  
-> Defesa Espiritual  
-> Defesa Biológica
+Ao utilizar Proteção, escolha uma das cinco Defesas:
+
+- Defesa Física
+- Defesa Mágica
+- Defesa Mental
+- Defesa Biológica
+- Defesa Espiritual
 
 O alvo recebe:
 
 > **+3 na Defesa escolhida**
 
-por:
+### Duração
 
 > **3 [[Turno|Turnos]]**
 
-A Defesa é escolhida no momento em que Proteção é utilizada e permanece a mesma durante toda a duração.
+A Defesa escolhida não pode ser alterada enquanto aquela aplicação de Proteção estiver ativa.
 
-**Exemplo:**
+### Exemplo
 
-Se o alvo possui:
+Uma criatura possui:
 
 > **8 Defesa Física**
 
 e recebe Proteção escolhendo Defesa Física:
 
-> `8 + 3 = 11 Defesa Física`
+> `8 + 3 = 11`
 
-Enquanto o Buff permanecer ativo, o alvo possui **11 Defesa Física**.
+Durante a duração:
 
-**Alcance:**
+> **Defesa Física 11**
+
+### Alcance
 
 > **8 metros**
 
-**Duração:**
-
-> **3 Turnos**
-
-**Custo:**
+### Custo
 
 > **8 [[Mana]] + 1 [[Pontos de Ação|PA]]**
 
+---
+
 # Passivas
 
-##### Mãos Restauradoras — Nv.1
+##### Mãos Restauradoras | Nv.1
 
 **Descrição:**  
-A magia restauradora do Acólito possui maior eficiência, permitindo que suas habilidades recuperem uma quantidade maior de [[Vida]].
+A magia restauradora do Acólito possui maior eficiência ao recuperar criaturas feridas.
 
-**Efeito:**  
-Habilidades utilizadas pelo Acólito que recuperem Vida recebem:
+### Efeito
+
+Habilidades utilizadas pelo Acólito que recuperem [[Vida]] recebem:
 
 > **+3 de Cura**
 
-O bônus é aplicado à quantidade de Vida restaurada pela habilidade.
+Esse valor é acrescentado à quantidade de Vida restaurada.
 
-**Exemplo:**
+### Exemplo
 
-A habilidade **Cura** normalmente recupera:
+Cura normalmente recupera:
 
-> **10 de Vida**
+> **10 Vida**
 
 Com Mãos Restauradoras:
 
 > `10 + 3 = 13`
 
-A habilidade passa a recuperar:
+Resultado:
 
-> **13 de Vida**
+> **13 Vida**
 
 Mãos Restauradoras não transforma efeitos que normalmente não recuperam Vida em habilidades de cura.
 
 ---
 
-##### Bênção Duradoura — Nv.1
+##### Bênção Duradoura | Nv.1
 
 **Descrição:**  
 Os efeitos benéficos criados pelo Acólito permanecem ativos por mais tempo antes de se dissiparem.
 
-**Efeito:**  
-Habilidades do Acólito que concedam **Buffs com duração determinada em Turnos** recebem:
+### Efeito
+
+Habilidades do Acólito que concedam Buffs com duração determinada em Turnos recebem:
 
 > **+1 [[Turno]] de duração**
 
-**Exemplo:**
+### Exemplo
 
-**Fortalecer** normalmente possui duração de:
+Fortalecer normalmente dura:
 
 > **3 Turnos**
 
@@ -283,57 +363,125 @@ Com Bênção Duradoura:
 
 > **4 Turnos**
 
-O mesmo acontece com **Proteção**:
+Proteção também passa de:
 
-> **3 Turnos → 4 Turnos**
+> **3 Turnos para 4 Turnos**
 
-Bênção Duradoura aumenta apenas a **duração** do efeito.
+Bênção Duradoura aumenta apenas a duração.
 
-Ela não aumenta seu valor, [[Dano]], [[Defesa]] ou qualquer outro benefício concedido.
+Ela não aumenta:
 
-Efeitos instantâneos, permanentes ou que dependam de manutenção não recebem automaticamente esse benefício.
+- Dano;
+- Defesa;
+- Precisão;
+- Cura;
+- qualquer outro valor do efeito.
+
+Efeitos instantâneos, permanentes ou sustentados por manutenção não recebem esse benefício automaticamente.
 
 ---
 
-##### Purificação Potente — Nv.1
+##### Purificação Potente | Nv.1
 
 **Descrição:**  
-O Acólito desenvolveu maior capacidade de desfazer efeitos prejudiciais e interferências que afetam seus aliados.
+O Acólito desenvolveu maior capacidade de desfazer efeitos prejudiciais e interferências que afetam outras criaturas.
 
-**Efeito:**  
+### Efeito
+
 Recebe:
 
-> **+2 em testes para remover [[Condições|Condições negativas]]**
+> **+2 em testes realizados através de suas Habilidades para remover Condições ou efeitos negativos.**
 
-O bônus é aplicado quando uma habilidade do Acólito exige um teste para remover o efeito.
+### Exemplo
 
-**Exemplo:**
+Purificar normalmente utiliza:
 
-Ao utilizar **Purificar**, se o Acólito normalmente realizaria:
+> **Dado + Vontade**
 
-> `Dado + Vontade`
+Quando Purificação Potente for aplicável:
 
-passa a realizar:
+> **Dado + Vontade + 2**
 
-> `Dado + Vontade + 2`
+O bônus também conta para determinar o dado utilizado conforme [[Dados e Testes]].
 
-O +2 também faz parte do bônus total utilizado para determinar qual dado será rolado conforme [[Dados e Testes]].
+### Outros métodos
 
-**Exemplo:**
+Caso uma Habilidade específica utilize outro método de remoção, como:
 
-Se o Acólito possui:
+> **Medicina**
 
-> **+13 Vontade**
+ou:
 
-com Purificação Potente:
+> **Conjuração**
 
-> `13 + 2 = +15`
+Purificação Potente também pode ser aplicada desde que seja uma Habilidade do Acólito destinada a remover o efeito.
 
-Portanto, o teste utiliza:
+### Limitação
 
-> **d30 + 15**
+Purificação Potente não permite remover um efeito que seja incompatível com o método utilizado.
 
-Purificação Potente não permite remover uma condição que **não possa ser removida pelo método utilizado**.
+Ela melhora uma tentativa válida.
+
+> **Não transforma uma tentativa impossível em possível.**
+
+---
+
+# Uso das Perícias
+
+## Conjuração
+
+Representa a capacidade do Acólito de formar e controlar seus efeitos mágicos.
+
+É utilizada quando uma Habilidade exigir controle técnico da magia ou determinar Conjuração como seu método.
+
+Habilidades de suporte que funcionem automaticamente em um alvo válido não precisam realizar um teste de Conjuração apenas por serem mágicas.
+
+---
+
+## Medicina
+
+Representa o conhecimento do Acólito sobre:
+
+- ferimentos;
+- anatomia;
+- tratamento;
+- estabilização;
+- doenças;
+- condições físicas.
+
+Medicina não substitui automaticamente a magia de cura.
+
+Da mesma forma:
+
+> **recuperar Vida e tratar um ferimento não são necessariamente a mesma coisa.**
+
+O Acólito pode utilizar magia para restaurar Vida enquanto [[Atributos Centrais/Intelecto#Medicina|Medicina]] é necessária para compreender ou tratar a origem do problema.
+
+---
+
+## Vontade
+
+Vontade representa a força mental e espiritual utilizada pelo Acólito para enfrentar interferências e manter controle sobre efeitos difíceis de desfazer.
+
+É o método padrão utilizado por **Purificar** quando nenhuma regra mais específica determinar outro.
+
+---
+
+## Sexto Sentido
+
+Sexto Sentido permite perceber sinais que não dependem apenas dos sentidos físicos.
+
+Pode auxiliar o Acólito a identificar:
+
+- presenças espirituais;
+- interferências sobrenaturais;
+- sensações anormais;
+- corrupção;
+- fenômenos cuja natureza não seja imediatamente visível.
+
+Sexto Sentido não identifica automaticamente a origem ou funcionamento de tudo aquilo que percebe.
+
+Perceber que algo está errado não significa necessariamente compreender **o que** está errado.
 
 ---
 
@@ -351,25 +499,24 @@ Cada evolução aprofunda uma parte diferente do suporte oferecido pelo Acólito
 
 ## Curandeiro
 
-O **Curandeiro** é a evolução do Acólito especializada em **restaurar [[Vida]], tratar ferimentos e manter aliados vivos**.
+O **Curandeiro** é a evolução do Acólito especializada em **restaurar Vida, tratar ferimentos e manter criaturas vivas**.
 
-Enquanto o Acólito possui capacidades gerais de suporte, o Curandeiro concentra seu desenvolvimento na recuperação física de outras criaturas.
+Enquanto o Acólito possui capacidades gerais de suporte, o Curandeiro concentra seu desenvolvimento na recuperação física.
 
-Suas futuras habilidades podem permitir:
+Sua progressão pode aprofundar:
 
-- recuperar maiores quantidades de Vida;
-- realizar curas mais eficientes;
-- tratar ferimentos;
-- estabilizar aliados;
-- acelerar recuperação;
-- restaurar danos físicos mais graves;
-- manter criaturas vivas em situações críticas.
+- recuperação de Vida;
+- estabilização;
+- tratamento de ferimentos;
+- [[Atributos Centrais/Intelecto#Medicina|Medicina]];
+- recuperação acelerada;
+- tratamento de lesões graves;
+- técnicas capazes de impedir a morte;
+- formas avançadas de cura.
 
-Sua especialização não significa necessariamente que toda forma de cura seja mágica.
+O Curandeiro não precisa depender exclusivamente de magia.
 
-Dependendo das futuras Classes e habilidades desenvolvidas, conhecimentos de [[Medicina]], técnicas de tratamento e magia restauradora podem fazer parte de sua progressão.
-
-O Curandeiro serve como base para futuras Classes ainda mais especializadas em **cura, recuperação e tratamento de ferimentos**.
+Conhecimentos médicos, técnicas de tratamento e magia restauradora podem coexistir dentro da Classe.
 
 **Requisito:**
 
@@ -381,22 +528,27 @@ O Curandeiro serve como base para futuras Classes ainda mais especializadas em *
 
 O **Abençoador** é a evolução do Acólito especializada em **Buffs e fortalecimento de aliados**.
 
-Seu foco deixa de ser apenas manter o grupo vivo e passa a incluir a capacidade de **melhorar diretamente aquilo que seus aliados conseguem fazer**.
+Sua progressão concentra-se em melhorar aquilo que outras criaturas já conseguem fazer.
 
-Suas futuras habilidades podem permitir fortalecer:
+Pode desenvolver efeitos capazes de aumentar:
 
 - [[Dano]];
 - [[Defesa]];
 - [[Precisão]];
-- atributos;
-- resistência;
+- Perícias;
+- Reservas;
 - movimentação;
-- recuperação de recursos;
+- recuperação;
+- resistência;
 - outras características.
 
-Também pode desenvolver Buffs capazes de afetar vários aliados ou permanecer ativos por períodos maiores.
+Também pode desenvolver:
 
-O Abençoador serve como base para futuras Classes especializadas em **bênçãos, fortalecimento e suporte mágico de grupos**.
+- Buffs coletivos;
+- efeitos de maior duração;
+- múltiplos benefícios simultâneos;
+- bênçãos condicionais;
+- efeitos ativados por determinadas situações.
 
 **Requisito:**
 
@@ -406,11 +558,11 @@ O Abençoador serve como base para futuras Classes especializadas em **bênção
 
 ## Purificador
 
-O **Purificador** é a evolução do Acólito especializada em **remover efeitos prejudiciais e combater aquilo que interfere negativamente no corpo, mente ou espírito de seus aliados**.
+O **Purificador** é a evolução do Acólito especializada em **remover e combater efeitos prejudiciais**.
 
-Enquanto o Acólito consegue remover efeitos mais simples através de **Purificar**, o Purificador desenvolve técnicas capazes de lidar com problemas progressivamente mais difíceis.
+Enquanto o Acólito consegue lidar com interferências mais simples através de Purificar, o Purificador desenvolve métodos específicos contra ameaças progressivamente mais perigosas.
 
-Suas futuras habilidades podem permitir combater:
+Sua progressão pode envolver:
 
 - venenos;
 - doenças;
@@ -419,15 +571,21 @@ Suas futuras habilidades podem permitir combater:
 - efeitos espirituais;
 - corrupção;
 - efeitos mágicos persistentes;
+- possessões;
 - outras [[Condições]] negativas.
 
-A forma necessária para remover cada efeito ainda depende de sua natureza.
+Diferentes problemas podem exigir diferentes métodos.
 
-Uma doença, uma maldição e um efeito mental não precisam possuir a mesma forma de resistência ou tratamento.
+Por isso, o Purificador pode desenvolver formas de utilizar:
 
-O Purificador também pode futuramente desenvolver formas de **proteger aliados contra determinadas Condições antes que elas sejam aplicadas**.
+- Vontade;
+- [[Atributos Centrais/Intelecto#Medicina|Medicina]];
+- [[Conjuração]];
+- [[Atributos Centrais/Espírito#Sexto Sentido|Sexto Sentido]];
 
-O Purificador serve como base para futuras Classes especializadas em **purificação, resistência e remoção de efeitos negativos**.
+dependendo da natureza do efeito.
+
+Também pode desenvolver proteções capazes de impedir certas Condições antes que sejam aplicadas.
 
 **Requisito:**
 
@@ -439,12 +597,12 @@ O Purificador serve como base para futuras Classes especializadas em **purifica�
 
 De forma geral:
 
-> **Curandeiro** → recupera aquilo que foi **danificado**.  
-> **Abençoador** → melhora aquilo que já está **funcionando**.  
-> **Purificador** → remove aquilo que está **prejudicando** o alvo.
+> **Curandeiro** → recupera aquilo que foi **danificado**.
 
-As três evoluções continuam pertencendo à mesma família de suporte, mas cada uma desenvolve uma função diferente do Acólito.
+> **Abençoador** → fortalece aquilo que já está **funcionando**.
 
-[[Habilidades]], equipamentos, efeitos e Classes futuras podem alterar ou ampliar essas funções.
+> **Purificador** → remove aquilo que está **prejudicando**.
+
+As três evoluções herdam os fundamentos de suporte desenvolvidos pelo Acólito.
 
 > **Regra específica > regra geral.**

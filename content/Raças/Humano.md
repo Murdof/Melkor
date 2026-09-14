@@ -1,122 +1,208 @@
-Os **Humanos** são uma raça equilibrada e adaptável, sem grandes vantagens naturais, mas também sem limitações que os prendam a um caminho específico.
+Os **Humanos** são uma raça equilibrada e adaptável, sem uma especialização natural dominante.
 
-Sua principal característica é a **versatilidade**. Humanos podem desenvolver praticamente qualquer profissão, estilo de combate ou conhecimento, permitindo que suas escolhas de [[Classes|Classe]] e seus investimentos determinem aquilo em que irão se tornar.
+Sua principal característica é a **versatilidade**. Humanos possuem uma base equilibrada de [[Atributos Centrais]], permitindo que suas escolhas de [[Classes]], [[Perícias]], Reservas e outros desenvolvimentos determinem aquilo em que irão se tornar.
 
-Embora estejam longe das capacidades extraordinárias de raças mais avançadas, sua facilidade para se adaptar a diferentes situações torna os Humanos uma excelente base para inúmeros caminhos de evolução.
-
----
-
-### Status Raciais
-
-| Status                                   | Valor           |
-| ---------------------------------------- | --------------- |
-| **[[Vida]]**                             | 20              |
-| **[[Estamina]]**                         | 100             |
-| **Regeneração de Estamina**              | 5 por [[Turno]] |
-| **[[Mana]]**                             | 0               |
-| **Pontos Complementares**                | 6               |
-| **Pontos de Dano**                       | 1               |
-| **Pontos de Defesa**                     | 1               |
-| **Pontos de Precisão**                   | 1               |
-| **[[Pontos de Ação]]**                   | 2               |
-| **[[Movimento\|Deslocamento — Andar]]**  | 3 m             |
-| **[[Movimento\|Deslocamento — Correr]]** | 8 m             |
-| **Custo de [[Esquiva]]**                 | 5 Estamina      |
+Embora não possuam as especializações naturais de muitas outras Raças, sua ausência de limitações marcantes permite seguir praticamente qualquer caminho.
 
 ---
 
-### Características Raciais
+# Informações Raciais
 
-**Adaptabilidade:**  
-Os Humanos não possuem uma especialização natural dominante. Seus pontos iniciais podem ser distribuídos livremente entre os atributos disponíveis de cada categoria.
-
-Os **atributos Complementares começam em 0** antes da distribuição dos Pontos Complementares.
-
-O valor **0 representa a capacidade normal de um Humano comum**, portanto possuir +1 em um atributo Complementar já representa alguém acima da média naquela característica.
-
----
-
-**Mana Inicial:**  
-Humanos possuem **0 [[Mana]] naturalmente**.
-
-A capacidade de armazenar e utilizar Mana precisa ser adquirida através de [[Classes]], Habilidades, efeitos ou outros meios.
-
-Ter **0 Mana** não causa nenhuma penalidade por si só. O personagem simplesmente não pode pagar custos que utilizem Mana.
-
----
-
-### Recuperação de Estamina
-
-Humanos possuem:
-
-> **5 de Regeneração de Estamina**
-
-No início de **cada um de seus próprios [[Turno|Turnos]]**, recuperam 5 de [[Estamina]] Atual, sem ultrapassar sua Estamina Máxima.
-
-Bônus provenientes de Classes, Habilidades, equipamentos ou outros efeitos são somados normalmente.
-
-**Exemplo:**
-
-Um Humano utilizando uma Classe que forneça:
-
-> **+15 Regeneração de Estamina**
-
-possui no total:
-
-> `5 racial + 15 da Classe = 20 de Regeneração de Estamina`
-
-Essa recuperação restaura **Estamina Atual**. Ela não recupera a [[Estamina]] Máxima perdida por desgaste ou esforço prolongado.
+| Característica              |            Valor |
+| --------------------------- | ---------------: |
+| **Tier Racial**             |               T0 |
+| **Raridade**                |         Mediocre |
+| **Nível Racial Máximo**     |               10 |
+| **[[Vida]] Base**           |               20 |
+| **[[Estamina]] Base**       |              100 |
+| **Regeneração de Estamina** |  5 por [[Turno]] |
+| **[[Mana]]**                | Não desbloqueada |
+| **[[Ki]]**                  | Não desbloqueado |
+| **[[Reiryoku]]**            | Não desbloqueado |
+| **[[Pontos de Ação\|PA]]**  |                2 |
+| **[[Regras/Deslocamento\|Deslocamento]] Base**       |              3 m |
+| **Custo de [[Esquivar]]**   |       5 Estamina |
 
 ---
 
-### Movimento Humano
+# Atributos Centrais
 
-O deslocamento racial padrão de um Humano é:
+Humanos possuem uma distribuição racial equilibrada.
 
-> **Andar: 3 metros**  
-> **Correr: 8 metros**
+| Atributo Central | Base Racial |
+|---|---:|
+| [[Força]] | **2** |
+| [[Constituição]] | **2** |
+| [[Destreza]] | **2** |
+| [[Intelecto]] | **2** |
+| [[Espírito]] | **2** |
+| [[Presença]] | **2** |
 
-Esses valores servem como base para as regras de [[Movimento]].
+Total de Base Racial:
 
-A distância de Corrida pode ser modificada por Agilidade e outros efeitos conforme as regras de Movimento.
+> **12 pontos**
+
+Esses valores representam a **Base Racial** do Humano.
+
+Eles não representam [[Regras/Progressão Racial de Atributos Centrais#Pontos Centrais|PC]] gastos.
+
+[[Regras/Progressão Racial de Atributos Centrais#Pontos Centrais|PC]] adquiridos pelo personagem são adicionados separadamente aos Atributos Centrais escolhidos.
 
 ---
 
-### Esquiva Humana
+# Adaptabilidade
 
-O custo racial padrão para realizar uma [[Esquiva]] é:
+Humanos não possuem uma especialização natural dominante.
+
+Sua Base Racial é distribuída igualmente entre todos os [[Atributos Centrais]], permitindo que seu desenvolvimento posterior determine suas principais características.
+
+Humanos não recebem penalidades naturais que os obriguem a seguir um determinado tipo de:
+
+- Classe;
+- combate;
+- profissão;
+- energia;
+- desenvolvimento social;
+- desenvolvimento físico;
+- desenvolvimento intelectual.
+
+A versatilidade Humana está na liberdade de desenvolvimento, não em pontos adicionais distribuídos durante a criação.
+
+---
+
+# Reservas
+
+## Vida
+
+Humanos possuem naturalmente:
+
+> **20 de [[Vida]] Base**
+
+Essa Vida é racial e é somada aos demais bônus e investimentos de Vida do personagem.
+
+Investimentos posteriores seguem normalmente as regras de [[Desenvolvimento de Reservas]].
+
+---
+
+## Estamina
+
+Humanos possuem naturalmente:
+
+> **100 de [[Estamina]] Base**
+
+Essa Estamina é racial e é somada aos demais bônus e investimentos de Estamina do personagem.
+
+Humanos também possuem:
+
+> **5 de Regeneração de Estamina por Turno**
+
+No início de seu próprio [[Turno]], o Humano recupera 5 de Estamina Atual, sem ultrapassar sua Estamina Máxima.
+
+Essa regeneração não recupera reduções temporárias da Estamina Máxima causadas por esforço ou Exaustão.
+
+---
+
+# Energias Bloqueadas
+
+Humanos não possuem naturalmente acesso às seguintes Reservas:
+
+- [[Mana]];
+- [[Ki]];
+- [[Reiryoku]].
+
+Essas Reservas começam **bloqueadas**.
+
+O personagem precisa desbloqueá-las através de uma fonte apropriada antes de poder desenvolvê-las com [[SP]].
+
+Fontes possíveis incluem:
+
+- [[Classes]];
+- Habilidades;
+- Passivas;
+- evoluções raciais;
+- outros efeitos específicos.
+
+> **Não possuir uma dessas Reservas não representa uma penalidade.**
+
+Significa apenas que o personagem ainda não possui acesso natural àquela forma de energia.
+
+---
+
+# Pontos de Ação
+
+Humanos possuem naturalmente:
+
+> **2 [[Pontos de Ação|PA]]**
+
+PA adicionais podem ser obtidos através de Classes, Habilidades, Passivas, equipamentos e outros efeitos.
+
+---
+
+# Deslocamento
+
+O **Deslocamento Base** de um Humano é:
+
+> **3 metros**
+
+O Deslocamento normal segue:
+
+> **Deslocamento = Deslocamento Base + Atletismo**
+
+Outros efeitos podem modificar esse valor.
+
+---
+
+# Esquiva Humana
+
+O custo racial padrão para utilizar [[Esquivar]] é:
 
 > **5 Estamina**
 
-Esse valor pode ser modificado por Classes, Habilidades, Passivas, equipamentos ou outros efeitos.
+Esse custo pode ser modificado por:
 
-A Esquiva continua seguindo normalmente suas próprias regras.
+- Classes;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- [[Regras/Condições|Condições]];
+- outros efeitos.
 
 ---
 
-## Evolução Racial
+# Progressão Racial
 
-Humanos podem futuramente alcançar novas [[Raças]] através de métodos de evolução racial.
+Humanos são uma Raça **T0**.
 
-A evolução de uma Raça é **diferente da troca de Classe**.
+Seu Nível Racial Máximo é:
 
-Quando um personagem evolui ou altera sua Raça:
+> **Nível 10**
 
-> **a Raça anterior é substituída permanentemente.**
+A progressão racial concede [[Regras/Progressão Racial de Atributos Centrais#Pontos Centrais|PC]] de acordo com as regras gerais de desenvolvimento racial.
 
-Ela não permanece disponível para ser reativada posteriormente como acontece com uma Classe.
+Os PC adquiridos são permanentes no desenvolvimento do personagem e são adicionados separadamente à Base Racial.
 
-A progressão realizada na Raça anterior pode servir como **requisito para futuras evoluções**, mas isso não significa que o personagem continue possuindo aquela Raça.
+---
 
-### Evolução Natural
+# Evolução Racial
+
+Humanos podem alcançar novas [[Raças]] através de evolução racial.
+
+A evolução natural conhecida é:
 
 > **Humano → Alto Humano**
 
-**Humano:** Raridade Normal  
-**Alto Humano:** Raridade Incomum
+Quando uma Raça evolui, a **Base Racial da nova Raça substitui a Base Racial anterior**.
 
-O Humano possui:
+Os [[Regras/Progressão Racial de Atributos Centrais#Pontos Centrais|PC]] já adquiridos e distribuídos pelo personagem permanecem.
 
-> **Nível Racial Máximo: 10**
+A Raça anterior deixa de ser a Raça ativa do personagem.
 
-Ao cumprir os requisitos necessários, pode avançar para **Alto Humano**, aumentando seu potencial racial e seu limite de progressão.
+---
+
+# Regra Específica
+
+[[Classes]], evoluções raciais, Habilidades, Passivas, equipamentos e outros efeitos podem modificar características raciais.
+
+Quando uma regra específica contradizer esta página:
+
+> **Regra específica > regra geral.**

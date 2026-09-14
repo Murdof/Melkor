@@ -3,7 +3,135 @@ title: Melkor
 ---
 ## Atualizações
 
-> [!update] Versão 4.1
+> [!update] Versão 5.0
+> **14 de setembro de 2026**
+>
+> ![[assets/Melkor 5.0.png|1100]]
+>
+> A versão 5.0 representa uma grande reestruturação das bases do Melkor.
+>
+> A criação e progressão dos personagens foi reorganizada em torno de **Atributos Centrais, Perícias, Pontos de Perícia, Proficiências, Reservas e Linhagens de Habilidade**.
+>
+> Diversos sistemas antigos foram substituídos ou deixaram de existir em sua forma anterior. Classes, Raças e regras de combate também foram revisadas para funcionar com essa nova estrutura.
+>
+> Esta atualização ainda não representa a conclusão de todas as Habilidades e Classes. Os sistemas fundamentais abaixo, porém, já passam a definir a estrutura atual do Melkor.
+>
+> ## Principais Mudanças
+>
+> ### Atributos Centrais
+>
+> - Adicionados os seis **Atributos Centrais**:
+>   - Força;
+>   - Constituição;
+>   - Destreza;
+>   - Intelecto;
+>   - Espírito;
+>   - Presença.
+> - Atributos Centrais passam a representar capacidades naturais e limites de desenvolvimento.
+> - Perícias e Reservas são desenvolvidas separadamente de seus Atributos Centrais.
+> - Testes deixam de somar automaticamente Atributo Central e Perícia.
+>
+> Consulte [[Atributos Centrais/Atributos Centrais|Atributos Centrais]].
+>
+> ### Perícias e Pontos de Perícia
+>
+> - Adicionado o sistema de **PP — Pontos de Perícia**.
+> - Personagens começam normalmente com **6 PP**.
+> - Perícias possuem custo crescente de desenvolvimento.
+> - O valor natural de uma Perícia é limitado pelo Atributo Central associado.
+> - Níveis de Classe passam a conceder PP vinculado à sua própria progressão.
+> - Diversas Perícias foram reorganizadas, adicionadas ou removidas.
+>
+> Consulte [[Regras/Pontos de Perícia|Pontos de Perícia]].
+>
+> ### Proficiência e Precisão
+>
+> - Adicionado o sistema de **Proficiências de Arma**.
+> - Armas passam a utilizar Famílias de Proficiência como:
+>   - Lâminas;
+>   - Contundentes;
+>   - Hastes;
+>   - Disparo;
+>   - Armas de Fogo.
+> - Adicionado o conceito de **Proficiência Efetiva**, limitada pelo Atributo Central de Manuseio apropriado.
+> - O antigo desenvolvimento direto de **Precisão Melee, Curto/Médio, Longo Alcance e Precisão Mágica** foi removido.
+> - Precisão passa a ser um **valor derivado do método utilizado no ataque**.
+>
+> Consulte [[Regras/Proficiência|Proficiência]] e [[Regras/Precisão|Precisão]].
+>
+> ### Níveis e Linhagens de Habilidade
+>
+> - Habilidades Ativas e Passivas passam a possuir **níveis próprios**.
+> - Tier 1 permite desenvolvimento de **Lv.1 a Lv.4**.
+> - Tier 2 permite desenvolvimento até **Lv.8**.
+> - Evoluir uma Classe aumenta o limite possível da Habilidade, mas não aumenta automaticamente seu nível.
+> - Uma Habilidade nova obtida em Tier superior ainda pode começar no **Lv.1**.
+> - Adicionado o sistema de **Linhagens de Habilidade**.
+> - Habilidades herdadas podem seguir como:
+>   - Continuidade;
+>   - Transformação;
+>   - Encerramento naquela ramificação.
+> - Adicionados **Nível Real** e **Nível Efetivo**, permitindo preservar o progresso de uma Linhagem mesmo ao utilizar versões diferentes dela.
+>
+> Consulte [[Habilidades/Níveis de Habilidades|Níveis de Habilidades]].
+>
+> ### SP e Progressão de Habilidades
+>
+> - SP continua vinculado à Classe ou Árvore responsável por obtê-lo.
+> - Habilidades passam a possuir custos incrementais de desenvolvimento por nível.
+> - Transformações de uma mesma Linhagem preservam os níveis já adquiridos.
+> - Trocar ou retornar para uma Classe anterior não reduz o Nível Real da Linhagem.
+>
+> Consulte [[Regras/SP|SP — Pontos de Alma]] e [[Habilidades/Níveis de Habilidades|Níveis de Habilidades]].
+>
+> ### Reservas
+>
+> - Vida, Estamina, Mana e outras Reservas foram reorganizadas em torno da nova estrutura de Atributos Centrais.
+> - Adicionados sistemas próprios para **Ki** e **Reiryoku**.
+> - Reservas possuem desenvolvimento separado de seus Atributos Centrais.
+>
+> Consulte [[Regras/Vida|Vida]], [[Regras/Estamina|Estamina]], [[Regras/Mana|Mana]], [[Regras/Ki|Ki]] e [[Regras/Reiryoku|Reiryoku]].
+>
+> ### Progressão Racial
+>
+> - O Nivelamento de Raça foi reestruturado.
+> - Raças passam a interagir diretamente com Atributos Centrais, PP e escolhas raciais.
+> - Adicionada progressão própria para desenvolvimento racial de Atributos Centrais.
+>
+> Consulte [[Regras/Nivelamento de Raça|Nivelamento de Raça]] e [[Regras/Progressão Racial de Atributos Centrais|Progressão Racial de Atributos Centrais]].
+>
+> ### Classes
+>
+> - Grande parte das Classes existentes foi revisada para funcionar com os novos sistemas.
+> - Novas Classes T1 e T2 foram adicionadas em diferentes árvores de Combate, Magia, Suporte, Trabalho e Classes Especiais.
+> - Evoluções passam a interagir diretamente com Linhagens de Habilidade e com o progresso permanente da Árvore.
+> - Classes profissionais passaram a utilizar Perícias próprias quando apropriado, em vez de depender sempre de um Ofício genérico.
+>
+> Consulte [[Regras/Classes|Classes]] e as páginas individuais de cada Classe.
+>
+> ### Regras Gerais
+>
+> - Ataque, Defesa, Aparar, Bloquear, Esquivar, Movimento, Deslocamento, Dano, Estamina e outras regras foram revisadas para funcionar com a nova estrutura.
+> - Foram adicionadas páginas específicas para sistemas que antes estavam dispersos ou implícitos.
+> - Valores menores e interações específicas não são listados individualmente neste patch; as páginas correspondentes representam sempre a regra atual.
+>
+> ## Sistemas Substituídos
+>
+> Algumas mecânicas antigas foram removidas de sua forma anterior e não devem mais ser utilizadas.
+>
+> Entre as principais:
+>
+> - Precisão desenvolvida como característica independente;
+> - Precisão Melee, Curto/Médio e Longo Alcance como progressões separadas;
+> - Precisão Mágica como Perícia desenvolvida;
+> - desenvolvimento profissional dependente apenas de Ofício genérico;
+> - Habilidades sem níveis próprios;
+> - evolução de Classe interpretada como aumento automático de Habilidades.
+>
+> Quando uma regra antiga entrar em conflito com uma página atual, utilize sempre a regra presente na página específica do sistema.
+
+> [!update]- Atualizações Anteriores
+> > [! Versão 4.1
 > **8 de setembro de 2026**
 >
 > A versão 4.1 adiciona os **Lumes**, Fragmentos da Realidade criados por **Ari, Deusa do Destino**, introduzindo uma nova forma de recompensa e influência direta sobre sorte, destino e acontecimentos da campanha.
@@ -27,8 +155,7 @@ title: Melkor
 >     - em grandes quantidades, até **reescrever acontecimentos ou retornar no tempo**.
 > - Adicionada a regra de **Destino Selado**, permitindo que determinados acontecimentos sejam declarados previamente como imunes à interferência dos Lumes.
 > - Lumes não possuem limite fixo de armazenamento, mas grandes concentrações podem chamar a atenção de **Divindades e outras forças capazes de perceber o Destino**.
-
-> [!update]- Atualizações Anteriores
+> - 
 >> ## Versão 4.0
 > **6 de setembro de 2026**
 > 

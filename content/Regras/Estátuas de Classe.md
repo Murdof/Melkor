@@ -1,5 +1,3 @@
-# Estátuas de Classe
-
 As **Estátuas de Classe** são estruturas ligadas a um [[Núcleo de Base]] responsáveis pelo acesso, desenvolvimento e aprimoramento das Classes disponíveis naquela Base.
 
 As regras desta página se aplicam às Estátuas pertencentes a Núcleos de Base.
@@ -13,23 +11,14 @@ Estátuas encontradas em Grandes Cidades, cidades públicas ou outros locais esp
 Através de uma Estátua de Classe é possível:
 
 - Adquirir Classes disponíveis.
-    
 - Evoluir para Classes já liberadas.
-    
 - Comprar Habilidades.
-    
 - Comprar Passivas.
-    
 - Desenvolver Afinidades.
-    
 - Registrar personagens e NPCs.
-    
 - Incorporar novas Classes à árvore.
-    
 - Comprar Aprimoramentos Globais.
-    
 - Evoluir o Tier da Estátua.
-    
 
 ---
 
@@ -39,11 +28,75 @@ Ao adquirir uma Classe, o personagem recebe seus **Status-base e característica
 
 Esses elementos são adquiridos utilizando [[SP|Pontos de Alma]] através de uma Estátua compatível.
 
-Ao entrar em sua primeira Classe, o personagem começa com:
+Ao entrar em sua primeira Classe normal, o personagem começa com:
 
 > **5 SP**
 
-SP pertence ao personagem e representa seu desenvolvimento individual.
+Esses SP ficam vinculados à:
+
+> **Árvore de Classe responsável por concedê-los.**
+
+SP não funciona como uma reserva global compartilhada entre todas as Classes do personagem.
+
+Cada Árvore mantém separadamente:
+
+- seus SP;
+- suas compras de Habilidades;
+- suas compras de Passivas;
+- seu desenvolvimento de Afinidades;
+- outros gastos que utilizem SP.
+
+---
+
+## SP e Evoluções
+
+Classes que pertencem à mesma Árvore utilizam:
+
+> **o mesmo desenvolvimento de SP daquela Árvore**
+
+quando a regra permitir.
+
+### Exemplo
+
+Um personagem possui:
+
+> **Recruta**
+
+e posteriormente evolui para:
+
+> **Guerreiro**
+
+Como Guerreiro pertence à mesma Árvore do Recruta:
+
+> os SP continuam vinculados à Árvore do Recruta.
+
+Eles não são transformados em uma nova reserva independente apenas porque a Classe evoluiu.
+
+---
+
+## SP de Árvores Diferentes
+
+Quando um personagem possuir Classes pertencentes a Árvores diferentes:
+
+> **cada Árvore mantém seus próprios SP.**
+
+### Exemplo
+
+Um personagem possui:
+
+> **Recruta**
+
+e:
+
+> **Noviço**
+
+SP obtidos através da Árvore do Recruta:
+
+> **não podem ser gastos na Árvore do Noviço.**
+
+Da mesma forma:
+
+> SP do Noviço não podem ser utilizados para comprar Habilidades, Passivas ou Afinidades do Recruta.
 
 ---
 
@@ -57,13 +110,23 @@ Níveis posteriores possuem custos progressivamente maiores.
 
 Habilidades ou Passivas especiais podem possuir custos próprios.
 
+O custo sempre é pago utilizando:
+
+> **SP da Árvore à qual aquela Habilidade ou Passiva pertence.**
+
 ---
 
 ## Afinidades
 
 Afinidades também são desenvolvidas utilizando SP.
 
-Entretanto, o nível máximo que uma Afinidade pode alcançar depende do **Tier da Estátua utilizada**.
+O custo é pago com:
+
+> **SP da Árvore responsável pelo desenvolvimento daquela Afinidade.**
+
+Entretanto, o nível máximo que uma Afinidade pode alcançar depende do:
+
+> **Tier da Estátua utilizada.**
 
 Uma Estátua Tier 1 permite desenvolver Afinidades até:
 
@@ -84,17 +147,11 @@ Uma Estátua comum funciona como uma **Estátua-Matriz** para toda a árvore de 
 Pode futuramente possuir Classes como:
 
 - Recruta
-    
     - Lanceiro
-        
     - Espadachim
-        
     - Guardião
-        
     - Berserker
-        
     - Outras evoluções
-        
 
 A existência dessas Classes na árvore não significa que estejam automaticamente disponíveis.
 
@@ -192,13 +249,13 @@ Todas as Classes da árvore poderão receber o benefício quando o Tier da Está
 
 ## Alcance por Tier
 
-|Tier da Estátua|Classes que recebem os Aprimoramentos|
+| Tier da Estátua | Classes que recebem os Aprimoramentos |
 |---|---|
-|Tier 1|Tier 1|
-|Tier 2|Tier 1 e 2|
-|Tier 3|Tier 1 até 3|
-|Tier 4|Tier 1 até 4|
-|Tier 5|Tier 1 até 5|
+| Tier 1 | Tier 1 |
+| Tier 2 | Tier 1 e 2 |
+| Tier 3 | Tier 1 até 3 |
+| Tier 4 | Tier 1 até 4 |
+| Tier 5 | Tier 1 até 5 |
 
 Classes incorporadas posteriormente também recebem automaticamente todos os Aprimoramentos Globais compatíveis já comprados.
 
@@ -241,15 +298,10 @@ Os Slots pertencem à Estátua-Matriz inteira e são compartilhados entre todas 
 Uma Estátua com 10 Slots pode possuir:
 
 - 3 Recrutas
-    
 - 2 Lanceiros
-    
 - 2 Espadachins
-    
 - 1 Guardião
-    
 - 2 Berserkers
-    
 
 Total:
 
@@ -266,23 +318,14 @@ Os Slots pertencem à Base, portanto sua liderança decide quem pode ocupá-los 
 Uma vaga pode:
 
 - Ser gratuita.
-    
 - Ser vendida por Gold.
-    
 - Exigir pagamento recorrente.
-    
 - Exigir serviço militar.
-    
 - Exigir trabalho.
-    
 - Exigir determinada Classe.
-    
 - Exigir nível mínimo.
-    
 - Ser reservada para determinados grupos.
-    
 - Possuir qualquer outro requisito definido pela Base.
-    
 
 Essas condições devem ser apresentadas antes do Registro.
 
@@ -307,40 +350,27 @@ Uma pessoa registrada em uma Estátua passa a ser oficialmente vinculada ao [[N�
 Dependendo da organização da Base, ela poderá ser reconhecida como:
 
 - Cidadão.
-    
 - Soldado.
-    
 - Servo.
-    
 - Trabalhador.
-    
 - Oficial.
-    
 - Membro.
-    
 - Ou outra posição existente.
-    
 
 Os registrados passam a seguir a estrutura de liderança reconhecida pelo Núcleo.
 
 Essa liderança pode ser formada por:
 
 - Um Líder.
-    
 - Vários Líderes.
-    
 - Um Conselho.
-    
 - Uma cadeia de comando.
-    
 - Uma monarquia.
-    
 - Ou outro sistema válido.
-    
 
 Enquanto permanecer registrado, o indivíduo está sujeito às leis, ordens, obrigações e hierarquia daquela Base.
 
-> [!NOTE]  
+> [!NOTE]
 > O Registro não representa controle mental.
 
 O personagem continua possuindo vontade própria e pode desobedecer, desertar, quebrar acordos ou trair a Base.
@@ -364,15 +394,10 @@ Depois disso, deverão ser cumpridos os demais requisitos da evolução, como Go
 Aumentar o Tier da Estátua pode:
 
 - Aumentar seus Slots.
-    
 - Aumentar o limite das Afinidades.
-    
 - Liberar níveis superiores de Aprimoramentos Globais.
-    
 - Fazer os Aprimoramentos alcançarem Classes de Tier superior.
-    
 - Liberar novas funções da estrutura.
-    
 
 ---
 
@@ -394,28 +419,20 @@ Sua árvore de origem permanece a mesma.
 
 # Estátuas Únicas e Especiais
 
-[[Classes Únicas]] e [[Classes Especiais]] não são incorporadas às Estátuas-Matriz convencionais.
+Classes Únicas e Classes Especiais não são incorporadas às Estátuas-Matriz convencionais.
 
 Elas possuem **Estátuas próprias**, com desenvolvimento independente.
 
 Essas Estátuas podem possuir:
 
 - Tiers próprios.
-    
 - Slots próprios.
-    
 - Aprimoramentos próprios.
-    
 - Requisitos próprios.
-    
 - Limites próprios.
-    
 - Evoluções próprias.
-    
 - Regras especiais.
-    
 - Classes derivadas próprias, quando existirem.
-    
 
 Seus Aprimoramentos não são compartilhados com Estátuas-Matriz comuns.
 
@@ -433,9 +450,11 @@ mesmo estando dentro de uma Base extremamente desenvolvida.
 
 # Resumo
 
-> **SP desenvolve o personagem.**
+> **SP desenvolve a Árvore de Classe.**
 
-Habilidades, Passivas e Afinidades são desenvolvimento individual.
+Habilidades, Passivas e Afinidades são desenvolvimento individual do personagem:
+
+> **mas seus custos e reservas de SP permanecem vinculados à Árvore que os concedeu.**
 
 > **Gold desenvolve a Estátua.**
 
@@ -452,3 +471,13 @@ Classes superiores podem ser utilizadas antes, mas só recebem Aprimoramentos Gl
 > **Registro vincula o indivíduo à Base.**
 
 Os Slots são limitados, controlados pela liderança e podem possuir requisitos ou acordos próprios.
+
+---
+
+# Regra Específica
+
+Classes, Árvores, SP, Estátuas e métodos especiais de desenvolvimento podem possuir regras próprias.
+
+Quando isso acontecer:
+
+> **Regra específica > regra geral.**

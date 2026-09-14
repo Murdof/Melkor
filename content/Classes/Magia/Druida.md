@@ -1,136 +1,246 @@
-# Druida
-
 O **Druida** é aquele que deixou de apenas sentir o mundo natural e passou a participar ativamente de seus ciclos.
 
-A vegetação responde com maior intensidade à sua presença, energia vital pode ser conduzida com muito mais precisão e o próprio ambiente começa a se transformar conforme sua vontade.
+A vegetação responde com maior intensidade à sua presença, energia vital pode ser conduzida com muito mais precisão e o ambiente começa a transformar-se através de sua influência.
 
-Diferente de outras Evoluções do [[Iniciado do Círculo]], o Druida não aprofunda apenas um único aspecto de sua conexão.
+Diferente de outras Evoluções do [[Iniciado do Círculo]], o Druida não aprofunda apenas um único aspecto de sua conexão com a natureza.
 
 Ele aprende a combinar:
 
 - flora;
-- cura;
 - energia vital;
-- adaptação;
+- cura;
 - percepção natural;
-- controle ambiental.
+- controle ambiental;
+- adaptação;
+- ciclos naturais.
 
-Essa versatilidade permite que o Druida alterne entre suporte, controle, defesa e ataque conforme a situação.
+Sua força está na:
+
+> **integração de diferentes aspectos da natureza.**
+
+O Druida pode alternar entre:
+
+- controle;
+- suporte;
+- cura;
+- defesa;
+- [[Regras/Dano|Dano]];
+- alteração do terreno.
 
 Ele não possui as transformações profundas do **Metamorfo**, o domínio espiritual do **Xamã** ou os vínculos especializados do **Invocador Bestial**.
 
-Sua força está em fazer diferentes partes da natureza funcionarem como um único sistema.
+Sua especialidade é:
+
+> **fazer diferentes partes da natureza funcionarem como um único sistema.**
+
+---
+
+# Dados da Classe
+
+- **Tier:** T2
+- **Tipo:** Magia Natural
+- **Nível Máximo:** 20
+- **Árvore:** Iniciado do Círculo → Druida
+- **Slot:** utiliza o mesmo Slot ocupado por Iniciado do Círculo
+
+---
+
+# Função
+
+> **Controle Natural / Suporte / Regeneração / Manipulação de Terreno**
+
+Especializado em:
+
+- vegetação;
+- energia vital;
+- cura;
+- controle de área;
+- terreno;
+- sobrevivência;
+- percepção natural;
+- combinação de Habilidades naturais.
 
 ---
 
 # Requisito
 
-> **Iniciado do Círculo**
+Para evoluir:
 
-O Druida pertence à mesma [[Classes#Árvore de Classe|Árvore de Classe]] do Iniciado do Círculo.
+> **Iniciado do Círculo Nv.10**
 
-Ao evoluir:
-
-> todas as Habilidades, Passivas, Afinidades e progressos da árvore são mantidos.
-
-As Habilidades indicadas nesta página como **Aprimoradas** substituem suas versões anteriores enquanto Druida estiver ativo.
+A evolução não exige um novo Slot de Classe.
 
 ---
 
-# Bônus
+# Herança
 
-Os seguintes bônus são **somados** aos bônus herdados do [[Iniciado do Círculo]]:
+Druida mantém tudo que foi desenvolvido através de [[Iniciado do Círculo]], incluindo:
 
-- **+20 Vida**
-- **+50 Mana**
-- **+25 Estamina**
-- **+5 Regeneração de Mana**
-- **+1 Vontade**
-- **+1 Percepção**
-- **+2 Sobrevivência**
-- **+1 Defesa Biológica**
-- **+1 Defesa Espiritual**
+- Bônus de Classe;
+- Habilidades;
+- Passivas;
+- Afinidades;
+- progressão;
+- SP pertencente à mesma Árvore.
 
-### Total herdado + Druida
+Os bônus desta página são:
 
-Considerando apenas os bônus naturais da árvore:
+> **somados aos bônus já adquiridos anteriormente.**
 
-> **+40 Vida**  
-> **+100 Mana**  
-> **+125 Estamina**  
-> **+10 Regeneração de Estamina**  
-> **+10 Regeneração de Mana**  
-> **+2 Vontade**  
-> **+3 Percepção**  
-> **+1 Sexto Sentido**  
-> **+4 Sobrevivência**  
-> **+2 Defesa Biológica**  
-> **+2 Defesa Espiritual**
+Habilidades indicadas como **Aprimoradas** substituem suas versões anteriores.
+
+Esses aprimoramentos:
+
+> **não contam como novas Habilidades Tier 2.**
+
+---
+
+# Bônus do Druida
+
+## Reservas
+
+- +20 [[Vida]]
+- +50 [[Mana]]
+- +25 [[Estamina]]
+
+## Regeneração
+
+- +5 Regeneração de Mana
+
+## Perícias
+
+- +1 [[Atributos Centrais/Espírito#Vontade|Vontade]]
+- +1 [[Atributos Centrais/Intelecto#Percepção|Percepção]]
+- +2 [[Atributos Centrais/Intelecto#Sobrevivência|Sobrevivência]]
+
+Esses valores são **Bônus de Classe**.
+
+Eles não representam investimento natural realizado através de PP.
+
+## Defesas
+
+- +1 [[Regras/Defesa|Defesa]] Biológica
+- +1 Defesa Espiritual
 
 ---
 
 # Afinidades
 
-O Druida mantém todas as Afinidades desenvolvidas anteriormente.
+O Druida mantém todas as Afinidades desenvolvidas como [[Iniciado do Círculo]].
 
-As Afinidades mais diretamente relacionadas ao caminho do Druida são:
+As Afinidades centrais deste caminho são:
 
-- **Natureza**
-- **Vida**
+- Natureza
+- Vida
 
-Também permanece naturalmente compatível com:
+Também continua compatível com:
 
-- **Animal**
-- **Espiritual**
-- **Transformação**
-- **Invocação**
-- **Veneno**
+- Animal
+- Espiritual
+- Transformação
+- Invocação
+- Veneno
 
-O Druida pode utilizar esses diferentes aspectos, mas não recebe especialização automática neles apenas por possuir a Classe.
+O Druida:
+
+> **não recebe domínio automático sobre todas essas áreas.**
+
+Transformações profundas, pactos espirituais e vínculos especializados pertencem principalmente às outras Evoluções do Círculo.
+
+---
+
+# Magia Natural
+
+A magia do Druida não funciona exatamente da mesma maneira que a magia arcana de [[Mago]] ou [[Feiticeiro]].
+
+O Druida canaliza:
+
+- vida;
+- natureza;
+- instinto;
+- ciclos;
+- forças naturais.
+
+Por isso:
+
+> **Mana não significa automaticamente Conjuração.**
+
+Cada Habilidade define seu próprio método.
+
+Quando uma Habilidade do Druida exigir controle direto de sua energia natural e não indicar outro método, utiliza normalmente:
+
+> **Vontade**
+
+---
+
+# Ataques Naturais
+
+Quando uma Habilidade natural realizar um [[Regras/Ataque|Ataque]] e não definir outro método:
+
+> **Dado + Vontade + Modificadores**
+
+Vontade representa a capacidade do Druida de:
+
+- impor direção à energia natural;
+- sustentar sua intenção;
+- conduzir crescimento;
+- controlar manifestações naturais.
+
+Isso:
+
+> **não aumenta permanentemente Vontade**
+
+e não cria uma nova Perícia de [[Regras/Precisão|Precisão]].
 
 ---
 
 # Habilidades Herdadas Aprimoradas
 
-Estas Habilidades substituem versões do [[Iniciado do Círculo]].
+## Domínio das Raízes | Nv.1
 
-> Elas **não contam** entre as 4 novas Habilidades Ativas do Tier 2.
+> **Aprimora: Raízes Prensoras**
+
+O Druida deixa de estimular apenas algumas raízes próximas e passa a conduzir sua vontade através da vegetação de uma região inteira.
+
+Raízes, cipós, arbustos e outras plantas avançam simultaneamente sobre os alvos escolhidos.
 
 ---
 
-## Domínio das Raízes
-
-> **Substitui: Raízes Prensoras**
-
-O Druida deixa de apenas estimular algumas raízes próximas e passa a canalizar sua vontade através de toda a vegetação existente em uma pequena região.
-
-Raízes, cipós, arbustos e outras plantas avançam simultaneamente sobre os alvos indicados.
-
-### Área
+### Alcance
 
 Escolha um ponto a até:
 
 > **15 metros**
 
-A vegetação afeta uma área de:
+---
+
+### Área
+
+A vegetação afeta:
 
 > **4 metros de raio**
 
-O Druida pode escolher quais criaturas dentro da área serão afetadas.
+O Druida pode escolher quais criaturas dentro da área serão consideradas alvos.
 
-### Teste
+---
+
+# Resistência
 
 Cada alvo realiza:
 
-> **Dado + Agilidade**
+> **Dado + [[Atributos Centrais/Destreza#Agilidade|Agilidade]] + Modificadores**
 
 contra:
 
-> **Dificuldade = 11 + Vontade do Druida**
+> **11 + Vontade do Druida**
+
+---
 
 ### Sucesso
 
-O alvo evita as raízes.
+O alvo evita a vegetação antes que ela consiga prendê-lo.
+
+---
 
 ### Falha
 
@@ -140,107 +250,153 @@ O alvo fica:
 
 Enquanto estiver Preso:
 
-- não pode se deslocar;
+- não pode utilizar [[Regras/Deslocamento|Deslocamento]];
 - ainda pode atacar;
 - ainda pode conjurar;
 - ainda pode utilizar Habilidades;
 - ainda pode defender-se.
 
-### Escapar
+A condição restringe principalmente:
 
-Durante seu Turno, a criatura pode gastar:
+> **movimentação.**
+
+---
+
+# Escapar
+
+Durante seu [[Regras/Turno|Turno]], uma criatura presa pode gastar:
 
 > **1 PA**
 
 e realizar:
 
-> **Dado + Atletismo**
+> **Dado + [[Atributos Centrais/Constituição#Atletismo|Atletismo]] + Modificadores**
 
 ou:
 
-> **Dado + Agilidade**
+> **Dado + Agilidade + Modificadores**
 
-contra a mesma Dificuldade.
+contra:
 
-Também continua possível:
+> **11 + Vontade do Druida**
+
+Outros métodos continuam possíveis, como:
 
 - cortar as raízes;
 - queimá-las;
 - destruí-las;
-- utilizar uma Habilidade apropriada;
+- utilizar magia;
+- utilizar uma Habilidade;
 - receber ajuda.
 
-### Vegetação
+---
 
-Domínio das Raízes ainda não cria uma floresta do nada.
+# Vegetação
 
-Entretanto, o Druida consegue fazer uma quantidade pequena de vegetação existente crescer muito além do normal.
+Domínio das Raízes:
 
-Uma região com:
+> **não cria uma floresta do nada.**
+
+Entretanto, o Druida consegue acelerar violentamente uma quantidade relativamente pequena de vida vegetal existente.
+
+Pode ser suficiente existir:
 
 - raízes subterrâneas;
 - grama;
 - arbustos;
 - pequenas plantas;
-- solo fértil com vida vegetal;
+- solo fértil com vida vegetal.
 
-pode ser suficiente.
+Ambientes completamente:
 
-Locais completamente estéreis ou artificiais ainda podem impedir a Habilidade.
+- estéreis;
+- metálicos;
+- artificiais;
+- incompatíveis com vida vegetal;
 
-### Manutenção
+podem impedir a Habilidade.
+
+---
+
+# Manutenção
 
 > **6 Mana por Turno**
 
-Enquanto a manutenção for paga, as raízes continuam sobrenaturalmente fortalecidas.
+Enquanto a manutenção for paga:
 
-### Custo Inicial
+> **a vegetação permanece sobrenaturalmente fortalecida.**
+
+---
+
+# Custo Inicial
 
 > **14 Mana + 1 PA**
 
 ---
 
-## Seiva Restauradora
+## Seiva Restauradora | Nv.1
 
-> **Substitui: Seiva Vital**
+> **Aprimora: Seiva Vital**
 
-O Druida possui compreensão muito maior sobre energia vital.
+O Druida conduz energia vital através do organismo de uma criatura, acelerando temporariamente seus próprios processos de recuperação.
 
-Em vez de apenas estimular uma recuperação imediata, ele cria no organismo um curto processo de regeneração acelerada.
+---
 
-### Cura Inicial
+# Cura Inicial
 
 O alvo recupera:
 
-> **12 de Vida**
+> **12 Vida**
 
-### Regeneração
+---
+
+# Regeneração
 
 Durante os próximos:
 
 > **2 Turnos**
 
-recupera no início de seu Turno:
+o alvo recupera no início de cada um de seus Turnos:
 
-> **4 de Vida**
+> **4 Vida**
 
-Total máximo:
+Total máximo da Habilidade:
 
-> **20 de Vida**
+> **20 Vida**
 
-### Estabilização
+---
 
-Se o alvo estiver sofrendo um **Sangramento comum**, Seiva Restauradora pode interrompê-lo.
+# Estabilização
+
+Se o alvo estiver sofrendo:
+
+> **[[Regras/Condições#Sangramento|Sangramento]] comum**
+
+Seiva Restauradora pode encerrá-lo.
 
 Sangramentos:
 
 - sobrenaturais;
 - extremamente graves;
-- provocados por efeitos específicos;
+- causados por efeitos especiais;
 
-podem exigir outra forma de tratamento.
+podem exigir outro método.
 
-### Limitações
+---
+
+# Coma
+
+Uma criatura viva em [[Regras/Vida#Coma|Coma]] pode receber a cura normalmente.
+
+Caso sua Vida alcance:
+
+> **1 ou mais**
+
+ela deixa o Coma conforme as regras normais de Vida.
+
+---
+
+# Limitações
 
 Seiva Restauradora não:
 
@@ -248,22 +404,28 @@ Seiva Restauradora não:
 - remove doenças;
 - remove venenos;
 - remove Maldições;
-- remove Condições;
+- remove [[Regras/Condições|Condições]] genericamente;
 - recupera Mana;
 - recupera Estamina;
 - ressuscita mortos.
 
-### Alcance
+---
+
+# Alcance
 
 > **8 metros**
 
-### Custo
+---
+
+# Custo
 
 > **14 Mana + 1 PA**
 
-Uma criatura não pode possuir várias regenerações de **Seiva Restauradora** simultaneamente.
+Uma criatura não pode possuir múltiplas regenerações provenientes da mesma Seiva Restauradora.
 
-Uma nova aplicação substitui a duração anterior.
+Uma nova aplicação:
+
+> **substitui a duração anterior.**
 
 ---
 
@@ -273,9 +435,15 @@ Uma nova aplicação substitui a duração anterior.
 
 Permanece como sua versão de [[Iniciado do Círculo]].
 
-O Druida continua capaz de utilizar adaptações animais menores, mas esse caminho não é aprofundado aqui.
+O Druida mantém acesso às adaptações animais menores aprendidas anteriormente.
 
-Transformações corporais avançadas pertencem principalmente ao **Metamorfo**.
+Entretanto:
+
+> **transformações corporais profundas não fazem parte do foco desta Evolução.**
+
+Esse caminho pertence principalmente ao:
+
+> **Metamorfo**
 
 ---
 
@@ -283,160 +451,228 @@ Transformações corporais avançadas pertencem principalmente ao **Metamorfo**.
 
 Permanece como sua versão de [[Iniciado do Círculo]].
 
-O Druida continua capaz de estabelecer comunicação e entendimento com criaturas naturais.
+O Druida continua capaz de estabelecer comunicação natural com:
 
-Domínio, pactos e vínculos especializados continuam pertencendo a caminhos específicos.
+- animais;
+- criaturas naturais;
+- manifestações espirituais apropriadas.
+
+Entretanto:
+
+> **Comunhão não representa domesticação, controle ou pacto.**
+
+Essas capacidades pertencem a especializações apropriadas.
 
 ---
 
-# Ativas
+# Ativas Tier 2
 
-O Tier 2 adiciona:
+Druida adiciona:
 
 > **4 novas Habilidades Ativas**
 
 ---
 
-## Florescimento Selvagem
+## Florescimento Selvagem | Nv.1
 
-O Druida despeja energia natural sobre uma região, acelerando violentamente o crescimento da vida vegetal existente.
+O Druida despeja energia natural sobre uma região, acelerando violentamente o desenvolvimento da vida vegetal.
 
-Grama se espalha, brotos rompem o solo, raízes se aprofundam e pequenas plantas ocupam o terreno.
+Brotos rompem o solo, raízes expandem-se, grama cresce e pequenas plantas começam a dominar a região.
 
-### Área
+---
+
+# Alcance
 
 Escolha um ponto a até:
 
 > **15 metros**
 
-Cria uma área de:
+---
+
+# Área
 
 > **5 metros de raio**
 
-### Duração
+---
+
+# Duração
 
 > **5 Turnos**
 
-### Terreno Vivo
+---
 
-Durante a duração, a região passa a ser considerada:
+# Terreno Vivo
 
-> **Terreno com vegetação suficiente para Habilidades naturais do Druida**
+Durante a duração, a área passa a ser considerada:
 
-Isso permite utilizar Habilidades como **Domínio das Raízes** mesmo quando originalmente existia pouca vegetação.
+> **vegetação suficiente para Habilidades naturais do Druida.**
 
-### Movimento
+Isso permite utilizar, por exemplo:
 
-Criaturas hostis que atravessem a área gastam:
+> **Domínio das Raízes**
 
-> **+2 metros de Movimento para cada 2 metros percorridos**
+mesmo em uma região que originalmente possuía pouca vegetação.
 
-devido a raízes, galhos, plantas e terreno irregular.
+---
+
+# Terreno Difícil
+
+Criaturas hostis atravessando a área gastam:
+
+> **4 metros de Deslocamento para percorrer cada 2 metros**
+
+devido a:
+
+- raízes;
+- galhos;
+- plantas;
+- vegetação densa;
+- irregularidade do terreno.
 
 O Druida pode escolher criaturas que não serão prejudicadas pelo crescimento.
 
-### Limitações
+---
 
-Florescimento Selvagem precisa de algum substrato capaz de sustentar vida.
+# Limitações
+
+Florescimento Selvagem ainda precisa de algum substrato capaz de sustentar vida.
 
 Funciona normalmente sobre:
 
 - terra;
 - floresta;
 - campos;
-- pedra rachada com solo;
-- regiões naturais.
+- solo;
+- regiões naturais;
+- pedra rachada com matéria orgânica.
 
-Pode funcionar de maneira reduzida em ambientes urbanos onde ainda exista terra ou matéria orgânica.
+Pode funcionar parcialmente em ambientes urbanos onde ainda exista:
+
+- terra;
+- raízes;
+- matéria orgânica;
+- vegetação.
 
 Não transforma automaticamente:
 
 - metal puro;
 - chão completamente esterilizado;
 - superfícies mágicas sem vida;
-- ambientes impossíveis para vegetação;
+- ambientes biologicamente impossíveis;
 
-em floresta.
+em vegetação.
 
-### Custo
+---
+
+# Custo
 
 > **18 Mana + 1 PA**
 
 ---
 
-## Espinhos do Círculo
+## Espinhos do Círculo | Nv.1
 
-O Druida concentra energia natural em um crescimento agressivo de espinhos e os lança contra uma criatura.
+O Druida concentra energia natural em um crescimento agressivo de espinhos e os projeta contra uma criatura.
 
-### Ataque
+---
 
-Realiza:
+# Ataque
 
-> **Dado + Precisão Mágica**
+> **Dado + Vontade + Modificadores**
 
-contra a defesa apropriada do alvo.
+---
 
-### Dano
+# Dano
 
 Em caso de acerto:
 
-> **10 + 1d8 de Dano de Natureza**
+> **10 + 1d8 Dano Mágico de Natureza**
 
-### Alvo Preso
+Defesa aplicada:
 
-Se o alvo estiver:
+> **Defesa Mágica**
+
+Natureza representa a propriedade da manifestação.
+
+---
+
+# Alvo Preso
+
+Caso o alvo esteja:
 
 > **Preso por Domínio das Raízes**
 
-o ataque recebe:
+o Ataque recebe:
 
-> **+5 de Dano de Natureza**
+> **+5 Dano Mágico de Natureza**
 
-Nesse caso, o Dano total passa a ser:
+Total:
 
-> **15 + 1d8 de Dano de Natureza**
+> **15 + 1d8**
 
-### Alcance
+---
+
+# Alcance
 
 > **15 metros**
 
-### Custo
+---
+
+# Custo
 
 > **12 Mana + 1 PA**
 
 ---
 
-## Círculo de Renovação
+## Círculo de Renovação | Nv.1
 
 O Druida cria uma região impregnada por energia vital.
 
-Folhas, pequenas flores e partículas de energia natural surgem ao redor da área enquanto organismos vivos recuperam lentamente sua força.
+Folhas, brotos e pequenas flores surgem enquanto a própria região passa a favorecer os processos naturais de recuperação.
 
-### Área
+---
+
+# Alcance
 
 Escolha um ponto a até:
 
 > **12 metros**
 
-Cria uma área de:
+---
+
+# Área
 
 > **4 metros de raio**
 
-### Duração
+---
+
+# Duração
 
 > **3 Turnos**
 
-### Efeito
+---
 
-No início do Turno de cada criatura aliada dentro da área:
+# Cura
 
-> recupera **5 de Vida**
+No início do Turno de cada criatura aliada válida dentro da área:
 
-Uma criatura só pode receber essa cura:
+> **recupera 5 Vida**
+
+Cada criatura recebe essa cura:
 
 > **1 vez por Turno**
 
-### Limitações
+---
+
+# Movimento
+
+Entrar e sair da área:
+
+> **não concede cura adicional no mesmo Turno.**
+
+---
+
+# Limitações
 
 Círculo de Renovação não:
 
@@ -444,95 +680,126 @@ Círculo de Renovação não:
 - remove venenos;
 - remove doenças;
 - regenera membros;
-- revive mortos.
+- ressuscita mortos.
 
-Criaturas sem processos vitais apropriados podem não ser afetadas.
+Criaturas sem processos vitais compatíveis podem:
 
-### Custo
+> **não ser afetadas.**
 
-> **20 Mana + 1 PA**
+---
 
-### Limite
+# Limite
 
 Apenas:
 
 > **1 Círculo de Renovação**
 
-do mesmo Druida pode permanecer ativo por vez.
+do mesmo Druida pode permanecer ativo simultaneamente.
 
 ---
 
-## Ciclo das Estações
+# Custo
+
+> **20 Mana + 1 PA**
+
+---
+
+## Ciclo das Estações | Nv.1
 
 O Druida canaliza temporariamente um dos grandes ciclos naturais, alterando a maneira como sua energia se manifesta.
 
-Ao utilizar a Habilidade, escolha:
+Ao ativar, escolha:
 
-> **Primavera, Verão, Outono ou Inverno**
+- Primavera;
+- Verão;
+- Outono;
+- Inverno.
 
-Apenas uma Estação pode permanecer ativa por vez.
+Apenas:
 
-Utilizar novamente substitui a anterior.
+> **1 Estação**
+
+pode permanecer ativa por vez.
+
+Ativar outra:
+
+> **substitui imediatamente a anterior.**
 
 ---
 
-### Primavera
+# Primavera
 
-Energia de crescimento e recuperação envolve o Druida.
+Representa:
 
-Sempre que utilizar uma Habilidade que recupere Vida:
+> **crescimento e renovação.**
 
-> **+4 de Cura**
+Sempre que o Druida utilizar uma Habilidade que recupere Vida:
 
-Esse bônus ocorre apenas uma vez por utilização da Habilidade.
+> **+4 Cura**
+
+O bônus ocorre:
+
+> **1 vez por utilização da Habilidade.**
 
 Efeitos contínuos não recebem +4 novamente a cada Turno.
 
+### Exemplo
+
+Seiva Restauradora recebe +4:
+
+> **na Cura Inicial**
+
+mas sua regeneração posterior não recebe +4 a cada Turno.
+
 ---
 
-### Verão
+# Verão
 
-A energia natural torna-se mais agressiva.
+Representa:
+
+> **expansão e intensidade.**
 
 Sempre que uma Habilidade do Druida causar Dano:
 
-> **+4 de Dano**
+> **+4 Dano**
 
-Esse bônus é aplicado ao Dano Fixo da Habilidade.
+O bônus utiliza:
 
-Exemplo:
+> **o mesmo tipo de Dano principal da Habilidade.**
 
-> **Espinhos do Círculo**
+Caso uma Habilidade produza vários impactos através da mesma utilização:
 
-normalmente:
-
-> **10 + 1d8**
-
-durante Verão:
-
-> **14 + 1d8**
+> **o bônus é aplicado apenas uma vez por alvo.**
 
 ---
 
-### Outono
+# Outono
 
-A energia do Druida favorece desgaste e enfraquecimento.
+Representa:
 
-Sempre que uma criatura falhar em um Teste contra uma Habilidade de controle do Druida:
+> **declínio e desgaste.**
 
-> recebe **-2 Agilidade**
+Quando uma criatura falhar em um Teste para resistir a uma Habilidade de controle do Druida:
 
-até o início do próximo Turno dela.
+> **-2 Agilidade**
 
-O efeito:
+até:
 
-> **não acumula consigo mesmo**
+> **o início do próximo Turno da criatura.**
+
+Esse efeito:
+
+> **não acumula consigo mesmo.**
+
+Uma nova aplicação apenas renova sua duração.
 
 ---
 
-### Inverno
+# Inverno
 
-A energia vital é recolhida e concentrada.
+Representa:
+
+> **recolhimento e resistência.**
 
 O Druida recebe:
 
@@ -542,66 +809,105 @@ e:
 
 > **+3 Defesa Mágica**
 
-enquanto a Estação estiver ativa.
+enquanto Inverno permanecer ativo.
 
 ---
 
-### Duração
+# Duração
 
 > **4 Turnos**
 
-### Custo
+---
+
+# Custo
 
 > **15 Mana + 1 PA**
 
 ---
 
-# Passivas Herdadas Aprimoradas
+# Passiva Herdada Aprimorada
 
-## Sintonia Profunda
+## Sintonia Profunda | Nv.1
 
-> **Substitui: Sintonia Natural**
+> **Aprimora: Sintonia Natural**
 
 A percepção natural do Druida deixou de ser apenas sensibilidade.
 
-Ele começa a interpretar o ambiente como um conjunto de sinais conectados.
+Ele aprende a interpretar o ambiente como:
 
-### Efeito
+> **um conjunto de sinais interligados.**
+
+---
+
+# Efeito
 
 Recebe:
 
-> **+4 em Testes de Percepção, Sobrevivência ou Sexto Sentido**
+> **+4 em Testes de Percepção, Sobrevivência ou [[Atributos Centrais/Espírito#Sexto Sentido|Sexto Sentido]]**
 
-quando o Teste estiver diretamente relacionado à natureza.
+quando o Teste estiver:
 
-Isso pode incluir:
+> **diretamente relacionado à natureza.**
+
+Pode incluir:
 
 - rastros naturais;
 - comportamento animal;
-- plantas;
-- alterações ambientais;
+- vegetação;
 - água;
 - terreno;
+- contaminação;
 - corrupção natural;
+- alterações ambientais;
 - desequilíbrio biológico;
 - sinais de predadores;
-- mudanças anormais em ecossistemas.
+- mudanças anormais no ecossistema.
 
-### Leitura do Ambiente
+---
 
-Após permanecer por pelo menos alguns instantes observando uma região natural, o Druida pode tentar compreender seu estado geral.
+# Leitura do Ambiente
 
-Com um Teste apropriado, pode perceber indícios de:
+Após observar uma região natural durante tempo suficiente para perceber seus sinais, o Druida pode realizar um Teste apropriado.
 
-- passagem recente de grandes criaturas;
-- presença de predadores;
-- escassez anormal de animais;
+Dependendo do método:
+
+> **Percepção**
+
+para sinais perceptíveis;
+
+> **Sobrevivência**
+
+para interpretação ambiental;
+
+> **Sexto Sentido**
+
+para alterações sobrenaturais ou difíceis de perceber fisicamente.
+
+Um sucesso pode revelar indícios de:
+
+- passagem recente de criaturas;
+- presença de grandes predadores;
+- escassez anormal de fauna;
 - vegetação doente;
 - contaminação;
-- influência sobrenatural sobre a natureza;
+- corrupção;
+- influência sobrenatural;
 - alteração brusca do ecossistema.
 
-Isso não concede conhecimento absoluto nem revela automaticamente a causa de um fenômeno.
+---
+
+# Limitação
+
+Sintonia Profunda:
+
+> **não concede conhecimento absoluto.**
+
+Perceber que uma floresta está sendo afetada por uma força desconhecida não significa automaticamente descobrir:
+
+- quem causou;
+- qual magia foi utilizada;
+- onde está o responsável;
+- como remover o efeito.
 
 ---
 
@@ -609,55 +915,91 @@ Isso não concede conhecimento absoluto nem revela automaticamente a causa de um
 
 Permanece herdada normalmente do [[Iniciado do Círculo]].
 
-O Druida continua sendo reconhecido com maior facilidade por animais e entidades naturais, mas especializações superiores de vínculo pertencem a outras Evoluções.
+O Druida continua sendo reconhecido com maior facilidade por criaturas e manifestações apropriadas da natureza.
+
+Essa Passiva:
+
+> **não concede controle sobre elas.**
 
 ---
 
-# Novas Passivas
+# Novas Passivas Tier 2
 
-O Tier 2 adiciona:
+Druida adiciona:
 
 > **2 novas Passivas**
 
 ---
 
-## Natureza Convergente
+## Natureza Convergente | Nv.1
 
-O Druida é especialmente eficiente quando combina diferentes manifestações naturais em sequência.
+O Druida torna-se especialmente eficiente ao combinar suas próprias manifestações naturais.
 
-Sempre que utilizar uma Habilidade do Druida sobre uma criatura ou área que já esteja sendo afetada por outra Habilidade natural sua:
+Quando utilizar uma Habilidade do Druida sobre uma criatura ou área que já esteja sendo diretamente afetada por outra Habilidade natural sua:
 
-> reduz o custo da nova Habilidade em **3 Mana**
-
-Exemplos:
-
-- utilizar **Espinhos do Círculo** contra alguém preso por **Domínio das Raízes**;
-- utilizar **Domínio das Raízes** dentro de **Florescimento Selvagem**;
-- utilizar uma cura em alguém dentro do **Círculo de Renovação**.
-
-### Limite
-
-A redução mínima nunca pode fazer uma Habilidade custar menos que:
-
-> **1 Mana**
-
-A mesma Habilidade recebe essa redução apenas:
-
-> **1 vez por utilização**
-
-mesmo que várias condições estejam presentes.
+> **reduz o custo da nova Habilidade em 3 Mana**
 
 ---
 
-## Equilíbrio Vivo
+# Exemplos
 
-O Druida se fortalece quando permanece próximo de vida natural ativa.
+Utilizar:
 
-Enquanto estiver dentro de:
+> **Espinhos do Círculo**
+
+contra alguém preso por:
+
+> **Domínio das Raízes**
+
+reduz o custo.
+
+Utilizar:
+
+> **Domínio das Raízes**
+
+dentro de:
+
+> **Florescimento Selvagem**
+
+reduz o custo.
+
+Utilizar:
+
+> **Seiva Restauradora**
+
+em um aliado dentro do:
+
+> **Círculo de Renovação**
+
+reduz o custo.
+
+---
+
+# Limite
+
+A redução é aplicada:
+
+> **1 vez por utilização**
+
+mesmo que várias Habilidades naturais estejam presentes.
+
+O custo final não pode ser reduzido abaixo de:
+
+> **1 Mana**
+
+por esta Passiva.
+
+---
+
+## Equilíbrio Vivo | Nv.1
+
+O Druida fortalece sua conexão quando está cercado por vida natural ativa.
+
+Enquanto estiver dentro ou diretamente envolvido com:
 
 - vegetação natural significativa;
-- **Florescimento Selvagem**;
-- **Círculo de Renovação**;
+- Florescimento Selvagem;
+- Círculo de Renovação;
 
 recebe:
 
@@ -667,11 +1009,34 @@ e:
 
 > **+2 Regeneração de Mana**
 
-### Limitação
+---
 
-Os bônus não acumulam por estar simultaneamente em várias áreas naturais.
+# Vontade
 
-O Druida recebe apenas:
+O bônus de Vontade funciona normalmente em:
+
+- Testes;
+- resistências;
+- Dificuldades;
+- Ataques de Habilidades naturais;
+
+quando Vontade for o método utilizado.
+
+Ele é um:
+
+> **Bônus de Passiva**
+
+e não investimento natural.
+
+---
+
+# Limite
+
+Estar simultaneamente em várias fontes válidas:
+
+> **não acumula o benefício.**
+
+O máximo permanece:
 
 > **+2 Vontade**
 
@@ -679,22 +1044,207 @@ e:
 
 > **+2 Regeneração de Mana**
 
-independentemente da quantidade de efeitos presentes.
+---
 
-## Possíveis Evoluções do Druida
+# Identidade do Druida
 
-### Guardião do Bosque
+O Druida não é:
 
-O Druida aprofunda sua ligação com um território específico e passa a defender ecossistemas inteiros. Seu foco cresce em **controle de área, proteção de aliados, barreiras naturais e fortalecimento do terreno**.
+> **o melhor transformador**
 
-### Hierofante Verde
+nem:
 
-Uma evolução voltada para o domínio mais profundo da **vida vegetal e da energia natural**. Especializa-se em crescimento acelerado, plantas mágicas, cura por regeneração e manipulação de grandes áreas vivas.
+> **o melhor invocador**
 
-### Druida das Estações
+nem:
 
-Aprofunda o conceito de **Ciclo das Estações**, transformando cada estação em um estilo de combate completo. Pode alternar entre cura, dano, enfraquecimento e defesa conforme Primavera, Verão, Outono ou Inverno.
+> **o maior especialista espiritual.**
 
-### Druida Primordial
+Sua força está em construir um pequeno ecossistema mecânico durante o confronto.
 
-O Druida abandona parte da natureza domesticada e se conecta às forças mais antigas do mundo. Seu poder se torna mais bruto, envolvendo **tempestades naturais, crescimento selvagem, energia vital extrema e fenômenos naturais de grande escala**.
+Exemplo:
+
+> **Florescimento Selvagem**
+
+prepara o terreno.
+
+Depois:
+
+> **Domínio das Raízes**
+
+utiliza essa vegetação para controlar inimigos.
+
+Então:
+
+> **Espinhos do Círculo**
+
+aproveita o inimigo Preso.
+
+Enquanto isso:
+
+> **Círculo de Renovação**
+
+sustenta os aliados.
+
+E:
+
+> **Natureza Convergente**
+
+reduz o custo de Mana conforme as Habilidades começam a trabalhar juntas.
+
+O Druida torna-se mais eficiente:
+
+> **quanto mais consegue fazer suas próprias manifestações naturais interagirem.**
+
+---
+
+# Druida e Manejo Animal
+
+O Druida mantém qualquer desenvolvimento de [[Manejo Animal]] herdado do [[Iniciado do Círculo]].
+
+Essa Perícia continua apropriada para:
+
+- acalmar animais;
+- conduzi-los;
+- cuidar deles;
+- treiná-los;
+- interpretar comportamento;
+- lidar com montarias.
+
+Porém:
+
+> **Druida não é automaticamente um Domador.**
+
+Manejo Animal não concede:
+
+- domesticação especial de monstros;
+- companheiro de combate;
+- controle;
+- pacto;
+- invocação.
+
+---
+
+# Druida e Energia Natural
+
+O Druida utiliza [[Mana]] para diversas Habilidades porque essa é a Reserva atualmente utilizada pela Árvore.
+
+Isso:
+
+> **não significa que Mana e Energia Natural sejam a mesma coisa.**
+
+Mana representa o recurso gasto pelo personagem para:
+
+> **canalizar e organizar a manifestação.**
+
+Energia Natural pode existir externamente no:
+
+- ambiente;
+- ecossistema;
+- vegetação;
+- território;
+- fenômenos naturais.
+
+Caso Energia Natural receba futuramente uma mecânica própria:
+
+> **as Habilidades do Druida podem interagir com ela através de regras específicas.**
+
+---
+
+# Possíveis Evoluções
+
+## Guardião do Bosque
+
+Aprofunda a ligação do Druida com:
+
+- território;
+- proteção;
+- barreiras naturais;
+- controle de área;
+- fortalecimento ambiental.
+
+Seu foco passa a ser:
+
+> **transformar uma região em território extremamente difícil de invadir.**
+
+---
+
+## Hierofante Verde
+
+Aprofunda:
+
+- flora;
+- energia vital;
+- regeneração;
+- plantas mágicas;
+- crescimento em larga escala.
+
+Representa uma especialização direta no:
+
+> **aspecto vivo e vegetal da natureza.**
+
+---
+
+## Druida das Estações
+
+Aprofunda [[#Ciclo das Estações \| Nv.1|Ciclo das Estações]].
+
+Cada Estação pode tornar-se um estilo completo:
+
+- Primavera: crescimento e cura;
+- Verão: intensidade e Dano;
+- Outono: desgaste;
+- Inverno: proteção e contenção.
+
+---
+
+## Druida Primordial
+
+O Druida aproxima-se das forças mais antigas e menos domesticadas da natureza.
+
+Pode desenvolver aspectos relacionados a:
+
+- crescimento selvagem;
+- energia vital extrema;
+- fenômenos naturais;
+- forças primitivas;
+- grandes alterações ambientais.
+
+---
+
+Outras Evoluções podem existir conforme:
+
+- Afinidades;
+- território;
+- Habilidades;
+- descobertas;
+- vínculos naturais;
+- condições específicas.
+
+---
+
+# Estrutura da Classe
+
+Druida Tier 2 possui:
+
+> **2 Habilidades herdadas aprimoradas**
+
+> **2 Habilidades herdadas mantidas**
+
+> **1 Passiva herdada aprimorada**
+
+> **1 Passiva herdada mantida**
+
+e adiciona:
+
+> **4 novas Ativas**
+
+> **2 novas Passivas**
+
+Aprimoramentos:
+
+> **não contam como novas Habilidades do Tier.**
+
+---
+
+> **Regra específica > regra geral.**

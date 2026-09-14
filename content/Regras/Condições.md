@@ -10,9 +10,9 @@ Quando nenhuma regra específica for apresentada, utilize os valores desta seç�
 
 Um **Tick** representa a ativação periódica de uma Condição.
 
-Quando uma Condição causar Dano ou outro efeito:
+Quando uma Condição causar [[Regras/Dano|Dano]] ou outro efeito:
 
-> **por Turno**
+> **por [[Regras/Turno|Turno]]**
 
 seu Tick acontece normalmente:
 
@@ -34,7 +34,7 @@ Quando uma Condição causa Dano através de seus Ticks, esse Dano representa um
 
 Por isso, salvo quando indicado o contrário:
 
-> **Defesa Física ou Mágica comum não é aplicada novamente a cada Tick.**
+> **[[Regras/Defesa|Defesa]] Física ou Mágica comum não é aplicada novamente a cada Tick.**
 
 Resistências, imunidades ou proteções especificamente adequadas à Condição ainda podem funcionar normalmente.
 
@@ -307,9 +307,9 @@ Não existe um único teste universal para escapar.
 
 Dependendo da fonte, pode ser possível:
 
-- utilizar Atletismo;
+- utilizar [[Atributos Centrais/Constituição#Atletismo|Atletismo]];
     
-- utilizar Agilidade;
+- utilizar [[Atributos Centrais/Destreza#Agilidade|Agilidade]];
     
 - cortar o material;
     

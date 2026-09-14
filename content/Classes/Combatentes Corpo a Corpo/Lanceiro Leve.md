@@ -1,130 +1,158 @@
-> **Tier 2**  
-> **Evolução de: Recruta**
+O **Lanceiro Leve** é uma [[Classes|Classe Tier 2]] de combate especializada em **velocidade ofensiva, mobilidade e ataques consecutivos com lanças leves**.
 
-O **Lanceiro Leve** é a evolução do Recruta voltada para velocidade ofensiva, mobilidade e ataques consecutivos.
+Enquanto outros combatentes procuram vencer através de golpes únicos extremamente poderosos ou de posições defensivas, o Lanceiro Leve transforma alcance, velocidade e movimentação em uma sequência constante de perfurações.
 
-Em vez de utilizar a lança como uma arma de formação ou manter inimigos afastados através de uma posição defensiva, ele explora sua velocidade, alcance e capacidade de realizar sucessivas perfurações em poucos segundos.
+Seu estilo consiste em:
 
-Seu estilo de combate consiste em entrar no alcance do inimigo, realizar uma sequência agressiva de ataques e reposicionar-se antes que o adversário consiga responder adequadamente.
+- aproximar-se rapidamente;
+- realizar múltiplos ataques;
+- explorar brechas;
+- reposicionar-se durante a ofensiva;
+- atravessar parte da [[Regras/Defesa|Defesa]] inimiga;
+- manter pressão enquanto possuir Estamina.
 
-O Lanceiro Leve causa menos impacto individual que combatentes especializados em golpes pesados, mas compensa através da **quantidade de ataques realizados**.
+O Lanceiro Leve normalmente causa menos impacto individual por golpe do que estilos especializados em ataques pesados.
 
-Quanto mais tempo consegue manter sua ofensiva, mais perigoso se torna.
+Em compensação:
+
+> **sua força está na quantidade e frequência dos ataques.**
 
 ---
 
-## Função
+# Dados da Classe
+
+- **Tier:** T2
+- **Tipo:** Combate
+- **Nível Máximo:** 20
+- **Árvore:** Recruta → Lanceiro Leve
+- **Slot:** utiliza o mesmo Slot ocupado por Recruta
+
+---
+
+# Função
 
 > **DPS Físico / Mobilidade**
+
+O Lanceiro Leve é um combatente móvel de DPS sustentado que alterna deslocamento e Ataques, acumulando Ritmo enquanto mantém pressão.
 
 Especializado em:
 
 - ataques múltiplos;
-    
 - alta frequência de golpes;
-    
-- mobilidade durante o combate;
-    
-- pressão constante;
-    
-- exploração de brechas;
-    
-- perfuração de Defesa;
-    
-- alto consumo e gerenciamento de Estamina.
-    
+- mobilidade;
+- perfuração;
+- pressão ofensiva;
+- reposicionamento;
+- gerenciamento de Estamina.
 
 ---
 
-## Requisito
+# Requisito
 
-> **Recruta Nv.10**
+Para evoluir:
 
----
+> **Recruta Lv.10**
 
-# Armas do Lanceiro Leve
-
-As Habilidades específicas desta Classe exigem uma **Lança Leve**.
-
-São consideradas Lanças Leves armas classificadas pelo sistema dessa forma, normalmente incluindo:
-
-- lança;
-    
-- lança curta;
-    
-- armas de haste leves semelhantes.
-    
-
-Armas extremamente longas ou pesadas, como piques e lanças pesadas de formação, não recebem os benefícios específicos desta Classe.
-
-Essas armas pertencem ao estilo do **Lanceiro Pesado**.
+A evolução não exige um novo Slot de Classe.
 
 ---
 
+# Herança
 
-Ao adquirir Lanceiro Leve, recebe:
+Lanceiro Leve mantém tudo que foi desenvolvido através de [[Recruta]], incluindo:
 
-- **+70 Vida**
-    
-- **+100 Estamina**
-    
-- **+15 Regeneração de Estamina**
-    
-- **+3 Precisão Melee**
-    
-- **+4 Dano Melee**
-    
-- **+2 Agilidade**
-    
-- **+1 Atletismo**
-    
+- Bônus de Classe;
+- Habilidades;
+- Passivas;
+- Afinidades;
+- progressão;
+- SP pertencente à mesma Árvore de Classe.
 
-Esses valores são somados aos bônus herdados do Recruta.
+Os bônus abaixo são:
 
-### Total herdado + Lanceiro Leve
-
-Considerando apenas os bônus naturais das duas Classes:
-
-> **+100 Vida**  
-> **+20 Mana**  
-> **+200 Estamina**  
-> **+30 Regeneração de Estamina**  
-> **+5 Precisão Melee**  
-> **+4 Dano Melee**  
-> **+2 Defesa Física**  
-> **+2 Defesa Mental**  
-> **+3 Agilidade**  
-> **+2 Atletismo**  
-> **+1 Vontade**
+> **somados aos bônus já adquiridos por Recruta.**
 
 ---
-# Afinidades
 
-O Lanceiro Leve mantém todas as Afinidades do Recruta:
+# Bônus do Lanceiro Leve
 
-- Vida
-    
-- Estamina
-    
-- Regeneração de Estamina
-    
-- Dano Melee
-    
-- Precisão Melee
-    
-- Defesa Física
-    
-- Defesa Mental
-    
-- Atletismo
-    
-- Vontade
-    
+## Reservas
 
-E adiciona:
+- +60 [[Vida]]
+- +100 [[Estamina]]
 
-- **Agilidade**
-    
+## Regeneração
+
+- +20 Regeneração de Estamina
+
+## Perícias
+
+- +2 [[Atributos Centrais/Destreza#Agilidade|Agilidade]]
+- +3 [[Atributos Centrais/Constituição#Atletismo|Atletismo]]
+
+Esses valores são **Bônus de Classe**.
+
+Eles não representam investimento natural realizado através de PP.
+
+---
+
+# Novas Afinidades
+
+Lanceiro Leve mantém todas as Afinidades herdadas do Recruta e adiciona:
+
+- Agilidade
+
+A Classe não concede automaticamente Afinidade ou pontos adicionais em [[Proficiência]].
+
+---
+
+# Lanças Leves
+
+As Habilidades específicas do Lanceiro Leve exigem uma arma classificada como:
+
+> **Lança Leve**
+
+Lança Leve é uma propriedade ou classificação do equipamento.
+
+Normalmente utiliza:
+
+> **Proficiência: Hastes**
+
+Podem incluir, conforme o item:
+
+- lanças;
+- lanças curtas;
+- armas de haste leves;
+- outras armas explicitamente classificadas como Lança Leve.
+
+Armas como:
+
+- piques;
+- lanças extremamente pesadas;
+- armas de formação;
+- hastes classificadas como pesadas;
+
+não recebem automaticamente os benefícios desta Classe.
+
+---
+
+# Proficiência
+
+Os Ataques com Lança Leve seguem normalmente:
+
+> **Proficiência Efetiva = menor valor entre Proficiência e Central de Manuseio**
+
+e:
+
+> **[[Regras/Ataque|Ataque]] = Dado + Proficiência Efetiva + Modificadores**
+
+Lanceiro Leve:
+
+> **não recebe Proficiência em Hastes automaticamente.**
+
+A Classe fornece técnicas e modificadores.
+
+O domínio da arma continua sendo desenvolvido através do sistema próprio de [[Proficiência]].
 
 ---
 
@@ -132,506 +160,875 @@ E adiciona:
 
 O Lanceiro Leve mantém normalmente:
 
-> **Ataque Pesado**  
-> **Surto de Ação**
+- **Ataque Pesado**
+- **Surto de Ação**
 
-Também mantém as Passivas:
+Também mantém:
 
-> **Contra-Ataque**  
-> **Inabalável**  
-> **Recuperação Vital**
+- **Contra-Ataque**
+- **Inabalável**
+- **Recuperação Vital**
 
-Entretanto, duas Habilidades do Recruta são adaptadas ao novo estilo de combate.
+Entretanto, duas Habilidades do Recruta são substituídas pelo novo estilo:
 
-Essas adaptações **não contam como novas Habilidades Tier 2**.
+- Postura Defensiva → **Guarda da Ponta Móvel**
+- Investida → **Investida Perfurante**
+
+Essas substituições:
+
+> **não contam como novas Habilidades Tier 2.**
 
 ---
 
-# Habilidades Herdadas Adaptadas
+# Habilidade Substituída
 
-## Guarda da Ponta Móvel
+## Guarda da Ponta Móvel | Nv.1
 
-> **Substitui Postura Defensiva**
+**Substitui: Postura Defensiva**
 
-O Lanceiro abandona a postura estática ensinada durante seu treinamento como Recruta e passa a utilizar uma guarda ofensiva, mantendo a ponta da lança constantemente em movimento.
+O Lanceiro abandona a postura estática e protetora aprendida como Recruta.
 
-Enquanto estiver utilizando uma **Lança Leve** e a Guarda estiver ativa, recebe:
+Em seu lugar, mantém a ponta da lança constantemente em movimento, alternando ângulo, distância e posição para sustentar uma ofensiva rápida.
 
-> **+2 Precisão Melee**
+### Requisito
 
-Além disso, ataques realizados com uma Lança Leve reduzem seu custo de Estamina em:
+Precisa estar empunhando:
 
-> **−5 Estamina**
+> **uma Lança Leve**
 
-A redução nunca pode fazer um ataque custar menos de:
+---
 
-> **1 Estamina**
+### Efeito
 
-#### Custo
+Enquanto a Guarda estiver ativa, se o Lanceiro tiver se deslocado voluntariamente pelo menos:
 
-Para entrar na Guarda:
+> **2 metros desde sua última ativação ofensiva realizada no próprio Turno**
+
+a próxima técnica ofensiva com Lança Leve reduz em:
+
+> **5 Estamina seu custo adicional fixo, mínimo 0**
+
+Depois dessa ativação ofensiva, o Lanceiro precisa se deslocar voluntariamente pelo menos mais 2 metros para receber novamente essa redução.
+
+A redução:
+
+- ocorre uma vez por ativação;
+- não é multiplicada pela quantidade de Ataques da técnica;
+- não reduz o custo normal de Estamina da arma;
+- não pode reduzir o custo adicional fixo abaixo de 0;
+- não reduz o custo adicional de Ataque Pesado;
+- não concede Dano ou [[Regras/Precisão|Precisão]].
+
+Movimentação forçada não conta.
+
+Para essa verificação, são considerados apenas deslocamentos e ativações ofensivas realizados durante o Turno atual do Lanceiro.
+
+Movimentações e ativações ofensivas realizadas fora do próprio Turno do Lanceiro:
+
+- não geram o desconto;
+- não consomem uma condição de deslocamento já satisfeita;
+- não redefinem a referência utilizada pela Guarda.
+
+Em uma técnica com vários Ataques, movimentações realizadas durante sua resolução somente podem satisfazer a condição da Guarda para uma ativação ofensiva posterior.
+
+---
+
+# Custo
+
+Entrar na Guarda:
 
 > **1 PA + 10 Estamina**
 
-Permanecer nela não possui custo adicional.
+Permanecer:
 
-Sair da Guarda é gratuito.
+> **sem custo adicional**
 
-#### Limitações
+Sair:
 
-A Guarda termina automaticamente caso:
-
-- deixe de empunhar uma Lança Leve;
-    
-- fique incapaz de lutar;
-    
-- utilize uma postura incompatível.
-    
-
-A antiga capacidade de interceptar ataques da **Postura Defensiva** é perdida.
-
-O Lanceiro Leve escolheu ofensiva em vez de proteção.
+> **gratuito**
 
 ---
 
-## Investida Perfurante
+# Encerramento
 
-> **Substitui Investida**
+A Guarda termina caso:
 
-O Lanceiro realiza a mesma corrida explosiva aprendida como Recruta, mas agora prepara sua lança durante o avanço para transformar a aproximação em uma abertura ofensiva.
+- deixe de empunhar uma Lança Leve;
+- fique incapaz de lutar;
+- utilize uma postura incompatível;
+- decida encerrá-la.
 
-#### Movimento
+A capacidade de interceptação da antiga Postura Defensiva:
 
-Pode percorrer:
+> **é perdida.**
 
-> **2× sua distância normal de Corrida**
+O Lanceiro Leve escolheu mobilidade e ofensiva em vez de proteção.
 
-A movimentação precisa continuar sendo realizada em direção a um inimigo ou ameaça identificada.
+---
 
-#### Ataque após a Investida
+# Habilidade Substituída
 
-Se realizar um ataque com Lança Leve contra o alvo alcançado durante o mesmo Turno, esse ataque recebe:
+## Investida Perfurante | Nv.1
 
-> **+3 Precisão Melee**
+**Substitui: Investida**
 
-e:
+O Lanceiro aprimora a corrida explosiva aprendida como Recruta e utiliza o avanço para abrir uma sequência ofensiva.
 
-> **+25% de Dano**
+### Movimento
 
-O ataque ainda:
+Pode deslocar-se até:
 
-- consome seu próprio PA;
-    
-- paga normalmente seu custo de Estamina;
-    
-- realiza normalmente seu Teste de Precisão.
-    
+> **2× seu [[Regras/Deslocamento|Deslocamento]] atual**
 
-A Investida não concede um ataque gratuito.
+em direção a:
 
-#### Custo
+- uma ameaça válida;
+- uma ameaça identificada e perceptível.
 
-> **1 PA + 20 Estamina**
+O deslocamento precisa seguir uma trajetória fisicamente possível e:
+
+> **não consome o movimento normal do Lanceiro.**
+
+Essa movimentação não pode ser utilizada simplesmente como deslocamento dobrado para:
+
+- exploração;
+- fuga;
+- viagem comum.
+
+---
+
+# Abertura de sequência
+
+Se percorrer pelo menos metade de seu Deslocamento atual:
+
+- a condição de movimentação de Ritmo Crescente é considerada satisfeita naquele [[Regras/Turno|Turno]];
+- a próxima técnica própria do Lanceiro utilizada naquele Turno reduz em 5 de Estamina seu custo adicional fixo, mínimo 0.
+
+Essa redução:
+
+- ocorre uma vez por ativação de Investida Perfurante;
+- não é multiplicada pela quantidade de Ataques da técnica;
+- não reduz o custo normal da arma;
+- não se aplica ao custo adicional de Ataque Pesado;
+- não concede Dano ou Precisão.
+
+Investida Perfurante não realiza um Ataque automaticamente.
+
+Ataque Pesado pode ser utilizado depois da Investida, mas não recebe a redução concedida às técnicas próprias do Lanceiro.
+
+Investida Perfurante pode ser utilizada:
+
+> **1 vez durante o próprio Turno**
+
+---
+
+# Custo
+
+> **1 PA + 15 Estamina**
 
 ---
 
 # Ativas Tier 2
 
-## Dupla Estocada
+## Dupla Estocada | Nv.1
 
-O Lanceiro utiliza a velocidade da arma para realizar duas perfurações quase consecutivas durante o tempo em que normalmente realizaria apenas um ataque.
+O Lanceiro utiliza a velocidade e baixo momento de inércia da Lança Leve para executar duas perfurações em rápida sucessão.
 
-#### Efeito
+### Requisito
+
+Precisa estar utilizando:
+
+> **Lança Leve**
+
+---
+
+# Efeito
 
 Realiza:
 
 > **2 Ataques**
 
-com uma Lança Leve.
+Cada Ataque possui separadamente:
 
-Cada ataque possui seu próprio:
-
-- Teste de Precisão;
-    
+- rolagem;
+- Precisão;
 - Dano;
-    
-- Crítico;
-    
+- [[Regras/Crítico|Crítico]];
 - aplicação de Defesa.
-    
 
-Os ataques podem ser direcionados ao mesmo alvo ou a dois alvos diferentes que estejam ao alcance.
+Os Ataques podem atingir:
 
-#### Precisão
+- o mesmo alvo;
+- dois alvos diferentes dentro do alcance.
 
-Cada ataque sofre:
+---
 
-> **−2 Precisão Melee**
+# Precisão
 
-Esse modificador faz parte do bônus total do Teste e pode alterar normalmente o dado utilizado.
+Cada Ataque utiliza:
 
-#### Dano
+> **Precisão normal**
 
-Cada ataque causa:
+---
 
-> **70% do Dano normal**
+# Dano
 
-A redução é aplicada como modificador percentual seguindo a ordem normal de cálculo de Dano.
+Cada Ataque causa:
 
-Exemplo:
+> **70% do Dano que causaria normalmente**
 
-Um ataque causaria:
+Calcule cada Ataque separadamente.
 
-> `30 de Dano`
+### Exemplo
 
-Com Dupla Estocada:
+O Ataque causaria:
 
-> `30 × 0,70 = 21`
+> 30 de Dano
 
-Cada estocada causaria:
+Dupla Estocada:
+
+> `30 × 70% = 21`
+
+Cada golpe causa:
 
 > **21 de Dano Bruto**
 
 antes da Defesa.
 
-#### Custo
+---
+
+# Crítico
+
+Cada Ataque verifica Crítico separadamente.
+
+Portanto:
+
+- nenhum pode critar;
+- apenas um pode critar;
+- ambos podem critar.
+
+---
+
+# Custo
+
+PA:
 
 > **1 PA**
 
-Além disso:
+Estamina:
 
-> **2× o custo normal de Estamina da arma + 10 Estamina**
+> **2× o custo normal do Ataque da arma +5 Estamina**
 
-Exemplo:
+### Exemplo
 
-Lança custa:
+Lança:
 
 > 12 Estamina
 
-Dupla Estocada:
+Custo:
 
-> `12 + 12 + 10 = 34 Estamina`
-
-#### Crítico
-
-Cada ataque verifica Crítico separadamente.
-
-É possível:
-
-- nenhum ataque causar Crítico;
-    
-- apenas um causar;
-    
-- ambos causarem.
-    
+> `12 + 12 + 5 = 29`
 
 ---
 
-## Ponta Perfurante
+# Interação com outras Habilidades
 
-O Lanceiro concentra toda sua velocidade em uma única estocada precisa, buscando frestas, juntas e regiões menos protegidas.
+Os dois Ataques produzidos por Dupla Estocada fazem parte da mesma ativação.
 
-#### Ataque
+Eles não podem receber Ataque Pesado nem ser individualmente substituídos por outra Habilidade ou técnica de Ataque.
 
-Realiza um ataque normal com Lança Leve.
+Modificadores e Passivas que funcionem normalmente sobre Ataques continuam válidos.
 
-O ataque recebe:
+---
 
-> **+4 Precisão Melee**
+## Ponta Perfurante | Nv.1
 
-#### Penetração
+O Lanceiro concentra velocidade e controle em uma única perfuração direcionada para:
 
-O ataque possui:
+- juntas;
+- frestas;
+- pontos menos protegidos;
+- regiões vulneráveis da armadura.
 
-> **5 de Penetração de Defesa Física**
+### Requisito
 
-Isso significa que até 5 pontos da Defesa Física do alvo são ignorados contra aquele ataque.
+> **Lança Leve**
 
-Exemplo:
+---
 
-Alvo possui:
+# Ataque
 
-> 12 Defesa Física
+Realize 1 Ataque com Lança Leve utilizando:
+
+> **Precisão normal**
+
+---
+
+# Penetração
 
 Ponta Perfurante ignora:
 
-> 5
+> **50% da Defesa Física do alvo, arredondado para baixo**
 
-Contra aquele ataque, será considerado:
+contra aquele Ataque.
 
-> `12 − 5 = 7 Defesa Física`
+### Exemplo
 
-#### Dano
+Alvo:
 
-O ataque causa seu:
+> 15 Defesa Física
 
-> **Dano normal**
+Defesa ignorada:
 
-Não existe redução de Dano.
+> `15 × 50% = 7, arredondado para baixo`
 
-#### Custo
+Defesa utilizada:
 
-> **1 PA + custo normal da arma + 15 Estamina**
+> `15 - 7 = 8`
 
 ---
 
-## Ataque de Passagem
+# Dano
 
-O Lanceiro combina deslocamento e ataque em uma única sequência contínua, passando pelo campo enquanto mantém sua lança pronta para atingir o inimigo.
+O Ataque causa:
 
-#### Efeito
+> **70% do Dano normal**
 
-Pode percorrer até:
+Ponta Perfurante exige pelo menos:
 
-> **sua distância normal de Corrida**
+> **1 Ritmo**
 
-Durante esse deslocamento, pode realizar:
+O Ritmo não é consumido.
 
-> **1 Ataque com Lança Leve**
+---
 
-em qualquer momento da trajetória.
+# Custo
 
-Depois do ataque, pode continuar utilizando a distância de movimento restante.
+PA:
 
-Exemplo:
+> **PA normal do Ataque**
 
-O Lanceiro pode correr:
+Estamina:
 
-> 8 metros.
+> **custo normal do Ataque +10 Estamina**
 
-Ele utiliza Ataque de Passagem:
+Ponta Perfurante é incompatível com Ataque Pesado e não pode ser substituída por outra técnica.
 
-> move 3 metros  
-> ataca  
-> continua os 5 metros restantes.
+---
 
-#### PA
+## Ataque de Passagem | Nv.1
 
-Todo o movimento e o ataque utilizam juntos:
+O Lanceiro transforma movimento e ataque em uma única sequência contínua.
 
-> **1 PA**
+Ele atravessa o campo, ataca durante a passagem e continua seu deslocamento sem interromper completamente o ritmo.
 
-O ataque não exige outro PA.
+### Requisito
 
-#### Ataque
+> **Lança Leve**
 
-O ataque utiliza normalmente:
+---
 
-> **Precisão Melee**
+# Movimento
+
+Pode percorrer uma trajetória fisicamente válida de:
+
+> **no mínimo 2 metros e no máximo seu Deslocamento atual**
+
+Durante essa movimentação, pode realizar:
+
+> **1 Ataque**
+
+com a Lança Leve.
+
+O Ataque pode acontecer em qualquer ponto válido da trajetória.
+
+Depois dele, o Lanceiro pode continuar utilizando a distância restante.
+
+---
+
+### Exemplo
+
+Deslocamento:
+
+> 8 metros
+
+Pode:
+
+> mover 3 metros  
+> atacar  
+> mover os 5 metros restantes
+
+---
+
+# Deslocamento especial
+
+O movimento concedido por Ataque de Passagem:
+
+> **faz parte da Habilidade**
+
+e não consome o Deslocamento normal disponível ao personagem por outras regras.
+
+Ele continua sujeito a:
+
+- terreno;
+- obstáculos;
+- Condições;
+- limitações físicas;
+- efeitos que impeçam movimento.
+
+---
+
+# Ataque
+
+Utiliza normalmente:
+
+> **Proficiência Efetiva + Modificadores**
 
 e causa:
 
 > **Dano normal**
 
-#### Custo
-
-> **1 PA + custo normal da arma + 15 Estamina**
-
-#### Limitações
-
-O deslocamento continua sujeito normalmente a:
-
-- terreno;
-    
-- obstáculos;
-    
-- Condições;
-    
-- efeitos que impeçam movimento;
-    
-- consequências causadas por atravessar determinadas posições.
-    
-
-Ataque de Passagem não concede teleporte nem permite atravessar criaturas ou objetos que normalmente impediriam seu movimento.
+O Ataque realizado durante a Passagem é incompatível com Ataque Pesado e não pode ser substituído por outra técnica.
 
 ---
 
-## Varredura Rápida
+# Custo
 
-O Lanceiro utiliza a haste, ponta e movimentação da lança para atingir rapidamente vários inimigos ao seu redor.
+> **1 PA + custo normal do Ataque +10 Estamina**
 
-É menos eficiente contra um único alvo, mas permite pressionar vários adversários sem abandonar seu ritmo ofensivo.
+O Ataque:
 
-#### Alvos
+> **não exige PA adicional.**
 
-Escolha até:
+---
 
-> **3 inimigos diferentes**
+# Limitações
 
-dentro do alcance da Lança Leve.
+Ataque de Passagem não permite:
 
-Realize um Ataque separado contra cada um.
+- atravessar paredes;
+- atravessar objetos sólidos;
+- teleportar;
+- ocupar espaço impossível;
+- ignorar efeitos que impeçam deslocamento.
 
-#### Precisão
+Durante seu próprio Turno, a soma das distâncias efetivamente percorridas através de:
 
-Cada ataque utiliza normalmente:
+- Ataque de Passagem;
+- Varredura Rápida;
 
-> **Precisão Melee**
+não pode ultrapassar:
 
-#### Dano
+> **o Deslocamento atual do Lanceiro**
 
-Cada ataque causa:
+Esse limite é compartilhado pelas duas Habilidades.
+
+Se restarem menos de 2 metros desse limite, Ataque de Passagem não pode ser ativado.
+
+### Exemplo
+
+Deslocamento:
+
+> 9 metros
+
+Depois de percorrer 5 metros com Ataque de Passagem, restam:
+
+> **4 metros de deslocamento ofensivo especial naquele Turno**
+
+---
+
+## Varredura Rápida | Nv.1
+
+O Lanceiro utiliza ponta, haste e movimentação para atingir vários inimigos em sequência.
+
+É menos eficiente contra um único adversário, mas permite pressionar diversos alvos sem abandonar seu ritmo.
+
+### Requisito
+
+> **Lança Leve**
+
+---
+
+# Movimento e alvos
+
+Percorra uma trajetória contínua e fisicamente válida de:
+
+> **no mínimo 2 metros e no máximo metade de seu Deslocamento atual**
+
+Durante essa trajetória, ataque:
+
+> **2 ou 3 inimigos diferentes**
+
+Cada alvo precisa entrar no alcance da Lança Leve durante a trajetória e pode ser atacado apenas uma vez.
+
+O deslocamento não consome o movimento normal do Lanceiro e utiliza o mesmo limite compartilhado com Ataque de Passagem.
+
+---
+
+# Precisão
+
+Cada Ataque utiliza normalmente:
+
+> **Proficiência Efetiva + Modificadores**
+
+---
+
+# Dano
+
+Cada Ataque causa:
 
 > **60% do Dano normal**
 
-Exemplo:
+### Exemplo
 
-Ataque normal:
+Dano normal:
 
-> 30 Dano
+> 30
 
-Varredura Rápida:
+Varredura:
 
-> `30 × 0,60 = 18`
+> `30 × 60% = 18`
 
-Cada alvo atingido sofre:
+Cada alvo sofre:
 
 > **18 de Dano Bruto**
 
 antes da Defesa.
 
-#### Custo
+---
+
+# Custo
+
+PA:
 
 > **1 PA**
 
-mais:
+Estamina:
 
-> **custo normal da arma para cada ataque realizado + 15 Estamina**
+> **custo normal do Ataque para cada golpe realizado +10 Estamina**
 
-Se atacar apenas dois inimigos, paga o custo da arma duas vezes.
+### Dois alvos
 
-Se atacar três:
+Paga:
 
-> paga três vezes.
+> 2× custo da arma +10
 
-#### Limitação
+### Três alvos
 
-Um mesmo alvo:
+Paga:
+
+> 3× custo da arma +10
+
+---
+
+# Limitação
+
+O mesmo alvo:
 
 > **não pode ser escolhido mais de uma vez.**
 
-Para concentrar múltiplos ataques contra a mesma criatura, deve utilizar **Dupla Estocada**.
+Os Ataques de Varredura Rápida são incompatíveis com Ataque Pesado e não podem ser substituídos por outras técnicas.
+
+Para concentrar golpes contra um único inimigo:
+
+> utilize **Dupla Estocada**.
 
 ---
 
 # Passivas Tier 2
 
-## Ritmo Crescente
+## Ritmo Crescente | Nv.1
 
-O Lanceiro Leve se torna progressivamente mais perigoso conforme consegue manter uma sequência de ataques dentro do mesmo Turno.
+O Lanceiro Leve sustenta sua pressão ao alternar movimentação e Ataques com Lança Leve entre seus Turnos.
 
-Cada vez que acerta um ataque utilizando uma Lança Leve, recebe:
+### Ganhando Ritmo
 
-> **1 Ritmo**
+Ritmo possui:
 
-até o final daquele Turno.
+> **mínimo 0 e máximo 3**
 
-Máximo:
+e persiste entre Turnos.
 
-> **3 Ritmos**
+Uma vez durante seu próprio Turno, o Lanceiro recebe:
 
-Cada Ritmo concede aos ataques seguintes realizados naquele Turno:
+> **+1 Ritmo**
 
-> **+1 Precisão Melee**  
-> **+5% Dano Melee**
+se cumprir ambas as condições:
 
-#### Exemplo
+- deslocar-se voluntariamente pelo menos 2 metros;
+- realizar pelo menos 1 Ataque válido contra um inimigo utilizando uma Lança Leve.
 
-Primeiro ataque:
+A ordem das condições é indiferente e o Ataque não precisa acertar.
 
-> sem Ritmo.
+Ataques adicionais no mesmo Turno não concedem Ritmo adicional.
 
-Acerta.
-
-Agora possui:
-
-> **1 Ritmo**
-
-Segundo ataque recebe:
-
-> +1 Precisão  
-> +5% Dano
-
-Acerta novamente.
-
-Agora possui:
-
-> **2 Ritmos**
-
-Terceiro ataque recebe:
-
-> +2 Precisão  
-> +10% Dano
-
-Depois de alcançar 3 Ritmos:
-
-> +3 Precisão  
-> +15% Dano
-
-#### Reinício
-
-Todo Ritmo é perdido:
-
-> **ao final do Turno.**
-
-Um novo Turno começa novamente em:
-
-> **0 Ritmos**
-
-Isso também se aplica aos Turnos adicionais concedidos por **Surto de Ação**.
-
-Cada Surto cria um novo Turno e, portanto, uma nova sequência precisa ser construída.
-
-#### Falha
-
-Errar um ataque:
-
-> **não remove os Ritmos existentes**
-
-mas também:
-
-> **não gera um novo Ritmo.**
+Ataques realizados fora do próprio Turno e movimentação forçada não contam.
 
 ---
 
-## Dança da Lança
+# Benefício
 
-O Lanceiro aprende a utilizar o próprio impulso dos ataques para mudar constantemente sua posição.
+Cada ponto de Ritmo reduz em:
 
-Depois de acertar um ataque utilizando uma Lança Leve, pode imediatamente deslocar-se:
+> **2 Estamina os custos adicionais fixos das técnicas próprias do Lanceiro**
+
+Máximo:
+
+> **-6 Estamina**
+
+A redução:
+
+- ocorre uma vez por ativação;
+- não é multiplicada pela quantidade de Ataques;
+- não reduz o custo normal da arma;
+- não reduz o custo adicional de Ataque Pesado;
+- não pode reduzir o custo adicional fixo abaixo de 0;
+- não concede Dano ou Precisão.
+
+---
+
+# Perda de Ritmo
+
+Se, ao final do próprio Turno, o Lanceiro não tiver cumprido as condições de movimentação e Ataque:
+
+> **perde 1 Ritmo**
+
+O Ritmo não é zerado automaticamente.
+
+Se ficar incapaz de combater ou abandonar a Lança Leve:
+
+> **perde todo o Ritmo**
+
+---
+
+# Limite dos descontos de Estamina
+
+Os descontos de Guarda da Ponta Móvel, Investida Perfurante e Ritmo Crescente podem acumular.
+
+O desconto total aplicado ao custo adicional fixo de uma única ativação não pode ultrapassar:
+
+> **-10 Estamina**
+
+O custo adicional nunca fica abaixo de 0. O custo normal da arma nunca é reduzido por esses descontos e qualquer redução excedente é perdida.
+
+Ataque Pesado não recebe esses descontos.
+
+### Exemplo
+
+Se uma técnica possui +10 de Estamina de custo adicional e os descontos acumulados somam -16:
+
+> **o custo adicional final é 0**
+
+Se uma técnica possui +15 de Estamina de custo adicional:
+
+> **seu custo adicional final não pode ser menor que +5 Estamina**
+
+---
+
+# Cadência Plena
+
+Enquanto possuir 3 pontos de Ritmo, uma vez durante seu próprio Turno, depois de se deslocar voluntariamente pelo menos 2 metros, o Lanceiro pode realizar imediatamente:
+
+> **1 Ataque básico com Lança Leve sem gastar PA**
+
+Esse Ataque:
+
+- paga o custo normal de Estamina da arma;
+- utiliza Precisão normal;
+- causa 70% do Dano normal;
+- possui rolagem, Crítico e aplicação de Defesa normais;
+- não pode receber Ataque Pesado;
+- não pode ser substituído por Dupla Estocada, Ponta Perfurante, Ataque de Passagem, Varredura Rápida ou outra técnica.
+
+Cadência Plena pode cumprir a condição de Ataque necessária para manter Ritmo Crescente.
+
+Ela pode ser utilizada no mesmo Turno em que o Lanceiro alcançar 3 de Ritmo, desde que a condição de deslocamento já tenha sido cumprida.
+
+---
+
+# Surto de Ação
+
+[[Classes/Combatentes Corpo a Corpo/Recruta#Surto de Ação - Nv.1|Surto de Ação]]:
+
+> **não inicia um novo Turno.**
+
+Ele apenas recupera o PA Atual até o PA Máximo durante o mesmo Turno.
+
+Surto de Ação não:
+
+- concede Ritmo adicional;
+- inicia um novo Turno;
+- reinicia Cadência Plena;
+- reinicia ou recalcula Dança da Lança;
+- restaura o limite compartilhado de deslocamento ofensivo especial;
+- reutiliza uma redução já consumida de Investida Perfurante;
+- concede uma segunda utilização de Investida Perfurante;
+- restaura Estamina ou ativa novamente sua Regeneração de Estamina.
+
+Surto permite prolongar a sequência ofensiva através de PA adicionais, pagando normalmente os demais custos envolvidos.
+
+---
+
+## Dança da Lança | Nv.1
+
+O Lanceiro aprende a transformar o impulso de um golpe bem-sucedido em reposicionamento.
+
+### Efeito
+
+Depois de cada Ataque bem-sucedido com Lança Leve durante seu próprio Turno, pode deslocar-se voluntariamente:
 
 > **até 2 metros**
 
-sem consumir PA.
+sem gastar PA.
 
-#### Limite
+### Limite
 
-> **1 vez por Turno**
+O número máximo de ativações é calculado no início do Turno:
 
-#### Movimento
+| Ritmo no início do Turno | Ativações | Distância máxima |
+|---:|---:|---:|
+| 0 | 1 | 2 m |
+| 1 | 2 | 4 m |
+| 2 | 3 | 6 m |
+| 3 | 4 | 8 m |
+
+Ganhar ou perder Ritmo durante o Turno:
+
+> **não recalcula esse limite**
+
+Surto de Ação não reinicia nem recalcula o limite.
+
+---
+
+# Movimento
 
 Esse deslocamento:
 
 - não é teleporte;
-    
+- somente funciona durante o próprio Turno;
+- não funciona com Contra-Ataque realizado fora do próprio Turno;
 - exige espaço disponível;
-    
 - não atravessa obstáculos;
-    
-- continua sujeito às condições do terreno.
-    
+- continua sujeito ao terreno;
+- continua sujeito a Condições;
+- precisa ser fisicamente possível.
 
-O Lanceiro pode utilizar esse movimento para:
+Pode ser utilizado para:
 
 - aproximar-se;
-    
 - recuar;
-    
 - mudar de lado;
-    
 - alcançar outro inimigo;
-    
-- sair de uma posição desfavorável.
-    
+- sair de uma posição desfavorável;
+- preparar o próximo Ataque.
 
-A intenção é permitir que o Lanceiro **ataque enquanto dança ao redor do confronto**, em vez de permanecer parado trocando golpes.
+Esse deslocamento especial:
+
+> **não consome o Deslocamento normal do personagem**
+
+e:
+
+- conta como movimentação para Guarda da Ponta Móvel e Ritmo Crescente;
+- não utiliza o limite compartilhado de Ataque de Passagem e Varredura Rápida.
+
+Ataque Pesado pode ativar Dança da Lança caso seja um Ataque válido com Lança Leve e acerte.
+
+Quando uma técnica realiza vários Ataques, cada acerto pode gerar uma ativação de Dança da Lança, respeitando o limite do Turno.
+
+Os deslocamentos gerados são realizados somente depois da resolução completa da técnica.
+
+---
+
+# Compatibilidade com Ataque Pesado
+
+Ataque Pesado permanece como uma Habilidade herdada utilizável pelo Lanceiro Leve.
+
+Sua compatibilidade é:
+
+| Situação | Compatibilidade |
+|---|---|
+| Ataque básico com Lança Leve | Compatível |
+| Depois de Investida Perfurante | Compatível, sem receber a redução da Investida |
+| Guarda da Ponta Móvel | Compatível, sem redução do custo adicional de Ataque Pesado |
+| Ritmo Crescente | Pode cumprir a condição de Ataque, mas não reduz o custo adicional de Ataque Pesado |
+| Dança da Lança | Pode ativá-la caso acerte |
+| Dupla Estocada | Incompatível |
+| Ponta Perfurante | Incompatível |
+| Ataque de Passagem | Incompatível |
+| Varredura Rápida | Incompatível |
+| Cadência Plena | Incompatível |
+
+---
+
+# Identidade do Lanceiro Leve
+
+Lanceiro Leve não é simplesmente:
+
+> **“alguém que recebe bônus usando lança”.**
+
+A Classe é construída ao redor de três pilares:
+
+### Ataques múltiplos
+
+Dupla Estocada e Varredura permitem aumentar a quantidade de golpes.
+
+### Mobilidade
+
+Investida Perfurante, Ataque de Passagem e Dança da Lança permitem lutar sem permanecer parado.
+
+### Ritmo
+
+Ritmo Crescente recompensa a alternância entre deslocamento e Ataques ao longo de vários Turnos.
+
+Seu desenvolvimento amplia:
+
+- ataques múltiplos;
+- eficiência de Estamina;
+- reposicionamento;
+- frequência de Ataques através de Cadência Plena.
+
+---
+
+# Lanceiro Leve e Proficiência
+
+Lança Leve normalmente utiliza:
+
+> **Hastes**
+
+mas a Classe não aumenta automaticamente essa Proficiência.
+
+Isso mantém separados:
+
+> **Proficiência = domínio técnico da Família de armas**
+
+e:
+
+> **Lanceiro Leve = técnicas especializadas de combate rápido com esse tipo de arma.**
+
+Um personagem com baixa Proficiência ainda consegue utilizar suas Habilidades.
+
+Porém:
+
+> sua Base de Precisão continuará limitada pelo domínio real que possui da arma.
+
+---
+
+# Futuras Evoluções
+
+Futuras evoluções do Lanceiro Leve podem aprofundar diferentes aspectos de seu estilo.
+
+Possíveis caminhos podem envolver:
+
+- velocidade extrema;
+- múltiplas estocadas;
+- mobilidade;
+- duelos com lança;
+- perfuração;
+- combate acrobático;
+- técnicas de haste especializadas.
+
+As Evoluções são definidas conforme surgirem no mundo.
+
+---
+
+> **Regra específica > regra geral.**

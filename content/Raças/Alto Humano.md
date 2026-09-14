@@ -1,259 +1,256 @@
 Os **Altos Humanos** representam um estágio superior da humanidade.
 
-Enquanto Humanos comuns dependem principalmente de treinamento, [[Classes]] e equipamentos para ultrapassar suas limitações naturais, o corpo de um Alto Humano já rompeu parte dessas barreiras.
+O corpo, a mente e a essência de um Alto Humano ultrapassaram os limites naturais de um Humano comum, tornando-se mais resistentes, eficientes e capazes de suportar níveis muito maiores de desenvolvimento.
 
-Sua musculatura é mais eficiente, seus sentidos são mais refinados, sua resistência física é superior e seu organismo passa a possuir uma capacidade que Humanos comuns não apresentam naturalmente:
+Apesar dessa evolução, Altos Humanos preservam uma das principais características da humanidade:
 
-> **armazenar e regenerar [[Mana]].**
+> **adaptabilidade.**
 
-Apesar dessa evolução, Altos Humanos preservam aquilo que define a humanidade: **adaptabilidade**.
-
-Eles não possuem uma ligação obrigatória com determinado elemento, ambiente ou estilo de combate. Podem desenvolver magia, combate físico, técnicas à distância, profissões, habilidades sociais ou praticamente qualquer outro caminho.
-
-Por isso, enquanto outras Raças Tier 1 podem possuir vantagens muito maiores dentro de determinadas especializações, o Alto Humano possui poucas limitações naturais e pode seguir praticamente qualquer direção.
+Eles não possuem uma especialização natural obrigatória e podem desenvolver caminhos físicos, mágicos, intelectuais, sociais ou espirituais conforme suas escolhas.
 
 ---
 
-### Status Raciais
+# Informações Raciais
 
-| Status                                   | Valor           |
-| ---------------------------------------- | --------------- |
-| **[[Vida]]**                             | 40              |
-| **[[Estamina]]**                         | 120             |
-| **Regeneração de Estamina**              | 7 por [[Turno]] |
-| **[[Mana]]**                             | 30              |
-| **Regeneração de Mana**                  | 2 por [[Turno]] |
-| **Pontos Complementares**                | 12              |
-| **Pontos de Dano**                       | 2               |
-| **Pontos de Defesa**                     | 2               |
-| **Pontos de Precisão**                   | 2               |
-| **[[Pontos de Ação]]**                   | 2               |
-| **[[Movimento\|Deslocamento — Andar]]**  | 3 m             |
-| **[[Movimento\|Deslocamento — Correr]]** | 9 m             |
-| **Custo de [[Esquiva]]**                 | 5 Estamina      |
-
----
-
-### Características Raciais
-
-**Adaptabilidade Superior:**  
-Altos Humanos preservam e ampliam a principal característica da humanidade.
-
-Seus atributos Complementares começam em:
-
-> **0**
-
-antes da distribuição dos Pontos Complementares.
-
-O Alto Humano possui:
-
-> **12 Pontos Complementares**
-
-que podem ser distribuídos livremente entre os atributos disponíveis.
-
-Essa liberdade permite que dois Altos Humanos possuam construções completamente diferentes mesmo pertencendo à mesma Raça.
-
-Um pode desenvolver grande Agilidade e Precisão, enquanto outro pode investir em Vontade, Percepção, Liderança ou qualquer outra combinação apropriada.
+| Característica | Valor |
+|---|---:|
+| **Tier Racial** | T1 |
+| **Raridade** | Raro |
+| **Nível Racial Máximo** | 20 |
+| **[[Vida]] Base** | 40 |
+| **[[Estamina]] Base** | 120 |
+| **Regeneração de Estamina** | 7 por [[Turno]] |
+| **[[Mana]] Base** | 30 |
+| **Regeneração de Mana** | 2 por [[Turno]] |
+| **[[Ki]]** | Não desbloqueado |
+| **[[Reiryoku]]** | Não desbloqueado |
+| **[[Pontos de Ação\|PA]]** | 2 |
+| **[[Regras/Deslocamento\|Deslocamento]] Base** | 3 m |
+| **Custo de [[Esquivar]]** | 5 Estamina |
 
 ---
 
-**Corpo Aperfeiçoado:**  
-A evolução racial melhora todo o organismo humano.
+# Atributos Centrais
+
+Altos Humanos possuem uma Base Racial equilibrada.
+
+| Atributo Central | Base Racial |
+|---|---:|
+| [[Força]] | **4** |
+| [[Constituição]] | **4** |
+| [[Destreza]] | **4** |
+| [[Intelecto]] | **4** |
+| [[Espírito]] | **4** |
+| [[Presença]] | **4** |
+
+Total de Base Racial:
+
+> **24 pontos**
+
+Esses valores representam a **Base Racial** do Alto Humano.
+
+Eles não representam [[Regras/Progressão Racial de Atributos Centrais#Pontos Centrais|PC]] gastos.
+
+PC adquiridos durante a progressão racial permanecem separados e são adicionados aos Atributos Centrais escolhidos pelo personagem.
+
+---
+
+# Adaptabilidade Superior
+
+Altos Humanos preservam a flexibilidade natural da humanidade em um estágio muito superior.
+
+Sua Base Racial permanece equilibrada entre todos os [[Atributos Centrais]], sem obrigar o personagem a seguir uma especialização específica.
+
+Um Alto Humano pode desenvolver livremente caminhos relacionados a:
+
+- combate físico;
+- magia;
+- combate à distância;
+- conhecimento;
+- profissões;
+- liderança;
+- interação social;
+- desenvolvimento espiritual;
+- outras especializações.
+
+Essa versatilidade não concede Afinidades, Perícias ou energias automaticamente.
+
+Ela representa a ausência de uma especialização racial obrigatória.
+
+---
+
+# Corpo Aperfeiçoado
+
+A evolução para Alto Humano melhora o organismo de forma generalizada.
 
 Altos Humanos possuem:
 
 - musculatura mais eficiente;
-    
-- ossos mais resistentes;
-    
-- sentidos mais refinados;
-    
-- melhor capacidade cardiovascular;
-    
-- maior resistência ao esforço;
-    
+- estrutura física mais resistente;
 - reflexos superiores;
-    
-- recuperação física mais eficiente.
-    
+- sentidos mais refinados;
+- maior capacidade cardiovascular;
+- maior resistência ao esforço;
+- recuperação física aprimorada.
 
-Essas melhorias já estão representadas em seus Status Raciais.
+Essas melhorias são representadas principalmente por sua Base Racial superior, suas Reservas e demais características raciais.
 
-Apesar dessas capacidades, o Alto Humano continua possuindo uma anatomia essencialmente humana e pode utilizar equipamentos, armas e armaduras normalmente.
+O Alto Humano continua possuindo anatomia essencialmente humana e pode utilizar normalmente equipamentos destinados a humanoides compatíveis.
 
 ---
 
-**Núcleo de Mana:**  
-Diferente de um [[Humano]], o organismo de um Alto Humano possui capacidade natural para armazenar e regenerar [[Mana]].
+# Reservas
 
-Altos Humanos possuem:
+## Vida
 
-> **30 Mana**
+Altos Humanos possuem naturalmente:
+
+> **40 de [[Vida]] Base**
+
+Essa Vida é racial e é somada aos investimentos e demais bônus de Vida do personagem.
+
+---
+
+## Estamina
+
+Altos Humanos possuem naturalmente:
+
+> **120 de [[Estamina]] Base**
+
+Também possuem:
+
+> **7 de Regeneração de Estamina por Turno**
+
+No início de seu próprio [[Turno]], recuperam 7 de Estamina Atual, sem ultrapassar sua Estamina Máxima.
+
+Essa regeneração não recupera reduções temporárias da Estamina Máxima causadas por esforço ou Exaustão.
+
+---
+
+# Núcleo de Mana
+
+A evolução racial desperta no Alto Humano uma capacidade que um [[Humano]] comum não possui naturalmente:
+
+> **acesso à [[Mana]].**
+
+Mana é considerada **desbloqueada** para Altos Humanos.
+
+Eles possuem naturalmente:
+
+> **30 de Mana Base**
 
 e:
 
-> **2 Regeneração de Mana por Turno**
+> **2 de Regeneração de Mana por Turno**
 
-No início de cada um de seus próprios [[Turno|Turnos]], recuperam 2 de Mana Atual, sem ultrapassar sua Mana Máxima.
+Essa Mana racial é somada normalmente aos investimentos realizados através de [[Desenvolvimento de Reservas]] e aos demais bônus recebidos pelo personagem.
 
-Bônus provenientes de [[Classes]], Habilidades, equipamentos ou outros efeitos são somados normalmente.
+Possuir Mana não concede automaticamente magias ou Habilidades mágicas.
 
-Possuir Mana não significa possuir magia automaticamente.
-
-Para utilizar esse recurso, o Alto Humano ainda precisa possuir uma:
-
-- Classe;
-    
-- Habilidade;
-    
-- técnica;
-    
-- equipamento;
-    
-- ritual;
-    
-- ou outro efeito capaz de consumir Mana.
-    
+O personagem ainda precisa possuir uma fonte capaz de utilizar esse recurso.
 
 ---
 
-### Afinidade Aberta
+# Ki e Reiryoku
+
+Altos Humanos não possuem naturalmente acesso a:
+
+- [[Ki]];
+- [[Reiryoku]].
+
+Essas Reservas permanecem bloqueadas até serem desbloqueadas por uma fonte apropriada.
+
+Possuir Mana não concede acesso automático a outras formas de energia.
+
+---
+
+# Afinidade Aberta
 
 Altos Humanos não possuem uma Afinidade sobrenatural obrigatória.
 
-Sua Mana possui natureza altamente adaptável, permitindo que desenvolvam diferentes caminhos através de treinamento, evolução, Classes e acontecimentos.
+Sua natureza permite desenvolver diferentes Afinidades através de:
 
-Um Alto Humano pode desenvolver Afinidade com:
+- Classes;
+- Habilidades;
+- Passivas;
+- treinamento;
+- acontecimentos;
+- evoluções;
+- outros métodos apropriados.
 
-- elementos;
-    
-- Vida;
-    
-- Natureza;
-    
-- Energia;
-    
-- forças espirituais;
-    
-- ou outras manifestações sobrenaturais.
-    
+> **Afinidade Aberta não significa possuir todas as Afinidades.**
 
-Isso não significa que possuam todas essas Afinidades naturalmente.
+Cada Afinidade ainda precisa ser adquirida normalmente.
 
-Elas ainda precisam ser adquiridas através dos métodos apropriados.
-
-A vantagem do Alto Humano está justamente em:
-
-> **não nascer preso a um único caminho sobrenatural.**
+A característica do Alto Humano está em não nascer limitado a um único caminho sobrenatural.
 
 ---
 
-### Recuperação de Estamina
+# Pontos de Ação
 
-Altos Humanos possuem:
+Altos Humanos possuem naturalmente:
 
-> **7 de Regeneração de Estamina**
+> **2 [[Pontos de Ação|PA]]**
 
-No início de cada um de seus próprios [[Turno|Turnos]], recuperam 7 de [[Estamina]] Atual, sem ultrapassar sua Estamina Máxima.
-
-Bônus provenientes de Classes, Habilidades, equipamentos ou outros efeitos são somados normalmente.
-
-Essa recuperação restaura **Estamina Atual**.
-
-Ela não recupera Estamina Máxima perdida por desgaste, esforço prolongado ou outros efeitos.
+PA adicionais podem ser obtidos através de Classes, Habilidades, Passivas, equipamentos e outros efeitos.
 
 ---
 
-### Movimento do Alto Humano
+# Deslocamento
 
-O deslocamento racial padrão de um Alto Humano é:
+O **Deslocamento Base** de um Alto Humano é:
 
-> **Andar: 3 metros**  
-> **Correr: 9 metros**
+> **3 metros**
 
-Esses valores servem como base para as regras de [[Movimento]].
+O Deslocamento normal segue:
 
-A evolução física permite que um Alto Humano alcance velocidades superiores às de um Humano comum sem transformar a Raça em uma criatura exclusivamente especializada em mobilidade.
+> **Deslocamento = Deslocamento Base + Atletismo**
 
-A distância de Corrida pode ser modificada por Agilidade, Classes, Habilidades, equipamentos e outros efeitos normalmente.
-
----
-
-### Reflexos Elevados
-
-O sistema nervoso e a capacidade física de um Alto Humano funcionam em um nível superior ao de Humanos comuns.
-
-Essa característica está representada principalmente por:
-
-> **2 Pontos de Precisão**
-
-e:
-
-> **9 metros de Corrida**
-
-O Alto Humano possui maior facilidade para reagir, ajustar movimentos e executar ações físicas com precisão.
-
-Essa característica não concede ações adicionais nem altera diretamente seus [[Pontos de Ação]].
+Classes, Habilidades, Passivas, equipamentos e outros efeitos podem modificar esse valor.
 
 ---
 
-### Esquiva Humana Aprimorada
+# Esquiva
 
-O custo racial padrão para realizar uma [[Esquiva]] é:
+O custo racial padrão para utilizar [[Esquivar]] é:
 
 > **5 Estamina**
 
-Apesar de possuir um corpo mais resistente e poderoso, o Alto Humano mantém a flexibilidade característica dos Humanos.
+Esse custo pode ser modificado por:
 
-Esse custo pode ser modificado normalmente por Classes, Habilidades, Passivas, equipamentos ou outros efeitos.
+- Classes;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- [[Regras/Condições|Condições]];
+- outros efeitos.
 
 ---
 
-### Potencial Humano
+# Potencial Humano
 
-Altos Humanos não possuem uma fraqueza racial natural obrigatória.
+Altos Humanos não possuem uma vulnerabilidade racial natural obrigatória.
 
-Eles não apresentam vulnerabilidade inerente a:
+Eles não recebem automaticamente fraqueza contra:
 
-- fogo;
-    
+- elementos;
 - luz;
-    
 - escuridão;
-    
 - materiais específicos;
-    
-- ambientes naturais;
-    
-- determinados tipos de magia.
-    
+- tipos específicos de magia;
+- ambientes determinados.
 
-Isso não significa que possuam resistência contra essas coisas.
+Isso não concede resistência contra essas fontes.
 
-Um Alto Humano ainda pode:
-
-- sofrer Dano de Fogo;
-    
-- ser envenenado;
-    
-- adoecer;
-    
-- sofrer efeitos mentais;
-    
-- sofrer efeitos espirituais;
-    
-- ser afetado por Condições normalmente.
-    
-
-A vantagem está apenas na ausência de uma vulnerabilidade racial natural específica.
+Um Alto Humano ainda pode ser afetado normalmente por [[Regras/Dano|Dano]], doenças, venenos, efeitos mentais, efeitos espirituais e outras ameaças.
 
 ---
 
-### Longevidade Elevada
+# Longevidade Elevada
 
-A evolução racial também reduz significativamente a deterioração natural do organismo.
+A evolução racial reduz significativamente a deterioração natural do organismo.
 
-Altos Humanos envelhecem normalmente durante as primeiras décadas de vida, mas seu envelhecimento desacelera após atingirem a maturidade.
+Altos Humanos envelhecem normalmente durante o início de suas vidas, mas seu envelhecimento desacelera após a maturidade.
 
 Um Alto Humano saudável pode viver aproximadamente:
 
@@ -261,42 +258,61 @@ Um Alto Humano saudável pode viver aproximadamente:
 
 antes de morrer naturalmente por velhice.
 
-Essa longevidade pode ser alterada por:
-
-- Classes;
-    
-- Habilidades;
-    
-- magia;
-    
-- condições especiais;
-    
-- novas evoluções raciais;
-    
-- outros efeitos.
-    
+Essa longevidade pode ser modificada por evoluções raciais, Habilidades, Classes e outros efeitos.
 
 Longevidade elevada não concede imortalidade.
 
 ---
 
-## Evolução Racial
+# Progressão Racial
 
-O **Alto Humano é uma Raça Tier 1**.
+Alto Humano é uma Raça:
 
-Sua forma natural de obtenção ocorre através da evolução de:
+> **T1**
+
+Seu Nível Racial Máximo é:
+
+> **Nível 20**
+
+Durante sua progressão, o personagem recebe [[Regras/Progressão Racial de Atributos Centrais#Pontos Centrais|PC]] conforme as regras gerais de Progressão Racial.
+
+Os PC adquiridos são adicionados separadamente à Base Racial.
+
+---
+
+# Evolução a partir de Humano
+
+A forma natural de obtenção do Alto Humano é:
 
 > **[[Humano]] → Alto Humano**
 
-**Humano:** Tier 0  
-**Alto Humano:** Tier 1
+| Raça | Tier | Raridade |
+|---|---:|---|
+| [[Humano]] | T0 | Medíocre |
+| **Alto Humano** | T1 | Raro |
 
-A evolução de uma Raça é **diferente da troca de Classe**.
+Ao evoluir de Humano para Alto Humano:
 
-Quando um personagem evolui ou altera sua Raça:
+> **a Base Racial do Humano é substituída pela Base Racial do Alto Humano.**
 
-> **a Raça anterior é substituída permanentemente.**
+Portanto, a Base Racial passa de:
 
-Ela não permanece disponível para ser reativada posteriormente como acontece com uma Classe.
+> **2 / 2 / 2 / 2 / 2 / 2**
 
-A progressão realizada como Humano pode servir como requisito para alcançar
+para:
+
+> **4 / 4 / 4 / 4 / 4 / 4**
+
+Os [[Regras/Progressão Racial de Atributos Centrais#Pontos Centrais|PC]] anteriormente adquiridos e distribuídos permanecem no personagem.
+
+A evolução racial não apaga os PC conquistados durante a progressão anterior.
+
+---
+
+# Regra Específica
+
+[[Classes]], evoluções raciais, Habilidades, Passivas, equipamentos e outros efeitos podem modificar características do Alto Humano.
+
+Quando uma regra específica contradizer esta página:
+
+> **Regra específica > regra geral.**

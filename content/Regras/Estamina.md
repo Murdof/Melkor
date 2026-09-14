@@ -1,158 +1,239 @@
-A **Estamina** representa a energia física disponível para realizar ações e o quanto o corpo ainda consegue suportar esforço antes de atingir a exaustão.
+A **Estamina** é uma [[Desenvolvimento de Reservas|Reserva]] que representa a energia física disponível para realizar ações e o quanto o corpo consegue suportar esforço antes de atingir a exaustão.
 
-Ataques, [[Esquivar|Esquivas]], [[Bloquear|Bloqueios]], habilidades, corrida, trabalho físico e diversas outras atividades podem consumir Estamina.
+Ataques, [[Esquivar|Esquivas]], [[Bloquear|Bloqueios]], Habilidades, corrida, trabalho físico e outras atividades podem consumir Estamina.
 
-A Estamina é dividida em **Estamina Atual** e **Estamina Máxima**.
+A Estamina é dividida em:
 
----
-
-## Estamina Atual
-
-A **Estamina Atual** representa a energia que o personagem possui disponível naquele momento.
-
-Sempre que uma ação possuir um custo de Estamina, esse valor é retirado da Estamina Atual.
-
-**Exemplo:**
-
-> Estamina: **100/100**  
-> Ataque: **−15 Estamina**  
-> Estamina restante: **85/100**
-
-Se o personagem não possuir Estamina suficiente para pagar o custo completo de uma ação, **não poderá realizá-la**.
-
----
-
-## Regeneração de Estamina
-
-A **Regeneração de Estamina** determina quanto o personagem recupera naturalmente no início de cada [[Turno]].
-
-**Exemplo:**
-
-Um personagem possui:
-
-> Estamina: **40/100**  
-> Regeneração: **5**
-
-No início de seu próximo Turno:
-
-> **45/100**
-
-A Estamina Atual nunca pode ultrapassar sua **Estamina Máxima**.
-
-[[Classes]], [[Raças]], Habilidades, Passivas, equipamentos, [[Condições|condições]] e outros efeitos podem modificar a Regeneração.
+- **Estamina Atual**
+- **Estamina Máxima**
 
 ---
 
 # Estamina Máxima
 
-A **Estamina Máxima** representa quanto esforço o corpo ainda consegue suportar antes de atingir seus limites.
+A Estamina Máxima representa a quantidade total de Estamina que o personagem pode possuir.
 
-Diferente da Estamina Atual, ela **não é recuperada pela Regeneração de Estamina normal**.
+Ela pode ser formada por diferentes fontes:
 
-Atividades prolongadas provocam desgaste físico e reduzem temporariamente a Estamina Máxima.
+- Raça;
+- Classe;
+- investimento em Estamina;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- outros efeitos.
 
-**Exemplo:**
+Essas fontes são somadas quando compatíveis.
 
-Um personagem normalmente possui:
+---
 
-> **100/100**
+# Desenvolvimento de Estamina
 
-Após várias horas de esforço, sua Estamina Máxima é reduzida para 70.
+Estamina está vinculada ao Atributo Central [[Constituição]].
 
-Se possuir apenas 40 de Estamina Atual:
+O personagem pode utilizar [[SP]] para desenvolver sua Reserva de Estamina.
 
-> **40/70**
+Cada ponto de investimento concede:
 
-Sua Regeneração poderá recuperar Estamina normalmente, mas somente até:
+> **+10 Estamina Máxima**
 
-> **70/70**
+O número de pontos desenvolvidos naturalmente em Estamina não pode ultrapassar a Constituição do personagem.
 
-Para retornar aos 100 de Estamina Máxima será necessário [[Descanso]].
+> **Investimento em Estamina ≤ Constituição**
+
+Constituição não concede Estamina automaticamente.
+
+Ela determina apenas o limite natural de desenvolvimento da Reserva.
+
+Os custos e regras gerais de investimento seguem [[Desenvolvimento de Reservas]].
+
+---
+
+# Bônus Externos
+
+Bônus provenientes de:
+
+- Raças;
+- Classes;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- efeitos especiais;
+
+são adicionados separadamente à Estamina Máxima.
+
+Esses bônus não representam pontos investidos na Reserva e podem ultrapassar o limite natural de Constituição quando permitido.
+
+---
+
+# Estamina Atual
+
+A **Estamina Atual** representa quanto da Reserva está disponível naquele momento.
+
+Sempre que uma ação possuir um custo de Estamina:
+
+> o custo é retirado da Estamina Atual.
+
+Se o personagem não possuir Estamina suficiente para pagar o custo completo de uma ação:
+
+> **a ação não pode ser realizada.**
+
+A Estamina Atual não pode ultrapassar a Estamina Máxima.
+
+---
+
+# Custo Adicional Fixo
+
+Um **Custo Adicional Fixo** é um valor de Estamina acrescentado diretamente por uma Habilidade, técnica ou efeito além do custo normal da arma, Ataque ou ação utilizada como base.
+
+A forma geral é:
+
+> **Custo total = custo normal aplicável + Custo Adicional Fixo**
+
+## Exemplo
+
+Uma Habilidade possui o custo:
+
+> **2× o custo normal da arma + 5 Estamina**
+
+Nesse caso:
+
+- os dois custos normais da arma não são Custos Adicionais Fixos;
+- os **+5 de Estamina** são o Custo Adicional Fixo.
+
+Um custo percentual ou variável não é considerado Custo Adicional Fixo.
+
+Um valor apresentado como custo completo da ação, sem ser acrescentado a um custo normal, também não é considerado Custo Adicional Fixo.
+
+Exemplos:
+
+- `1 PA + 15 Estamina` = custo completo da ativação;
+- `custo normal da arma + 15 Estamina` = custo normal + Custo Adicional Fixo de 15;
+- `custo normal + 50% desse custo` = adicional percentual, não fixo;
+- `2× custo normal + 5 Estamina` = dois componentes normais + Custo Adicional Fixo de 5.
+
+---
+
+# Regeneração de Estamina
+
+A **Regeneração de Estamina** determina quanto o personagem recupera naturalmente no início de cada [[Turno]].
+
+A Regeneração pode ser determinada ou modificada por:
+
+- Raça;
+- Classe;
+- Habilidades;
+- Passivas;
+- equipamentos;
+- [[Condições]];
+- outros efeitos.
+
+A Regeneração normal recupera apenas a **Estamina Atual**.
+
+Ela não recupera reduções temporárias da Estamina Máxima.
+
+---
+
+# Desgaste da Estamina Máxima
+
+Atividades prolongadas podem reduzir temporariamente a **Estamina Máxima**.
+
+Essa redução representa cansaço acumulado e exaustão física.
+
+Enquanto a Estamina Máxima estiver reduzida:
+
+> a Estamina Atual não pode ser recuperada acima desse novo limite.
+
+A Estamina Máxima perdida por desgaste é recuperada através de [[Descanso]] e outros métodos apropriados.
 
 ---
 
 # Níveis de Esforço
 
-A quantidade de Estamina Máxima perdida depende da **intensidade da atividade realizada**.
+A quantidade de Estamina Máxima perdida depende da intensidade e duração da atividade.
 
-O desgaste é contabilizado por **hora acumulada de atividade**.
+| Esforço | Tipo de atividade | Desgaste |
+|---|---|---:|
+| **Leve** | Vigília, caminhada tranquila, tarefas leves | **−5 Máx./hora** |
+| **Moderado** | Marcha, exploração ativa, trabalho físico comum | **−10 Máx./hora** |
+| **Pesado** | Mineração, corte de madeira, transporte de grandes cargas | **−15 Máx./hora** |
+| **Extremo** | Marcha forçada, esforço físico brutal ou próximo do limite | **−25 Máx./hora** |
 
-|Esforço|Exemplos|Desgaste|
-|---|---|---|
-|**Leve**|Vigília, caminhada tranquila, tarefas leves|**−5 Máx./hora**|
-|**Moderado**|Marcha, exploração ativa, trabalho físico comum|**−10 Máx./hora**|
-|**Pesado**|Cortar madeira, minerar, carregar grandes cargas|**−15 Máx./hora**|
-|**Extremo**|Marcha forçada, esforço próximo do limite, atividade física brutal e contínua|**−25 Máx./hora**|
+O Mestre determina o nível de esforço considerando:
 
-O Mestre determina o nível de esforço considerando **a atividade, sua duração, as condições e as capacidades do personagem**.
+- atividade;
+- duração;
+- condições;
+- carga transportada;
+- capacidades do personagem;
+- outros fatores relevantes.
 
-Uma mesma atividade pode mudar de intensidade dependendo das circunstâncias.
+Uma mesma atividade pode possuir intensidades diferentes dependendo da situação.
 
 ---
 
-## Tempo Acumulado
+# Tempo Acumulado
 
-Não é necessário controlar o desgaste minuto por minuto.
+Não é necessário controlar desgaste minuto por minuto.
 
-O tempo gasto em uma mesma intensidade de esforço pode ser **acumulado até completar uma hora**.
+O tempo realizado em uma mesma intensidade pode ser acumulado até completar:
 
-**Exemplo:**
+> **1 hora**
 
-> 40 minutos cortando madeira  
-> Pausa  
-> Mais 20 minutos cortando madeira
+Ao completar uma hora acumulada, aplica-se o desgaste correspondente.
 
-Total:
-
-> **1 hora de Esforço Pesado → −15 Estamina Máxima**
-
-Caso a intensidade da atividade mude, cada nível de esforço é contabilizado separadamente.
+Tempos de intensidades diferentes são contabilizados separadamente.
 
 ---
 
 # Recuperação da Estamina Máxima
 
-A Estamina Máxima é recuperada através de **[[Descanso]]**, alimentação adequada, sono e outros métodos capazes de aliviar a exaustão.
+Reduções da Estamina Máxima são recuperadas através de:
 
-A velocidade de recuperação depende não apenas da quantidade perdida, mas também da **intensidade do esforço que provocou o desgaste**.
+- [[Descanso]];
+- sono;
+- alimentação adequada;
+- Habilidades;
+- itens;
+- outros métodos apropriados.
 
-Perder 20 pontos de Estamina Máxima devido a uma longa vigília **não representa o mesmo desgaste** que perder 20 pontos carregando troncos, minerando ou realizando esforço físico extremo.
+A velocidade de recuperação pode variar de acordo com a intensidade do esforço que provocou o desgaste.
 
-De maneira geral:
-
-**Esforço Leve** pode ser recuperado rapidamente com uma boa pausa.
-
-**Esforço Moderado** exige um período maior de descanso.
-
-**Esforço Pesado** normalmente exige várias horas de recuperação.
-
-**Esforço Extremo** pode exigir sono ou um período prolongado de descanso para recuperação completa.
-
-As regras e valores exatos de recuperação são tratados em [[Descanso]].
+As regras específicas de recuperação são tratadas em [[Descanso]].
 
 ---
 
 # Exaustão
 
-Quanto menor a Estamina Máxima, menor é a capacidade do personagem de continuar realizando ações físicas.
+Quanto menor a Estamina Máxima, menor é a capacidade física disponível do personagem.
 
-Se a **Estamina Máxima chegar a 0**, o personagem atinge seu limite e **desmaia por exaustão**.
+Quando a Estamina Máxima chega a:
+
+> **0**
+
+o personagem atinge seu limite físico e:
+
+> **desmaia por Exaustão.**
 
 A Estamina Máxima não pode ser reduzida abaixo de 0.
 
-Habilidades, Passivas, [[Condições|condições]] e outros efeitos podem modificar o funcionamento da Exaustão ou permitir que um personagem ultrapasse temporariamente seus limites.
+Habilidades, Passivas e outros efeitos podem permitir que um personagem continue agindo ou ultrapasse temporariamente esse limite.
 
 ---
 
-## Regra Específica
+# Regra Específica
 
-[[Classes]], [[Raças]], Habilidades, Passivas, equipamentos, [[Condições|condições]] e outros efeitos podem modificar:
+[[Raças]], [[Classes]], Habilidades, Passivas, equipamentos, [[Condições]] e outros efeitos podem modificar:
 
-- custos de Estamina;
-- Regeneração de Estamina;
 - Estamina Máxima;
-- desgaste causado por esforço;
-- velocidade de recuperação;
-- consequências da Exaustão.
+- Estamina Atual;
+- Regeneração;
+- custos de Estamina;
+- desgaste por esforço;
+- recuperação;
+- funcionamento da Exaustão;
+- limite natural de desenvolvimento.
 
-Quando uma regra específica modificar esta mecânica, **a regra específica possui prioridade sobre a regra geral**.
+Quando uma regra específica contradizer esta página:
+
+> **Regra específica > regra geral.**

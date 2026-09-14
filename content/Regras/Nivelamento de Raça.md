@@ -1,0 +1,102 @@
+| Nível   | Recompensa                       |
+| ------- | -------------------------------- |
+| 1       | Características iniciais da Raça |
+| 2       | +1 PP                            |
+| 3       | Escolha Racial                   |
+| 4       | +1 PP                            |
+| **5**   | **+1 PC**                        |
+| 6       | +1 PP                            |
+| 7       | Escolha Racial                   |
+| 8       | +1 PP                            |
+| 9       | Escolha Racial                   |
+| **10**  | **+1 PC**                        |
+| 11      | +1 PP                            |
+| 12      | Escolha Racial                   |
+| 13      | +1 PP                            |
+| 14      | Escolha Racial                   |
+| **15**  | **+1 PC**                        |
+| 16      | +1 PP                            |
+| 17      | Escolha Racial                   |
+| 18      | +1 PP                            |
+| 19      | Escolha Racial                   |
+| **20**  | **+1 PC**                        |
+| 21      | +1 PP                            |
+| 22      | Escolha Racial                   |
+| 23      | +1 PP                            |
+| 24      | Escolha Racial                   |
+| **25**  | **+1 PC**                        |
+| 26      | +1 PP                            |
+| 27      | Escolha Racial                   |
+| 28      | +1 PP                            |
+| 29      | Escolha Racial                   |
+| **30**  | **+1 PC**                        |
+| 31      | +1 PP                            |
+| 32      | Escolha Racial                   |
+| 33      | +1 PP                            |
+| 34      | Escolha Racial                   |
+| **35**  | **+1 PC**                        |
+| 36      | +1 PP                            |
+| 37      | Escolha Racial                   |
+| 38      | +1 PP                            |
+| 39      | Escolha Racial                   |
+| **40**  | **+1 PC**                        |
+| 41      | +1 PP                            |
+| 42      | Escolha Racial                   |
+| 43      | +1 PP                            |
+| 44      | +1 PP                            |
+| **45**  | **Escolha Racial Maior**         |
+| 46      | +1 PP                            |
+| 47      | Escolha Racial                   |
+| 48      | +1 PP                            |
+| 49      | +1 PP                            |
+| **50**  | **+1 PC**                        |
+| 51      | +1 PP                            |
+| 52      | Escolha Racial                   |
+| 53      | +1 PP                            |
+| 54      | +1 PP                            |
+| **55**  | **Escolha Racial Maior**         |
+| 56      | +1 PP                            |
+| 57      | Escolha Racial                   |
+| 58      | +1 PP                            |
+| 59      | +1 PP                            |
+| **60**  | **+1 PC**                        |
+| 61      | +1 PP                            |
+| 62      | Escolha Racial                   |
+| 63      | +1 PP                            |
+| 64      | +1 PP                            |
+| **65**  | **Escolha Racial Maior**         |
+| 66      | +1 PP                            |
+| 67      | Escolha Racial                   |
+| 68      | +1 PP                            |
+| 69      | +1 PP                            |
+| **70**  | **+1 PC**                        |
+| 71      | +1 PP                            |
+| 72      | Escolha Racial                   |
+| 73      | +1 PP                            |
+| 74      | +1 PP                            |
+| **75**  | **Escolha Racial Maior**         |
+| 76      | +1 PP                            |
+| 77      | Escolha Racial                   |
+| 78      | +1 PP                            |
+| 79      | +1 PP                            |
+| **80**  | **+1 PC**                        |
+| 81      | +1 PP                            |
+| 82      | Escolha Racial                   |
+| 83      | +1 PP                            |
+| 84      | +1 PP                            |
+| **85**  | **Escolha Racial Maior**         |
+| 86      | +1 PP                            |
+| 87      | Escolha Racial                   |
+| 88      | +1 PP                            |
+| 89      | +1 PP                            |
+| **90**  | **+1 PC**                        |
+| 91      | +1 PP                            |
+| 92      | Escolha Racial                   |
+| 93      | +1 PP                            |
+| 94      | +1 PP                            |
+| **95**  | **Escolha Racial Maior**         |
+| 96      | +1 PP                            |
+| 97      | Escolha Racial                   |
+| 98      | +1 PP                            |
+| 99      | +1 PP                            |
+| **100** | **+1 PC**                        |

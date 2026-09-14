@@ -5,21 +5,13 @@ Ele funciona como o ponto principal de controle do território e de toda a infra
 É através do Núcleo que uma Base pode:
 
 - Reivindicar território.
-    
 - Expandir sua área de influência.
-    
 - Construir novas estruturas.
-    
 - Evoluir estruturas existentes.
-    
 - Administrar recursos destinados ao desenvolvimento da Base.
-    
 - Desbloquear novas construções conforme seu Tier aumenta.
-    
 - Organizar o crescimento da população e da infraestrutura.
-    
 - Sustentar sistemas como [[Estátuas de Classe]], Mercados, estruturas militares, produtivas e administrativas.
-    
 
 O Núcleo não cria automaticamente uma cidade completa.
 
@@ -52,15 +44,10 @@ Todo Núcleo possui um **Tier** que representa o nível geral de desenvolvimento
 O Tier determina coisas como:
 
 - Quais estruturas podem ser construídas.
-    
 - Até qual Tier determinadas estruturas podem evoluir.
-    
 - Quais sistemas da Base estão disponíveis.
-    
 - O limite de expansão territorial.
-    
 - O nível de infraestrutura que o Núcleo consegue sustentar.
-    
 
 Quanto maior o Tier do Núcleo, maior o potencial de desenvolvimento da Base.
 
@@ -72,7 +59,6 @@ Desbloquear uma nova estrutura não significa que ela já esteja construída.
 
 A Base ainda precisa pagar seus custos, fornecer os recursos necessários e cumprir seus requisitos.
 
-
 # Estruturas do Núcleo de Base
 
 As **Estruturas** são construções adquiridas através do [[Núcleo de Base]].
@@ -82,24 +68,16 @@ Elas representam o desenvolvimento físico e funcional da Base e podem fornecer 
 Cada estrutura possui:
 
 - Tier.
-    
 - Custo em Gold.
-    
 - Custo em Unidades de Recursos.
-    
 - Função própria.
-    
 - Capacidade, quando aplicável.
-    
 - Benefícios.
-    
 - Estatísticas próprias, quando puder ser atacada ou destruída.
-    
 - Requisitos específicos, quando necessário.
-    
 
 > **Construir uma estrutura não significa apenas colocar um prédio no mapa.**
-> 
+>
 > Cada estrutura adiciona uma função mecânica real à Base.
 
 ---
@@ -119,19 +97,12 @@ Os Recursos representam os materiais físicos necessários para realizar a const
 Entre os recursos mais comuns estão:
 
 - Madeira.
-    
 - Pedra.
-    
 - Metal.
-    
 - Argila.
-    
 - Fibra.
-    
 - Couro.
-    
 - Materiais especiais.
-    
 
 O tipo e quantidade necessária dependem da estrutura.
 
@@ -166,17 +137,11 @@ Elas não precisam necessariamente ser construídas próximas ao Núcleo.
 Isso permite, por exemplo:
 
 - Torres de Vigia nas fronteiras.
-    
 - Postos de Coleta dentro de florestas.
-    
 - Fazendas em regiões férteis.
-    
 - Fortificações em pontos estratégicos.
-    
 - Armazéns próximos de áreas produtivas.
-    
 - Estábulos próximos de estradas.
-    
 
 Salvo quando uma estrutura possuir uma regra diferente:
 
@@ -191,32 +156,20 @@ Algumas estruturas podem ser construídas várias vezes.
 Exemplos:
 
 - Moradias.
-    
 - Fazendas.
-    
 - Torres de Vigia.
-    
 - Postos de Coleta.
-    
 - Paliçadas.
-    
 - Quartéis.
-    
 - Estábulos.
-    
 
 Estruturas adicionais normalmente aumentam:
 
 - Capacidade.
-    
 - Cobertura territorial.
-    
 - Quantidade de trabalhadores.
-    
 - Quantidade de habitantes.
-    
 - Quantidade de soldados.
-    
 
 Bônus iguais de estruturas idênticas normalmente:
 
@@ -252,35 +205,23 @@ Como referência:
 O Mercado permite:
 
 - Visualizar ofertas existentes em outros Mercados da Região.
-    
 - Comprar produtos anunciados na rede regional.
-    
 - Anunciar produtos da própria Base.
-    
 - Vender recursos e itens para outros centros comerciais.
-    
 - Registrar comerciantes.
-    
 - Atrair comerciantes e caravanas.
-    
 - Utilizar a Base como ponto oficial de comércio.
-    
 
 Podem fazer parte da rede:
 
 - Vilas.
-    
 - Cidades.
-    
 - Grandes Cidades.
-    
 - Outras Bases.
-    
 - Centros comerciais especiais.
-    
 
 > O Mercado conecta os sistemas comerciais.
-> 
+>
 > Isso não significa necessariamente que os produtos sejam transportados instantaneamente.
 
 Transporte e entrega continuam sujeitos às regras apropriadas.
@@ -309,26 +250,17 @@ Estrutura responsável pelo armazenamento oficial dos recursos pertencentes à B
 Recursos armazenados no Armazém podem ser utilizados diretamente pelo Núcleo para:
 
 - Construções.
-    
 - Reparos.
-    
 - Evoluções.
-    
 - Aprimoramentos.
-    
 - Produção de outras estruturas.
-    
 
 O Armazém também:
 
 - Organiza automaticamente os recursos armazenados.
-    
 - Permite definir quem pode retirar ou adicionar materiais.
-    
 - Protege materiais contra exposição comum ao clima.
-    
 - Permite visualizar o estoque disponível através do Núcleo.
-    
 
 Recursos guardados fora do Armazém ainda existem fisicamente, mas não fazem parte automaticamente do estoque oficial da Base.
 
@@ -367,15 +299,10 @@ Construir Moradias adicionais não aumenta o Limite Populacional do Núcleo.
 Habitantes com Moradia:
 
 - Possuem abrigo adequado.
-    
-- Podem realizar [[Descanso Longo]] adequadamente.
-    
+- Podem realizar [[Regras/Descanso#Descanso Prolongado|Descanso Longo]] adequadamente.
 - Evitam penalidades relacionadas à falta de abrigo.
-    
 - Podem ser registrados como residentes permanentes.
-    
 - Possuem condições adequadas para viver dentro da Base.
-    
 
 Visitantes, comerciantes e tropas temporárias não precisam necessariamente ocupar uma vaga permanente.
 
@@ -392,15 +319,10 @@ Estrutura responsável pela produção organizada de alimentos.
 Pode representar:
 
 - Plantações.
-    
 - Hortas.
-    
 - Pomares.
-    
 - Pequenas criações.
-    
 - Outros métodos agrícolas compatíveis.
-    
 
 ---
 
@@ -419,30 +341,19 @@ Trabalhadores utilizando a Fazenda recebem:
 A Fazenda também:
 
 - Permite cultivo permanente.
-    
 - Organiza irrigação e armazenamento básico.
-    
 - Reduz perdas comuns da produção.
-    
 - Permite utilização de Habilidades e Passivas relacionadas à agricultura.
-    
 - Permite manter plantações de forma eficiente.
-    
 
 A produção ainda depende de:
 
 - Agricultores.
-    
 - Ferramentas.
-    
 - Solo.
-    
 - Clima.
-    
 - Sementes.
-    
 - Cultivo utilizado.
-    
 
 O bônus da Fazenda não substitui a produção dos trabalhadores.
 
@@ -469,24 +380,62 @@ Estrutura destinada à fabricação, manutenção e reparação de itens.
 
 Personagens trabalhando dentro da Oficina recebem:
 
-> **+5 Ofício**
+> **+5 em Testes de Perícia Profissional**
 
 enquanto realizarem atividades compatíveis com a estrutura.
+
+O bônus somente se aplica quando a Perícia utilizada realmente puder se beneficiar das ferramentas, bancadas, equipamentos ou espaço fornecidos pela Oficina.
+
+Exemplos de Perícias que podem receber o bônus quando apropriado:
+
+- Ferraria.
+- Artesanato.
+- Construção.
+- Tecnologia Científica.
+- Outras Perícias profissionais compatíveis.
+
+### Exemplo
+
+Um Ferreiro utilizando:
+
+> **Ferraria**
+
+para fabricar uma arma dentro da Oficina recebe:
+
+> **+5 no Teste.**
+
+Um Artesão utilizando:
+
+> **Artesanato**
+
+para produzir um item compatível também pode receber:
+
+> **+5 no Teste.**
+
+Por outro lado, atividades que não dependam da infraestrutura da Oficina não recebem esse benefício.
+
+Exemplos:
+
+- cultivar uma plantação;
+- rastrear uma criatura;
+- colher recursos em uma floresta;
+- realizar uma negociação comercial.
 
 A Oficina também:
 
 - Permite fabricar itens que exijam uma estação adequada.
-    
 - Permite realizar reparos complexos.
-    
 - Fornece ferramentas básicas de produção.
-    
 - Permite organização de materiais.
-    
 - Libera trabalhos impossíveis de realizar adequadamente de maneira improvisada.
-    
 
-> A Oficina não substitui requisitos de Classe, conhecimento, receita ou materiais.
+> A Oficina não substitui requisitos de Classe, Perícia, conhecimento, receita ou materiais.
+
+A Oficina também:
+
+> **não concede uma Perícia profissional ao personagem.**
+
+Ela apenas melhora as condições de trabalho de alguém que já possua capacidade adequada para realizar a atividade.
 
 ---
 
@@ -511,24 +460,19 @@ Estrutura destinada à organização e treinamento das forças militares da Base
 
 Soldados oficialmente vinculados ao Quartel recebem:
 
-> **+3 Defesa Física**  
+> **+3 [[Regras/Defesa|Defesa]] Física**  
 > **+3 Defesa Mágica**  
-> **+3 Precisão**  
-> **+3 Dano**  
-> **+20 Vida**
+> **+3 [[Regras/Precisão|Precisão]]**  
+> **+3 [[Regras/Dano|Dano]]**  
+> **+20 [[Regras/Vida|Vida]]**
 
 Os bônus representam:
 
 - Treinamento militar.
-    
 - Disciplina.
-    
 - Organização.
-    
 - Preparação.
-    
 - Suporte fornecido pela Base.
-    
 
 O soldado não precisa permanecer dentro do Quartel para manter os benefícios.
 
@@ -539,19 +483,12 @@ O soldado não precisa permanecer dentro do Quartel para manter os benefícios.
 O Quartel também permite:
 
 - Organizar patrulhas.
-    
 - Criar turnos de guarda.
-    
 - Formar grupos militares.
-    
 - Armazenar equipamentos.
-    
 - Estabelecer cadeia de comando.
-    
 - Manter soldados oficialmente registrados como força militar.
-    
 - Mobilizar tropas durante ataques.
-    
 
 Um personagem não recebe bônus adicionais por estar registrado em múltiplos Quartéis.
 
@@ -588,17 +525,11 @@ Obstáculos podem reduzir a área efetivamente observável.
 Exemplos:
 
 - Florestas.
-    
 - Montanhas.
-    
 - Construções.
-    
 - Neblina.
-    
 - Escuridão.
-    
 - Condições climáticas.
-    
 
 ---
 
@@ -606,28 +537,20 @@ Exemplos:
 
 Personagens utilizando a Torre para vigiar recebem:
 
-> **+15 Percepção**
+> **+15 [[Atributos Centrais/Intelecto#Percepção|Percepção]]**
 
 dentro da Área de Vigilância da Torre.
 
 Esse bônus pode ser utilizado para detectar:
 
 - Criaturas.
-    
 - Inimigos.
-    
 - Movimentação suspeita.
-    
 - Exércitos.
-    
 - Incêndios.
-    
 - Ataques.
-    
 - Pessoas se aproximando.
-    
 - Alterações visíveis no território.
-    
 
 Duas Torres cobrindo a mesma área:
 
@@ -659,15 +582,10 @@ Estrutura defensiva simples utilizada para proteger áreas da Base.
 A Paliçada:
 
 - Impede passagem terrestre comum.
-    
 - Obriga inimigos a destruir, escalar ou contornar a defesa.
-    
 - Cria cobertura física.
-    
 - Permite delimitar áreas protegidas.
-    
 - Pode ser utilizada para canalizar inimigos em direção a entradas específicas.
-    
 
 Cada compra corresponde a uma Seção de Paliçada.
 
@@ -696,15 +614,10 @@ Entrada defensiva utilizada junto a Paliçadas.
 O Portão:
 
 - Permite criar entradas controladas.
-    
 - Pode ser aberto e fechado por pessoas autorizadas.
-    
 - Impede passagem enquanto estiver fechado.
-    
 - Permite controlar entrada de habitantes, comerciantes e visitantes.
-    
 - Pode receber guardas designados.
-    
 
 Personagens não autorizados precisam destruir, escalar, contornar ou utilizar algum outro método para atravessá-lo.
 
@@ -729,15 +642,10 @@ Um Poço funcional fornece água para:
 Também pode ser utilizado para:
 
 - Animais.
-    
 - Fazendas.
-    
 - Oficinas.
-    
 - Limpeza.
-    
 - Produção básica.
-    
 
 Enquanto houver água disponível, o Núcleo Tier 1 pode utilizar um único Poço para abastecer sua população máxima.
 
@@ -769,20 +677,15 @@ Criaturas maiores podem ocupar mais espaços.
 
 Animais registrados no Estábulo:
 
-> **+20 Estamina Máxima durante viagens iniciadas após um Descanso Longo no Estábulo.**
+> **+20 [[Regras/Estamina|Estamina]] Máxima durante viagens iniciadas após um Descanso Longo no Estábulo.**
 
 Além disso:
 
 - Possuem abrigo adequado.
-    
 - Podem recuperar-se corretamente durante descanso.
-    
 - Equipamentos de montaria podem ser armazenados.
-    
 - Alimentos podem ser organizados.
-    
 - Animais de carga podem ser administrados pela Base.
-    
 
 ---
 
@@ -796,7 +699,7 @@ Além disso:
 
 ---
 
-## Benefícios[https://murdof.github.io/Melkor/](https://murdof.github.io/Melkor/)
+## Benefícios
 
 Enquanto estiver realizando uma atividade pública organizada na Praça, a liderança recebe:
 
@@ -805,21 +708,13 @@ Enquanto estiver realizando uma atividade pública organizada na Praça, a lider
 A Praça também permite:
 
 - Realizar anúncios.
-    
 - Reunir habitantes.
-    
 - Organizar eventos.
-    
 - Fazer discursos.
-    
 - Distribuir recursos.
-    
 - Publicar trabalhos disponíveis.
-    
 - Realizar recrutamento.
-    
 - Organizar reuniões públicas.
-    
 
 A Praça funciona como principal ponto de interação entre liderança e população no Tier 1.
 
@@ -839,17 +734,11 @@ Ao ser construído, o Posto deve ser vinculado a um recurso.
 ### Exemplos
 
 - Madeira.
-    
 - Pedra.
-    
 - Argila.
-    
 - Fibra.
-    
 - Plantas.
-    
 - Recursos naturais comuns.
-    
 
 ---
 
@@ -868,13 +757,9 @@ Cada trabalhador utilizando o Posto recebe:
 Além disso:
 
 - Recursos podem ser enviados diretamente para um Armazém conectado.
-    
 - Ferramentas podem ser mantidas no local.
-    
 - Trabalhadores podem ser organizados em equipes.
-    
 - A Base pode controlar oficialmente a exploração daquela fonte.
-    
 
 O Posto:
 
@@ -895,33 +780,22 @@ Uma mina não produz minério ilimitado.
 Uma fonte pode possuir diferentes escalas:
 
 - Pequena.
-    
 - Média.
-    
 - Grande.
-    
 - Excepcional.
-    
 
 Quanto maior a fonte:
 
 - Maior sua reserva.
-    
 - Mais trabalhadores ela suporta.
-    
 - Maior sua capacidade de produção.
-    
 
 Exploração excessiva pode:
 
 - Reduzir rendimento.
-    
 - Esgotar o recurso.
-    
 - Destruir permanentemente a fonte.
-    
 - Exigir tempo para recuperação, quando aplicável.
-    
 
 ---
 
@@ -936,11 +810,8 @@ Exceder essa capacidade:
 Para utilizar mais trabalhadores será necessário:
 
 - Construir outra estrutura.
-    
 - Evoluir a estrutura.
-    
 - Utilizar uma instalação maior.
-    
 
 Isso impede que uma única estrutura Tier 1 seja utilizada por dezenas de trabalhadores simultaneamente.
 
@@ -954,7 +825,7 @@ Isso impede que uma única estrutura Tier 1 seja utilizada por dezenas de trabal
 |Armazém|30|100|40|5|500 U de armazenamento|
 |Moradia|15|60|10|—|10 habitantes|
 |Fazenda|20|50|10|—|+2 produção agrícola|
-|Oficina|40|80|40|15|+5 Ofício|
+|Oficina|40|80|40|15|+5 em Testes de Perícia Profissional compatíveis|
 |Quartel|50|120|50|10|Bônus militares|
 |Torre de Vigia|15|50|10|—|+15 Percepção|
 |Paliçada|5|30|—|—|Fortificação|
@@ -999,21 +870,15 @@ Um Quartel não concede automaticamente uma Classe militar.
 Uma Torre não enxerga sozinha.
 
 > **Estruturas fornecem infraestrutura e benefícios.**
-> 
+>
 > **Pessoas fazem essa infraestrutura funcionar.**
 
 Quanto mais desenvolvida a Base, maior será a interação entre:
 
 - Estruturas.
-    
 - Classes.
-    
 - Trabalhadores.
-    
 - Recursos.
-    
 - População.
-    
 - Território.
-    
 - Liderança.

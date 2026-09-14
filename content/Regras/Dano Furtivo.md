@@ -1,4 +1,4 @@
-O **Dano Furtivo** ocorre quando um personagem realiza um [[Ataque]] contra um alvo que **não percebe sua presença ou não está ciente do ataque antes que ele aconteça**.
+O **[[Regras/Dano|Dano]] Furtivo** ocorre quando um personagem realiza um [[Ataque]] contra um alvo que **não percebe sua presença ou não está ciente do ataque antes que ele aconteça**.
 
 Ele representa a vantagem de atingir alguém completamente desprevenido, antes que o alvo tenha uma oportunidade real de reagir à ameaça.
 

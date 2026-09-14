@@ -166,3 +166,13 @@ Quando não existe incerteza relevante, risco, oposição ou consequência signi
 Os Dados devem ser utilizados quando existe uma razão real para determinar **sucesso ou falha**.
 
 Habilidades e outras regras também podem determinar que determinadas ações tenham sucesso automático ou utilizem métodos diferentes de resolução.
+
+## Arredondamento de valores fracionários
+
+Quando uma regra produzir um valor fracionário que precise ser convertido para uma unidade inteira:
+
+> **arredonde para baixo.**
+
+Uma regra específica pode determinar outra direção ou outro momento de arredondamento.
+
+Quando a unidade utilizada aceitar valores fracionários, não é necessário arredondar apenas por existir uma casa decimal.

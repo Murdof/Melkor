@@ -1,596 +1,931 @@
-> **Tier 2**  
-> **Evolução de: Neófito**
+O **Mago** é a evolução do [[Neófito]] especializada no **domínio da magia elemental e em conjurações de alta potência**.
 
-O **Mago** é a evolução do Neófito especializada no **domínio da magia elemental**.
+Enquanto o [[Feiticeiro]] tende a manipular a magia de maneira mais rápida, flexível e adaptável, o Mago aprofunda sua capacidade de **formar grandes quantidades de Mana em uma única conjuração**.
 
-Enquanto o [[Neófito]] aprende os fundamentos da magia através de manifestações simples de fogo, água, terra e vento, o Mago passa a compreender profundamente a natureza desses elementos e aprende a manipulá-los com maior potência, controle e versatilidade.
+Seu desenvolvimento é voltado para transformar elementos em manifestações cada vez mais poderosas.
 
-O Mago não precisa se especializar imediatamente em um único elemento.
+Uma magia de Mago pode exigir mais:
 
-Sua principal força nesta etapa está justamente na capacidade de alternar entre diferentes manifestações elementais, explorar suas propriedades e utilizar o ambiente a seu favor.
+- Mana;
+- PA;
+- tempo de Cast;
+- concentração;
+- preparação;
 
-Um Mago experiente não enxerga fogo apenas como Dano, água apenas como controle ou terra apenas como proteção.
+em troca de:
 
-Cada elemento é uma ferramenta.
+- maior [[Regras/Dano|Dano]];
+- maior área;
+- maior alcance;
+- efeitos elementais mais intensos;
+- maior capacidade de alterar o campo de batalha.
 
-E elementos diferentes podem interagir entre si.
+Nem toda magia de Mago precisa ser lenta.
 
-Essa compreensão prepara o Mago para futuras Classes muito mais especializadas.
+Habilidades simples ou já dominadas ainda podem ser utilizadas rapidamente.
+
+Entretanto:
+
+> **quanto maior a potência de uma conjuração, maior pode ser o investimento necessário para completá-la.**
+
+O Mago também não precisa especializar-se imediatamente em um único elemento.
+
+Nesta etapa, ele aprende a utilizar diferentes elementos como ferramentas distintas.
+
+Fogo pode destruir e espalhar-se.
+
+Água pode controlar e conduzir.
+
+Terra pode proteger e alterar terreno.
+
+Vento pode empurrar, cortar e movimentar.
+
+Gelo pode restringir.
+
+Eletricidade pode explorar condutividade.
+
+Essa compreensão prepara o personagem para futuras especializações elementais ainda mais poderosas.
 
 ---
 
-## Função
+# Dados da Classe
 
-> **Dano Mágico / Controle Elemental / Versatilidade**
+- **Tier:** T2
+- **Tipo:** Combate / Magia
+- **Nível Máximo:** 20
+- **Árvore:** Neófito → Mago
+- **Slot:** utiliza o mesmo Slot ocupado por Neófito
+
+---
+
+# Função
+
+> **Dano Elemental / Conjuração de Alta Potência / Controle Elemental**
 
 Especializado em:
 
-- Dano Mágico elemental;
-    
-- diferentes tipos de elemento;
-    
+- magia elemental;
+- grandes conjurações;
+- alta potência;
 - exploração de fraquezas;
-    
 - controle de área;
-    
 - manipulação do terreno;
-    
-- interação entre elementos;
-    
-- adaptação durante o combate;
-    
-- utilização do ambiente como parte de suas magias.
-    
+- utilização do ambiente;
+- efeitos elementais;
+- adaptação entre diferentes elementos.
 
 ---
 
-## Requisito
+# Identidade do Mago
+
+A principal característica do Mago é:
+
+> **transformar tempo, Mana e concentração em potência.**
+
+Isso não significa que toda Habilidade da Classe obrigatoriamente possui Cast prolongado.
+
+Porém, Habilidades futuras podem utilizar:
+
+- maior custo de PA;
+- preparação;
+- concentração;
+- múltiplas etapas;
+- tempo de Cast;
+
+para alcançar efeitos superiores.
+
+Esses efeitos podem aumentar:
+
+- Dano;
+- área;
+- alcance;
+- duração;
+- intensidade;
+- capacidade de alteração do terreno;
+- outras propriedades da conjuração.
+
+Por enquanto:
+
+> **cada Habilidade define individualmente seu próprio tempo, PA, concentração e requisitos.**
+
+Uma regra geral de Cast pode posteriormente aprofundar essa mecânica.
+
+---
+
+# Requisito
+
+Para evoluir:
 
 > **Neófito Nv.10**
 
+A evolução não exige um novo Slot.
+
 ---
 
-# Bônus
+# Herança
 
-Ao adquirir Mago, recebe:
+Mago mantém tudo que foi desenvolvido através de [[Neófito]], incluindo:
 
-- **+100 Mana**
-    
-- **+15 Regeneração de Mana**
-    
-- **+4 Dano Mágico**
-    
-- **+3 Precisão Mágica**
-    
-- **+3 Defesa Mágica**
-    
-- **+3 Inteligência**
-    
-- **+2 Vontade**
-    
-- **+1 Percepção**
-    
+- Bônus de Classe;
+- Habilidades;
+- Passivas;
+- Afinidades;
+- progressão;
+- SP pertencente à mesma Árvore.
 
-Esses valores são somados aos bônus herdados do [[Neófito]].
+Os bônus abaixo são:
 
-### Total herdado + Mago
+> **somados aos bônus já adquiridos pelo Neófito.**
 
-Considerando apenas os bônus naturais das duas Classes:
+---
 
-> **+10 Vida**  
-> **+200 Mana**  
-> **+5 Regeneração de Estamina**  
-> **+25 Regeneração de Mana**  
-> **+4 Dano Mágico**  
-> **+5 Precisão Mágica**  
-> **+5 Defesa Mágica**  
-> **+1 Defesa Mental**  
-> **+5 Inteligência**  
-> **+3 Vontade**  
-> **+1 Percepção**
+# Bônus do Mago
+
+## Reservas
+
+- +100 [[Mana]]
+
+## Regeneração
+
+- +15 Regeneração de Mana
+
+## Perícias
+
+- +3 [[Conjuração]]
+- +3 [[Arcanismo]]
+- +2 [[Atributos Centrais/Espírito#Vontade|Vontade]]
+- +1 [[Atributos Centrais/Intelecto#Percepção|Percepção]]
+
+Esses valores são **Bônus de Classe**.
+
+Eles não representam investimento natural realizado através de PP.
+
+## Defesas
+
+- +3 [[Regras/Defesa|Defesa]] Mágica
 
 ---
 
 # Afinidades
 
-O Mago mantém todas as Afinidades do Neófito:
+Mago mantém todas as Afinidades válidas herdadas de Neófito e adiciona:
 
-- Mana
-    
-- Regeneração de Mana
-    
-- Estamina
-    
-- Regeneração de Estamina
-    
-- Dano Mágico
-    
-- Precisão Mágica
-    
-- Defesa Mágica
-    
-- Defesa Mental
-    
-- Inteligência
-    
-- Vontade
-    
-- Percepção
-    
+## Elementais
 
-E adiciona:
+- Fogo
+- Água
+- Terra
+- Vento
+- Gelo
+- Eletricidade
 
-- **Fogo**
-    
-- **Água**
-    
-- **Terra**
-    
-- **Vento**
-    
-- **Gelo**
-    
-- **Eletricidade**
-    
+Outros elementos podem tornar-se Afinidades disponíveis conforme forem:
 
-Outros elementos existentes no mundo também podem se tornar Afinidades do Mago caso sejam descobertos ou aprendidos.
+- descobertos;
+- estudados;
+- ensinados;
+- desenvolvidos.
+
+---
+
+# Conjuração Elemental
+
+Quando uma Habilidade elemental realizar um [[Regras/Ataque|Ataque]] e não indicar outro método:
+
+> **Dado + Conjuração + Modificadores**
+
+Conjuração representa:
+
+- formar o elemento;
+- direcioná-lo;
+- controlar sua trajetória;
+- sustentar sua manifestação;
+- manter estabilidade durante a conjuração.
+
+O elemento utilizado:
+
+> **não altera automaticamente a Base de [[Regras/Precisão|Precisão]].**
+
+---
+
+# Arcanismo Elemental
+
+[[Arcanismo]] representa o conhecimento necessário para:
+
+- compreender propriedades elementais;
+- identificar interações;
+- analisar fenômenos mágicos;
+- reconhecer estruturas elementais;
+- estudar novos elementos;
+- compreender magias elementais desconhecidas.
+
+Arcanismo:
+
+> **não substitui Conjuração em Ataques.**
 
 ---
 
 # Habilidades Herdadas
 
-O Mago mantém todas as Habilidades e Passivas adquiridas como Neófito.
+O Mago mantém normalmente todas as Habilidades e Passivas herdadas do [[Neófito]].
 
-Mantém as Passivas:
+Entretanto, suas quatro Habilidades elementais básicas são aprimoradas.
 
-> **Sobrecarga**  
-> **Conjuração Eficiente**  
-> **Pressão Mágica**
+Esses aprimoramentos:
 
-Entretanto, as quatro Habilidades elementais básicas do Neófito são aprimoradas conforme o Mago desenvolve maior controle sobre seus elementos.
+> **não contam como novas Habilidades Tier 2.**
 
-Esses aprimoramentos **não contam como novas Habilidades Tier 2**.
+As substituições são:
+
+- Bola de Fogo → **Esfera Ígnea**
+- Corte de Vento → **Lâmina de Vento**
+- Bala de Pedra → **Projétil Rochoso**
+- Prisão de Água → **Cárcere Aquático**
 
 ---
 
 # Habilidades Herdadas Aprimoradas
 
-## Esfera Ígnea
+## Esfera Ígnea | Nv.1
 
-> **Aprimora Bola de Fogo**
+**Aprimora: Bola de Fogo**
 
-O Mago comprime uma quantidade muito maior de calor e energia em uma esfera instável antes de lançá-la.
+O Mago concentra uma quantidade maior de calor e Mana em uma esfera instável de fogo.
 
-### Dano
+### Ataque
 
-O alvo principal recebe:
+> **Dado + Conjuração + Modificadores**
+
+### Dano Principal
 
 > **18 Dano Mágico de Fogo**
 
-Ao atingir o alvo ou uma superfície, a esfera explode em:
+---
 
-> **3 metros**
+# Explosão
 
-Criaturas atingidas pela explosão recebem:
+Quando atingir uma criatura ou superfície, explode em:
+
+> **3 metros de raio**
+
+Outras criaturas atingidas sofrem:
 
 > **10 Dano Mágico de Fogo**
 
-A Esfera Ígnea pode aplicar [[Condições|Queimadura]] quando apropriado.
+A explosão utiliza normalmente:
 
-### Alcance
+> **Defesa Mágica**
+
+de cada alvo.
+
+---
+
+# Queimadura
+
+Esfera Ígnea pode aplicar:
+
+> **[[Regras/Condições#Queimadura|Queimadura]]**
+
+quando as condições e propriedades da Habilidade permitirem.
+
+Materiais inflamáveis também podem reagir normalmente ao fogo.
+
+---
+
+# Alcance
 
 > **25 metros**
 
-### Custo
+---
+
+# Custo
 
 > **25 Mana + 1 PA**
 
-Enquanto Mago estiver ativo, **Esfera Ígnea substitui Bola de Fogo**.
+Enquanto Mago estiver ativo:
+
+> **Esfera Ígnea substitui Bola de Fogo.**
 
 ---
 
-## Lâmina de Vento
+## Lâmina de Vento | Nv.1
 
-> **Aprimora Corte de Vento**
+**Aprimora: Corte de Vento**
 
 O Mago comprime o ar em uma lâmina extremamente fina e veloz.
 
-### Dano
+### Ataque
 
-> **14 Dano Mágico**
+> **Dado + Conjuração + Modificadores**
 
-### Precisão
+Recebe:
 
-O ataque recebe:
+> **+5 de Precisão**
 
-> **+5 Precisão Mágica**
-
-### Corte
-
-A concentração do vento permite utilizar a habilidade contra:
-
-- cordas;
-    
-- tecidos;
-    
-- vegetação;
-    
-- objetos frágeis;
-    
-- estruturas finas;
-    
-- outros materiais apropriados.
-    
-
-Isso não significa que a habilidade possa cortar qualquer material automaticamente.
-
-A resistência do objeto continua sendo considerada.
-
-### Alcance
-
-> **30 metros**
-
-### Custo
-
-> **18 Mana + 1 PA**
-
-Enquanto Mago estiver ativo, **Lâmina de Vento substitui Corte de Vento**.
+Esse valor é um Modificador de Precisão.
 
 ---
 
-## Projétil Rochoso
+# Dano
 
-> **Aprimora Bala de Pedra**
+> **14 Dano Mágico de Vento**
 
-O Mago cria uma massa mineral muito mais compacta e a dispara violentamente contra o alvo.
+---
 
-### Dano
+# Corte
+
+A forma da magia permite utilizá-la contra materiais apropriados, como:
+
+- cordas;
+- tecidos;
+- vegetação;
+- objetos frágeis;
+- superfícies finas.
+
+Isso:
+
+> **não significa que a magia consiga cortar qualquer material.**
+
+Material, espessura, resistência e proteção continuam relevantes.
+
+---
+
+# Alcance
+
+> **30 metros**
+
+---
+
+# Custo
+
+> **18 Mana + 1 PA**
+
+Enquanto Mago estiver ativo:
+
+> **Lâmina de Vento substitui Corte de Vento.**
+
+---
+
+## Projétil Rochoso | Nv.1
+
+**Aprimora: Bala de Pedra**
+
+O Mago condensa uma massa mineral extremamente compacta e a lança contra o alvo em alta velocidade.
+
+### Ataque
+
+> **Dado + Conjuração + Modificadores**
+
+---
+
+# Dano
 
 > **18 Dano Físico**
 
-Embora seja criado através de magia:
+Embora seja uma Habilidade Mágica:
 
-> **Ataque:** Precisão Mágica  
-> **Dano:** Físico  
-> **Defesa aplicada:** Defesa Física
+> **o projétil é matéria física.**
 
-### Impacto
+Portanto:
+
+> **Defesa aplicada: Defesa Física**
+
+---
+
+# Impacto Estrutural
 
 Contra:
 
 - objetos;
-    
-- construções;
-    
 - portas;
-    
-- barreiras;
-    
+- construções;
 - estruturas;
-    
+- barreiras físicas;
 
-recebe:
+Projétil Rochoso recebe:
 
-> **+5 em testes relacionados ao impacto ou destruição.**
+> **+5 de Dano Físico**
 
-### Alcance
+quando o impacto for capaz de afetar aquele material.
+
+Isso não torna qualquer estrutura destrutível.
+
+---
+
+# Alcance
 
 > **25 metros**
 
-### Custo
+---
+
+# Custo
 
 > **22 Mana + 1 PA**
 
-Enquanto Mago estiver ativo, **Projétil Rochoso substitui Bala de Pedra**.
+Enquanto Mago estiver ativo:
+
+> **Projétil Rochoso substitui Bala de Pedra.**
 
 ---
 
-## Cárcere Aquático
+## Cárcere Aquático | Nv.1
 
-> **Aprimora Prisão de Água**
+**Aprimora: Prisão de Água**
 
-O controle superior do Mago permite criar uma massa de água muito mais densa ao redor de uma criatura.
+O Mago cria uma massa de água densa ao redor de uma criatura, restringindo seus movimentos e mantendo-a submersa.
 
-### Aprisionamento
+### Alcance
 
-O alvo tenta escapar durante a formação utilizando:
+> **20 metros**
 
-> **Agilidade**
+---
+
+# Formação
+
+Quando a prisão começa a formar-se, o alvo realiza:
+
+> **Dado + [[Atributos Centrais/Destreza#Agilidade|Agilidade]] + Modificadores**
 
 contra:
 
-> **8 + Precisão Mágica do Mago**
-
-Em falha, fica aprisionado e submerso.
-
-### Restrição
-
-Enquanto estiver preso:
-
-> **-5 em testes físicos realizados para escapar.**
-
-Essa penalidade não se aplica a métodos que não dependam do corpo da criatura, como:
-
-- teletransporte;
-    
-- intangibilidade;
-    
-- magia apropriada;
-    
-- habilidades especiais semelhantes.
-    
-
-Criaturas que precisam respirar continuam sujeitas normalmente às regras de [[Condições|Afogamento]].
-
-### Manutenção
-
-> **14 Mana por Turno**
-
-### Custo inicial
-
-> **28 Mana + 1 PA**
-
-Enquanto Mago estiver ativo, **Cárcere Aquático substitui Prisão de Água**.
+> **8 + Conjuração do Mago**
 
 ---
 
-# Ativas Novas
+# Sucesso do alvo
 
-## Raio Elemental - Nv.1
+Escapa antes da prisão fechar completamente.
 
-O Mago concentra eletricidade em suas mãos e libera uma descarga extremamente rápida contra o alvo.
+---
 
-### Dano
+# Falha
+
+Fica:
+
+> **Aprisionado e Submerso**
+
+dentro do Cárcere Aquático.
+
+---
+
+# Restrição
+
+Enquanto permanecer preso:
+
+> **-5 em Testes físicos realizados especificamente para escapar do Cárcere.**
+
+Essa penalidade não afeta métodos que não dependam diretamente do corpo, como:
+
+- teletransporte;
+- intangibilidade;
+- magia apropriada;
+- efeitos especiais.
+
+---
+
+# Afogamento
+
+Criaturas que:
+
+- precisam respirar;
+- não respiram debaixo d'água;
+- não possuem imunidade apropriada;
+
+seguem normalmente as regras de:
+
+> **Afogamento**
+
+---
+
+# Escapar
+
+Depois que o Cárcere estiver formado, a criatura pode tentar escapar através de métodos apropriados.
+
+Pode utilizar, por exemplo:
+
+> **Força**
+
+> **Agilidade**
+
+> **Habilidade**
+
+> **Magia**
+
+> **auxílio externo**
+
+A forma utilizada determina o Teste necessário.
+
+---
+
+# Manutenção
+
+> **14 Mana por [[Regras/Turno|Turno]]**
+
+Enquanto conseguir pagar a manutenção:
+
+> **o Cárcere pode permanecer ativo.**
+
+---
+
+# Custo Inicial
+
+> **28 Mana + 1 PA**
+
+Enquanto Mago estiver ativo:
+
+> **Cárcere Aquático substitui Prisão de Água.**
+
+---
+
+# Ativas Tier 2
+
+## Raio Elemental | Nv.1
+
+O Mago acumula uma carga elétrica e libera uma descarga extremamente rápida contra o alvo.
+
+### Ataque
+
+> **Dado + Conjuração + Modificadores**
+
+---
+
+# Dano
 
 > **20 Dano Mágico Elétrico**
 
-### Condutividade
+---
+
+# Condutividade
 
 Caso o alvo esteja:
 
 - molhado;
-    
 - submerso;
-    
-- em contato com grande quantidade de água;
-    
-- diretamente conectado a um material altamente condutor;
-    
+- conectado a grande quantidade de água;
+- em contato com material altamente condutor;
 
-o ataque recebe:
+o Ataque recebe:
 
-> **+5 Precisão Mágica**
+> **+5 de Precisão**
 
-### Descarga Secundária
+---
 
-Caso exista outra criatura diretamente conectada ao mesmo meio condutor, a eletricidade pode atingir:
+# Descarga Secundária
+
+Caso exista outra criatura conectada ao mesmo meio condutor, a descarga pode atingir:
 
 > **1 alvo adicional**
 
-O alvo secundário recebe:
+O alvo secundário sofre:
 
 > **10 Dano Mágico Elétrico**
 
-O Mestre determina se existe conexão suficiente para transmitir a descarga.
+Não é necessária uma segunda rolagem de Ataque quando a conexão for direta e inequívoca.
 
-### Alcance
+Caso exista incerteza sobre a condução:
+
+> o Mestre determina se a eletricidade consegue alcançar o segundo alvo.
+
+---
+
+# Alcance
 
 > **25 metros**
 
-### Custo
+---
+
+# Custo
 
 > **28 Mana + 1 PA**
 
 ---
 
-## Muralha de Terra - Nv.1
+## Muralha de Terra | Nv.1
 
-O Mago força uma grande quantidade de terra, pedra ou outro material mineral a emergir e formar uma barreira.
+O Mago força terra e material mineral a emergirem e formarem uma barreira física.
 
-### Dimensões
+### Alcance
 
-A barreira pode possuir aproximadamente:
+O ponto de criação precisa estar a até:
 
-> **3 metros de largura**  
+> **15 metros**
+
+---
+
+# Dimensões
+
+A Muralha possui aproximadamente:
+
+> **3 metros de largura**
+
+e:
+
 > **2 metros de altura**
 
-### Resistência
+A forma exata pode variar conforme:
+
+- terreno;
+- espaço;
+- quantidade de material.
+
+---
+
+# Resistência
 
 A Muralha possui:
 
-> **40 Vida**
+> **40 [[Regras/Vida|Vida]]**
 
 e:
 
 > **8 Defesa Física**
 
-### Utilização
+Quando uma fonte de Dano puder afetar a Muralha:
 
-Pode ser utilizada para:
+> sua Vida e Defesa são utilizadas normalmente.
 
-- bloquear uma passagem;
-    
+---
+
+# Utilização
+
+Pode ser usada para:
+
 - criar cobertura;
-    
+- bloquear passagem;
 - interromper linha de visão;
-    
-- proteger criaturas;
-    
 - separar combatentes;
-    
-- alterar o campo de batalha.
-    
+- proteger aliados;
+- alterar o campo.
 
-### Terreno
+---
 
-A habilidade precisa de acesso a:
+# Requisito Ambiental
+
+Precisa existir quantidade apropriada de:
 
 - terra;
-    
 - pedra;
-    
 - solo;
-    
 - rocha;
-    
-- material mineral apropriado.
-    
+- material mineral semelhante.
 
-A quantidade disponível pode alterar o tamanho ou até impedir a conjuração.
+Um ambiente sem material adequado pode:
 
-### Alcance
+- reduzir a estrutura;
+- aumentar a dificuldade;
+- impedir sua utilização.
 
-> **15 metros**
+---
 
-### Custo
+# Custo
 
 > **35 Mana + 1 PA**
 
 ---
 
-## Impulso de Vento - Nv.1
+## Impulso de Vento | Nv.1
 
-O Mago libera uma poderosa corrente de ar à sua frente.
+O Mago libera uma forte corrente de ar em uma área diante de si.
 
 ### Área
 
 > **Cone de 8 metros**
 
-Criaturas dentro da área realizam um teste apropriado contra:
+---
 
-> **8 + Precisão Mágica do Mago**
+# Resistência
 
-Em falha:
+Criaturas atingidas realizam:
 
-> são empurradas até **5 metros**.
+> **Dado + [[Atributos Centrais/Constituição#Atletismo|Atletismo]] + Modificadores**
 
-Criaturas extremamente grandes ou pesadas podem reduzir ou ignorar esse deslocamento.
+ou:
 
-### Manipulação do Ambiente
+> **Dado + Agilidade + Modificadores**
+
+contra:
+
+> **8 + Conjuração do Mago**
+
+O método utilizado precisa representar a forma como a criatura está tentando resistir.
+
+---
+
+# Falha
+
+É empurrada até:
+
+> **5 metros**
+
+na direção do vento.
+
+---
+
+# Massa e Tamanho
+
+Criaturas extremamente:
+
+- pesadas;
+- grandes;
+- ancoradas;
+- fixadas;
+
+podem:
+
+- reduzir a distância;
+- receber [[Regras/Vantagem|Vantagem]];
+- ser impossíveis de deslocar;
+
+conforme a situação.
+
+---
+
+# Manipulação Ambiental
 
 O vento também pode:
 
 - dispersar fumaça;
-    
-- afastar gases;
-    
+- deslocar gases;
 - espalhar fogo;
-    
 - mover objetos leves;
-    
-- fechar ou abrir violentamente objetos soltos;
-    
-- interferir em projéteis leves;
-    
-- afastar líquidos ou partículas suspensas.
-    
+- afastar partículas;
+- movimentar líquidos superficiais;
+- interferir com projéteis leves.
 
-### Custo
+Esses efeitos dependem da situação física.
+
+---
+
+# Custo
 
 > **24 Mana + 1 PA**
 
 ---
 
-## Congelamento Súbito - Nv.1
+## Congelamento Súbito | Nv.1
 
-O Mago reduz violentamente a temperatura de uma região, congelando água e formando gelo quase instantaneamente.
+O Mago reduz rapidamente a temperatura de uma região, formando gelo e congelando água existente.
 
-### Área
+### Alcance
 
-Escolha uma região de até:
-
-> **3 metros de raio**
-
-dentro de:
+Escolha um ponto a até:
 
 > **20 metros**
 
-### Efeito
+---
 
-Água presente na área congela imediatamente quando possível.
+# Área
 
-Superfícies molhadas podem se transformar em:
+> **3 metros de raio**
+
+---
+
+# Ambiente
+
+Água presente na área pode congelar quando a quantidade permitir.
+
+Superfícies molhadas podem tornar-se:
 
 > **Terreno Escorregadio**
 
-Criaturas atingidas diretamente pela formação do gelo sofrem:
+Outros líquidos podem possuir respostas diferentes conforme suas propriedades.
+
+---
+
+# Criaturas
+
+Uma criatura diretamente atingida pela formação do gelo realiza:
+
+> **Dado + Agilidade + Modificadores**
+
+contra:
+
+> **8 + Conjuração do Mago**
+
+---
+
+### Falha
+
+Sofre:
 
 > **15 Dano Mágico de Gelo**
 
-e recebem:
+e:
 
 > **-3 Agilidade por 1 Turno**
 
-caso sejam afetadas normalmente pelo frio.
+quando for normalmente suscetível ao efeito.
 
-### Usos
+---
 
-Congelamento Súbito também pode ser utilizado para:
+### Sucesso
 
-- congelar pequenas extensões de água;
-    
-- criar superfícies de gelo;
-    
+Evita a formação direta do gelo sobre seu corpo.
+
+Ainda pode ser afetada:
+
+> **pelas alterações do terreno.**
+
+---
+
+# Outros usos
+
+Congelamento Súbito pode ser utilizado para:
+
+- criar gelo;
+- congelar uma pequena passagem de água;
 - prender objetos;
-    
-- bloquear mecanismos simples;
-    
-- congelar líquidos;
-    
-- produzir gelo para outras utilizações coerentes.
-    
+- travar mecanismos simples;
+- formar superfícies escorregadias;
+- congelar líquidos apropriados.
 
-A habilidade não congela instantaneamente massas de água gigantescas.
+Não permite congelar instantaneamente:
 
-### Custo
+> **massas gigantescas de água.**
+
+---
+
+# Custo
 
 > **30 Mana + 1 PA**
 
 ---
 
-# Passivas Novas
+# Passivas Tier 2
 
-## Domínio Elemental - Nv.1
+## Domínio Elemental | Nv.1
 
-O Mago desenvolveu controle suficiente para modificar pequenas propriedades de suas conjurações elementais durante sua formação.
+O Mago aprende a modificar propriedades básicas de uma magia elemental durante sua formação.
 
-Sempre que utilizar uma Habilidade elemental, pode escolher **um** dos seguintes benefícios:
+Sempre que utilizar uma Habilidade Elemental, escolha:
 
-> **+3 Dano**
-
-ou:
-
-> **+3 Precisão Mágica**
-
-ou:
-
-> **+3 metros de Alcance**
-
-A escolha é feita individualmente para cada conjuração.
-
-Domínio Elemental não afeta Habilidades que não sejam consideradas elementais.
+> **1 benefício**
 
 ---
 
-## Ciclo dos Elementos - Nv.1
+### Potência
 
-O Mago aprende a alternar naturalmente entre diferentes fluxos elementais, reduzindo o esforço necessário para mudar sua forma de conjuração.
+> **+3 de Dano**
 
-Sempre que utilizar uma Habilidade elemental de um elemento **diferente da última Habilidade elemental utilizada**, recupera:
+Esse bônus utiliza o mesmo tipo de Dano da Habilidade.
 
-> **5 Mana**
+---
 
-após completar a conjuração.
+### Controle
 
-### Exemplo
+> **+3 de Precisão**
+
+quando a Habilidade realizar um Ataque.
+
+---
+
+### Alcance
+
+> **+3 metros de Alcance**
+
+quando a Habilidade possuir um Alcance apropriado.
+
+---
+
+# Limitações
+
+A escolha é feita:
+
+> **antes da conjuração.**
+
+A mesma Habilidade recebe apenas:
+
+> **1 das opções.**
+
+Domínio Elemental não funciona sobre Habilidades:
+
+> **não elementais.**
+
+---
+
+## Ciclo dos Elementos | Nv.1
+
+O Mago aprende a alternar entre fluxos elementais diferentes sem repetir continuamente a mesma estrutura mágica.
+
+### Efeito
+
+Quando utilizar uma Habilidade Elemental de elemento diferente da última Habilidade Elemental utilizada:
+
+> **recupera 5 Mana**
+
+depois que a conjuração for concluída.
+
+---
+
+# Exemplo
 
 > Fogo → Água
 
-Ativa Ciclo dos Elementos.
+Ativa Ciclo.
 
 > Água → Terra
 
-Ativa novamente.
+Pode ativar novamente.
 
 > Terra → Terra
 
@@ -598,260 +933,284 @@ Não ativa.
 
 > Terra → Vento
 
-Ativa novamente.
+Pode ativar.
 
-### Limite
+---
 
-Ciclo dos Elementos pode recuperar Mana:
+# Limite
+
+Ciclo dos Elementos recupera Mana no máximo:
 
 > **1 vez por Turno**
 
----
+A Mana recuperada:
 
-# Habilidades Extras do Mago
-
-As seguintes técnicas representam conhecimentos elementais avançados que não ocupam os quatro espaços normais de novas Habilidades do Tier 2.
+> **não pode ultrapassar a Mana Máxima.**
 
 ---
 
-## Convergência Elemental - Nv.1
+# Elementos e Ambiente
 
-O Mago compreende que elementos diferentes podem interagir entre si e passa a combinar suas propriedades durante uma conjuração.
+O Mago pode utilizar suas Habilidades para interagir com manifestações elementais já presentes no ambiente.
 
-Ao utilizar uma Habilidade elemental, pode adicionar um **segundo elemento compatível**.
+Isso não concede automaticamente uma nova Habilidade genérica de:
 
-O segundo elemento não cria automaticamente uma segunda fonte completa de Dano.
+> **“controlar qualquer elemento gratuitamente”.**
 
-Em vez disso, modifica as propriedades da magia original.
+Por exemplo:
 
-### Fogo + Vento
+- água existente pode favorecer certas Habilidades de Água;
+- vento pode espalhar fogo;
+- superfícies molhadas favorecem eletricidade;
+- terreno mineral permite Muralha de Terra;
+- água pode ser congelada.
 
-O vento alimenta e espalha as chamas.
+Sempre que uma Habilidade possuir regras específicas:
 
-Se a Habilidade de Fogo já possuir área:
+> **essas regras determinam aquilo que o Mago consegue fazer.**
 
-> **+2 metros de área**
+Usos criativos fora do texto podem exigir:
 
----
+> **Dado + Conjuração + Modificadores**
 
-### Água + Eletricidade
+ou:
 
-A água conduz a descarga.
+> **Dado + Arcanismo + Modificadores**
 
-Caso criaturas estejam conectadas pela mesma massa de água:
+dependendo se o personagem está tentando:
 
-> a eletricidade pode atingir **1 alvo adicional**.
+> executar uma manipulação
 
----
+ou:
 
-### Água + Gelo
-
-A água é congelada durante ou imediatamente após a conjuração.
-
-Pode:
-
-- congelar superfícies;
-    
-- prender parcialmente criaturas;
-    
-- criar terreno escorregadio;
-    
-- transformar água criada pela magia em gelo.
-    
+> compreender o fenômeno.
 
 ---
 
-### Terra + Fogo
+# Interação entre Elementos
 
-O material mineral é superaquecido.
-
-Pode produzir:
-
-- pedra incandescente;
-    
-- superfície extremamente quente;
-    
-- fragmentos superaquecidos;
-    
-- outras interações coerentes.
-    
-
----
-
-### Água + Vento
-
-O vento dispersa a água em pequenas partículas.
-
-Pode produzir:
-
-- névoa;
-    
-- chuva localizada;
-    
-- aumento da área molhada;
-    
-- redução de visibilidade em situações apropriadas.
-    
-
----
-
-### Outras Combinações
-
-Esses exemplos não representam todas as possibilidades.
-
-O Mago pode tentar outras combinações desde que a interação seja coerente com:
-
-- os elementos utilizados;
-    
-- a Habilidade original;
-    
-- o ambiente;
-    
-- as propriedades físicas ou mágicas envolvidas.
-    
-
-Convergência Elemental não permite simplesmente declarar qualquer efeito.
-
-A interação precisa fazer sentido.
-
-### Custo
-
-Ao utilizar Convergência Elemental:
-
-> **+50% no custo inicial de Mana da Habilidade**
-
-Não consome PA adicional.
-
----
-
-## Apropriação Elemental - Nv.1
-
-O Mago deixa de depender exclusivamente dos elementos produzidos através da própria Mana.
-
-Ele aprende a reconhecer uma manifestação elemental já existente e incorporá-la à própria conjuração.
-
-### Ativação
-
-Escolha uma fonte elemental dentro de:
-
-> **20 metros**
+Elementos podem produzir interações naturais ou mágicas.
 
 Exemplos:
 
-- uma fogueira;
-    
-- um incêndio;
-    
-- água corrente;
-    
-- uma grande quantidade de água;
-    
-- uma formação de gelo;
-    
-- terra;
-    
-- pedra;
-    
-- vento intenso;
-    
-- eletricidade;
-    
-- outra manifestação compatível.
-    
+> Fogo pode aquecer ou evaporar Água.
 
-### Apropriação
+> Água pode conduzir Eletricidade.
 
-O Mago absorve ou assume parcialmente o controle daquela manifestação.
+> Vento pode espalhar Fogo.
 
-Até o final de seu próximo Turno, a próxima Habilidade utilizada com o **mesmo elemento** recebe:
+> Gelo pode tornar superfícies escorregadias.
 
-> **-30% no custo inicial de Mana**
+> Terra pode bloquear determinados efeitos físicos.
+
+Essas interações:
+
+> **não são Combos universais automáticos.**
+
+O resultado depende:
+
+- das Habilidades utilizadas;
+- da quantidade;
+- da situação;
+- do ambiente;
+- das propriedades envolvidas.
+
+Isso permite interações criativas sem transformar qualquer combinação elemental em uma nova Habilidade gratuita.
+
+---
+
+# Cast e Potência
+
+O conceito de Cast faz parte da identidade do Mago.
+
+Entretanto:
+
+> **a Classe ainda não possui uma regra universal de Cast.**
+
+Até que essa regra seja criada, cada Habilidade define individualmente:
+
+- PA;
+- tempo;
+- concentração;
+- manutenção;
+- preparação;
+- custo;
+- interrupção, quando existir.
+
+Futuras Habilidades de Mago podem utilizar Cast prolongado para produzir efeitos significativamente mais poderosos.
+
+Por exemplo, uma magia pode possuir:
+
+> **versão rápida**
+
+com efeito menor
 
 e:
 
-> **+20% Dano**
+> **versão carregada**
 
-### Habilidades sem Dano
+com maior investimento e maior potência.
 
-Caso a Habilidade não cause Dano, recebe em vez do bônus de Dano:
+A criação dessa mecânica será definida pelas regras gerais de Cast quando necessário.
 
-> **+3 na Dificuldade para resistir aos seus efeitos**
+---
 
-### Fonte Elemental
+# Habilidades Extras
 
-A quantidade disponível importa.
+Mago Tier 2 recebe normalmente:
 
-Uma vela não possui energia suficiente para fornecer o mesmo benefício que uma fogueira.
+> **4 novas Ativas**
 
-Algumas gotas de água não possuem a mesma importância que um rio.
+e:
 
-O Mestre pode reduzir ou impedir a utilização caso a fonte seja insignificante.
+> **2 novas Passivas**
 
-### Manipulação Direta
+Além dos aprimoramentos herdados.
 
-Apropriação Elemental também pode ser utilizada para manipular diretamente pequenas manifestações do ambiente.
+Por isso, técnicas como a antiga:
 
-Exemplos:
+> **Convergência Elemental**
 
-> puxar as chamas de uma fogueira;
+não são concedidas gratuitamente apenas por adquirir Mago.
 
-> desviar água corrente;
+Esse conceito pode futuramente existir como:
 
-> arrancar pedras de uma superfície;
+- aprimoramento de Habilidade;
+- técnica adquirida através de SP;
+- Evolução;
+- recompensa;
+- conhecimento especial.
 
-> concentrar uma corrente de vento;
+O mesmo princípio vale para técnicas genéricas de manipulação livre dos elementos.
 
-> absorver parte de uma descarga elétrica.
+Isso mantém a estrutura de Classe consistente.
 
-A quantidade manipulada depende da manifestação disponível e da capacidade do Mago.
+---
 
-### Magias Elementais Existentes
+# Diferença entre Mago e Feiticeiro
 
-Também pode ser utilizada sobre manifestações elementais criadas por magia que ainda permaneçam fisicamente presentes.
+## Feiticeiro
 
-Exemplos:
+O Feiticeiro tende a trabalhar com:
 
-- uma parede de fogo;
-    
-- terreno congelado;
-    
-- água conjurada;
-    
-- pedras erguidas;
-    
-- uma região tomada por eletricidade persistente.
-    
+- rapidez;
+- flexibilidade;
+- controle;
+- alteração de propriedades;
+- encantamento;
+- Telecinese;
+- Dissipação;
+- adaptação imediata.
 
-A habilidade não permite capturar automaticamente um projétil que esteja sendo lançado contra o Mago.
+Sua pergunta principal é:
 
-Ataques instantâneos continuam precisando ser defendidos normalmente.
+> **“o que eu consigo fazer com a magia?”**
 
-### Custo
+---
 
-> **15 Mana + 1 PA**
+## Mago
+
+O Mago tende a trabalhar com:
+
+- potência;
+- elementos;
+- grandes quantidades de Mana;
+- Cast;
+- área;
+- intensidade;
+- conjurações pesadas.
+
+Sua pergunta principal é:
+
+> **“quanto poder eu consigo colocar nessa conjuração?”**
+
+Essa diferença representa:
+
+> **tendência de desenvolvimento**
+
+e não uma proibição absoluta.
+
+Um Feiticeiro ainda pode possuir uma magia demorada.
+
+Um Mago ainda pode possuir uma magia rápida.
+
+---
 
 # Evolução
 
-Ao desenvolver suficientemente seu domínio elemental, o Mago pode seguir caminhos ainda mais especializados.
+Ao aprofundar seu domínio elemental, o Mago pode seguir caminhos especializados.
 
-Algumas possíveis evoluções incluem:
+## Piromante
 
-> **Piromante**  
-> Especialista absoluto em Fogo, combustão e temperaturas extremas.
+Especialista em:
 
-> **Hidromante**  
-> Especialista em Água, pressão, correntes e manipulação de líquidos.
+- Fogo;
+- combustão;
+- calor;
+- temperaturas extremas.
 
-> **Geomante**  
-> Especialista em Terra, pedra, minerais e manipulação do terreno.
+---
 
-> **Aeromante**  
-> Especialista em Vento, pressão atmosférica e movimentação.
+## Hidromante
 
-> **Criomante**  
-> Especialista em Gelo, frio e redução extrema de temperatura.
+Especialista em:
 
-> **Tempestário**  
-> Especialista em Eletricidade, vento e fenômenos relacionados a tempestades.
+- Água;
+- pressão;
+- correntes;
+- manipulação de líquidos.
 
-Outros caminhos podem existir dependendo dos elementos estudados e das condições encontradas pelo personagem.
+---
+
+## Geomante
+
+Especialista em:
+
+- Terra;
+- pedra;
+- minerais;
+- manipulação do terreno.
+
+---
+
+## Aeromante
+
+Especialista em:
+
+- Vento;
+- pressão atmosférica;
+- movimentação.
+
+---
+
+## Criomante
+
+Especialista em:
+
+- Gelo;
+- frio;
+- redução de temperatura.
+
+---
+
+## Tempestário
+
+Especialista em:
+
+- Eletricidade;
+- Vento;
+- fenômenos relacionados a tempestades.
+
+---
+
+Outras Evoluções podem existir conforme:
+
+- elementos desenvolvidos;
+- Afinidades;
+- Habilidades;
+- descobertas;
+- requisitos específicos.
+
+---
+
+> **Regra específica > regra geral.**

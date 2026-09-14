@@ -1,50 +1,58 @@
-A **Defesa** representa a capacidade de um personagem de **reduzir o [[Dano]] recebido depois que um [[Ataque]] o atinge**.
+A **Defesa** representa a capacidade de um personagem de reduzir o [[Dano]] recebido depois que um [[Ataque]] o atinge.
 
-Diferente de reações como [[Esquivar]], [[Bloquear]] e [[Aparar]], a Defesa não impede necessariamente que o ataque acerte.
+Diferente de reações como [[Esquivar]], [[Bloquear]] e [[Aparar]], a Defesa não impede necessariamente que o Ataque acerte.
 
 Ela reduz o Dano que realmente consegue afetar o personagem.
 
 ---
 
-## Funcionamento
+# Funcionamento
 
-Quando um ataque atinge o personagem, primeiro é calculado seu **Dano Bruto**.
+Quando um Ataque atinge o personagem, primeiro é calculado seu **Dano Bruto**.
 
-Depois disso, a Defesa correspondente é aplicada:
+Depois disso, aplica-se a Defesa correspondente:
 
 > **Dano Bruto − Defesa = Dano Final**
 
-O Dano Final é então removido da [[Vida]] do personagem.
+O Dano Final é então aplicado à [[Vida]].
 
-**Exemplo:**
+O Dano Final normalmente não pode ser menor que:
 
-Um ataque causa:
-
-> **18 de Dano Físico**
-
-O alvo possui:
-
-> **6 de Defesa Física**
-
-Então:
-
-> `18 − 6 = 12`
-
-O personagem perde:
-
-> **12 de Vida**
+> **0**
 
 ---
 
-## Tipos de Defesa
+# Desenvolvimento de Defesa
 
-Existem diferentes tipos de Defesa.
+Defesa não é uma [[Perícias|Perícia]] nem um [[Atributos Centrais|Atributo Central]].
 
-### Defesa Física
+Ela não é desenvolvida diretamente através de PP ou PC.
 
-Protege contra danos de natureza física.
+Os valores de Defesa são obtidos através de fontes como:
 
-Exemplos:
+- [[Raças]];
+- [[Classes]];
+- equipamentos;
+- Habilidades;
+- Passivas;
+- efeitos;
+- [[Condições]].
+
+Quando várias fontes forem compatíveis, seus valores são somados, salvo quando alguma regra determinar o contrário.
+
+Atributos Centrais não aumentam automaticamente nenhuma Defesa.
+
+---
+
+# Tipos de Defesa
+
+Existem diferentes tipos de Defesa de acordo com a natureza do Dano recebido.
+
+## Defesa Física
+
+Protege contra [[Dano]] de natureza física.
+
+Pode ser utilizada contra:
 
 - cortes;
 - perfurações;
@@ -54,37 +62,35 @@ Exemplos:
 
 ---
 
-### Defesa Mágica
+## Defesa Mágica
 
-Protege contra danos causados diretamente por magia.
+Protege contra Dano de natureza mágica.
 
-Uma magia não utiliza necessariamente Defesa Mágica apenas por ter sido conjurada magicamente.
+O fato de um Ataque ter sido criado através de magia não significa automaticamente que ele utiliza Defesa Mágica.
 
-A natureza do [[Dano]] determina qual Defesa será utilizada.
-
-Por exemplo, uma magia que cria e dispara uma pedra física pode utilizar **Defesa Física**, caso sua própria regra determine isso.
+A natureza do Dano determina qual Defesa será aplicada.
 
 ---
 
-### Defesa Mental
+## Defesa Mental
 
-Protege contra danos e efeitos que atacam diretamente a mente.
+Protege contra Dano que afeta diretamente a mente.
 
-Pode ser utilizada contra determinados:
+Pode ser utilizada contra:
 
 - ataques psíquicos;
 - efeitos mentais;
 - poderes que causem Dano diretamente à mente.
 
-A aplicação contra [[Condições|condições]] ou efeitos que não causem Dano depende da regra específica da fonte.
+Efeitos mentais que não causem Dano podem utilizar outras formas de resistência determinadas por sua própria regra.
 
 ---
 
-### Defesa Biológica
+## Defesa Biológica
 
-Protege contra danos que afetem diretamente processos biológicos do corpo.
+Protege contra Dano que afeta diretamente os processos biológicos do corpo.
 
-Pode estar relacionada a:
+Pode ser utilizada contra:
 
 - toxinas;
 - venenos;
@@ -92,23 +98,23 @@ Pode estar relacionada a:
 - agentes biológicos;
 - outros efeitos semelhantes.
 
-Nem todo veneno ou doença necessariamente causa Dano diretamente. Quando produzir uma [[Condições|Condição]], a própria condição determina como funciona e como pode ser resistida.
+Efeitos biológicos que não causem Dano seguem suas próprias regras de resistência.
 
 ---
 
-### Defesa Espiritual
+## Defesa Espiritual
 
-Protege contra danos que afetem diretamente a essência espiritual de uma criatura.
+Protege contra Dano que afeta diretamente a essência espiritual de uma criatura.
 
 Pode ser utilizada contra ataques e efeitos que causem **Dano Espiritual**.
 
-A interação com almas, espíritos e outros efeitos que não causem Dano depende das regras específicas envolvidas.
+Interações com almas, espíritos e outros efeitos que não causem Dano seguem suas próprias regras.
 
 ---
 
-## Defesa e Reações
+# Defesa e Reações
 
-A Defesa normalmente é aplicada **depois que uma reação defensiva falha ou não é utilizada**.
+A Defesa normalmente é aplicada depois que uma Reação defensiva falha, não é utilizada ou não pode impedir o Ataque.
 
 A sequência básica é:
 
@@ -126,127 +132,72 @@ A sequência básica é:
 > ↓  
 > [[Vida]]
 
-Se uma [[Esquivar|Esquiva]], [[Bloquear|Bloqueio]] ou [[Aparar]] impedir completamente o ataque, não existe Dano para a Defesa reduzir.
+Se [[Esquivar]], [[Bloquear]] ou [[Aparar]] impedir completamente o Ataque, não existe Dano daquele Ataque para a Defesa reduzir.
 
 ---
 
-## Defesa Superior ao Dano
+# Defesa Superior ao Dano
 
-Se a Defesa for igual ou superior ao Dano recebido, o Dano Final será:
+Se a Defesa for igual ou superior ao Dano recebido:
 
-> **0**
+> **Dano Final = 0**
 
-**Exemplo:**
+O Ataque ainda pode ter atingido o personagem.
 
-> Dano Físico: 8  
-> Defesa Física: 12
-
-Resultado:
-
-> `8 − 12 = 0 de Dano`
-
-A Defesa absorveu completamente o Dano.
-
-O ataque ainda pode ter acertado o personagem. Ele simplesmente **não conseguiu superar sua Defesa**.
+Ele simplesmente não conseguiu superar sua proteção.
 
 ---
 
-## Penetração
+# Penetração
 
-Alguns ataques podem ignorar parte da Defesa.
+Alguns Ataques possuem **Penetração**.
 
-**Exemplo:**
+A Penetração reduz a quantidade de Defesa utilizada contra aquele Dano.
 
-O alvo possui:
-
-> **10 Defesa Física**
-
-Um ataque possui:
-
-> **3 de Penetração de Defesa Física**
-
-Para aquele ataque, a Defesa é considerada:
-
-> `10 − 3 = 7`
-
-Somente **7 de Defesa Física** são utilizados para reduzir o Dano.
+> **Defesa Efetiva = Defesa − Penetração**
 
 A Penetração não reduz permanentemente a Defesa do personagem.
 
----
-
-## Ignorar Defesa
-
-Algumas Habilidades, armas ou efeitos podem determinar que ignoram completamente uma Defesa específica.
-
-Nesse caso, aquela Defesa não é aplicada ao [[Dano]].
-
-Isso só acontece quando a fonte **indicar explicitamente** que ignora a Defesa.
-
-Possuir muito Dano, por si só, não significa ignorar Defesa.
+Uma fonte pode possuir Penetração específica para determinado tipo de Defesa.
 
 ---
 
-## Múltiplos Tipos de Dano
+# Ignorar Defesa
+
+Algumas armas, Habilidades ou efeitos podem ignorar completamente determinada Defesa.
+
+Nesse caso, aquela Defesa não é aplicada ao Dano indicado.
+
+Isso somente acontece quando a própria fonte determinar explicitamente que ignora aquela Defesa.
+
+Possuir muito Dano não permite ignorar Defesa automaticamente.
+
+---
+
+# Múltiplos Tipos de Dano
 
 Quando um mesmo [[Ataque]] causa diferentes tipos de Dano, cada parte utiliza sua Defesa correspondente.
 
-**Exemplo:**
+As reduções são calculadas separadamente.
 
-Um ataque causa:
-
-> **10 Dano Físico**  
-> **6 Dano Mágico**
-
-O alvo possui:
-
-> **4 Defesa Física**  
-> **2 Defesa Mágica**
-
-Então:
-
-> `10 − 4 = 6`  
-> `6 − 2 = 4`
-
-O alvo recebe:
-
-> **10 de Dano total**
-
-Cada Defesa é aplicada somente à parte correspondente do ataque.
+Depois disso, os valores restantes são somados para determinar o Dano Final recebido.
 
 ---
 
-## Fontes de Defesa
+# Regra Específica
 
-A Defesa pode ser fornecida ou modificada por diferentes fontes, como:
-
-- [[Raças]];
-- [[Classes]];
-- equipamentos;
-- Habilidades;
-- Passivas;
-- [[Condições]];
-- efeitos temporários.
-
-Quando várias fontes forem compatíveis, seus valores podem ser combinados normalmente, salvo quando alguma regra determinar o contrário.
-
----
-
-## Regra Específica
-
-Existem ataques e efeitos capazes de modificar o funcionamento normal da Defesa.
+[[Raças]], [[Classes]], equipamentos, Habilidades, Passivas, [[Condições]] e outros efeitos podem alterar o funcionamento normal da Defesa.
 
 Eles podem:
 
-- ignorar parte da Defesa;
+- aumentar ou reduzir Defesa;
+- conceder Penetração;
+- ignorar parcialmente uma Defesa;
 - ignorar completamente uma Defesa;
 - utilizar uma Defesa diferente;
-- reduzir Defesa temporariamente;
 - impedir determinados bônus;
-- possuir outras interações específicas.
+- alterar como a Defesa é calculada.
 
-Quando uma regra específica contradizer a regra geral:
+Quando uma regra específica contradizer esta página:
 
 > **Regra específica > regra geral.**
-
----

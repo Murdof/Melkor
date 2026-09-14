@@ -1,105 +1,141 @@
-O **Turno** representa o período em que um personagem pode agir durante uma situação em que o tempo precisa ser acompanhado de forma precisa, principalmente durante combates.
+O **Turno** representa o período em que um personagem pode agir quando o tempo precisa ser acompanhado de forma precisa, principalmente durante combates.
 
-Cada Turno representa aproximadamente **2 segundos** dentro do mundo.
+Cada Turno representa aproximadamente:
 
-## Início do Turno
+> **2 segundos**
 
-Quando o Turno de um personagem começa, efeitos que indiquem ocorrer no **início do Turno** são resolvidos.
+---
 
-Também são aplicadas recuperações automáticas que funcionem por Turno, como:
+# Início do Turno
 
-- Regeneração de [[Estamina]];
-- Regeneração de [[Mana]];
-- Regeneração de [[Vida]];
-- outras formas de recuperação ou efeitos específicos.
+Quando o Turno de um personagem começa, são resolvidos os efeitos que acontecem no **início do Turno**.
 
-A quantidade recuperada depende da [[Raças|Raça]], [[Classes|Classe]], Habilidades, Passivas, equipamentos e demais modificadores do personagem.
+Também são aplicadas recuperações automáticas que funcionem nesse momento, como:
 
-## Durante o Turno
+- regeneração de [[Estamina]];
+- regeneração de [[Mana]];
+- regeneração de [[Vida]];
+- outras Reservas ou efeitos.
 
-Durante seu Turno, o personagem pode utilizar seus [[Pontos de Ação|Pontos de Ação (PA)]] para realizar ações.
+A quantidade recuperada depende das regras responsáveis por cada efeito.
 
-Não existe uma ordem obrigatória para gastar os PA.
+---
 
-O personagem pode:
+# Durante o Turno
 
-- realizar [[Ataque|Ataques]];
-- andar ou correr;
+Durante seu Turno, o personagem utiliza seus [[Pontos de Ação|Pontos de Ação (PA)]] para realizar ações.
+
+Não existe uma ordem obrigatória para utilizar os PA.
+
+O personagem pode realizar ações como:
+
+- [[Ataque|Atacar]];
+- movimentar-se;
 - utilizar Habilidades;
-- utilizar ou manipular objetos;
+- utilizar itens;
+- manipular objetos;
 - interagir com o ambiente;
-- realizar outras ações possíveis naquele período.
+- realizar outras ações possíveis.
 
-As ações podem ser combinadas ou repetidas enquanto houver **PA e recursos suficientes**.
+Cada ação possui seu próprio custo de PA e pode também exigir [[Estamina]], [[Mana]] ou outro recurso.
 
-Um personagem com 2 PA, por exemplo, poderia:
+As ações podem ser combinadas ou repetidas enquanto o personagem possuir PA, recursos e condições suficientes.
 
-> Mover → Atacar  
-> Atacar → Mover  
-> Atacar → Atacar  
-> Mover → Mover
+---
 
-Cada ação ainda pode possuir custos próprios de **[[Estamina]], [[Mana]] ou outros recursos**.
+# Deslocamento
 
-## Movimento
+Movimentar-se durante o Turno utiliza as regras de [[Deslocamento]].
 
-[[Movimento|Movimentar-se]] durante o Turno normalmente utiliza **PA**.
+A distância que o personagem consegue percorrer depende de seu Deslocamento e do tipo de movimento realizado.
 
-A distância percorrida depende do tipo de movimento utilizado e dos valores do personagem.
+A ação de movimento possui seu próprio custo de PA.
 
-**Andar** e **Correr** possuem distâncias próprias, que podem ser modificadas por atributos, Habilidades, [[Condições|condições]] e outros efeitos.
+Classes, Habilidades, Passivas, equipamentos e outros efeitos podem modificar:
 
-O personagem também pode dividir suas ações normalmente.
+- o Deslocamento;
+- o custo de PA;
+- o tipo de movimento disponível;
+- outras propriedades do movimento.
 
-Por exemplo:
+---
 
-> Mover → Atacar
+# Reações
 
-ou:
+Um personagem não deixa de poder reagir quando seu próprio Turno termina.
 
-> Atacar → Mover.
+**Reações** podem acontecer durante o Turno de outra criatura quando suas condições forem atendidas.
 
-## Reações fora do próprio Turno
+As Reações defensivas básicas são:
 
-Um personagem **não fica incapaz de agir quando seu Turno termina**.
-
-Certas ações são consideradas **Reações** e podem acontecer durante o Turno de outra criatura.
-
-[[Esquivar]], [[Bloquear]] e [[Aparar]] são exemplos.
+- [[Esquivar]];
+- [[Bloquear]];
+- [[Aparar]].
 
 Reações normalmente:
 
-- não consomem [[Pontos de Ação|PA]];
+- não consomem PA;
 - consomem seus recursos normalmente;
 - precisam cumprir suas próprias condições;
-- podem ser utilizadas enquanto o personagem possuir recursos e capacidade para reagir.
+- podem ser utilizadas enquanto o personagem possuir capacidade para reagir.
 
-Habilidades e Passivas também podem criar novas formas de Reação.
+Classes, Habilidades, Passivas e outros efeitos podem criar novas Reações ou modificar as existentes.
 
-## Duração de efeitos
+---
 
-Quando um efeito possui duração medida em Turnos, cada Turno equivale a aproximadamente **2 segundos**.
+# Duração de Efeitos
 
-Se uma habilidade durar **3 Turnos**, sua duração corresponde aproximadamente a **6 segundos**.
+Quando um efeito possui duração medida em Turnos:
 
-O momento exato em que um efeito termina deve seguir o que estiver escrito nele. Quando não houver uma regra específica, um efeito que dure X Turnos permanece ativo até o **início do Turno do usuário após a duração ser completada**.
+> **1 Turno = aproximadamente 2 segundos**
 
-## Fim do Turno
+O momento em que o efeito termina segue a regra descrita pelo próprio efeito.
 
-Quando o personagem não possuir mais PA, não puder realizar outras ações ou simplesmente decidir encerrar sua vez, seu Turno termina.
+Quando nenhuma regra específica determinar outro momento, um efeito com duração de X Turnos permanece ativo até o início do Turno do responsável pelo efeito após sua duração ser completada.
 
-Efeitos definidos para ocorrer no **fim do Turno** são então resolvidos.
+---
 
-O próximo participante na ordem de Iniciativa começa seu Turno.
+# Fim do Turno
 
-## Turno e Rodada
+O personagem pode encerrar seu Turno quando:
 
-**Turno** e **Rodada** são diferentes.
+- não possuir mais PA;
+- não puder realizar outras ações;
+- decidir não realizar mais ações.
+
+Ao encerrar o Turno, são resolvidos os efeitos definidos para acontecer no **fim do Turno**.
+
+Depois disso, o próximo participante na ordem de [[Iniciativa]] começa seu Turno.
+
+---
+
+# Turno e Rodada
+
+**Turno** e **Rodada** representam coisas diferentes.
 
 **Turno:** período individual em que uma criatura realiza suas ações.
 
-**Rodada:** período necessário para que todos os participantes tenham realizado um Turno.
+**Rodada:** período em que todos os participantes realizam seus respectivos Turnos.
 
-Como os Turnos representam ações acontecendo quase simultaneamente dentro da ficção, **uma Rodada também representa aproximadamente 2 segundos**, e não a soma de 2 segundos de cada participante.
+Como as ações dos participantes representam acontecimentos ocorrendo quase simultaneamente:
 
-Assim, um combate com 20 participantes não faz uma Rodada durar 40 segundos. Todos estão agindo dentro aproximadamente do **mesmo intervalo de tempo**, e a ordem de Turnos existe para tornar essas ações administráveis durante o jogo.
+> **uma Rodada também representa aproximadamente 2 segundos.**
+
+A duração de uma Rodada não aumenta de acordo com a quantidade de participantes.
+
+---
+
+# Regra Específica
+
+Classes, Habilidades, Passivas, [[Condições]] e outros efeitos podem alterar:
+
+- quantidade de PA;
+- duração de ações;
+- ordem de Turnos;
+- funcionamento de Reações;
+- duração de efeitos;
+- outras regras relacionadas ao Turno.
+
+Quando uma regra específica contradizer esta página:
+
+> **Regra específica > regra geral.**

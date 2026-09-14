@@ -1,316 +1,545 @@
-O **Nobre** é uma [[Classes|Classe]] Especial voltada para **liderança, administração, autoridade e organização de grupos**.
+> **[[Nobre]] e [[Plebeu]] são mutuamente exclusivos.**
+>
+> Um personagem não pode possuir as duas Classes simultaneamente, salvo quando uma regra específica determinar uma exceção.
 
-Diferente das Classes Combatentes, seu principal poder não está na capacidade individual de lutar, mas na capacidade de **organizar pessoas, administrar territórios e transformar grupos desorganizados em estruturas eficientes**.
+O **Nobre** é uma [[Classes|Classe Especial]] voltada para **liderança, administração, autoridade, diplomacia e organização de grupos**.
 
-Um Nobre pode atuar como líder de uma pequena comunidade, responsável por uma [[Base]], administrador de território, oficial político ou membro importante da estrutura de uma cidade ou reino.
+Diferente de Classes voltadas à força individual, grande parte do poder de um Nobre surge daquilo que ele consegue organizar e representar.
 
-Sua força cresce principalmente através daquilo que ele representa. **Território, população, recursos, reputação, alianças e autoridade reconhecida** podem transformar um Nobre aparentemente comum em uma das pessoas mais influentes de uma região.
+Um Nobre pode atuar como:
 
-Isso não significa que todo Nobre automaticamente possui poder político.
+- líder de uma comunidade;
+- administrador de uma [[Regras/Núcleo de Base|Base]];
+- representante político;
+- oficial;
+- diplomata;
+- proprietário territorial;
+- comandante;
+- membro importante de uma cidade, reino ou organização.
 
-Um personagem pode possuir a Classe Nobre e ainda assim precisar **conquistar território, reconhecimento, seguidores e autoridade** dentro do mundo.
+Sua influência pode crescer através de:
 
-Da mesma forma, possuir um título não torna alguém automaticamente obedecido por qualquer pessoa. A autoridade depende da situação, das relações existentes e da estrutura que reconhece aquele título.
+- território;
+- população;
+- reputação;
+- recursos;
+- alianças;
+- cargos;
+- feitos;
+- autoridade reconhecida.
 
-Nobre também é considerado uma **Classe Não Combatente** para efeitos relacionados a esse tipo de Classe.
+Possuir a Classe Nobre não significa automaticamente possuir poder político.
+
+> **A Classe fornece ferramentas para exercer autoridade. O mundo determina quanta autoridade o personagem realmente possui.**
+
+---
+
+# Dados da Classe
+
+- **Tier:** T1
+- **Tipo:** Especial Social
+- **Nível Máximo:** 10
+- **Árvore:** Nobre
+- **Slot Compatível:** Universal ou Social
+
+Nobre também pode ser considerado uma **Classe Não Combatente** quando alguma regra precisar distinguir Classes de Combate de Classes voltadas a funções sociais, políticas ou administrativas.
+
+---
+
+### Resumo
+
+Classe especializada em liderança, organização de grupos, administração e autoridade política.
+
+### O que faz
+
+- Organiza grupos
+- Coordena trabalhadores
+- Fortalece pessoas sob sua liderança
+- Administra operações
+- Representa Bases e territórios
+- Atua diplomaticamente
+- Desenvolve autoridade política
+- Mantém uma Hierarquia própria
+
+---
+
+# Bônus de Classe
+
+## Perícias
+
+- +2 Liderança
+- +1 Estratégia
+- +1 Persuasão
+- +1 [[Atributos Centrais/Intelecto#Percepção|Percepção]]
+- +1 [[Atributos Centrais/Espírito#Vontade|Vontade]]
+
+Esses valores são **Bônus de Classe** e não representam investimento natural realizado com PP.
+
+---
+
+# Afinidades do Nobre
+
+## Sociais
+
+- Liderança
+- Persuasão
+- Intimidação
+
+## Complementares
+
+- Estratégia
+- Percepção
+- Vontade
+
+---
+
+# Uso das Perícias
+
+## Liderança
+
+Liderança é a principal Perícia do Nobre.
+
+Representa sua capacidade de:
+
+- organizar pessoas;
+- emitir instruções claras;
+- coordenar grupos;
+- manter disciplina;
+- distribuir funções;
+- assumir comando;
+- inspirar confiança em uma estrutura organizada.
+
+Quando houver incerteza:
+
+> **Dado + Liderança + Modificadores**
+
+pode ser utilizado contra uma Dificuldade ou Teste Oposto apropriado.
+
+Liderança não significa controle mental.
+
+Uma pessoa pode:
+
+- discordar;
+- recusar uma ordem;
+- abandonar o grupo;
+- desafiar o Nobre;
+- agir segundo seus próprios interesses.
+
+Autoridade real continua dependendo da situação.
+
+---
+
+## Estratégia
+
+Estratégia permite ao Nobre organizar recursos, pessoas e ações com maior eficiência.
+
+Pode ser utilizada para:
+
+- preparar operações;
+- distribuir funções;
+- organizar defesas;
+- analisar prioridades;
+- preparar movimentação de grupos;
+- reconhecer gargalos;
+- coordenar planos.
+
+Liderança organiza pessoas.
+
+> **Estratégia organiza o plano.**
+
+---
+
+## Persuasão
+
+Persuasão representa a capacidade de convencer alguém através de argumentos, negociação e comunicação.
+
+Pode ser especialmente importante durante:
+
+- diplomacia;
+- acordos;
+- negociações;
+- pedidos;
+- resolução de conflitos;
+- relações políticas.
+
+---
+
+## Percepção
+
+Percepção ajuda o Nobre a observar:
+
+- comportamento;
+- postura;
+- roupas;
+- símbolos;
+- sinais de riqueza;
+- reações;
+- relações aparentes;
+- detalhes relevantes durante encontros sociais.
+
+É especialmente utilizada em **Avaliar**.
+
+---
+
+## Vontade
+
+Vontade representa firmeza mental e capacidade de manter controle sob pressão.
+
+Pode ser relevante em:
+
+- negociações hostis;
+- ameaças;
+- conflitos políticos;
+- pressão social;
+- situações em que o Nobre precise sustentar sua posição.
 
 ---
 
 # Nobre e Plebeu
 
-[[Plebeu]] e Nobre representam dois caminhos diferentes dentro da estrutura das Bases e sociedades.
+[[Plebeu]] e Nobre representam caminhos diferentes.
 
-Eles são **mutuamente exclusivos**.
+## Plebeu
 
-Um personagem não pode possuir simultaneamente:
+Especializa-se principalmente em:
 
-> **Nobre + Plebeu**
+- produção;
+- trabalho;
+- extração;
+- fabricação;
+- eficiência pessoal.
 
-O Nobre é voltado principalmente para:
+## Nobre
+
+Especializa-se principalmente em:
 
 - liderança;
 - administração;
-- organização;
+- autoridade;
 - diplomacia;
-- controle territorial;
 - coordenação de grupos.
 
-Enquanto o [[Plebeu]] é voltado principalmente para:
+Por regra:
 
-- produção;
-- coleta;
-- fabricação;
-- trabalho;
-- desenvolvimento de atividades Não Combatentes.
+> **Nobre + Plebeu não podem coexistir no mesmo personagem.**
 
-Essas Classes podem posteriormente funcionar em conjunto com Classes secundárias.
+Isso não impede combinações com outras Classes.
 
 Por exemplo:
 
-> **Plebeu + Agricultor**
-
-pode representar alguém altamente especializado na produção agrícola.
-
-Enquanto:
-
 > **Nobre + Recruta**
 
-pode futuramente cumprir requisitos para Classes relacionadas a comando e organização militar.
-
----
-
-# Afinidades
-
-### Complementares
-
-- Liderança
-- Estratégia
-- Inteligência
-- Percepção
-- Vontade
-
-### Sociais
-
-- Persuasão
-- Lábia
-- Intimidação
+pode servir como base para futuras Classes relacionadas a comando militar.
 
 ---
 
 # Título de Nobreza
 
-A Classe Nobre possui um sistema próprio de **Títulos de Nobreza**.
-
-O título representa o **nível de reconhecimento político e territorial** alcançado pelo personagem.
-
-A progressão é:
-
-> **Fidalgo → Barão → Visconde → Conde → Marquês → Duque → Grão-Duque**
-
-O título inicial é:
+Todo personagem que adquire Nobre inicia com:
 
 > **Fidalgo**
 
-Esses títulos **não representam o nível da Classe**.
+O Título de Nobreza representa o reconhecimento político e territorial conquistado pelo personagem.
 
-Um Nobre pode possuir nível elevado e continuar sendo Fidalgo caso nunca tenha conquistado território ou importância política suficiente.
+A progressão normal é:
 
-Da mesma forma, aumentar o nível de uma Habilidade não concede automaticamente um novo título.
+> **Fidalgo → Barão → Visconde → Conde → Marquês → Duque → Grão-Duque**
 
 ---
 
-# Aumento de Título
+# Título não é Nível
 
-Um título aumenta através da **posição real conquistada pelo personagem dentro do mundo**.
+O Título de Nobreza:
 
-Entre os fatores que podem influenciar estão:
+> **não é determinado pelo Nível da Classe.**
 
-- tamanho do território;
+Um Nobre pode alcançar Nobre Nv.10 e permanecer Fidalgo.
+
+Da mesma forma, possuir grandes conquistas políticas pode permitir que o personagem possua um título importante sem que isso represente automaticamente maior poder individual.
+
+---
+
+# Progressão de Título
+
+A progressão depende daquilo que o personagem realmente conquistou.
+
+O Mestre pode considerar:
+
+- território;
 - população;
+- propriedades;
 - desenvolvimento;
-- recursos;
+- riqueza;
 - importância econômica;
-- importância estratégica;
-- influência política;
-- reconhecimento;
+- posição estratégica;
 - alianças;
-- feitos realizados;
-- relevância da [[Base]] ou sociedade representada.
+- reconhecimento;
+- reputação;
+- feitos;
+- influência política;
+- importância da Base representada.
 
-Não existe uma quantidade universal de território ou população necessária para cada título.
+Não existe uma quantidade universal de população ou território necessária para cada Título.
 
-O Mestre determina a progressão considerando o contexto do mundo e aquilo que o personagem efetivamente conquistou.
+> **Título é consequência do mundo, não uma recompensa automática de nível.**
 
 ---
 
 # Títulos Reais
 
-Títulos como:
+Os seguintes títulos não fazem parte da progressão automática de Nobre:
 
-> **Príncipe**  
-> **Rei**  
-> **Imperador**
+- Príncipe
+- Rei
+- Imperador
 
-não fazem parte da progressão normal da Classe Nobre.
+Essas posições dependem de:
 
-Eles representam posições específicas dentro de uma estrutura política ou monárquica e precisam ser conquistados através do próprio mundo.
+- sucessão;
+- eleição;
+- conquista;
+- reconhecimento;
+- política;
+- criação de um Estado;
+- outros acontecimentos do mundo.
 
 Portanto:
 
-> **Grão-Duque é o maior Título concedido diretamente pela progressão normal de Nobre.**
+> **Grão-Duque é o maior Título da progressão normal de Nobre.**
 
-Um personagem pode posteriormente tornar-se Rei ou possuir outro título real, mas isso será consequência de acontecimentos políticos, sucessão, conquista, reconhecimento ou outras circunstâncias narrativas.
+Isso não impede um personagem de futuramente tornar-se Rei ou possuir outra posição equivalente.
 
 ---
 
 # Nobre nas Bases
 
-A Classe Nobre possui forte relação com as [[Base|Bases]] criadas através dos **Núcleos de Base**.
+A Classe possui forte relação com [[Regras/Núcleo de Base|Bases]].
 
 Um Nobre pode utilizar suas capacidades para:
 
 - organizar habitantes;
 - administrar produção;
 - coordenar trabalhadores;
-- estabelecer responsabilidades;
-- organizar expansão;
+- distribuir responsabilidades;
+- comandar grupos;
 - representar politicamente a Base;
-- comandar grupos ligados à Base.
+- organizar expansão;
+- negociar em nome da Base.
 
-Quanto maior e mais desenvolvida a Base, maior pode se tornar a influência de seus Nobres.
+Uma Base pequena não concede automaticamente grande influência.
+
+Conforme ela cresce, aquilo que o Nobre representa também pode crescer.
 
 ---
 
 # Nobre nas Cidades Principais
 
-A Classe Nobre não funciona apenas dentro das Bases dos jogadores.
+Nobre também pode existir dentro de Cidades Principais.
 
-Ela também existe nas **Cidades Principais**, grandes centros estabelecidos e desenvolvidos pelos diferentes povos do mundo.
+Um personagem pode conquistar:
 
-Essas cidades possuem suas próprias estruturas políticas, territórios, autoridades e [[Estátuas de Classe]].
-
-Um Nobre pode conquistar:
-
-- títulos;
 - propriedades;
-- responsabilidades;
-- territórios;
 - cargos;
 - influência;
+- responsabilidades;
+- títulos;
+- territórios;
+- reconhecimento;
 
-dentro dessas cidades.
+dentro da estrutura política de uma cidade.
 
-Entretanto, tornar-se Nobre de uma Cidade Principal **não significa automaticamente governá-la**.
+Isso não significa automaticamente governá-la.
 
-As grandes cidades possuem uma liderança central própria, estabelecida através das estruturas criadas pelos Deuses e posteriormente desenvolvidas pelos povos que vivem nelas.
+As Cidades Principais podem possuir suas próprias:
 
-Um personagem pode tornar-se extremamente importante dentro dessa estrutura sem necessariamente substituir sua autoridade central.
+- autoridades;
+- leis;
+- nobrezas;
+- estruturas políticas;
+- instituições.
+
+O personagem precisa conquistar espaço dentro dessa estrutura.
 
 ---
 
 # Ativas
 
-##### Ordem — Nv.1
+## Ordem | Nv.1
 
-****Descrição:**
+**Descrição:**
 
-O Nobre sabe distribuir tarefas, manter o ritmo do grupo e evitar perda de tempo causada por desorganização durante atividades coletivas.
+O Nobre organiza diretamente um grupo durante uma atividade, distribuindo funções e mantendo o trabalho coordenado.
 
----
+### Requisito
 
-**Efeito:**
+O Nobre precisa:
 
-Ao coordenar diretamente uma equipe sob sua autoridade durante uma **Jornada de Trabalho**, o grupo recebe:
+- possuir autoridade sobre o grupo;
+- estar realmente coordenando a atividade;
+- conseguir transmitir suas instruções.
 
-> **+1 Unidade total de produção**
+### Produção
 
-Esse bônus é aplicado ao resultado final da equipe.
+Durante uma [[Jornada|Jornada de Trabalho]] coordenada pelo Nobre, a produção total da equipe recebe:
+
+> **+1 Unidade**
 
 ### Exemplo
 
 Uma equipe produziria:
 
-> 18 Unidades de Madeira
+> **18 Madeira**
 
 Com Ordem:
 
-> **19 Unidades de Madeira**
+> **19 Madeira**
 
 ---
 
-**Atividades por Tempo:**
+### Atividades por Tempo
 
-Caso a atividade não produza Unidades e seja determinada principalmente por tempo, como:
+Caso a atividade utilize Horas de Progresso:
 
-- Construção.
-    
-- Transporte.
-    
-- Reparos.
-    
-- Escavação.
-    
-- Montagem.
-    
+> **+30 minutos de progresso por Jornada**
 
-a equipe recebe:
+Uma Jornada de:
 
-> **+30 minutos de progresso adicional por Jornada de Trabalho**
+> **6 horas**
+
+gera:
+
+> **6 horas e 30 minutos de progresso**
 
 ---
 
-**Limitações:**
+### Limitações
 
-- O Nobre precisa possuir autoridade sobre a equipe.
-    
-- O bônus é aplicado ao grupo inteiro, não a cada trabalhador.
-    
+- O bônus pertence ao grupo inteiro.
+- Não é aplicado individualmente a cada trabalhador.
 - Vários usos de Ordem sobre a mesma equipe não acumulam.
-    
-- Não cria recursos além da quantidade disponível.
-    
-- O Nobre precisa estar realmente coordenando a atividade.
+- O Nobre precisa coordenar a atividade.
+- Não cria recursos inexistentes.
+- Continua limitado pela fonte disponível.
 
 ---
 
-##### Discurso Motivador — Nv.1
+## Discurso Motivador | Nv.1
 
-**Descrição:**  
-Antes de um confronto, o Nobre reúne aqueles sob sua liderança e utiliza sua presença, autoridade e capacidade de comunicação para prepará-los para aquilo que está por vir.
+**Descrição:**
 
-**Efeito:**
-
-Personagens afetados recebem:
-
-> **+2 em todos os testes, [[Defesa|Defesas]] e [[Ataque|Ataques]]**
-
-O efeito permanece:
-
-> **até o fim do combate para o qual o discurso foi realizado.**
+Antes de um confronto, o Nobre reúne aqueles sob sua liderança e prepara o grupo mentalmente para aquilo que está por vir.
 
 ### Requisito
 
-Discurso Motivador precisa ser realizado **antes do início do combate**.
+Discurso Motivador precisa ser realizado:
 
-Ele não pode ser ativado no meio de um confronto já iniciado.
+> **antes do início do confronto.**
 
-Os personagens também precisam ser capazes de compreender o discurso e estar dentro do limite da **Hierarquia** do Nobre.
+Os personagens precisam:
 
-**Custo:**
-
-> **Sem custo.**
+- compreender o Nobre;
+- ouvir ou receber adequadamente a mensagem;
+- fazer parte de sua Hierarquia.
 
 ---
 
-##### Avaliar — Nv.1
+### Efeito
 
-**Descrição:**  
-O Nobre observa uma pessoa e utiliza sua experiência com comportamento, autoridade e relações sociais para tentar compreender algo relevante sobre ela.
+Até o fim daquele confronto, os membros afetados recebem:
 
-**Efeito:**  
-Permite descobrir:
+> **+2 em Ataques**
 
-> **1 informação relevante e observável sobre o indivíduo.**
+> **+2 em Testes**
 
-Essa informação depende daquilo que pode ser percebido ou deduzido naquele momento.
+e:
 
-Pode revelar, por exemplo:
+> **+2 em todas as Defesas**
 
-- comportamento;
-- aparente posição social;
+O bônus de [[Regras/Ataque|Ataque]] funciona como:
+
+> **Modificador de [[Regras/Precisão|Precisão]]**
+
+Ele não aumenta [[Regras/Proficiência|Proficiência]], Conjuração ou outra Base de Precisão permanentemente.
+
+O bônus de [[Regras/Defesa|Defesa]] aumenta normalmente:
+
+- Defesa Física;
+- Defesa Mágica;
+- Defesa Mental;
+- Defesa Biológica;
+- Defesa Espiritual.
+
+---
+
+### Limite
+
+A quantidade máxima de pessoas afetadas é determinada por:
+
+> **Hierarquia**
+
+Discurso Motivador aplica-se apenas ao confronto para o qual foi preparado.
+
+Um discurso realizado pela manhã não concede automaticamente o bônus para todos os combates do dia.
+
+### Custo
+
+> **Sem custo de recurso.**
+
+O personagem precisa apenas possuir tempo e condições para realizar o discurso antes do conflito.
+
+---
+
+## Avaliar | Nv.1
+
+**Descrição:**
+
+O Nobre observa comportamento, postura, vestimentas, símbolos e relações sociais para tentar compreender informações relevantes sobre uma pessoa.
+
+### Teste
+
+Quando a informação não for evidente, utiliza:
+
+> **Dado + Percepção + Modificadores**
+
+A Dificuldade depende daquilo que o Nobre tenta perceber.
+
+Outras Perícias podem ser utilizadas quando uma regra específica determinar.
+
+---
+
+### Resultado
+
+Um sucesso pode revelar:
+
+> **1 informação relevante que possa ser observada ou razoavelmente deduzida.**
+
+Exemplos:
+
+- posição social aparente;
 - estado emocional perceptível;
 - sinais de autoridade;
+- riqueza aparente;
+- postura militar;
 - insegurança;
-- intenção aparente;
-- experiência;
-- sinais visíveis de riqueza ou pobreza;
-- postura diante de determinado grupo.
+- desconforto;
+- comportamento incomum;
+- relação aparente com determinado grupo;
+- experiência visível.
 
-Avaliar **não lê pensamentos**.
+---
 
-Também não permite simplesmente abrir ou visualizar a ficha do alvo.
+### Limitações
 
-O Mestre determina qual informação pode ser razoavelmente obtida a partir da situação.
+Avaliar:
+
+- não lê pensamentos;
+- não revela ficha;
+- não informa automaticamente Nível;
+- não revela Classe automaticamente;
+- não descobre segredos sem sinais;
+- não transforma suspeita em certeza absoluta.
+
+A informação precisa possuir algum indício que possa ser observado ou deduzido.
 
 ### Custo
 
@@ -320,240 +549,316 @@ Fora de combate:
 
 Durante combate:
 
-> **1 [[Pontos de Ação|PA]].**
+> **1 PA**
+
+---
 
 # Passivas
 
-##### Hierarquia — Nv.1
+## Hierarquia | Nv.1
 
-**Descrição:**  
-O Nobre consegue organizar pessoas dentro de uma estrutura sob sua liderança, permitindo que elas recebam os benefícios concedidos por suas habilidades de Classe.
+**Descrição:**
 
-Qualquer personagem pode tentar liderar, comandar ou organizar quantas pessoas conseguir através de autoridade, reputação, posição política ou outros meios.
+O Nobre consegue organizar determinadas pessoas dentro de uma estrutura formal sob sua liderança.
 
-A **Hierarquia não limita quantas pessoas o Nobre pode comandar**.
+Hierarquia determina quantas pessoas podem receber simultaneamente os benefícios mecânicos da Classe Nobre.
 
-Ela determina quantas pessoas podem ser **afetadas simultaneamente pelos benefícios da Classe Nobre**.
+### Capacidade
 
-**Efeito no Nv.1:**
+No Nv.1:
 
-> **Até 20 pessoas podem fazer parte da Hierarquia ativa do Nobre.**
+> **20 pessoas**
 
-Essas pessoas podem receber benefícios provenientes de Habilidades e Passivas do Nobre que indiquem funcionar através de sua Hierarquia.
-
-**Exemplo:**
-
-> Um Nobre possui 150 soldados sob seu comando.
-> 
-> Ele continua podendo dar ordens aos 150 normalmente.
-> 
-> Entretanto, se sua Hierarquia comporta apenas 20 pessoas, somente 20 delas podem receber os benefícios mecânicos concedidos pelas habilidades da Classe Nobre.
-
-A Hierarquia pode aumentar conforme essa Passiva evolui.
+podem fazer parte da Hierarquia ativa.
 
 ---
 
-##### Administrador — Nv.1
+### Hierarquia não limita comando
 
-****Descrição:**
+O Nobre pode possuir autoridade narrativa ou política sobre muito mais pessoas.
 
-O Nobre sabe organizar trabalhadores, distribuir funções, reduzir desperdícios e manter uma operação produtiva funcionando de forma mais eficiente.
+Por exemplo:
+
+> Um Nobre pode comandar 150 soldados.
+
+Isso continua sendo possível.
+
+Porém, com Hierarquia Nv.1:
+
+> **apenas 20 deles podem receber simultaneamente os benefícios mecânicos da Classe Nobre.**
 
 ---
 
-**Efeito:**
+### Integrantes
 
-No início de uma **Jornada de Trabalho**, escolha uma atividade produtiva ou de extração que esteja diretamente sob sua administração.
+Para fazer parte da Hierarquia, a pessoa precisa possuir alguma relação real com a estrutura comandada pelo Nobre.
 
-Ao final da Jornada, essa atividade recebe:
+Pode ser, por exemplo:
+
+- subordinado;
+- soldado;
+- servo;
+- funcionário;
+- oficial;
+- cidadão sob sua administração;
+- membro de uma organização apropriada.
+
+Um desconhecido não entra automaticamente na Hierarquia apenas porque o Nobre deseja conceder-lhe um bônus.
+
+---
+
+## Administrador | Nv.1
+
+**Descrição:**
+
+O Nobre sabe distribuir trabalhadores, organizar funções e reduzir desperdícios dentro de uma operação produtiva.
+
+### Efeito
+
+No início de uma [[Jornada|Jornada de Trabalho]], escolhe:
+
+> **1 operação produtiva sob sua administração.**
+
+Ao final da Jornada, a operação recebe:
 
 > **+2 Unidades totais de produção**
 
-O bônus é aplicado ao resultado final da operação, e não individualmente a cada trabalhador.
-
 ### Exemplo
 
-Cinco Mineiros produziriam juntos:
+Uma operação produz:
 
-> 25 Unidades de Pedra
+> **25 Pedra**
 
 Com Administrador:
 
-> **27 Unidades de Pedra**
+> **27 Pedra**
 
 ---
 
-**Limitações:**
+### Atividades por Tempo
 
-- Afeta apenas uma atividade ou operação por Jornada.
-    
-- O Nobre precisa possuir autoridade sobre os trabalhadores envolvidos.
-    
-- O bônus não é aplicado individualmente a cada trabalhador.
-    
-- Vários Nobres utilizando Administrador sobre a mesma operação não acumulam o benefício.
-    
-- Não cria recursos além do disponível na fonte explorada.
+Caso a operação não produza Unidades e utilize Horas de Progresso:
+
+> **+1 hora de progresso por Jornada**
 
 ---
 
-##### Presença de Liderança — Nv.1
+### Limitações
 
-**Descrição:**  
-A presença do Nobre torna grupos organizados mais coordenados, pois seus integrantes sabem quem está tomando decisões e conseguem agir seguindo uma direção comum.
-
-**Efeito:**
-
-Pessoas afetadas por sua **Hierarquia** recebem:
-
-> **+1 em testes realizados como parte de uma ação coordenada pelo Nobre.**
-
-O bônus não se aplica simplesmente porque o Nobre está próximo.
-
-A ação precisa realmente fazer parte de uma atividade organizada ou coordenada por ele.
-
-**Exemplo:**
-
-> Um grupo tenta erguer uma estrutura pesada em conjunto.
-> 
-> Se estiver realizando a tarefa sob a coordenação do Nobre, os participantes afetados por sua Hierarquia podem receber o bônus.
-
-Outro exemplo:
-
-> Um grupo organiza rapidamente uma barricada seguindo as instruções do Nobre.
-
-A Passiva pode ajudar nos testes envolvidos naquela atividade.
-
-Por outro lado:
-
-> Um membro da Hierarquia decide sozinho escalar uma parede.
-
-A presença do Nobre não concede automaticamente +1 ao teste, pois aquela ação não faz parte de uma atividade coordenada por ele.
+- Afeta apenas uma operação por Jornada.
+- O Nobre precisa possuir autoridade real sobre ela.
+- O benefício pertence à operação, não a cada trabalhador.
+- Vários Nobres não acumulam Administrador sobre a mesma operação.
+- Não cria recursos inexistentes.
+- Continua limitado pela fonte e capacidade da atividade.
 
 ---
 
-##### Autoridade — Nv.1
+## Presença de Liderança | Nv.1
 
-**Descrição:**  
-A autoridade de um Nobre não depende apenas de sua capacidade pessoal de falar.
+**Descrição:**
 
-Ela também é influenciada pelo **poder, reputação e importância daquilo que ele representa**.
+Quando pessoas estão realmente seguindo a coordenação do Nobre, suas ações tornam-se mais organizadas.
 
-Um Nobre vindo de uma pequena comunidade recém-formada não possui naturalmente o mesmo peso político que um representante de uma grande cidade, reino ou aliança conhecida.
+### Efeito
 
-**Efeito:**
+Membros da Hierarquia recebem:
 
-Quando o Nobre estiver agindo oficialmente em nome de uma [[Base]], cidade, território, reino, aliança ou outra estrutura que realmente represente, sua autoridade pode conceder bônus em interações sociais relacionadas àquela posição.
+> **+1 em Testes realizados como parte de uma ação diretamente coordenada pelo Nobre.**
 
-Esse bônus pode afetar testes como:
+### Exemplos
+
+Pode funcionar quando o grupo:
+
+- ergue uma estrutura em conjunto;
+- prepara uma barricada;
+- movimenta uma carga pesada;
+- executa uma formação planejada;
+- realiza uma operação coordenada;
+- cumpre uma tarefa dividida pelo Nobre.
+
+---
+
+### Não funciona automaticamente
+
+Estar próximo ao Nobre não é suficiente.
+
+Se um membro da Hierarquia realizar sozinho uma ação independente:
+
+> **não recebe o bônus.**
+
+A ação precisa fazer parte da coordenação do Nobre.
+
+---
+
+## Autoridade | Nv.1
+
+**Descrição:**
+
+A influência de um Nobre não depende apenas de sua capacidade pessoal de falar.
+
+Também depende da força daquilo que ele representa.
+
+Um Fidalgo de uma pequena comunidade recém-formada não possui o mesmo peso político que um representante de uma grande cidade ou aliança.
+
+---
+
+### Efeito
+
+Quando agir oficialmente em nome de uma estrutura que realmente represente, sua posição pode modificar interações sociais relacionadas àquela autoridade.
+
+Isso pode afetar testes envolvendo:
 
 - Persuasão;
 - Intimidação;
-- Lábia;
+- Liderança;
 - negociações;
 - diplomacia;
 - exigências;
 - acordos;
-- outras interações em que sua posição seja relevante.
-
-### Força da Autoridade
-
-O bônus de Autoridade **não possui um valor universal fixo**.
-
-Ele depende da força e reputação da estrutura representada.
-
-**Exemplo:**
-
-> Um Fidalgo representando uma pequena [[Base]] desconhecida pode possuir pouca influência ao negociar com uma grande cidade.
-
-Enquanto:
-
-> Um Nobre representando uma poderosa aliança comercial conhecida em toda a região pode possuir enorme peso durante a mesma negociação.
-
-A autoridade também depende de **com quem o Nobre está falando**.
-
-Uma organização pode respeitar profundamente determinado reino, enquanto outra pode odiá-lo ou simplesmente não reconhecer sua autoridade.
-
-Portanto, o Mestre determina o bônus ou influência de Autoridade considerando:
-
-> **quem o Nobre representa + reputação dessa estrutura + situação + interlocutor.**
-
-### Autoridade não é controle mental
-
-Possuir enorme autoridade não obriga automaticamente alguém a obedecer.
-
-Um Nobre pode representar um poderoso reino e ainda assim encontrar:
-
-- inimigos;
-- rebeldes;
-- pessoas que não reconhecem sua posição;
-- organizações rivais;
-- indivíduos dispostos a sofrer as consequências de desobedecer.
-
-Autoridade representa **peso político e social**, não controle sobre a vontade de outras pessoas.
+- representação política.
 
 ---
 
-# Progressão da Classe
+### Valor da Autoridade
 
-A progressão do **Nobre** ocorre separadamente de seu **Título de Nobreza**.
+Autoridade:
 
-O nível da Classe representa o desenvolvimento das capacidades pessoais do personagem como líder e administrador.
+> **não possui um bônus universal fixo.**
 
-O Título representa sua posição política e territorial no mundo.
+O Mestre determina sua influência considerando:
 
-Portanto:
-
-> **Nível de Classe ≠ Título de Nobreza**
-
-Um Nobre pode desenvolver suas Habilidades e Passivas sem necessariamente aumentar seu título.
-
-Da mesma forma, acontecimentos extraordinários podem alterar sua posição política sem significar que suas capacidades pessoais aumentaram imediatamente.
-
----
-
-# Relação com outras Classes
-
-O Nobre pode futuramente participar dos requisitos de Classes que representem funções de liderança mais especializadas.
-
-Essas Classes podem exigir também uma Classe relacionada à atividade que será comandada.
-
-**Exemplo:**
-
-Uma futura Classe **Comandante**, especializada em controlar e organizar exércitos, poderia exigir:
-
-> **Nobre + uma Classe Combatente apropriada**
-
-Dessa forma, possuir Nobre representa a capacidade de **liderar e exercer autoridade**, enquanto a outra Classe fornece o conhecimento prático necessário para aquela área.
-
-O mesmo princípio pode ser utilizado para outras especializações.
-
-Um Nobre envolvido com comércio, administração, religião, exploração ou outras áreas pode combinar sua experiência com diferentes caminhos de Classe para desbloquear novas possibilidades.
+- reputação da estrutura;
+- poder político;
+- território;
+- economia;
+- força militar;
+- alianças;
+- reconhecimento;
+- relação com o interlocutor;
+- legitimidade do Nobre naquela situação.
 
 ---
 
-# Nobre como Classe Não Combatente
+### Exemplo
 
-Embora possa fornecer benefícios úteis durante conflitos, o **Nobre é considerado uma Classe Não Combatente**.
+Um Fidalgo representa uma pequena Base desconhecida ao negociar com uma grande cidade.
 
-Seu objetivo não é substituir Classes especializadas em combate.
+Sua posição pode oferecer:
 
-Habilidades como **Ordem**, **Discurso Motivador** e **Hierarquia** tornam o Nobre importante para grupos grandes justamente porque ele melhora a capacidade daqueles que estão sob sua liderança.
+> **pouco ou nenhum benefício.**
 
-Um Nobre também pode possuir uma Classe Combatente quando o sistema permitir um slot secundário apropriado, criando combinações capazes de unir **capacidade pessoal e liderança**.
+Mais tarde, a mesma Base torna-se uma potência econômica regional.
+
+O mesmo Nobre, agora reconhecido como representante daquela estrutura, pode possuir:
+
+> **grande peso político.**
 
 ---
 
-# Regra Específica
+### Autoridade não cria poder
 
-Os benefícios do Nobre somente funcionam quando seus requisitos realmente forem cumpridos.
+Autoridade não permite simplesmente declarar:
 
-Possuir a Classe não concede automaticamente:
+> “sou Nobre, então todos devem me obedecer.”
 
-> território, soldados, autoridade política, riqueza, propriedades ou obediência.
+Para que ela exista, também precisam existir no mundo:
 
-Essas coisas precisam existir no mundo.
+- reconhecimento;
+- posição;
+- relações;
+- estrutura;
+- reputação;
+- legitimidade.
 
-Da mesma forma, [[Classes]], títulos, leis, relações políticas, [[Base|Bases]], alianças e outros efeitos podem modificar a forma como a autoridade do personagem funciona.
+Uma organização pode:
+
+- respeitar o título;
+- ignorá-lo;
+- odiar aquilo que ele representa;
+- não reconhecer sua autoridade.
+
+Essas circunstâncias modificam o efeito normalmente.
+
+---
+
+# Ordem, Administrador e Plebeu
+
+Embora Nobre e [[Plebeu]] sejam incompatíveis no mesmo personagem, eles representam duas formas diferentes de melhorar produção.
+
+### Plebeu
+
+Melhora principalmente:
+
+> **o próprio trabalho e a cooperação direta entre trabalhadores.**
+
+### Nobre
+
+Melhora principalmente:
+
+> **a organização de uma operação através de comando e administração.**
+
+Por isso, um grupo pode possuir:
+
+> trabalhadores Plebeus
+
+sob:
+
+> um administrador Nobre.
+
+Os efeitos podem coexistir quando suas próprias regras permitirem.
+
+---
+
+# Nobre e Combate
+
+Nobre não é uma Classe Combatente.
+
+Porém, suas Habilidades podem influenciar confrontos através de:
+
+- preparação;
+- liderança;
+- organização;
+- moral;
+- comando.
+
+Um Nobre que deseje tornar-se combatente pode adquirir outras Classes.
+
+Por exemplo:
+
+> **Nobre + Recruta**
+
+pode representar o início de um líder militar.
+
+A combinação pode futuramente servir como requisito para Classes especializadas em comando.
+
+---
+
+# Evolução
+
+Nobre não precisa possuir uma evolução automática única.
+
+Seus futuros caminhos podem depender de:
+
+- Título;
+- território;
+- função exercida;
+- alianças;
+- outras Classes;
+- acontecimentos políticos.
+
+Possíveis Classes derivadas podem representar funções como:
+
+- comandante;
+- administrador territorial;
+- diplomata;
+- senhor feudal;
+- oficial;
+- estrategista;
+- outras posições apropriadas.
+
+Essas Classes são desbloqueadas conforme os requisitos específicos forem desenvolvidos no mundo.
+
+---
 
 > **Regra específica > regra geral.**

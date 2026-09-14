@@ -1,171 +1,571 @@
-O **Prospector** é uma [[Classes|classe não combatente]] focada em **exploração, reconhecimento de terreno e descoberta de recursos e locais de interesse**.
+O **Prospector** é uma [[Classes|Classe de Trabalho]] especializada em **exploração, reconhecimento de terreno e descoberta de recursos e Pontos de Interesse**.
 
-Diferente do [[Mineiro]], que é especializado na **extração** de recursos minerais, o Prospector é especializado em **encontrar** aquilo que pode ser explorado.
+Diferente do [[Mineiro]], que é especializado em extrair recursos minerais, o Prospector é treinado para:
 
-Seu conhecimento permite analisar terrenos, formações naturais e sinais do ambiente para localizar possíveis depósitos de recursos, fontes de água, áreas férteis, cavernas e outros pontos importantes.
+> **encontrar aquilo que pode ser explorado.**
 
-Também possui experiência em reconhecer sinais de que determinado local pode esconder algo incomum, permitindo encontrar **ruínas, entradas ocultas, ninhos, masmorras, anomalias e outros Pontos de Interesse** que já existam no mundo.
+Seu conhecimento permite analisar relevo, vegetação, solo, formações rochosas, cursos d'água, rastros e alterações no ambiente em busca de sinais que indiquem algo relevante na região.
 
-O Prospector não cria recursos ou locais através de suas habilidades. Ele apenas aumenta sua capacidade de **encontrar aquilo que já existe**.
+Isso pode incluir desde recursos naturais até cavernas, ruínas, ninhos, construções abandonadas, passagens escondidas e outros locais importantes.
 
-É uma classe especialmente útil durante a exploração e expansão de [[Base|Bases]], ajudando grupos a decidir **onde explorar, onde construir e quais regiões possuem maior valor estratégico**.
+O Prospector não cria recursos nem Pontos de Interesse.
+
+> Ele aumenta a capacidade de encontrar aquilo que já existe.
+
+É uma Classe especialmente importante durante exploração territorial e expansão de [[Regras/Núcleo de Base|Bases]], ajudando grupos a descobrir **onde explorar, construir, extrair recursos ou investigar**.
 
 ---
 
-## Afinidades
+# Dados da Classe
+
+- **Tier:** T1
+- **Tipo:** Trabalho
+- **Nível Máximo:** 10
+- **Árvore:** Prospector
+- **Slot Compatível:** Universal ou Trabalho
+
+---
+
+### Resumo
+
+Classe de Trabalho focada em exploração regional, reconhecimento e descoberta.
+
+### O que faz
+
+- Procura recursos naturais
+- Localiza depósitos minerais
+- Encontra fontes de água
+- Analisa características do terreno
+- Procura cavernas e passagens
+- Localiza estruturas e ruínas
+- Identifica sinais de ninhos e criaturas
+- Procura Pontos de Interesse
+- Auxilia na escolha de regiões para exploração e expansão
+
+---
+
+# Bônus de Classe
+
+## Perícias
+
+- +1 [[Atributos Centrais/Intelecto#Percepção|Percepção]]
+- +1 [[Atributos Centrais/Intelecto#Sobrevivência|Sobrevivência]]
+- +1 [[Ofício]]
+- +1 [[Atributos Centrais/Espírito#Sexto Sentido|Sexto Sentido]]
+
+Esses valores são **Bônus de Classe** e não representam investimento natural realizado com PP.
+
+---
+
+# Afinidades do Prospector
 
 - Percepção
 - Sobrevivência
-- Inteligência
-- Sexto Sentido
 - Ofício
+- Sexto Sentido
 - Estratégia
+
+---
+
+# Uso das Perícias
+
+## Percepção
+
+Percepção é a principal Perícia utilizada durante **Prospectar**.
+
+Ela representa a capacidade de notar:
+
+- alterações no terreno;
+- diferenças de vegetação;
+- formações incomuns;
+- rastros;
+- mudanças de coloração;
+- entradas parcialmente escondidas;
+- sinais de água;
+- estruturas;
+- indícios de recursos;
+- outros sinais existentes na região.
+
+Percepção encontra o indício.
+
+> Outras Perícias podem ser necessárias para compreender completamente aquilo que foi encontrado.
+
+---
+
+## Sobrevivência
+
+Sobrevivência representa conhecimento prático sobre ambientes naturais.
+
+Pode auxiliar na interpretação de:
+
+- rastros;
+- cursos d'água;
+- vegetação;
+- terreno;
+- comportamento animal;
+- clima;
+- caminhos naturais;
+- sinais de presença de criaturas.
+
+---
+
+## Ofício
+
+Ofício pode ser utilizado quando a descoberta exigir interpretação técnica.
+
+Pode ajudar a compreender:
+
+- formações minerais;
+- sinais de escavação;
+- qualidade aparente do terreno;
+- estruturas artificiais;
+- características de recursos;
+- sinais de trabalho realizado anteriormente.
+
+Ofício não substitui Percepção durante uma Prospecção.
+
+> Percepção encontra.
+
+> Ofício ajuda a entender.
+
+---
+
+## Sexto Sentido
+
+Sexto Sentido pode ser relevante quando aquilo que está sendo procurado produz sinais que não são puramente físicos.
+
+Pode auxiliar a perceber:
+
+- anomalias;
+- presenças incomuns;
+- alterações sobrenaturais;
+- corrupção;
+- distorções;
+- fenômenos espirituais;
+- outros sinais compatíveis.
+
+Sexto Sentido não revela automaticamente a natureza de um fenômeno.
+
+O Prospector pode perceber:
+
+> **“há algo estranho naquela direção”**
+
+sem necessariamente saber o que existe ali.
 
 ---
 
 # Ativas
 
-### Prospectar — Nv.1
+## Prospectar | Nv.1
 
-**Descrição:**  
-O Prospector realiza uma análise detalhada de uma região, procurando sinais no terreno, vegetação, relevo, solo, formações rochosas e outros elementos que possam indicar recursos ou características importantes do local.
+**Descrição:**
 
-**Efeito:**  
-Permite investigar uma região em busca de informações como:
+O Prospector percorre e analisa uma região durante uma [[Jornada|Jornada de Trabalho]], observando relevo, vegetação, solo, formações rochosas, rastros, estruturas e outros sinais existentes no ambiente.
 
-- possíveis depósitos minerais;
-- fontes de água;
-- qualidade e características do solo;
-- recursos naturais;
-- perigos naturais;
-- áreas adequadas para construção;
-- características relevantes do terreno.
-
-O resultado depende daquilo que **realmente existe na região**.
-
-Prospectar não cria recursos e não garante que algo valioso será encontrado.
-
-Quanto mais difícil for identificar determinada característica, maior poderá ser a dificuldade da análise.
-
-O Mestre pode utilizar [[Dados e Testes]] quando existir incerteza relevante.
-
-### Resultado
-
-Um sucesso normalmente revela a **existência e localização aproximada** daquilo que foi identificado.
-
-A quantidade e precisão das informações obtidas dependem do nível da Habilidade, da dificuldade da descoberta e das condições da exploração.
-
-No Nv.1, o Prospector possui conhecimentos básicos e pode não conseguir identificar recursos extremamente raros, profundamente escondidos ou difíceis de reconhecer.
-
-**Custo:** Nenhum.
-
-**Tempo:** Variável.
-
-O tempo necessário depende do tamanho da região, terreno e profundidade da análise.
+A Habilidade permite procurar deliberadamente por aquilo que possa existir naquela região.
 
 ---
 
-### Explorar Anomalias — Nv.1
+### Tempo
 
-**Descrição:**  
-O Prospector procura sinais de que existe algo incomum ou importante escondido em determinada região.
+Uma utilização de Prospectar exige:
 
-Pegadas, alterações na vegetação, estruturas parcialmente soterradas, correntes de ar, mudanças no terreno, rastros de criaturas ou fenômenos incomuns podem indicar que existe algo que merece investigação.
+> **1 Jornada de exploração**
 
-**Efeito:**  
-Permite procurar por **locais especiais que já existam na região**, como:
+A área que pode ser analisada durante essa Jornada depende de fatores como:
 
-- [[Dungeon|Dungeons]];
-- ruínas;
+- terreno;
+- vegetação;
+- visibilidade;
+- obstáculos;
+- velocidade de deslocamento;
+- tamanho da região;
+- condições ambientais.
+
+O Mestre determina qual área pode ser realisticamente analisada durante aquela Jornada.
+
+---
+
+### Teste
+
+No Nv.1, enquanto estiver utilizando Prospectar, recebe:
+
+> **+2 Percepção**
+
+exclusivamente para os testes realizados através desta Habilidade.
+
+Quando houver algo cuja descoberta seja incerta:
+
+> **Dado + Percepção + 2 + Modificadores**
+
+contra:
+
+> **Dificuldade da descoberta**
+
+O dado utilizado segue normalmente [[Dados e Testes]].
+
+O +2 pertence à Habilidade e não aumenta permanentemente a Percepção do personagem.
+
+---
+
+# Tipo de Prospecção
+
+Antes de iniciar a Jornada, o Prospector pode realizar uma:
+
+> **Busca Direcionada**
+
+ou:
+
+> **Busca Geral**
+
+---
+
+## Busca Direcionada
+
+O Prospector declara aquilo que está tentando encontrar.
+
+Exemplos:
+
+- minério;
+- água;
+- plantas;
+- plantas mágicas;
 - cavernas;
-- ninhos de monstros;
-- estruturas escondidas;
+- construções;
+- ruínas;
+- ninhos;
+- passagem;
+- área fértil;
+- determinado tipo de recurso.
+
+A investigação concentra-se principalmente em sinais relacionados ao objetivo escolhido.
+
+Isso não significa que o recurso exista naquela região.
+
+> Prospectar nunca cria aquilo que está sendo procurado.
+
+---
+
+## Busca Geral
+
+O Prospector realiza uma análise ampla da região procurando:
+
+> **qualquer elemento relevante que consiga identificar.**
+
+Nesse caso, o Mestre determina aquilo que realmente existe na área e suas respectivas Dificuldades.
+
+### Exemplo
+
+Uma região pode possuir:
+
+> Fonte de água ........ **Dificuldade 10**  
+> Caverna .............. **Dificuldade 13**  
+> Depósito de Ferro .... **Dificuldade 16**  
+> Ruína soterrada ....... **Dificuldade 21**
+
+O Prospector realiza seu teste normalmente.
+
+Se o resultado final for:
+
+> **17**
+
+ele consegue encontrar:
+
+> Fonte de água  
+> Caverna  
+> Depósito de Ferro
+
+mas não encontra:
+
+> Ruína soterrada
+
+porque sua Dificuldade era 21.
+
+---
+
+# O que pode ser encontrado
+
+Prospectar pode revelar elementos como:
+
+### Recursos
+
+- depósitos minerais;
+- pedras;
+- madeira relevante;
+- plantas úteis;
+- plantas mágicas;
+- fontes de água;
+- áreas férteis;
+- outros recursos naturais.
+
+### Terreno
+
+- cavernas;
+- desfiladeiros;
 - passagens;
+- áreas instáveis;
+- rotas naturais;
+- regiões adequadas para construção;
+- características estratégicas do terreno.
+
+### Presença de Criaturas
+
+- rastros;
+- ninhos;
+- tocas;
+- áreas de caça;
+- sinais de monstros;
+- regiões frequentadas por determinadas criaturas.
+
+### Estruturas
+
+- ruínas;
+- construções abandonadas;
+- estradas antigas;
+- túneis;
+- entradas escondidas;
+- estruturas parcialmente soterradas.
+
+### Pontos de Interesse
+
+- Dungeons;
 - anomalias;
-- outros Pontos de Interesse.
-
-> **A habilidade nunca cria um Ponto de Interesse.**
-
-Se não existir nada naquela região, não existe chance de a habilidade fazer algo aparecer.
-
-### Descoberta
-
-Quando houver algo que possa ser encontrado, a chance de descoberta depende de:
-
-> **nível da Habilidade + dificuldade do local + condições da exploração**
-
-O Mestre determina o teste apropriado seguindo [[Dados e Testes]].
-
-No Nv.1, o Prospector consegue encontrar principalmente locais cuja dificuldade seja compatível com seu nível de conhecimento.
-
-Um local extremamente bem escondido pode simplesmente estar **além da capacidade atual do personagem**, tornando-se possível encontrá-lo apenas depois de desenvolver suficientemente a Habilidade ou obter outros meios de investigação.
-
-### Informações obtidas
-
-Encontrar um local não significa conhecer tudo sobre ele.
-
-No Nv.1, normalmente é possível descobrir:
-
-> **que algo existe + sua localização aproximada**
-
-Informações mais detalhadas podem exigir:
-
-- aproximação;
-- investigação;
-- exploração direta;
-- níveis superiores da Habilidade;
-- outras Habilidades ou conhecimentos.
-
-**Custo:** Nenhum.
-
-**Tempo:** Variável.
-
----
-
-# Passiva
-
-### Olhar de Prospector — Nv.1
-
-**Descrição:**  
-A experiência do Prospector faz com que pequenos detalhes do ambiente chamem sua atenção naturalmente.
-
-Formações incomuns, alterações no solo, sinais de recursos e características estranhas do terreno tornam-se mais fáceis de perceber.
-
-**Efeito:**  
-Recebe:
-
-> **+3 [[Percepção]]**
-
-em testes especificamente relacionados a identificar:
-
-- recursos naturais;
-- características importantes do terreno;
-- sinais de depósitos;
 - locais incomuns;
-- Pontos de Interesse;
-- indícios relacionados à exploração.
-
-O bônus não aumenta toda e qualquer utilização de Percepção.
-
-**Exemplo:**
-
-> Perceber alguém escondido atrás de uma porta → **não recebe o bônus.**
-> 
-> Perceber que uma formação rochosa possui sinais de uma passagem escondida → **pode receber o bônus.**
+- fenômenos estranhos;
+- outros Pontos de Interesse existentes no mundo.
 
 ---
 
-# Função do Prospector
+# Resultado da Descoberta
 
-A principal diferença entre algumas Classes de exploração e produção fica:
+Um sucesso normalmente revela:
 
-> **[[Prospector]] encontra.**  
-> **[[Mineiro]] extrai minerais.**  
-> **[[Lenhador]] extrai recursos florestais.**  
-> **[[Agricultor]] desenvolve cultivos.**
+> **que algo existe**
 
-Isso permite que as Classes trabalhem juntas sem uma substituir a função da outra.
+e:
 
-Um Prospector pode encontrar um grande depósito de minério, mas isso **não faz dele um Mineiro competente**.
+> **sua localização aproximada.**
 
-Da mesma forma, um Mineiro pode ser extremamente eficiente extraindo um depósito que já encontrou, mas não possui automaticamente a capacidade especializada do Prospector para localizar novos depósitos.
+Isso não significa conhecer automaticamente todas as suas propriedades.
+
+Encontrar um depósito mineral não informa necessariamente:
+
+- quantidade exata;
+- qualidade;
+- profundidade total;
+- composição completa.
+
+Encontrar uma ruína não revela automaticamente:
+
+- quem a construiu;
+- o que existe dentro;
+- se possui armadilhas;
+- sua história.
+
+Encontrar uma planta mágica não significa automaticamente conhecer:
+
+- suas propriedades;
+- cultivo;
+- toxicidade;
+- utilização.
+
+Outras Perícias, Habilidades ou investigação direta podem ser necessárias.
+
+---
+
+# Dificuldade
+
+Cada elemento existente na região possui sua própria:
+
+> **Dificuldade de Descoberta**
+
+Ela pode variar conforme fatores como:
+
+- tamanho;
+- profundidade;
+- distância;
+- ocultação;
+- quantidade;
+- sinais deixados no ambiente;
+- terreno;
+- vegetação;
+- clima;
+- raridade;
+- natureza sobrenatural.
+
+Um grande lago exposto pode possuir Dificuldade baixa.
+
+Um pequeno veio mineral enterrado profundamente pode possuir Dificuldade alta.
+
+Uma ruína completamente soterrada pode estar além da capacidade atual do Prospector.
+
+---
+
+# Limites do Nv.1
+
+Prospectar Nv.1 representa treinamento básico.
+
+Mesmo com um resultado alto, certas descobertas podem exigir:
+
+- nível superior da Habilidade;
+- equipamento apropriado;
+- conhecimento especializado;
+- acesso a determinada área;
+- capacidades sobrenaturais;
+- outro método específico.
+
+Um personagem não consegue encontrar algo através de sinais que ele fisicamente ou sobrenaturalmente não possui qualquer forma de detectar.
+
+> **Um resultado alto não transforma o impossível em possível.**
+
+---
+
+# Passivas
+
+## Olhar de Prospector | Nv.1
+
+**Descrição:**
+
+O Prospector aprende a interpretar rapidamente aquilo que descobre durante suas explorações.
+
+Pequenas características que seriam apenas detalhes para outras pessoas tornam-se informações úteis para ele.
+
+### Efeito
+
+Sempre que identificar com sucesso algo através de **Prospectar**, o Mestre pode fornecer também:
+
+> **1 informação prática adicional**
+
+que possa ser determinada através dos sinais disponíveis.
+
+### Exemplos
+
+Ao encontrar um depósito mineral, pode perceber:
+
+> que ele parece pequeno, médio ou grande.
+
+Ao encontrar uma caverna:
+
+> que existem sinais recentes de passagem.
+
+Ao encontrar uma fonte de água:
+
+> que o fluxo parece permanente ou temporário.
+
+Ao encontrar uma construção:
+
+> que ela parece antiga ou relativamente recente.
+
+Ao encontrar uma área de floresta:
+
+> que determinada região possui árvores significativamente diferentes das demais.
+
+### Limitações
+
+Olhar de Prospector não concede informação impossível.
+
+Ele não revela automaticamente:
+
+- números exatos;
+- propriedades mágicas desconhecidas;
+- conteúdo interno de uma estrutura;
+- identidade de criaturas nunca vistas;
+- história de uma ruína;
+- aquilo que não possui qualquer sinal perceptível.
+
+A informação adicional deve vir:
+
+> **daquilo que o Prospector realmente conseguiu observar.**
+
+---
+
+# Prospector e Outras Classes
+
+As Classes de exploração e produção possuem funções diferentes.
+
+> **Prospector encontra.**
+
+> **[[Mineiro]] extrai minerais e trabalha formações rochosas.**
+
+> **[[Lenhador]] extrai e trabalha recursos florestais.**
+
+> **[[Agricultor]] desenvolve e colhe cultivos.**
+
+Encontrar um recurso não concede automaticamente capacidade especializada para extraí-lo.
+
+Da mesma forma, saber extrair um recurso não concede automaticamente treinamento para encontrá-lo em uma região inteira.
+
+---
+
+# Prospector e Mineiro
+
+Essa diferença é especialmente importante entre Prospector e Mineiro.
+
+### Prospector
+
+Procura pela região:
+
+- depósitos;
+- cavernas;
+- recursos;
+- estruturas;
+- locais de interesse.
+
+### Mineiro
+
+Trabalha diretamente:
+
+- rochas;
+- depósitos já acessíveis;
+- minérios;
+- escavações;
+- formações minerais.
+
+Por isso:
+
+> **Leitura da Rocha não substitui Prospectar.**
+
+e:
+
+> **Prospectar não substitui Extração Mineral.**
+
+As duas Classes podem trabalhar juntas.
+
+---
+
+# Classe de Trabalho
+
+Prospector é uma:
+
+> **Classe de Trabalho**
+
+Sua progressão é dedicada principalmente à exploração e descoberta.
+
+Isso não impede que o personagem:
+
+- participe de combates;
+- explore Dungeons;
+- possua Classes de Combate;
+- desenvolva outras capacidades.
+
+A classificação apenas determina a função principal da Classe.
+
+---
+
+# Evolução
+
+As futuras Evoluções do Prospector podem especializar diferentes formas de exploração.
+
+Possíveis caminhos podem envolver:
+
+- exploração territorial;
+- busca de recursos raros;
+- cartografia;
+- reconhecimento de regiões perigosas;
+- descoberta de estruturas antigas;
+- investigação de anomalias;
+- exploração subterrânea.
+
+As Evoluções específicas são definidas conforme forem encontradas ou desenvolvidas no mundo.
+
+> **Regra específica > regra geral.**

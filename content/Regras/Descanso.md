@@ -106,7 +106,7 @@ Machucados pequenos podem desaparecer rapidamente.
 Ferimentos graves podem exigir:
 
 - tratamento;
-- Medicina;
+- [[Atributos Centrais/Intelecto#Medicina|Medicina]];
 - medicamentos;
 - repouso adequado;
 - vários dias de recuperação;
@@ -168,7 +168,7 @@ Primeiro ele precisa ser tratado.
 
 Depois disso, o personagem poderá utilizar Descanso para recuperar as consequências do ferimento.
 
-Isso também é especialmente importante para personagens em [[Vida|Coma]], pois ferimentos que continuam causando perda de Vida impedem o teste normal para despertar enquanto permanecerem ativos.
+Isso também é especialmente importante para personagens em [[Regras/Vida#Coma|Coma]], pois ferimentos que continuam causando perda de Vida impedem o teste normal para despertar enquanto permanecerem ativos.
 
 ---
 

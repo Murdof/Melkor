@@ -1,208 +1,294 @@
-O **Arqueiro Arcano** é uma Classe de Tier 3 que une o domínio avançado da arquearia com a manipulação direta da magia.
+O **Arqueiro Arcano** é uma [[Classes|Classe Tier 3]] que une **arquearia avançada e manipulação direta da magia**.
 
-Seu arco deixa de funcionar apenas como uma arma e passa a atuar como um foco mágico, permitindo condensar Mana sobre a própria corda para criar **Flechas Arcanas** sem necessidade de munição física. Esses projéteis podem ter sua estrutura alterada antes ou depois do disparo, recebendo propriedades capazes de modificar trajetória, atravessar obstáculos, perseguir inimigos, dividir-se, carregar efeitos mágicos ou permanecer no campo como pontos de conexão.
+Seu arco deixa de funcionar apenas como uma arma e passa a atuar também como um **Foco Mágico**, permitindo condensar [[Mana]] sobre a própria corda para criar **Flechas Arcanas** sem utilizar munição física.
 
-O Arqueiro Arcano também consegue utilizar suas flechas como extensões da própria magia. Um disparo pode transportar uma conjuração até seu ponto de impacto, estabelecer Âncoras Arcanas pelo campo ou criar rotas pelas quais outros projéteis podem ser guiados.
+Esses projéteis podem ser modificados antes ou durante o disparo, adquirindo propriedades capazes de:
 
-Quanto maior seu domínio sobre uma região, mais difícil se torna escapar de seus ataques. Flechas deixadas em paredes, estruturas e terrenos deixam de representar disparos perdidos e passam a formar uma rede mágica que amplia sua mobilidade, percepção e controle sobre o campo de batalha.
+- alterar trajetória;
+- atravessar matéria;
+- perseguir inimigos;
+- dividir-se;
+- carregar magia;
+- prender criaturas;
+- romper proteções mágicas;
+- estabelecer pontos de conexão pelo campo.
 
-Flechas físicas continuam podendo ser utilizadas normalmente e permanecem importantes quando possuem materiais, venenos, encantamentos ou propriedades especiais. Entretanto, enquanto possuir **um arco e Mana**, o Arqueiro Arcano nunca está verdadeiramente sem munição.
+O Arqueiro Arcano também aprende a utilizar suas flechas como extensões de suas próprias conjurações.
+
+Um disparo pode transportar uma magia até seu ponto de impacto, estabelecer uma [[#Âncora Arcana \| Nv.1|Âncora Arcana]] ou tornar-se parte de uma rede utilizada para controlar uma região inteira.
+
+Flechas físicas continuam válidas e podem continuar sendo importantes quando possuem:
+
+- materiais especiais;
+- venenos;
+- encantamentos;
+- mecanismos;
+- propriedades únicas.
+
+Entretanto:
+
+> **enquanto possuir um arco e Mana, o Arqueiro Arcano pode produzir sua própria munição.**
 
 ---
 
-### Bônus
+# Dados da Classe
 
-- +100 Vida
-- +250 Mana
-- +150 Estamina
+- **Tier:** T3
+- **Tipo:** Combate / Magia
+- **Nível Máximo:** 40
+- **Requisito:** Arqueiro Nv.20 + Feiticeiro Nv.20
+- **Especialização:** Arquearia Mágica
+
+---
+
+# Identidade da Classe
+
+O Arqueiro Arcano utiliza dois métodos principais.
+
+### Disparos
+
+Ataques realizados através do arco utilizam normalmente:
+
+> **[[Regras/Proficiência|Proficiência]] Efetiva da arma**
+
+Portanto:
+
+> **Dado + Proficiência Efetiva + Modificadores**
+
+### Manipulação Mágica
+
+Quando uma Habilidade exigir manipulação direta da magia, utiliza:
+
+> **Conjuração**
+
+Portanto:
+
+> **Dado + Conjuração + Modificadores**
+
+A Classe não transforma Proficiência em Conjuração nem Conjuração em Proficiência.
+
+> **O arco determina a competência do disparo.**
+
+> **Conjuração determina o controle da magia.**
+
+---
+
+# Bônus do Arqueiro Arcano
+
+## Reservas
+
+- +100 [[Vida]]
+- +250 [[Mana]]
+- +150 [[Estamina]]
+
+## Regeneração
+
 - +25 Regeneração de Mana
 - +20 Regeneração de Estamina
-- +8 Precisão Longo Alcance
-- +6 Precisão Mágica
-- +5 Agilidade
-- +5 Dano Longo Alcance
-- +5 Dano Mágico
-- +4 Percepção
+
+## Perícias
+
+- +5 [[Atributos Centrais/Destreza#Agilidade|Agilidade]]
+- +4 [[Atributos Centrais/Intelecto#Percepção|Percepção]]
 - +3 Estratégia
-- +3 Defesa Mágica
+- +4 Conjuração
+- +2 Arcanismo
+
+Esses valores são **Bônus de Classe** e não representam investimento natural realizado através de PP.
+
+## Defesas
+
+- +3 [[Regras/Defesa|Defesa]] Mágica
 
 ---
 
-### Afinidades — Arqueiro Arcano
+# Afinidades
 
 - Mana
 - Regeneração de Mana
 - Estamina
 - Regeneração de Estamina
-- Dano Longo Alcance
-- Dano Mágico
-- Precisão Longo Alcance
-- Precisão Mágica
 - Defesa Mágica
 - Agilidade
 - Percepção
 - Estratégia
+- Conjuração
+- Arcanismo
+- Encantamento
+- Telecinese
+
+---
+
+# Modificações Arcanas
+
+Algumas Habilidades desta Classe possuem a classificação:
+
+> **Modificação Arcana**
+
+Uma Modificação Arcana altera um disparo já existente.
+
+Por padrão:
+
+- utiliza o mesmo [[Regras/Ataque|Ataque]];
+- utiliza o mesmo PA do Ataque;
+- paga seu próprio custo de Mana;
+- não substitui a Base de [[Regras/Precisão|Precisão]] do disparo.
+
+[[#Construção Arcana \| Nv.1|Construção Arcana]] determina quantas Modificações podem existir simultaneamente na mesma Flecha Arcana.
 
 ---
 
 # Ativas
 
-##### Sobrecarga Arcana — Nv.1
+## Sobrecarga Arcana | Nv.1
 
-**Descrição:**
+**Modificação Arcana**
 
-O Arqueiro Arcano concentra uma quantidade adicional de Mana no projétil antes do disparo, fazendo com que a flecha libere energia mágica ao atingir seu alvo.
+O Arqueiro concentra energia adicional dentro do projétil, fazendo com que Mana seja liberada no momento do impacto.
 
 Pode ser utilizada com:
 
 - Flecha Arcana;
-- Flecha física.
+- flecha física.
 
 ### Efeito
 
-Ao realizar um Ataque com arco, pode adicionar:
+Ao acertar o Ataque:
 
-> **+25 de Dano Mágico**
+> **+25 de [[Regras/Dano|Dano]] Mágico**
 
-ao Dano normal do disparo.
+é causado além do Dano normal do disparo.
 
-O ataque continua causando normalmente seu Dano original.
+O Dano original continua utilizando seu tipo normal.
 
-Caso uma flecha cause Dano Físico:
+### Exemplo
 
-> o Dano Físico é reduzido pela Defesa Física;
+Uma flecha causa:
+
+> 30 Dano Físico
+
+Sobrecarga acrescenta:
+
+> 25 Dano Mágico
+
+O alvo resolve separadamente:
+
+> Dano Físico contra Defesa Física
 
 e:
 
-> o Dano Mágico adicional é reduzido pela Defesa Mágica.
+> Dano Mágico contra Defesa Mágica
 
 ### Custo
 
-> +20 Mana ao custo normal do Ataque.
+> **+20 Mana**
 
 ### PA
 
-Utiliza o mesmo PA do Ataque.
-
-Sobrecarga Arcana é considerada uma:
-
-> **Modificação Arcana**
+> **Sem PA adicional.**
 
 ---
 
-##### Flecha Perseguidora — Nv.1
+## Flecha Perseguidora | Nv.1
 
-**Descrição:**
+**Modificação Arcana**
 
-O Arqueiro mantém controle telecinético sobre a flecha após o disparo, corrigindo continuamente sua direção conforme o alvo se movimenta.
+O Arqueiro mantém controle mágico sobre a trajetória do projétil depois que ele deixa a corda.
 
 ### Efeito
 
 O Ataque recebe:
 
-> **+10 Precisão Longo Alcance**
+> **+10 de Precisão**
 
-A flecha pode alterar sua trajetória durante o voo.
+Esse valor é um Modificador de Precisão.
+
+A flecha também consegue corrigir sua trajetória durante o voo.
 
 Pode contornar:
 
 - criaturas;
 - cobertura parcial;
 - pequenos obstáculos;
-- mudanças repentinas de direção;
-- outros elementos que ainda permitam uma trajetória possível.
+- mudanças de direção;
+- trajetórias curvas.
 
 ### Limitação
 
-A flecha não atravessa matéria.
+A flecha:
 
-Precisa existir:
+> **não atravessa matéria.**
 
-> **uma trajetória fisicamente possível até o alvo.**
+Precisa continuar existindo alguma trajetória possível entre o projétil e seu alvo.
+
+Flecha Perseguidora também não permite localizar automaticamente uma criatura cuja posição o Arqueiro desconheça.
 
 ### Custo
 
-> +20 Mana
-
-### PA
-
-Utiliza o mesmo PA do Ataque.
-
-É uma:
-
-> **Modificação Arcana**
+> **+20 Mana**
 
 ---
 
-##### Flecha Fantasma — Nv.1
+## Flecha Fantasma | Nv.1
 
-**Descrição:**
+**Modificação Arcana**
 
 O Arqueiro desfaz temporariamente a manifestação física de uma Flecha Arcana durante seu trajeto.
 
-Enquanto estiver nesse estado, o projétil atravessa matéria antes de se reconstruir.
-
 ### Requisito
 
-> Flecha Arcana.
+> **Flecha Arcana**
 
 ### Efeito
 
-A flecha pode atravessar até:
+Pode atravessar até:
 
 > **2 metros de matéria sólida**
 
-durante seu voo.
+antes de retornar automaticamente à forma normal.
 
-Depois disso:
+Pode atravessar:
 
-> retorna automaticamente à forma normal.
-
-Pode atravessar, por exemplo:
-
-- parede;
-- porta;
-- cobertura;
-- teto;
+- paredes;
+- portas;
 - chão;
-- estrutura comum.
+- teto;
+- cobertura;
+- estruturas comuns.
 
-### Não atravessa
+### Não atravessa automaticamente
 
 - criaturas;
 - Barreiras Mágicas;
-- efeitos que bloqueiem passagem mágica;
-- propriedades especiais capazes de impedir intangibilidade.
+- efeitos anti-magia apropriados;
+- proteções dimensionais;
+- materiais com propriedades especiais capazes de impedir a passagem.
 
-A habilidade também não permite saber automaticamente onde um alvo está.
+### Informação
 
-O Arqueiro ainda precisa possuir uma forma coerente de determinar sua posição.
+A Habilidade não permite enxergar através da matéria.
+
+O Arqueiro precisa possuir alguma maneira válida de determinar:
+
+> **onde o alvo está.**
 
 ### Custo
 
-> +30 Mana
-
-É uma:
-
-> **Modificação Arcana**
+> **+30 Mana**
 
 ---
 
-##### Fragmentação Arcana — Nv.1
+## Fragmentação Arcana | Nv.1
 
-**Descrição:**
+**Modificação Arcana**
 
-Durante o voo, o Arqueiro divide a estrutura de uma Flecha Arcana em diversos projéteis menores.
+Durante o voo, uma Flecha Arcana divide sua estrutura mágica em três projéteis.
 
 ### Requisito
 
-> Flecha Arcana.
+> **Flecha Arcana**
 
-### Efeito
-
-A flecha se divide em:
-
-> **3 Flechas Arcanas**
+### Alvos
 
 Escolha até:
 
@@ -212,277 +298,370 @@ que estejam a no máximo:
 
 > **10 metros uns dos outros.**
 
-Realize um Ataque separado contra cada alvo.
+Realize:
 
-Cada projétil causa:
-
-> **60% do Dano original do disparo.**
-
-### Mesmo alvo
-
-É possível direcionar todos contra a mesma criatura.
-
-Nesse caso:
-
-- primeiro impacto causa 60%;
-- segundo causa 40%;
-- terceiro causa 40%.
-
-Outros efeitos carregados pela flecha são resolvidos individualmente quando aplicável.
-
-### Custo
-
-> +35 Mana
-
-É uma:
-
-> **Modificação Arcana**
+> **1 Ataque separado para cada projétil.**
 
 ---
 
-##### Flecha de Aprisionamento — Nv.1
+### Dano contra alvos diferentes
 
-**Descrição:**
+Cada projétil causa:
 
-O Arqueiro prepara a flecha para liberar uma estrutura de Mana no momento do impacto, formando amarras ao redor do alvo.
+> **60% do Dano original**
 
-### Efeito
+---
 
-Realize normalmente o Ataque.
+### Mesmo alvo
+
+Os três projéteis podem atacar a mesma criatura.
+
+Nesse caso:
+
+- primeiro impacto: **60%**
+- segundo impacto: **40%**
+- terceiro impacto: **40%**
+
+Cada impacto:
+
+- possui própria rolagem;
+- pode Critar separadamente;
+- aplica Defesa separadamente.
+
+### Custo
+
+> **+35 Mana**
+
+---
+
+## Flecha de Aprisionamento | Nv.1
+
+**Modificação Arcana**
+
+O Arqueiro prepara uma estrutura de Mana que se expande ao atingir o alvo, formando amarras mágicas.
+
+### Ataque
+
+Realize normalmente o disparo.
 
 Caso acerte, o alvo realiza:
 
-> **Agilidade**
+> **Dado + Agilidade + Modificadores**
 
 contra:
 
-> **10 + Precisão Mágica do Arqueiro Arcano**
+> **10 + Conjuração do Arqueiro**
 
-Em caso de falha:
+---
 
-> fica **Aprisionado por até 2 Turnos.**
+### Falha
+
+O alvo fica:
+
+> **Aprisionado**
+
+por até:
+
+> **2 Turnos**
 
 Enquanto Aprisionado:
 
-- não pode realizar Movimento normal;
+- não pode utilizar [[Regras/Deslocamento|Deslocamento]] normal;
 - recebe **-5 Agilidade**;
-- continua podendo realizar ações compatíveis com sua situação.
+- pode realizar outras ações compatíveis.
+
+---
 
 ### Escapar
 
-Durante seu Turno, o alvo pode gastar:
+Durante seu [[Regras/Turno|Turno]], pode gastar:
 
 > **1 PA**
 
 para tentar escapar.
 
-Pode utilizar:
+Pode utilizar, quando apropriado:
 
-- Força;
-- Agilidade;
+> **Dado + [[Atributos Centrais/Força|Força]] + Modificadores**
+
+para romper as amarras
+
+ou:
+
+> **Dado + Agilidade + Modificadores**
+
+para escapar delas.
+
+A Dificuldade permanece:
+
+> **10 + Conjuração do Arqueiro**
+
+Outros métodos coerentes também podem funcionar, como:
+
 - magia;
 - destruição das amarras;
-- Habilidade apropriada;
-- outro método coerente.
+- auxílio externo;
+- Habilidade específica.
 
 ### Custo
 
-> +30 Mana
-
-É uma:
-
-> **Modificação Arcana**
+> **+30 Mana**
 
 ---
 
-##### Flecha de Ruptura Arcana — Nv.1
+## Flecha de Ruptura Arcana | Nv.1
 
-**Descrição:**
+**Modificação Arcana**
 
-O Arqueiro altera a frequência mágica do projétil para torná-lo especialmente eficiente contra encantamentos e estruturas formadas por Mana.
+O Arqueiro altera a frequência mágica do projétil para interferir diretamente com estruturas sustentadas por magia.
 
-### Contra construções mágicas
+---
 
-Ataques contra:
+### Contra estruturas mágicas
 
-- Barreiras Mágicas;
-- Campos;
-- estruturas mágicas;
-- objetos formados diretamente por magia;
+Quando atacar diretamente:
 
-recebem:
+- Barreira Mágica;
+- Campo;
+- Escudo;
+- construção de Mana;
+- estrutura mágica apropriada;
+
+o disparo recebe:
 
 > **+50% de Dano**
 
-e:
+e ignora:
 
-> **20 de Penetração de Defesa Mágica**
+> **20 pontos de Defesa Mágica**
 
-### Contra criaturas protegidas
+quando essa Defesa for aplicável ao efeito atacado.
+
+A Defesa não pode ser reduzida abaixo de 0.
+
+---
+
+### Contra criatura protegida
 
 Ao atingir uma criatura protegida por:
 
 - Barreira;
 - Escudo Mágico;
 - encantamento defensivo;
-- proteção mágica semelhante;
+- proteção semelhante;
 
-pode realizar:
+o Arqueiro pode realizar:
 
-> **dado + Precisão Mágica**
+> **Dado + Conjuração + Modificadores**
 
-contra a resistência ou Dificuldade do efeito.
+contra:
 
-Em caso de sucesso:
-
-> escolha uma proteção mágica atingida.
-
-Ela fica:
-
-> **suprimida por 1 Turno.**
-
-A proteção não é necessariamente destruída.
-
-### Custo
-
-> +35 Mana
-
-É uma:
-
-> **Modificação Arcana**
+> **Dificuldade ou resistência da proteção**
 
 ---
 
-##### Flecha de Transposição — Nv.1
+### Sucesso
 
-**Descrição:**
+Escolha uma proteção válida atingida.
 
-O Arqueiro cria uma ligação temporária entre seu corpo e uma Flecha Arcana.
+Ela fica:
 
-Quando o projétil alcança seu destino, o Arqueiro pode percorrer imediatamente essa ligação.
+> **Suprimida por 1 Turno**
+
+Suprimir:
+
+> **não significa necessariamente destruir.**
+
+Quando a supressão terminar, o efeito pode retornar normalmente caso ainda possua duração e condições para existir.
+
+### Custo
+
+> **+35 Mana**
+
+---
+
+## Flecha de Transposição | Nv.1
+
+**Modificação Arcana**
+
+O Arqueiro estabelece uma ligação temporária entre seu corpo e uma Flecha Arcana.
 
 ### Requisito
 
-> Flecha Arcana.
+> **Flecha Arcana**
 
 ### Efeito
 
 Dispare contra:
 
-- uma criatura;
+- criatura;
 - superfície;
 - objeto;
 - ponto válido.
 
-Depois que a flecha atingir seu destino:
+Depois que a Flecha alcançar seu destino:
 
-> pode teleportar-se para até 2 metros do ponto de impacto.
+> **o Arqueiro pode teleportar-se para até 2 metros do ponto de impacto.**
 
 O teletransporte:
 
-> não utiliza Movimento.
+> **não utiliza Deslocamento.**
+
+---
 
 ### Limitações
 
-Não permite entrar em:
+Não pode teleportar para:
 
-- espaços fisicamente impossíveis;
-- regiões que bloqueiem teletransporte;
-- locais protegidos por efeitos dimensionais apropriados.
+- espaço fisicamente impossível;
+- interior de matéria sólida;
+- região que impeça teletransporte;
+- área protegida contra efeitos dimensionais apropriados.
 
-Caso a flecha não alcance o destino:
+Caso a Flecha:
 
-> a Transposição não acontece.
+- seja destruída;
+- não alcance o destino;
+- tenha sua ligação interrompida;
+
+a Transposição não acontece.
 
 ### Custo
 
-> +30 Mana
+> **+30 Mana**
 
-além do custo da Flecha Arcana.
-
-É uma:
-
-> **Modificação Arcana**
+além do custo normal da Flecha Arcana.
 
 ---
 
-##### Conjuração Balística — Nv.1
+## Conjuração Balística | Nv.1
 
-**Descrição:**
+O Arqueiro utiliza uma flecha como veículo para transportar uma Habilidade Mágica.
 
-O Arqueiro Arcano utiliza uma flecha como veículo para uma magia, fazendo com que a conjuração seja formada no ponto alcançado pelo projétil.
+Essa Habilidade:
 
-### Efeito
+> **não é uma Modificação Arcana.**
 
-Escolha uma Habilidade Mágica conhecida que seja compatível com Conjuração Balística.
+---
 
-Ela é vinculada à flecha antes do disparo.
+### Preparação
 
-Em vez de surgir normalmente a partir do conjurador:
+Escolha uma Habilidade Mágica conhecida e compatível.
 
-> **a magia se manifesta no ponto de impacto da flecha.**
+Ela é vinculada ao projétil antes do disparo.
+
+Ao invés da magia surgir a partir do Arqueiro:
+
+> **seu ponto inicial passa a ser o ponto alcançado pela flecha.**
+
+---
 
 ### Exemplo
 
-Uma magia que criaria uma Barreira próxima ao personagem pode ser transportada por uma flecha.
+Uma magia de área poderia ser enviada ao centro de um grupo inimigo.
 
-O Arqueiro dispara contra uma posição a distância.
-
-Quando a flecha atinge:
-
-> a Barreira surge naquele local.
-
-Outro exemplo:
-
-Uma magia de área pode ser transportada até o centro de um grupo inimigo antes de ser ativada.
-
-### Alcance
-
-O alcance original da magia deixa de determinar a distância entre o Arqueiro e o ponto inicial do efeito.
-
-Quem determina essa distância passa a ser:
-
-> **o alcance do disparo.**
-
-As demais propriedades da Habilidade permanecem normais.
-
-### Custo
-
-> custo normal da Habilidade  
-> +10 Mana
-
-### PA
-
-Se o Ataque e a magia normalmente custariam 1 PA cada:
-
-> a combinação utiliza apenas **1 PA**.
-
-O disparo é considerado parte da própria conjuração.
-
-### Limitação
-
-Nem toda Habilidade Mágica é compatível.
-
-Magias que dependam necessariamente de:
-
-- contato direto;
-- funcionamento interno do corpo;
-- condições específicas do conjurador;
-- outros fatores incompatíveis;
-
-não podem simplesmente ser transportadas.
-
-Conjuração Balística **não conta como Modificação Arcana**.
+Uma Barreira cuja criação permita manifestação externa poderia ser estabelecida no local atingido pela flecha.
 
 ---
 
-##### Barragem Suspensa — Nv.1
+### Ataque da Flecha
 
-**Descrição:**
+O disparo continua utilizando normalmente:
+
+> **Proficiência Efetiva do arco**
+
+A magia não transforma o disparo em um Teste de Conjuração.
+
+---
+
+### Testes da Magia
+
+Caso a Habilidade transportada possua:
+
+- Ataque próprio;
+- Teste;
+- resistência;
+- Dificuldade;
+
+essas mecânicas continuam sendo resolvidas normalmente depois que a magia se manifestar.
+
+---
+
+### Alcance
+
+A distância entre:
+
+> Arqueiro → ponto inicial da magia
+
+passa a ser determinada pelo:
+
+> **alcance do disparo**
+
+As demais propriedades de alcance da própria magia continuam funcionando normalmente a partir daquele ponto.
+
+---
+
+### PA
+
+O disparo e a conjuração são realizados como uma única execução.
+
+Utilize:
+
+> **o maior custo de PA entre o Ataque e a Habilidade transportada**
+
+em vez de somar os dois.
+
+### Exemplo
+
+Ataque:
+
+> 1 PA
+
+Magia:
+
+> 1 PA
+
+Conjuração Balística:
+
+> **1 PA**
+
+Se a magia exigir:
+
+> 2 PA
+
+a combinação exige:
+
+> **2 PA**
+
+---
+
+### Custo
+
+Paga:
+
+- custo normal do Ataque;
+- custo normal da magia;
+- **+10 Mana**.
+
+---
+
+### Limitações
+
+Nem toda magia pode ser transportada.
+
+Normalmente são incompatíveis Habilidades que dependam necessariamente:
+
+- do próprio corpo do conjurador;
+- de contato pessoal;
+- de uma origem fixa no usuário;
+- de condições que não possam existir na flecha;
+- de outra propriedade incompatível.
+
+---
+
+## Barragem Suspensa | Nv.1
 
 O Arqueiro cria diversas Flechas Arcanas e as mantém suspensas ao seu redor através de telecinese.
-
-Durante o combate, elas acompanham seus disparos principais.
 
 ### Efeito
 
@@ -490,67 +669,92 @@ Cria:
 
 > **6 Flechas Arcanas Suspensas**
 
-que permanecem por:
+Duração:
 
-> **3 Turnos.**
+> **3 Turnos**
 
-Sempre que realizar um Ataque utilizando um arco, pode disparar adicionalmente:
+---
+
+### Disparo adicional
+
+Sempre que realizar um Ataque utilizando um arco, pode disparar também:
 
 > **1 Flecha Suspensa**
 
-contra o mesmo alvo ou outro alvo válido.
+contra:
+
+- o mesmo alvo;
+- outro alvo válido.
 
 O disparo adicional:
 
-> não consome PA.
+> **não consome PA.**
 
-Realiza seu próprio teste de Precisão.
+---
+
+### Precisão
+
+Como a Flecha Suspensa é lançada telecineticamente, utiliza:
+
+> **Dado + Conjuração + Modificadores**
+
+---
 
 ### Dano
 
 Cada Flecha Suspensa causa:
 
-> **50% do Dano normal do arco.**
+> **50% do Dano que uma Flecha Arcana normal causaria através do arco atualmente empunhado.**
 
-Cada uma pode receber:
+Cada Flecha Suspensa pode receber:
 
-> **1 Modificação Arcana.**
+> **1 Modificação Arcana**
 
-Os custos dessa Modificação são pagos normalmente.
-
-### Custo
-
-> 1 PA + 60 Mana
-
-As seis Flechas Suspensas não exigem o custo individual normal de criação.
+Os custos da Modificação são pagos normalmente.
 
 ---
 
-##### Soberania Arcana — Nv.1
+### Custo
 
-**Descrição:**
+> **1 PA + 60 Mana**
 
-O Arqueiro Arcano libera completamente sua capacidade de controlar Mana através do arco.
+As seis Flechas não pagam individualmente o custo de criação de Flecha Arcana.
 
-Durante alguns instantes, dezenas de processos que normalmente exigiriam concentração individual passam a responder diretamente à sua intenção.
+---
+
+## Soberania Arcana | Nv.1
+
+O Arqueiro libera completamente sua capacidade de manipular Mana através de arco e flechas.
+
+Durante alguns instantes, processos que normalmente exigiriam atenção individual passam a responder diretamente à sua intenção.
 
 ### Duração
 
 > **3 Turnos**
 
-Durante a Soberania:
+### Custo
 
-### Criação Arcana
+> **1 PA + 100 Mana + 50 Estamina**
 
-Flechas Arcanas comuns:
+### Limite
 
-> **não possuem custo de criação.**
+> **1 vez por combate**
 
 ---
 
-### Construção Superior
+# Efeitos da Soberania
 
-Cada Flecha Arcana pode receber:
+## Criação Arcana
+
+Criar Flechas Arcanas comuns:
+
+> **não custa Mana.**
+
+---
+
+## Construção Superior
+
+Cada Flecha Arcana pode possuir:
 
 > **até 3 Modificações Arcanas**
 
@@ -560,56 +764,76 @@ Os custos das Modificações continuam sendo pagos normalmente.
 
 ---
 
-### Arsenal Expandido
+## Arsenal Expandido
 
-O limite do Arsenal Arcano aumenta de:
+O limite de [[#Arsenal Arcano \| Nv.1|Arsenal Arcano]] aumenta de:
 
 > 6
 
 para:
 
-> **12 Flechas.**
+> **12 Flechas**
 
 ---
 
-### Disparo Telecinético
+## Disparo Telecinético
 
-Flechas presentes no Arsenal podem ser disparadas:
+Uma vez por Turno, pode disparar:
 
-> sem qualquer custo adicional.
+> **1 Flecha presente no Arsenal Arcano sem gastar PA**
+
+utilizando:
+
+> **Dado + Conjuração + Modificadores**
+
+A Flecha paga normalmente:
+
+- Modificações;
+- efeitos adicionais;
+- demais custos aplicáveis.
+
+Isso não consome o Ataque Adicional descrito abaixo.
 
 ---
 
-### Ataque Adicional
+## Ataque Adicional
 
 Uma vez por Turno:
 
-> pode realizar **1 Ataque adicional com arco sem gastar PA.**
+> **1 Ataque com arco pode ser realizado sem gastar PA.**
 
-O Ataque ainda paga normalmente:
+Esse Ataque ainda paga normalmente:
 
 - Estamina;
 - Mana;
-- munição, se utilizar flecha física;
-- demais custos aplicáveis.
+- munição física, se utilizada;
+- demais custos.
 
 ---
 
-### Potência
+## Potência Arcana
 
-Todas as Flechas Arcanas recebem:
+Durante Soberania, Flechas Arcanas recebem:
 
-> **+10 Precisão Longo Alcance**
+> **+10 de Precisão**
 
 e:
 
-> **+10 Dano Mágico**
+> **+10 de Dano Mágico**
 
-durante a duração.
+O +10 de Precisão é um:
+
+> **Modificador de Precisão**
+
+e não aumenta Proficiência ou Conjuração.
+
+O Dano Mágico é resolvido separadamente contra:
+
+> **Defesa Mágica**
 
 ---
 
-### Rede Expandida
+## Rede Expandida
 
 Habilidades relacionadas às Âncoras Arcanas podem operar dentro de:
 
@@ -617,27 +841,21 @@ Habilidades relacionadas às Âncoras Arcanas podem operar dentro de:
 
 do Arqueiro.
 
-### Custo
+---
 
-> **100 Mana + 50 Estamina + 1 PA**
+### Encerramento
 
-### Limite
+Quando Soberania termina:
 
-> **1 vez por combate.**
-
-Quando Soberania Arcana termina:
-
-> Flechas Arcanas acima do limite normal do Arsenal desaparecem.
+> Flechas acima do limite normal do Arsenal desaparecem.
 
 ---
 
 # Passivas
 
-##### Flechas Arcanas — Nv.1
+## Flechas Arcanas | Nv.1
 
-**Descrição:**
-
-O Arqueiro Arcano consegue condensar Mana diretamente sobre a corda de seu arco, criando projéteis mágicos sem necessidade de munição física.
+O Arqueiro consegue condensar Mana diretamente sobre a corda do arco, criando munição mágica.
 
 ### Criação
 
@@ -649,69 +867,90 @@ Ao preparar um Ataque com arco, pode criar:
 
 > **5 Mana**
 
-Criar a flecha:
+Criar a Flecha:
 
-> não consome PA.
+> **não consome PA.**
 
-Ela é formada durante a própria preparação do Ataque.
+---
+
+### Ataque
+
+Quando disparada através do arco, utiliza normalmente:
+
+> **Dado + Proficiência Efetiva + Modificadores**
+
+---
+
+### Dano
+
+A Flecha Arcana utiliza:
+
+> **Dano Base e Escalonamento normalmente fornecidos pelo arco e pelo disparo**
+
+O fato de ser mágica:
+
+> **não converte automaticamente seu Dano em Dano Mágico.**
+
+Por padrão, seu impacto continua causando:
+
+> **Dano Físico**
+
+salvo quando uma Habilidade modificar isso.
+
+---
 
 ### Propriedades
 
 A Flecha Arcana:
 
-- utiliza normalmente o Dano do arco;
-- utiliza Precisão Longo Alcance;
-- é considerada Mágica;
+- é considerada um projétil mágico;
 - pode receber Modificações Arcanas;
 - pode transportar Habilidades compatíveis;
-- desaparece depois que seu efeito for completamente resolvido.
-
-O impacto físico continua causando:
-
-> **Dano Físico**
-
-salvo quando outro efeito o modificar.
-
-Ser uma Flecha Arcana não transforma automaticamente todo seu Dano em Mágico.
-
-### Moldagem
-
-O Arqueiro pode alterar livremente características visuais das Flechas Arcanas:
-
-- formato;
-- comprimento;
-- espessura;
-- cor;
-- luminosidade;
-- transparência.
-
-Essas alterações não concedem propriedades mecânicas adicionais.
-
-### Munição física
-
-O Arqueiro continua podendo usar flechas normais.
-
-Flechas físicas:
-
-> não possuem o custo de 5 Mana.
-
-Também podem carregar:
-
-- venenos;
-- materiais raros;
-- encantamentos;
-- mecanismos;
-- efeitos especiais.
+- desaparece depois que seu efeito terminar;
+- substitui a necessidade de uma flecha física comum.
 
 ---
 
-##### Construção Arcana — Nv.1
+### Moldagem
 
-**Descrição:**
+Pode alterar livremente:
 
-O Arqueiro Arcano não está limitado a apenas uma alteração por projétil.
+- forma;
+- comprimento;
+- cor;
+- luminosidade;
+- transparência;
+- aparência.
 
-Ele consegue construir diferentes propriedades mágicas sobre a mesma flecha.
+Essas alterações:
+
+> **não concedem propriedades mecânicas.**
+
+---
+
+### Flechas físicas
+
+O Arqueiro continua podendo utilizar munição comum.
+
+Flechas físicas não custam os:
+
+> **5 Mana**
+
+de Flechas Arcanas.
+
+Também continuam adequadas para:
+
+- venenos;
+- materiais especiais;
+- encantamentos;
+- mecanismos;
+- munições específicas.
+
+---
+
+## Construção Arcana | Nv.1
+
+O Arqueiro aprende a sobrepor diferentes propriedades mágicas sobre uma mesma Flecha Arcana.
 
 ### Efeito
 
@@ -719,177 +958,209 @@ Uma Flecha Arcana pode possuir:
 
 > **até 2 Modificações Arcanas diferentes simultaneamente.**
 
-Exemplo:
+### Exemplo
 
-> Flecha Perseguidora + Flecha Fantasma
+> Flecha Fantasma + Flecha Perseguidora
 
-A flecha pode atravessar uma parede e depois corrigir sua trajetória.
+permite atravessar uma cobertura e depois corrigir a trajetória.
 
 Outro exemplo:
 
 > Fragmentação Arcana + Flecha de Aprisionamento
 
-O projétil pode dividir-se e aplicar o efeito de aprisionamento aos alvos atingidos.
+permite dividir o projétil e carregar o efeito de aprisionamento.
+
+---
 
 ### Custos
 
-Todos os custos são:
+Os custos de todas as Modificações:
 
-> somados normalmente.
+> **são somados.**
+
+---
 
 ### Limitações
 
 A mesma Modificação:
 
-> não pode ser aplicada duas vezes ao mesmo disparo.
+> **não pode ser aplicada duas vezes à mesma flecha.**
 
-Modificações incompatíveis também não podem ser combinadas quando suas propriedades se contradisserem diretamente.
+Modificações cujas propriedades sejam diretamente incompatíveis também não podem coexistir.
 
 ---
 
-##### Encantamento Instantâneo — Nv.1
+## Encantamento Instantâneo | Nv.1
 
-**Descrição:**
-
-O domínio conjunto de arquearia e feitiçaria permite que o Arqueiro modifique um projétil durante o próprio movimento de preparar o disparo.
+O Arqueiro consegue modificar a flecha durante o próprio movimento necessário para preparar o disparo.
 
 ### Efeito
 
 Modificações Arcanas:
 
-> **não consomem PA adicional**
+> **não aumentam o custo de PA do Ataque.**
 
-quando aplicadas a um Ataque.
+O personagem continua pagando:
 
-O personagem paga apenas:
-
-- PA do Ataque;
 - Mana;
 - Estamina;
-- demais custos da Habilidade.
+- outros recursos;
+- custos específicos.
 
-Se uma Habilidade declarar explicitamente um custo próprio de PA:
+Se uma Habilidade declarar explicitamente custo adicional de PA:
 
-> sua regra específica continua sendo aplicada.
+> **essa regra continua valendo.**
 
 ---
 
-##### Condução Arcana — Nv.1
+## Condução Arcana | Nv.1
 
-**Descrição:**
+O arco torna-se uma extensão da capacidade mágica do Arqueiro.
 
-O arco passa a funcionar como uma extensão direta da capacidade mágica do personagem.
+### Foco Mágico
 
 Enquanto estiver utilizando um arco:
 
-> ele funciona como **Foco Mágico**.
+> **ele pode funcionar como Foco Mágico.**
 
-O Arqueiro Arcano pode conjurar Habilidades compatíveis sem precisar guardar ou abandonar a arma.
-
-Além disso:
-
-> Flechas Arcanas podem transportar magia através das Habilidades desta Classe.
-
-Ataques modificados magicamente continuam separando normalmente seus tipos de Dano.
-
-Uma flecha física encantada pode, por exemplo, causar simultaneamente:
-
-> Dano Físico + Dano Mágico.
-
-Cada parte interage com sua Defesa correspondente. Isso segue a distinção que o próprio sistema já utiliza entre forma de ataque e tipo de Dano. [murdof.github.io](https://murdof.github.io/Melkor/classes/magia/ne%C3%B3fito)
+O personagem pode utilizar Habilidades Mágicas compatíveis sem precisar guardar o arco.
 
 ---
 
-##### Arsenal Arcano — Nv.1
+### Métodos continuam separados
 
-**Descrição:**
+Uma magia que utilize:
 
-O Arqueiro consegue manter projéteis mágicos completamente materializados sem precisar dispará-los imediatamente.
+> **Conjuração**
 
-### Efeito
+continua utilizando Conjuração.
 
-Pode manter até:
+Um disparo com arco continua utilizando:
+
+> **Proficiência Efetiva**
+
+Empunhar um arco como Foco:
+
+> **não transforma Proficiência em Base de Precisão Mágica.**
+
+---
+
+### Dano misto
+
+Uma flecha pode causar simultaneamente:
+
+- Dano Físico;
+- Dano Mágico;
+- outros tipos válidos.
+
+Cada parcela é reduzida pela:
+
+> **Defesa correspondente.**
+
+---
+
+## Arsenal Arcano | Nv.1
+
+O Arqueiro consegue manter Flechas Arcanas completamente materializadas sem precisar dispará-las imediatamente.
+
+### Capacidade
+
+Pode manter:
 
 > **6 Flechas Arcanas**
 
 flutuando ao redor de seu corpo.
 
-Cada flecha continua custando:
+---
+
+### Custo de criação
+
+Cada Flecha custa:
 
 > **5 Mana**
 
-para ser criada.
+---
 
-### Preparação
+### Fora de combate
 
-Fora de combate:
-
-> pode preparar o Arsenal livremente.
-
-Em combate:
-
-> pode criar todas as posições vazias do Arsenal utilizando 1 PA.
-
-Paga normalmente:
-
-> 5 Mana por flecha criada.
-
-### Utilização
-
-Uma flecha do Arsenal pode ser:
-
-- colocada normalmente no arco;
-- utilizada por Habilidades;
-- controlada telecineticamente;
-- preparada com Modificações Arcanas.
-
-As Flechas acompanham o personagem enquanto permanecerem sob seu controle.
+Pode preparar o Arsenal normalmente, pagando os custos.
 
 ---
 
-##### Domínio de Trajetória — Nv.1
+### Em combate
 
-**Descrição:**
+Pode preencher todas as posições vazias utilizando:
 
-Uma Flecha Arcana continua conectada ao Arqueiro mesmo depois de deixar o arco.
+> **1 PA**
 
-### Efeito
+Paga:
+
+> **5 Mana por Flecha criada.**
+
+---
+
+### Utilização
+
+Flechas armazenadas podem ser:
+
+- colocadas no arco;
+- utilizadas por Habilidades;
+- receber Modificações Arcanas;
+- utilizadas por efeitos telecinéticos que permitam seu disparo.
+
+As Flechas acompanham o Arqueiro enquanto ele mantiver controle sobre elas.
+
+---
+
+## Domínio de Trajetória | Nv.1
+
+Uma Flecha Arcana continua conectada magicamente ao Arqueiro durante algum tempo depois de deixar o arco.
+
+### Percepção
 
 Enquanto uma Flecha Arcana estiver a até:
 
 > **100 metros**
 
-e ainda não tiver encerrado completamente seu efeito:
+e ainda não tiver encerrado seu efeito, o Arqueiro percebe:
 
-> o Arqueiro percebe aproximadamente sua posição.
-
-Se uma Flecha Arcana errar um alvo e continuar fisicamente capaz de permanecer em movimento, pode gastar:
-
-> **10 Mana**
-
-para alterar sua trajetória.
-
-Ela pode realizar:
-
-> **uma nova tentativa de Ataque no Turno seguinte.**
-
-### Limite
-
-Cada flecha recebe:
-
-> **1 nova tentativa**
-
-através desta Passiva.
-
-Flecha Perseguidora pode modificar essa interação conforme seus próprios efeitos.
+> **sua posição aproximada.**
 
 ---
 
-##### Âncora Arcana — Nv.1
+### Correção após erro
 
-**Descrição:**
+Caso uma Flecha Arcana erre e continue fisicamente capaz de seguir seu trajeto, pode gastar:
 
-Ao atingir uma superfície, o Arqueiro pode impedir que uma Flecha Arcana desapareça e utilizar sua estrutura como um ponto permanente de conexão mágica.
+> **10 Mana**
+
+para redirecioná-la.
+
+No próximo Turno do Arqueiro, ela pode realizar:
+
+> **1 nova tentativa de Ataque**
+
+utilizando:
+
+> **a mesma Base de Precisão utilizada no disparo original.**
+
+---
+
+### Limite
+
+Cada Flecha recebe:
+
+> **apenas 1 nova tentativa**
+
+através desta Passiva.
+
+Flecha Perseguidora pode modificar essa interação quando sua própria regra permitir.
+
+---
+
+## Âncora Arcana | Nv.1
+
+Ao atingir uma superfície, o Arqueiro pode impedir que uma Flecha Arcana desapareça e transformá-la em um ponto permanente de conexão temporária.
 
 ### Criação
 
@@ -906,85 +1177,116 @@ pode gastar:
 
 para transformá-la em:
 
-> **Âncora Arcana.**
+> **Âncora Arcana**
+
+---
 
 ### Duração
 
 > **10 minutos**
 
+---
+
 ### Limite
 
-Pode manter simultaneamente:
+Pode manter:
 
-> **5 Âncoras Arcanas.**
+> **5 Âncoras Arcanas**
 
-Criar uma sexta:
+simultaneamente.
 
-> encerra uma das anteriores à escolha do Arqueiro.
+Criar uma sexta exige encerrar:
+
+> **1 das anteriores**
+
+à escolha do Arqueiro.
+
+---
 
 ### Percepção
 
-Enquanto uma Âncora estiver dentro de:
+Enquanto uma Âncora estiver a até:
 
 > **100 metros**
 
 o Arqueiro conhece aproximadamente:
 
-- sua direção;
+- direção;
 - distância;
-- se ainda existe.
-
-Âncoras podem ser utilizadas por outras Habilidades desta Classe como:
-
-- pontos de trajetória;
-- pontos de manifestação;
-- destinos;
-- origem de efeitos.
+- se ela ainda existe.
 
 ---
 
-##### Rede Arcana — Nv.1
+### Uso
 
-**Descrição:**
+Âncoras podem servir para Habilidades como:
 
-Quando várias Âncoras Arcanas são distribuídas pelo campo, o Arqueiro consegue conectá-las através de uma rede invisível de Mana.
+- pontos de trajetória;
+- conexões;
+- destinos;
+- pontos de manifestação;
+- referências mágicas.
+
+---
+
+## Rede Arcana | Nv.1
+
+Quando várias Âncoras são distribuídas pela região, o Arqueiro consegue conectá-las através de uma rede invisível de Mana.
 
 ### Requisito
 
-> Pelo menos 2 Âncoras Arcanas.
+> **Pelo menos 2 Âncoras Arcanas**
 
-### Efeito
+---
 
-Todas as Âncoras dentro de:
+### Área
+
+Âncoras dentro de:
 
 > **100 metros do Arqueiro**
 
 podem fazer parte da Rede.
 
-Enquanto o Arqueiro estiver dentro da região coberta por sua própria Rede, recebe:
+Enquanto estiver dentro da região coberta por sua própria Rede, recebe:
 
 > **+5 Percepção**
 
 e:
 
-> **+5 Precisão Longo Alcance**
+> **+5 de Precisão**
+
+em Ataques realizados com:
+
+- arco;
+- Flechas Arcanas;
+- Habilidades desta Classe que realizem Ataques.
+
+O +5 é um:
+
+> **Modificador de Precisão**
+
+e não aumenta Proficiência ou Conjuração.
+
+---
 
 ### Sensibilidade
 
-O Arqueiro percebe:
+O Arqueiro percebe perturbações relevantes próximas das Âncoras.
 
-> perturbações relevantes próximas de suas Âncoras.
-
-Isso não equivale a visão perfeita.
-
-Pode indicar:
+Pode perceber sinais como:
 
 - movimento próximo;
 - impacto;
 - destruição da Âncora;
-- perturbação mágica relevante.
+- perturbação mágica importante.
 
-O Mestre determina a quantidade de informação disponível conforme a situação.
+Isso:
+
+> **não equivale a visão perfeita.**
+
+A informação disponível depende daquilo que realmente interagiu com a Rede.
+
+---
 
 ### Rotas Arcanas
 
@@ -992,21 +1294,23 @@ Flechas Perseguidoras podem utilizar Âncoras como:
 
 > **pontos intermediários de trajetória.**
 
-Exemplo:
+### Exemplo
 
-Uma criatura está protegida pela esquina de um prédio.
+Uma criatura está atrás da esquina de uma construção.
 
-Existe uma Âncora em posição que possui linha possível até ela.
+Existe uma Âncora em uma posição capaz de formar uma trajetória válida.
 
-O Arqueiro pode disparar:
+A rota pode ser:
 
-> **Arqueiro → Âncora → alvo**
+> **Arqueiro → Âncora → Alvo**
 
-desde que toda a trajetória seja possível.
+A Flecha:
 
-A flecha não precisa fisicamente acertar a Âncora.
+> **não precisa atingir fisicamente a Âncora.**
 
-Ela apenas utiliza sua conexão mágica para modificar sua rota.
+Ela utiliza sua conexão mágica para ajustar a rota.
+
+Toda a trajetória ainda precisa ser possível conforme as propriedades da Flecha utilizada.
 
 ---
 
@@ -1016,11 +1320,46 @@ Para adquirir **Arqueiro Arcano**, o personagem precisa possuir simultaneamente:
 
 > **Arqueiro Nv.20**
 
-e
+e:
 
 > **Feiticeiro Nv.20**
 
-O Arqueiro fornece o domínio avançado de arcos, precisão e disparos consecutivos. O Feiticeiro fornece a base necessária em encantamento, telecinese e manipulação de propriedades mágicas. As duas especializações atuais do sistema sustentam diretamente essa convergência. [murdof.github.io](https://murdof.github.io/Melkor/classes/combatentes-longa-distancia/vigia)
+O Arqueiro fornece o domínio avançado de:
+
+- arco;
+- disparos;
+- posicionamento;
+- combate à distância.
+
+O Feiticeiro fornece a base de:
+
+- manipulação mágica;
+- encantamento;
+- controle;
+- alteração de propriedades;
+- Conjuração.
+
+A Classe representa:
+
+> **a convergência dessas duas especializações.**
+
+---
+
+# Estrutura da Classe
+
+Arqueiro Arcano possui:
+
+> **10 Habilidades Ativas**
+
+e:
+
+> **8 Passivas**
+
+Seu poder não depende apenas da força isolada de cada Habilidade.
+
+A principal progressão surge das:
+
+> **combinações entre Flechas Arcanas, Modificações, Conjuração Balística, Arsenal e Rede Arcana.**
 
 ---
 
@@ -1032,16 +1371,4 @@ Atualmente:
 
 ---
 
-## Estrutura da Classe
-
-Ficou fechada em:
-
-> **10 Habilidades Ativas**
-
-> **8 Habilidades Passivas**
-
-E eu evitaria colocar mais uma dúzia de poderes só para “parecer Tier 3”. O poder dela agora vem principalmente das **interações**.
-
-Por exemplo, **Flecha Fantasma** sozinha é boa. **Flecha Perseguidora** sozinha é boa. Com **Construção Arcana**, as duas juntas criam um projétil que atravessa uma cobertura e então corrige a rota até o inimigo. Com **Conjuração Balística**, essa mesma flecha ainda pode levar uma magia até lá.
-
-É justamente esse tipo de combinação que faz o **Arqueiro Arcano** subir de patamar sem transformar cada habilidade individual numa bomba nuclear portátil.
+> **Regra específica > regra geral.**
