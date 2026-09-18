@@ -1,5 +1,5 @@
 
-![[Lumes.png|407]]
+![[Lumes.png|470]]
 
 
 Os **Lumes** são pequenos **Fragmentos da Realidade** criados por **Ari**, a Deusa do Destino.
