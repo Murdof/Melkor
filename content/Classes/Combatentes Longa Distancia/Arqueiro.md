@@ -225,7 +225,7 @@ Disparo Duplo:
 
 - exige duas flechas disponíveis;
 - precisa utilizar arco compatível;
-- não pode dividir os disparos entre alvos diferentes no Nv.1;
+- não pode dividir os disparos entre alvos diferentes no Nv.5;
 - não pode combinar cada flecha individualmente com outra Habilidade que substitua o Ataque.
 
 ---

@@ -501,7 +501,7 @@ Ela representa uma interceptação explosiva e limitada.
 
 ## Bastião Vivo | Nv.5
 
-Enquanto estiver utilizando [[#Bastião \| Nv.1|Bastião]], o Guardião transforma sua presença em proteção adicional para aqueles imediatamente ao seu redor.
+Enquanto estiver utilizando [[#Bastião \| Nv.5|Bastião]], o Guardião transforma sua presença em proteção adicional para aqueles imediatamente ao seu redor.
 
 Aliados conscientes a até:
 

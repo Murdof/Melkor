@@ -491,7 +491,7 @@ Massa, velocidade, altura e superfície podem alterar esse valor quando apropria
 
 # Limitações
 
-Telecinese Nv.1 não permite:
+Telecinese Nv.5 não permite:
 
 - esmagar órgãos internos diretamente;
 - controlar sangue dentro do corpo;

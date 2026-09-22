@@ -1187,7 +1187,7 @@ Representa uma especialização direta no:
 
 ## Druida das Estações
 
-Aprofunda [[#Ciclo das Estações \| Nv.1|Ciclo das Estações]].
+Aprofunda [[#Ciclo das Estações \| Nv.5|Ciclo das Estações]].
 
 Cada Estação pode tornar-se um estilo completo:
 
