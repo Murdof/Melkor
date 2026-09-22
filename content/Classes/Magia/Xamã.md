@@ -173,7 +173,7 @@ Esse bônus substitui qualquer bônus de evolução que possua exatamente a mesm
 
 # Ativas
 
-## Totem Espiritual | Nv.5
+## Totem Espiritual | Nv.1
 
 O Xamã cria um pequeno foco ritual que permite a um Espírito aliado influenciar temporariamente uma área.
 
@@ -281,7 +281,7 @@ O Totem:
 
 ---
 
-## Chamado do Espírito | Nv.5
+## Chamado do Espírito | Nv.1
 
 O Xamã chama um Espírito com o qual já possua algum tipo de vínculo ou reconhecimento.
 
@@ -344,7 +344,7 @@ Um ancestral guerreiro:
 
 ---
 
-## Travessia Espiritual | Nv.5
+## Travessia Espiritual | Nv.1
 
 O Xamã abre brevemente sua percepção e energia para atravessar uma interferência espiritual.
 
@@ -400,7 +400,7 @@ Também não remove automaticamente um efeito que já esteja ativo.
 
 ---
 
-## Voz dos Ancestrais | Nv.5
+## Voz dos Ancestrais | Nv.1
 
 O Xamã busca orientação em ecos espirituais de indivíduos ligados à sua linhagem, cultura ou tradição.
 
@@ -488,7 +488,7 @@ quando o Mestre considerar possível.
 
 # Passivas
 
-## Sensibilidade Espiritual | Nv.5
+## Sensibilidade Espiritual | Nv.1
 
 A percepção espiritual do Xamã torna-se constantemente ativa.
 
@@ -521,7 +521,7 @@ Isso não revela automaticamente:
 
 ---
 
-## Respeitado pelos Espíritos | Nv.5
+## Respeitado pelos Espíritos | Nv.1
 
 Espíritos que não possuem motivo concreto para hostilidade reconhecem no Xamã alguém capaz de interagir com o mundo espiritual.
 

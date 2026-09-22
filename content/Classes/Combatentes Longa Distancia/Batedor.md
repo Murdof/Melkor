@@ -160,7 +160,7 @@ A Classe:
 
 # Ativas
 
-## Avanço de Reconhecimento | Nv.5
+## Avanço de Reconhecimento | Nv.1
 
 O Batedor avança rapidamente enquanto analisa terreno e ameaças próximas.
 
@@ -212,7 +212,7 @@ Avanço de Reconhecimento:
 
 ---
 
-## Disparo em Movimento | Nv.5
+## Disparo em Movimento | Nv.1
 
 O Batedor realiza um ataque à distância enquanto mantém deslocamento constante.
 
@@ -267,7 +267,7 @@ Disparo em [[Regras/Movimento|Movimento]]:
 
 ---
 
-## Marcar Trilha | Nv.5
+## Marcar Trilha | Nv.1
 
 O Batedor analisa uma rota, terreno ou sequência de rastros para facilitar o deslocamento do grupo.
 
@@ -331,7 +331,7 @@ quando aplicável.
 
 ---
 
-## Retirada Tática | Nv.5
+## Retirada Tática | Nv.1
 
 O Batedor reconhece quando permanecer na posição atual é uma má decisão.
 
@@ -398,7 +398,7 @@ Retirada Tática:
 
 # Passivas
 
-## Olhos na Fronteira | Nv.5
+## Olhos na Fronteira | Nv.1
 
 O Batedor está constantemente atento ao que acontece ao redor.
 
@@ -425,7 +425,7 @@ Olhos na Fronteira:
 
 ---
 
-## Passos do Explorador | Nv.5
+## Passos do Explorador | Nv.1
 
 O Batedor aprende a atravessar terreno irregular sem perder tanto ritmo.
 

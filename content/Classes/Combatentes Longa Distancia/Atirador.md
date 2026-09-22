@@ -158,7 +158,7 @@ A Classe:
 
 # Ativas
 
-## Disparo Preparado | Nv.5
+## Disparo Preparado | Nv.1
 
 O Atirador dedica tempo a estabilizar sua postura, estudar o alvo e preparar um disparo de alta precisão.
 
@@ -224,7 +224,7 @@ A preparação termina sem efeito se:
 
 ---
 
-## Tiro Perfurante | Nv.5
+## Tiro Perfurante | Nv.1
 
 O Atirador realiza um disparo voltado a superar proteção física.
 
@@ -277,7 +277,7 @@ Tiro Perfurante não:
 
 ---
 
-## Marcar Alvo | Nv.5
+## Marcar Alvo | Nv.1
 
 O Atirador dedica sua atenção a uma criatura específica e passa a acompanhar seus movimentos.
 
@@ -330,7 +330,7 @@ Marcar um novo alvo:
 
 ---
 
-## Tiro de Interrupção | Nv.5
+## Tiro de Interrupção | Nv.1
 
 O Atirador reage a uma ação clara do inimigo e tenta interrompê-la com um disparo preciso.
 
@@ -434,7 +434,7 @@ Não consome PA.
 
 # Passivas
 
-## Mira Estável | Nv.5
+## Mira Estável | Nv.1
 
 O Atirador aprende a controlar:
 
@@ -466,7 +466,7 @@ Movimentos mínimos de ajuste:
 
 ---
 
-## Leitura de Distância | Nv.5
+## Leitura de Distância | Nv.1
 
 O Atirador desenvolve capacidade excepcional de estimar:
 

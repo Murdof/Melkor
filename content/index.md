@@ -3,6 +3,28 @@ title: Melkor
 ---
 ## Atualizações
 
+> [!update] Versão 5.1
+> **22 de setembro de 2026**
+>
+> A versão 5.1 amplia as opções de equipamento, organiza novas fichas de Habilidades e acrescenta regras de progressão e aquisição.
+>
+> ## Adições
+>
+> ### Equipamentos
+>
+> - Adicionados o **Arco do Horizonte Arcano**, o **Cetro do Arcanista Primordial**, o **Ferrão da Abelha Assassina** e a **Foice do Círculo Primordial**.
+> - Criados e organizados os arquivos dos conjuntos de armadura: **Condutor Arcano**, **Vanguardeiro de Aço Negro**, **Véu de Prata**, **Vestes do Prisma Arcano** e **Trama do Círculo Vivo**. O Condutor Arcano recebeu a versão fortalecida aprovada, e o Vanguardeiro de Aço Negro recebeu os ajustes aprovados de Acerto com Hastes e **Investida Blindada**.
+>
+> ### Habilidades
+>
+> - Adicionadas fichas individuais de Habilidades Ativas para Arqueiro, Druida, Lanceiro Leve, Mago, Neófito, Prospector e Orbe de Skill.
+>
+> ### Regras e progressão
+>
+> - Adicionadas regras para compra de PP e custos de Habilidades de Classes não combatentes.
+> - Adicionadas referências para progressão de Classes de Trabalho e CAST.
+> - Definida a tabela de [[Regras/XP de Classe e Raça|XP necessário para cada Nível de Classe de Combate, Classe Especial e Raça]].
+
 > [!update] Versão 5.0
 > **14 de setembro de 2026**
 >

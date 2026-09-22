@@ -182,7 +182,7 @@ Essas substituições:
 
 # Habilidade Substituída
 
-## Guarda da Ponta Móvel | Nv.5
+## Guarda da Ponta Móvel | Nv.1
 
 **Substitui: Postura Defensiva**
 
@@ -268,7 +268,7 @@ O Lanceiro Leve escolheu mobilidade e ofensiva em vez de proteção.
 
 # Habilidade Substituída
 
-## Investida Perfurante | Nv.5
+## Investida Perfurante | Nv.1
 
 **Substitui: Investida**
 
@@ -330,7 +330,7 @@ Investida Perfurante pode ser utilizada:
 
 # Ativas Tier 2
 
-## Dupla Estocada | Nv.5
+## Dupla Estocada | Nv.1
 
 O Lanceiro utiliza a velocidade e baixo momento de inércia da Lança Leve para executar duas perfurações em rápida sucessão.
 
@@ -441,7 +441,7 @@ Modificadores e Passivas que funcionem normalmente sobre Ataques continuam váli
 
 ---
 
-## Ponta Perfurante | Nv.5
+## Ponta Perfurante | Nv.1
 
 O Lanceiro concentra velocidade e controle em uma única perfuração direcionada para:
 
@@ -516,7 +516,7 @@ Ponta Perfurante é incompatível com Ataque Pesado e não pode ser substituída
 
 ---
 
-## Ataque de Passagem | Nv.5
+## Ataque de Passagem | Nv.1
 
 O Lanceiro transforma movimento e ataque em uma única sequência contínua.
 
@@ -637,7 +637,7 @@ Depois de percorrer 5 metros com Ataque de Passagem, restam:
 
 ---
 
-## Varredura Rápida | Nv.5
+## Varredura Rápida | Nv.1
 
 O Lanceiro utiliza ponta, haste e movimentação para atingir vários inimigos em sequência.
 
@@ -737,7 +737,7 @@ Para concentrar golpes contra um único inimigo:
 
 # Passivas Tier 2
 
-## Ritmo Crescente | Nv.5
+## Ritmo Crescente | Nv.1
 
 O Lanceiro Leve sustenta sua pressão ao alternar movimentação e Ataques com Lança Leve entre seus Turnos.
 
@@ -869,7 +869,7 @@ Surto permite prolongar a sequência ofensiva através de PA adicionais, pagando
 
 ---
 
-## Dança da Lança | Nv.5
+## Dança da Lança | Nv.1
 
 O Lanceiro aprende a transformar o impulso de um golpe bem-sucedido em reposicionamento.
 

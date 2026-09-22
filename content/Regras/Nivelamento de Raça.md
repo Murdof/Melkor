@@ -1,3 +1,5 @@
+Consulte [[XP de Classe e Raça]] para o XP necessário em cada Nível Racial.
+
 | Nível   | Recompensa                       |
 | ------- | -------------------------------- |
 | 1       | Características iniciais da Raça |

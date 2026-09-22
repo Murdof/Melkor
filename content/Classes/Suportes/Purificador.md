@@ -149,7 +149,7 @@ Por isso:
 
 # Ativas
 
-## Expurgo Coletivo | Nv.5
+## Expurgo Coletivo | Nv.1
 
 O Purificador espalha sua magia entre vários aliados para remover efeitos prejudiciais simultaneamente.
 
@@ -209,7 +209,7 @@ Expurgo Coletivo:
 
 ---
 
-## Quebra de Maldição | Nv.5
+## Quebra de Maldição | Nv.1
 
 O Purificador concentra sua magia sobre uma Maldição, corrupção ou efeito mágico persistente especialmente resistente.
 
@@ -279,7 +279,7 @@ Quebra de Maldição:
 
 ---
 
-## Selo de Pureza | Nv.5
+## Selo de Pureza | Nv.1
 
 O Purificador protege temporariamente um aliado contra a entrada de novos efeitos prejudiciais.
 
@@ -342,7 +342,7 @@ Selo de Pureza:
 
 ---
 
-## Romper Influência | Nv.5
+## Romper Influência | Nv.1
 
 O Purificador interfere diretamente em um efeito que esteja controlando ou manipulando mente ou espírito.
 
@@ -420,7 +420,7 @@ Romper Influência:
 
 # Passivas
 
-## Pureza Residual | Nv.5
+## Pureza Residual | Nv.1
 
 Quando o Purificador remove com sucesso uma Condição negativa de uma criatura, deixa sobre ela uma proteção temporária contra o mesmo tipo de ameaça.
 
@@ -468,7 +468,7 @@ Uma nova aplicação apenas:
 
 ---
 
-## Leitura da Contaminação | Nv.5
+## Leitura da Contaminação | Nv.1
 
 O Purificador aprende a distinguir sinais de que algo está afetando uma criatura mesmo quando o problema ainda não é evidente.
 

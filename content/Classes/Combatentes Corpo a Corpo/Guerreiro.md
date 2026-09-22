@@ -111,7 +111,7 @@ Habilidades substituídas ou aprimoradas:
 
 # Habilidade Substituída
 
-## Postura Ofensiva | Nv.5
+## Postura Ofensiva | Nv.1
 
 **Substitui: Postura Defensiva**
 
@@ -269,7 +269,7 @@ Enquanto estiver em Postura Ofensiva:
 
 # Habilidade Aprimorada
 
-## Ataque Devastador | Nv.5
+## Ataque Devastador | Nv.1
 
 **Aprimora: Ataque Pesado**
 
@@ -365,7 +365,7 @@ na Árvore Guerreiro.
 
 # Ativas Novas
 
-## Sequência Marcial | Nv.5
+## Sequência Marcial | Nv.1
 
 O Guerreiro conecta dois ataques em uma única sequência ofensiva, impedindo que o adversário recupere completamente sua postura entre os golpes.
 
@@ -445,7 +445,7 @@ uma única vez.
 
 ---
 
-## Quebra-Guarda | Nv.5
+## Quebra-Guarda | Nv.1
 
 O Guerreiro direciona seu golpe especificamente para desestabilizar a defesa utilizada pelo adversário.
 
@@ -539,7 +539,7 @@ PA:
 
 ---
 
-## Mudança de Arma | Nv.5
+## Mudança de Arma | Nv.1
 
 O Guerreiro aprende a alterar seu equipamento e estilo de luta rapidamente durante o confronto.
 
@@ -611,7 +611,7 @@ A mudança precisa ser fisicamente possível.
 
 ---
 
-## Romper a Linha | Nv.5
+## Romper a Linha | Nv.1
 
 O Guerreiro combina ataque, força e avanço para quebrar a posição de um inimigo.
 
@@ -714,7 +714,7 @@ Estamina:
 
 # Passivas Novas
 
-## Domínio de Armas | Nv.5
+## Domínio de Armas | Nv.1
 
 O Guerreiro aprende a explorar de maneira eficiente as características das armas que domina.
 
@@ -762,7 +762,7 @@ Domínio de Armas:
 
 ---
 
-## Ritmo de Batalha | Nv.5
+## Ritmo de Batalha | Nv.1
 
 O Guerreiro torna-se progressivamente mais perigoso enquanto permanece diretamente envolvido no confronto.
 

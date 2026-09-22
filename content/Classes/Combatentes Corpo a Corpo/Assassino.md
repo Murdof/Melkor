@@ -137,7 +137,7 @@ O Assassino não recebe:
 
 # Ativas
 
-## Golpe de Execução | Nv.5
+## Golpe de Execução | Nv.1
 
 O Assassino concentra sua técnica em um único ataque contra um alvo que não conseguiu se preparar adequadamente.
 
@@ -211,7 +211,7 @@ salvo se outra regra criar uma condição válida de abertura.
 
 ---
 
-## Passo Sombrio | Nv.5
+## Passo Sombrio | Nv.1
 
 O Assassino utiliza uma abertura de percepção para reposicionar-se rapidamente sem oferecer ao inimigo uma leitura clara de seu movimento.
 
@@ -257,7 +257,7 @@ Passo Sombrio só pode ser utilizado quando:
 
 ---
 
-## Ataque ao Ponto Fraco | Nv.5
+## Ataque ao Ponto Fraco | Nv.1
 
 O Assassino utiliza sua leitura de vulnerabilidades para atingir uma região menos protegida.
 
@@ -324,7 +324,7 @@ Ataque ao Ponto Fraco:
 
 ---
 
-## Sumir no Caos | Nv.5
+## Sumir no Caos | Nv.1
 
 O Assassino aproveita um momento de confusão para tentar desaparecer da atenção imediata dos inimigos.
 
@@ -383,7 +383,7 @@ O ambiente ainda precisa permitir:
 
 # Passivas
 
-## Predador de Oportunidades | Nv.5
+## Predador de Oportunidades | Nv.1
 
 O Assassino reconhece quando um inimigo expõe uma abertura crítica.
 
@@ -420,7 +420,7 @@ Aplica-se:
 
 ---
 
-## Sangue Frio | Nv.5
+## Sangue Frio | Nv.1
 
 O treinamento do Assassino reduz hesitação durante uma tentativa de eliminação.
 

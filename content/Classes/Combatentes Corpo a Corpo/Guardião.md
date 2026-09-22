@@ -110,7 +110,7 @@ O Guardião mantém as Afinidades herdadas do Recruta e desenvolve afinidade nat
 
 # Habilidade Herdada Aprimorada
 
-## Bastião | Nv.5
+## Bastião | Nv.1
 
 Bastião substitui:
 
@@ -225,7 +225,7 @@ Permanecer na postura:
 
 # Ativas
 
-## Golpe de Guarda | Nv.5
+## Golpe de Guarda | Nv.1
 
 O Guardião ataca não apenas para ferir, mas para manter a atenção e a pressão sobre um inimigo.
 
@@ -286,7 +286,7 @@ Além do custo normal do Ataque:
 
 ---
 
-## Proteção Cerrada | Nv.5
+## Proteção Cerrada | Nv.1
 
 O Guardião concentra sua atenção na proteção direta de um aliado próximo.
 
@@ -350,7 +350,7 @@ Aplica-se apenas:
 
 ---
 
-## Golpe de Contenção | Nv.5
+## Golpe de Contenção | Nv.1
 
 O Guardião utiliza um ataque físico para interromper o avanço de um inimigo e limitar sua mobilidade.
 
@@ -424,7 +424,7 @@ Além do custo normal do Ataque:
 
 ---
 
-## Última Linha | Nv.5
+## Última Linha | Nv.1
 
 O Guardião reage imediatamente quando percebe que um aliado próximo está prestes a sofrer um Ataque perigoso.
 
@@ -499,9 +499,9 @@ Ela representa uma interceptação explosiva e limitada.
 
 # Passivas
 
-## Bastião Vivo | Nv.5
+## Bastião Vivo | Nv.1
 
-Enquanto estiver utilizando [[#Bastião \| Nv.5|Bastião]], o Guardião transforma sua presença em proteção adicional para aqueles imediatamente ao seu redor.
+Enquanto estiver utilizando [[#Bastião \| Nv.1|Bastião]], o Guardião transforma sua presença em proteção adicional para aqueles imediatamente ao seu redor.
 
 Aliados conscientes a até:
 
@@ -527,7 +527,7 @@ Bastião Vivo:
 
 ---
 
-## Âncora de Combate | Nv.5
+## Âncora de Combate | Nv.1
 
 O Guardião aprende a firmar o corpo e utilizar corretamente seu centro de gravidade para resistir a tentativas de removê-lo de posição.
 

@@ -195,7 +195,7 @@ Ele não:
 
 # Ativas
 
-## Marca Maldita | Nv.5
+## Marca Maldita | Nv.1
 
 O Ocultista inscreve temporariamente uma interferência mágica sobre uma criatura.
 
@@ -265,7 +265,7 @@ Marca Maldita:
 
 ---
 
-## Selo de Contenção | Nv.5
+## Selo de Contenção | Nv.1
 
 O Ocultista cria um selo mágico temporário em uma superfície.
 
@@ -346,7 +346,7 @@ Criaturas especialmente poderosas podem:
 
 ---
 
-## Olhar Além do Véu | Nv.5
+## Olhar Além do Véu | Nv.1
 
 O Ocultista abre temporariamente sua percepção para manifestações que normalmente não seriam facilmente percebidas.
 
@@ -406,7 +406,7 @@ Ainda podem existir:
 
 ---
 
-## Ritual de Ruptura | Nv.5
+## Ritual de Ruptura | Nv.1
 
 O Ocultista tenta interferir diretamente em um efeito sobrenatural existente.
 
@@ -493,7 +493,7 @@ Porém, fenômenos perigosos podem possuir:
 
 # Passivas
 
-## Conhecimento Proibido | Nv.5
+## Conhecimento Proibido | Nv.1
 
 O Ocultista estudou assuntos que normalmente não fazem parte do conhecimento arcano convencional.
 
@@ -544,7 +544,7 @@ Também não concede conhecimento automático sobre:
 
 ---
 
-## Mente Blindada | Nv.5
+## Mente Blindada | Nv.1
 
 A exposição controlada a forças perigosas fortalece a resistência do Ocultista contra influências sobrenaturais.
 

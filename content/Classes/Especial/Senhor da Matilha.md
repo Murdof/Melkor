@@ -141,7 +141,7 @@ Ela melhora:
 
 # Ativas
 
-## Ataque da Matilha | Nv.5
+## Ataque da Matilha | Nv.1
 
 O Senhor da Matilha concentra várias criaturas contra um único alvo.
 
@@ -210,7 +210,7 @@ Ataque da Matilha:
 
 ---
 
-## Cercar Presa | Nv.5
+## Cercar Presa | Nv.1
 
 O Senhor da Matilha ordena que suas criaturas ocupem posições ao redor de um inimigo.
 
@@ -271,7 +271,7 @@ Cercar Presa pode não funcionar quando:
 
 ---
 
-## Formação Protetora | Nv.5
+## Formação Protetora | Nv.1
 
 O Senhor da Matilha ordena que suas criaturas criem uma linha defensiva ao redor de um alvo protegido.
 
@@ -338,7 +338,7 @@ Até o início do próximo [[Regras/Turno|Turno]] do Senhor da Matilha.
 
 ---
 
-## Ordem de Caçada | Nv.5
+## Ordem de Caçada | Nv.1
 
 O Senhor da Matilha escolhe uma presa e coordena sua perseguição.
 
@@ -400,7 +400,7 @@ pode estar sob Ordem de Caçada.
 
 # Passivas
 
-## Instinto Coletivo | Nv.5
+## Instinto Coletivo | Nv.1
 
 Criaturas da Matilha aprendem a reagir às posições umas das outras.
 
@@ -439,7 +439,7 @@ O benefício desaparece caso a criatura:
 
 ---
 
-## Comando Distribuído | Nv.5
+## Comando Distribuído | Nv.1
 
 O Senhor da Matilha aprende a emitir ordens simples para várias criaturas ao mesmo tempo.
 

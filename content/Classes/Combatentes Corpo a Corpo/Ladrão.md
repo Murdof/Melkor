@@ -143,7 +143,7 @@ Tudo continua dependendo de:
 
 # Ativas
 
-## Furto Rápido | Nv.5
+## Furto Rápido | Nv.1
 
 O Ladrão tenta retirar um objeto acessível de uma criatura sem interromper completamente seu movimento.
 
@@ -218,7 +218,7 @@ A situação física continua valendo.
 
 ---
 
-## Arrombamento Relâmpago | Nv.5
+## Arrombamento Relâmpago | Nv.1
 
 O Ladrão acelera sua execução durante uma tentativa de abrir ou manipular um mecanismo.
 
@@ -283,7 +283,7 @@ Arrombamento Relâmpago:
 
 ---
 
-## Tomar na Brecha | Nv.5
+## Tomar na Brecha | Nv.1
 
 O Ladrão aproveita um momento de distração para retirar, deslocar ou arrancar rapidamente um objeto de fácil acesso.
 
@@ -348,7 +348,7 @@ Tomar na Brecha não permite:
 
 ---
 
-## Rota de Fuga | Nv.5
+## Rota de Fuga | Nv.1
 
 O Ladrão utiliza sua leitura do ambiente para desaparecer da zona mais perigosa da cena.
 
@@ -407,7 +407,7 @@ Rota de Fuga:
 
 # Passivas
 
-## Dedos Ligeiros | Nv.5
+## Dedos Ligeiros | Nv.1
 
 O Ladrão desenvolve precisão e naturalidade ao manipular objetos pequenos.
 
@@ -438,7 +438,7 @@ O bônus exige:
 
 ---
 
-## Instinto de Escape | Nv.5
+## Instinto de Escape | Nv.1
 
 O Ladrão está sempre atento a:
 

@@ -491,7 +491,7 @@ Uma criatura capaz de incendiar uma floresta:
 
 # Ativas
 
-## Domínio Forçado | Nv.5
+## Domínio Forçado | Nv.1
 
 O Vinculador força sua autoridade sobre o Monstro durante um momento crítico.
 
@@ -531,7 +531,7 @@ Forçar a obediência de uma criatura monstruosa:
 
 ---
 
-## Retomar Controle | Nv.5
+## Retomar Controle | Nv.1
 
 O Vinculador tenta recuperar um Monstro que esteja:
 
@@ -599,7 +599,7 @@ Exemplos:
 
 ---
 
-## Ordem de Contenção | Nv.5
+## Ordem de Contenção | Nv.1
 
 O Vinculador ordena que o Monstro reprima temporariamente uma de suas capacidades perigosas.
 
@@ -648,7 +648,7 @@ Pode ser utilizada para ordenar que uma criatura:
 
 ---
 
-## Quebra de Vínculo | Nv.5
+## Quebra de Vínculo | Nv.1
 
 O Vinculador pode abandonar deliberadamente seu vínculo antes que uma situação se torne ainda pior.
 
@@ -710,7 +710,7 @@ Ela existe para permitir que o Vinculador escolha:
 
 # Passivas
 
-## Autoridade Monstruosa | Nv.5
+## Autoridade Monstruosa | Nv.1
 
 O Vinculador aprende a manter sua autoridade mesmo diante de criaturas cuja presença seria suficiente para quebrar a coragem de pessoas comuns.
 
@@ -741,7 +741,7 @@ Não torna:
 
 ---
 
-## Instinto de Sobrevivência | Nv.5
+## Instinto de Sobrevivência | Nv.1
 
 Conviver com criaturas capazes de matá-lo a qualquer momento ensina o Vinculador a reconhecer o instante em que uma situação está prestes a sair do controle.
 

@@ -169,7 +169,7 @@ quando fisicamente apropriado.
 
 # Ativas
 
-## Sequência de Golpes | Nv.5
+## Sequência de Golpes | Nv.1
 
 O Lutador desfere uma combinação rápida de ataques desarmados.
 
@@ -243,7 +243,7 @@ Sequência de Golpes não pode ser convertida individualmente em outras Habilida
 
 ---
 
-## Queda Técnica | Nv.5
+## Queda Técnica | Nv.1
 
 O Lutador utiliza posição, alavanca e movimento para derrubar um inimigo.
 
@@ -323,7 +323,7 @@ A diferença de tamanho e forma pode:
 
 ---
 
-## Chave de Contenção | Nv.5
+## Chave de Contenção | Nv.1
 
 O Lutador tenta prender um alvo já controlado e limitar suas ações físicas.
 
@@ -413,7 +413,7 @@ Enquanto mantém a Chave:
 
 ---
 
-## Golpe de Impacto | Nv.5
+## Golpe de Impacto | Nv.1
 
 O Lutador concentra força e técnica em um único golpe físico.
 
@@ -457,7 +457,7 @@ Golpe de Impacto não pode ser combinado com outro efeito que substitua completa
 
 ---
 
-## Romper Postura | Nv.5
+## Romper Postura | Nv.1
 
 O Lutador ataca o equilíbrio corporal do inimigo para abrir sua guarda.
 
@@ -521,7 +521,7 @@ Além do custo normal do Ataque:
 
 # Passivas
 
-## Corpo Treinado | Nv.5
+## Corpo Treinado | Nv.1
 
 O condicionamento constante torna o corpo do Lutador mais resistente ao impacto e ao desgaste.
 
@@ -550,7 +550,7 @@ Corpo Treinado não concede +3 Defesa Física contra:
 
 ---
 
-## Fluidez Marcial | Nv.5
+## Fluidez Marcial | Nv.1
 
 O Lutador aprende a encadear movimentos sem desperdiçar posição.
 

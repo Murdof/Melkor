@@ -189,7 +189,7 @@ Classes pertencentes à mesma árvore utilizam o progresso conforme as regras de
 
 O SP também permanece vinculado à Classe ou à árvore em que foi obtido.
 
-Veja [[SP]] para suas regras completas.
+Veja [[XP de Classe e Raça]] e [[SP]] para suas regras completas.
 
 ---
 
