@@ -145,7 +145,7 @@ Essas áreas pertencem principalmente a outras especializações.
 
 # Ativas
 
-## Cura Profunda | Nv.1
+## Cura Profunda | Nv.5
 
 O Restaurador concentra uma quantidade muito maior de energia restauradora em um único alvo.
 
@@ -184,7 +184,7 @@ Cura Profunda:
 
 ---
 
-## Regeneração Guiada | Nv.1
+## Regeneração Guiada | Nv.5
 
 O Restaurador implanta uma corrente contínua de energia restauradora no corpo do alvo.
 
@@ -250,7 +250,7 @@ Pode ser removida por:
 
 ---
 
-## Estabilização Vital | Nv.1
+## Estabilização Vital | Nv.5
 
 O Restaurador força magicamente o corpo de uma criatura à beira do colapso a permanecer funcionando.
 
@@ -314,7 +314,7 @@ Uma mesma criatura pode receber Estabilização Vital do mesmo Restaurador:
 
 ---
 
-## Restaurar Ferimento | Nv.1
+## Restaurar Ferimento | Nv.5
 
 O Restaurador concentra sua magia diretamente sobre uma lesão física específica.
 
@@ -427,7 +427,7 @@ Medicina e magia:
 
 # Passivas
 
-## Fluxo Restaurador | Nv.1
+## Fluxo Restaurador | Nv.5
 
 A magia curativa do Restaurador aproveita melhor a energia empregada.
 
@@ -462,7 +462,7 @@ Fluxo Restaurador:
 
 ---
 
-## Último Fôlego | Nv.1
+## Último Fôlego | Nv.5
 
 O Restaurador consegue perceber o instante em que a energia vital de um aliado entra em colapso.
 

@@ -196,7 +196,7 @@ e não cria uma nova Perícia de [[Regras/Precisão|Precisão]].
 
 # Habilidades Herdadas Aprimoradas
 
-## Domínio das Raízes | Nv.1
+## Domínio das Raízes | Nv.5
 
 > **Aprimora: Raízes Prensoras**
 
@@ -334,7 +334,7 @@ Enquanto a manutenção for paga:
 
 ---
 
-## Seiva Restauradora | Nv.1
+## Seiva Restauradora | Nv.5
 
 > **Aprimora: Seiva Vital**
 
@@ -473,7 +473,7 @@ Druida adiciona:
 
 ---
 
-## Florescimento Selvagem | Nv.1
+## Florescimento Selvagem | Nv.5
 
 O Druida despeja energia natural sobre uma região, acelerando violentamente o desenvolvimento da vida vegetal.
 
@@ -570,7 +570,7 @@ em vegetação.
 
 ---
 
-## Espinhos do Círculo | Nv.1
+## Espinhos do Círculo | Nv.5
 
 O Druida concentra energia natural em um crescimento agressivo de espinhos e os projeta contra uma criatura.
 
@@ -624,7 +624,7 @@ Total:
 
 ---
 
-## Círculo de Renovação | Nv.1
+## Círculo de Renovação | Nv.5
 
 O Druida cria uma região impregnada por energia vital.
 
@@ -704,7 +704,7 @@ do mesmo Druida pode permanecer ativo simultaneamente.
 
 ---
 
-## Ciclo das Estações | Nv.1
+## Ciclo das Estações | Nv.5
 
 O Druida canaliza temporariamente um dos grandes ciclos naturais, alterando a maneira como sua energia se manifesta.
 
@@ -827,7 +827,7 @@ enquanto Inverno permanecer ativo.
 
 # Passiva Herdada Aprimorada
 
-## Sintonia Profunda | Nv.1
+## Sintonia Profunda | Nv.5
 
 > **Aprimora: Sintonia Natural**
 
@@ -931,7 +931,7 @@ Druida adiciona:
 
 ---
 
-## Natureza Convergente | Nv.1
+## Natureza Convergente | Nv.5
 
 O Druida torna-se especialmente eficiente ao combinar suas próprias manifestações naturais.
 
@@ -991,7 +991,7 @@ por esta Passiva.
 
 ---
 
-## Equilíbrio Vivo | Nv.1
+## Equilíbrio Vivo | Nv.5
 
 O Druida fortalece sua conexão quando está cercado por vida natural ativa.
 

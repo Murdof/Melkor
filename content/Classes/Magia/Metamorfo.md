@@ -207,7 +207,7 @@ Não inclui automaticamente:
 
 # Ativas
 
-## Forma Híbrida | Nv.1
+## Forma Híbrida | Nv.5
 
 O Metamorfo realiza uma transformação corporal profunda, combinando sua forma original com características de uma criatura natural.
 
@@ -338,7 +338,7 @@ As Adaptações precisam ser:
 
 ---
 
-## Adaptação de Locomoção | Nv.1
+## Adaptação de Locomoção | Nv.5
 
 O Metamorfo modifica membros e estruturas corporais para atravessar um ambiente específico.
 
@@ -443,7 +443,7 @@ pode permanecer ativa por vez.
 
 ---
 
-## Mutação Reativa | Nv.1
+## Mutação Reativa | Nv.5
 
 O corpo do Metamorfo reage rapidamente a uma ameaça física e desenvolve uma adaptação temporária.
 
@@ -516,7 +516,7 @@ A adaptação surge:
 
 ---
 
-## Remodelação Corporal | Nv.1
+## Remodelação Corporal | Nv.5
 
 O Metamorfo altera uma parte específica do corpo para superar uma necessidade imediata.
 
@@ -579,7 +579,7 @@ O Mestre determina:
 
 # Passivas
 
-## Corpo Mutável | Nv.1
+## Corpo Mutável | Nv.5
 
 A anatomia do Metamorfo tornou-se muito mais receptiva à transformação.
 
@@ -609,7 +609,7 @@ Corpo Mutável não reduz:
 
 ---
 
-## Memória da Carne | Nv.1
+## Memória da Carne | Nv.5
 
 O corpo do Metamorfo aprende com transformações utilizadas repetidamente.
 

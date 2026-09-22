@@ -153,7 +153,7 @@ O cavaleiro continua limitado por:
 
 # Ativas
 
-## Investida Montada | Nv.1
+## Investida Montada | Nv.5
 
 Cavaleiro e montaria avançam com força contra um inimigo.
 
@@ -214,7 +214,7 @@ Investida Montada:
 
 ---
 
-## Ataque de Passagem | Nv.1
+## Ataque de Passagem | Nv.5
 
 O Cavaleiro realiza um ataque enquanto a montaria continua avançando.
 
@@ -267,7 +267,7 @@ Ataque de Passagem:
 
 ---
 
-## Comando de Galope | Nv.1
+## Comando de Galope | Nv.5
 
 O Cavaleiro força a montaria a acelerar temporariamente.
 
@@ -314,7 +314,7 @@ Esse aumento desaparece após:
 
 ---
 
-## Romper Linha | Nv.1
+## Romper Linha | Nv.5
 
 O Cavaleiro utiliza o peso e velocidade da montaria para atravessar uma formação inimiga.
 
@@ -396,7 +396,7 @@ Romper Linha pode falhar automaticamente contra:
 
 # Passivas
 
-## Unidade de Movimento | Nv.1
+## Unidade de Movimento | Nv.5
 
 Cavaleiro e montaria aprendem a sincronizar seus movimentos.
 
@@ -428,7 +428,7 @@ Isso:
 
 ---
 
-## Montaria Treinada | Nv.1
+## Montaria Treinada | Nv.5
 
 A criatura utilizada como Montaria de Combate torna-se mais acostumada a:
 

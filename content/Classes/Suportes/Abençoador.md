@@ -148,7 +148,7 @@ junto de:
 
 # Ativas
 
-## Bênção da Precisão | Nv.1
+## Bênção da Precisão | Nv.5
 
 O Abençoador aprimora temporariamente a capacidade do alvo de executar seus ataques com exatidão.
 
@@ -203,7 +203,7 @@ Ela aumenta apenas:
 
 ---
 
-## Bênção da Celeridade | Nv.1
+## Bênção da Celeridade | Nv.5
 
 O corpo do alvo é envolvido por energia que melhora seus movimentos e sua capacidade de reposicionamento.
 
@@ -259,7 +259,7 @@ Bênção da Celeridade:
 
 ---
 
-## Bênção do Fôlego | Nv.1
+## Bênção do Fôlego | Nv.5
 
 O Abençoador fortalece temporariamente o fluxo energético de um aliado.
 
@@ -332,7 +332,7 @@ Bênção do Fôlego:
 
 ---
 
-## Bênção da Determinação | Nv.1
+## Bênção da Determinação | Nv.5
 
 O Abençoador fortalece a mente e o espírito de um aliado contra efeitos capazes de quebrar sua determinação.
 
@@ -394,7 +394,7 @@ Bênção da Determinação:
 
 # Passivas
 
-## Bênção Expandida | Nv.1
+## Bênção Expandida | Nv.5
 
 O Abençoador aprende a dividir uma mesma manifestação benéfica entre dois aliados.
 
@@ -468,7 +468,7 @@ Bênção Expandida:
 
 ---
 
-## Fluxo Benevolente | Nv.1
+## Fluxo Benevolente | Nv.5
 
 O Abençoador desenvolve maior eficiência ao canalizar magia destinada exclusivamente a fortalecer aliados.
 

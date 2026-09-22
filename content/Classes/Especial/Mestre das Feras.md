@@ -153,7 +153,7 @@ Ela melhora:
 
 # Ativas
 
-## Investida Bestial | Nv.1
+## Investida Bestial | Nv.5
 
 O Mestre das Feras ordena uma ofensiva explosiva da Fera Principal.
 
@@ -212,7 +212,7 @@ Investida Bestial:
 
 ---
 
-## Ataque Conjunto | Nv.1
+## Ataque Conjunto | Nv.5
 
 O Mestre das Feras coordena seu próprio ataque com o da Fera Principal.
 
@@ -262,7 +262,7 @@ Se o Ataque do Mestre errar:
 
 ---
 
-## Instinto Predatório | Nv.1
+## Instinto Predatório | Nv.5
 
 O Mestre das Feras direciona sua criatura para explorar um inimigo vulnerável.
 
@@ -320,7 +320,7 @@ pode estar sob Instinto Predatório.
 
 ---
 
-## Rugido de Comando | Nv.1
+## Rugido de Comando | Nv.5
 
 O Mestre das Feras reforça o controle emocional e ofensivo da Fera Principal através de um comando forte e reconhecível.
 
@@ -366,7 +366,7 @@ Rugido de Comando:
 
 # Passivas
 
-## Predador Aperfeiçoado | Nv.1
+## Predador Aperfeiçoado | Nv.5
 
 O treinamento constante melhora a eficiência da Fera Principal em combate.
 
@@ -401,7 +401,7 @@ Predador Aperfeiçoado deixa de funcionar caso a criatura:
 
 ---
 
-## Vínculo de Caça | Nv.1
+## Vínculo de Caça | Nv.5
 
 O Mestre das Feras e sua Fera Principal aprendem a interpretar os movimentos um do outro.
 

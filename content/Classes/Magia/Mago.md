@@ -246,7 +246,7 @@ As substituições são:
 
 # Habilidades Herdadas Aprimoradas
 
-## Esfera Ígnea | Nv.1
+## Esfera Ígnea | Nv.5
 
 **Aprimora: Bola de Fogo**
 
@@ -308,7 +308,7 @@ Enquanto Mago estiver ativo:
 
 ---
 
-## Lâmina de Vento | Nv.1
+## Lâmina de Vento | Nv.5
 
 **Aprimora: Corte de Vento**
 
@@ -366,7 +366,7 @@ Enquanto Mago estiver ativo:
 
 ---
 
-## Projétil Rochoso | Nv.1
+## Projétil Rochoso | Nv.5
 
 **Aprimora: Bala de Pedra**
 
@@ -428,7 +428,7 @@ Enquanto Mago estiver ativo:
 
 ---
 
-## Cárcere Aquático | Nv.1
+## Cárcere Aquático | Nv.5
 
 **Aprimora: Prisão de Água**
 
@@ -539,7 +539,7 @@ Enquanto Mago estiver ativo:
 
 # Ativas Tier 2
 
-## Raio Elemental | Nv.1
+## Raio Elemental | Nv.5
 
 O Mago acumula uma carga elétrica e libera uma descarga extremamente rápida contra o alvo.
 
@@ -600,7 +600,7 @@ Caso exista incerteza sobre a condução:
 
 ---
 
-## Muralha de Terra | Nv.1
+## Muralha de Terra | Nv.5
 
 O Mago força terra e material mineral a emergirem e formarem uma barreira física.
 
@@ -683,7 +683,7 @@ Um ambiente sem material adequado pode:
 
 ---
 
-## Impulso de Vento | Nv.1
+## Impulso de Vento | Nv.5
 
 O Mago libera uma forte corrente de ar em uma área diante de si.
 
@@ -762,7 +762,7 @@ Esses efeitos dependem da situação física.
 
 ---
 
-## Congelamento Súbito | Nv.1
+## Congelamento Súbito | Nv.5
 
 O Mago reduz rapidamente a temperatura de uma região, formando gelo e congelando água existente.
 
@@ -853,7 +853,7 @@ Não permite congelar instantaneamente:
 
 # Passivas Tier 2
 
-## Domínio Elemental | Nv.1
+## Domínio Elemental | Nv.5
 
 O Mago aprende a modificar propriedades básicas de uma magia elemental durante sua formação.
 
@@ -903,7 +903,7 @@ Domínio Elemental não funciona sobre Habilidades:
 
 ---
 
-## Ciclo dos Elementos | Nv.1
+## Ciclo dos Elementos | Nv.5
 
 O Mago aprende a alternar entre fluxos elementais diferentes sem repetir continuamente a mesma estrutura mágica.
 

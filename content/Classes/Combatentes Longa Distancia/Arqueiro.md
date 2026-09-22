@@ -155,7 +155,7 @@ Esse estilo pertence principalmente ao:
 
 # Ativas
 
-## Disparo Duplo | Nv.1
+## Disparo Duplo | Nv.5
 
 O Arqueiro realiza dois disparos rápidos contra o mesmo alvo.
 
@@ -230,7 +230,7 @@ Disparo Duplo:
 
 ---
 
-## Passo do Arqueiro | Nv.1
+## Passo do Arqueiro | Nv.5
 
 O Arqueiro aprende a disparar sem permanecer preso a uma posição fixa.
 
@@ -285,7 +285,7 @@ Passo do Arqueiro:
 
 ---
 
-## Flecha de Contenção | Nv.1
+## Flecha de Contenção | Nv.5
 
 O Arqueiro realiza um disparo voltado a limitar a movimentação do alvo.
 
@@ -353,7 +353,7 @@ Além do custo normal do disparo:
 
 ---
 
-## Chuva de Flechas | Nv.1
+## Chuva de Flechas | Nv.5
 
 O Arqueiro dispara rapidamente várias flechas sobre uma pequena área.
 
@@ -438,7 +438,7 @@ Cobertura pode:
 
 # Passivas
 
-## Cadência Treinada | Nv.1
+## Cadência Treinada | Nv.5
 
 O Arqueiro reduz o desgaste de ataques sucessivos.
 
@@ -468,7 +468,7 @@ por essa Passiva.
 
 ---
 
-## Olho de Arqueiro | Nv.1
+## Olho de Arqueiro | Nv.5
 
 O Arqueiro desenvolve leitura constante de:
 

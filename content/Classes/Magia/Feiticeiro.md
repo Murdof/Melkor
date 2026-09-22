@@ -306,7 +306,7 @@ Seu desenvolvimento Tier 2 ocorre através de novas formas de manipulação mág
 
 # Ativas Tier 2
 
-## Projétil Arcano | Nv.1
+## Projétil Arcano | Nv.5
 
 O Feiticeiro concentra Mana pura em um pequeno núcleo e o dispara contra o alvo.
 
@@ -366,7 +366,7 @@ Defesa Mágica é aplicada normalmente.
 
 ---
 
-## Telecinese | Nv.1
+## Telecinese | Nv.5
 
 O Feiticeiro utiliza Mana para exercer força à distância sobre matéria física.
 
@@ -510,7 +510,7 @@ Telecinese Nv.1 não permite:
 
 ---
 
-## Encantamento Transitório | Nv.1
+## Encantamento Transitório | Nv.5
 
 O Feiticeiro insere temporariamente uma matriz mágica em um equipamento.
 
@@ -594,7 +594,7 @@ O efeito termina caso o item seja destruído ou deixe de existir.
 
 ---
 
-## Dissipação Arcana | Nv.1
+## Dissipação Arcana | Nv.5
 
 O Feiticeiro interfere diretamente na matriz que sustenta uma manifestação mágica ativa.
 
@@ -710,7 +710,7 @@ Dissipação Arcana:
 
 # Passivas Tier 2
 
-## Matriz Maleável | Nv.1
+## Matriz Maleável | Nv.5
 
 O Feiticeiro aprende a modificar a estrutura de uma magia enquanto ela ainda está sendo formada.
 
@@ -774,7 +774,7 @@ Habilidades elementais herdadas do Neófito:
 
 ---
 
-## Análise Arcana | Nv.1
+## Análise Arcana | Nv.5
 
 O Feiticeiro aprende a desmontar mentalmente uma manifestação mágica em suas partes, reconhecendo sua estrutura e funcionamento.
 
