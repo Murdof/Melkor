@@ -3,95 +3,164 @@ title: Melkor
 ---
 ## Atualizações
 
-> [!update] Versão 5.1
-> **22 de setembro de 2026**
+> [!update] Versão 5.2
+> **24 de setembro de 2026**
 >
-> A versão 5.1 amplia as opções de equipamento, organiza novas fichas de Habilidades e acrescenta regras de progressão e aquisição.
+> A versão 5.2 expande a estrutura racial do Melkor, revisa a humanidade e adiciona novas linhagens e naturezas raciais fora do sistema tradicional de Tier.
 >
-> ## Adições
+> ## Raças
 >
-> ### Equipamentos
+> ### Alto Humano
 >
-> - Adicionados o **Arco do Horizonte Arcano**, o **Cetro do Arcanista Primordial**, o **Ferrão da Abelha Assassina** e a **Foice do Círculo Primordial**.
-> - Criados e organizados os arquivos dos conjuntos de armadura: **Condutor Arcano**, **Vanguardeiro de Aço Negro**, **Véu de Prata**, **Vestes do Prisma Arcano** e **Trama do Círculo Vivo**. O Condutor Arcano recebeu a versão fortalecida aprovada, e o Vanguardeiro de Aço Negro recebeu os ajustes aprovados de Acerto com Hastes e **Investida Blindada**.
+> - O **Alto Humano** foi rebalanceado para representar a verdadeira natureza humana liberada pela Primordial.
+> - Sua diferença em relação à humanidade selada foi ampliada em atributos, reservas, potencial e progressão.
+> - Sua identidade permanece baseada em extrema adaptabilidade, sem obrigar o personagem a uma especialização específica.
 >
-> ### Habilidades
+> Consulte [[Raças/Alto Humano|Alto Humano]].
 >
-> - Adicionadas fichas individuais de Habilidades Ativas para Arqueiro, Druida, Lanceiro Leve, Mago, Neófito, Prospector e Orbe de Skill.
+> ### Humano Aveli
 >
-> ### Regras e progressão
+> - Adicionado o **Humano Aveli**.
+> - Representa a humanidade ainda limitada pelo selo de Avelis.
+> - Apesar de possuir Mana e pertencer ao Tier 1, permanece inferior ao Alto Humano em potencial natural e desenvolvimento.
 >
-> - Adicionadas regras para compra de PP e custos de Habilidades de Classes não combatentes.
-> - Adicionadas referências para progressão de Classes de Trabalho e CAST.
-> - Definida a tabela de [[Regras/XP de Classe e Raça|XP necessário para cada Nível de Classe de Combate, Classe Especial e Raça]].
-
-> [!update] Versão 5.0
-> **14 de setembro de 2026**
+> Consulte [[Raças/Humano Aveli|Humano Aveli]].
 >
-> ![[assets/Melkor 5.0.png|1100]]
+> ### Demi-Humano
 >
-> A versão 5.0 reorganiza as bases do Melkor. Criação, progressão e combate agora compartilham uma estrutura mais clara, construída sobre **Atributos Centrais, Perícias, Pontos de Perícia, Proficiências, Reservas e Linhagens de Habilidade**.
+> - Adicionado o **Demi-Humano Tier 1**.
+> - Sua principal característica é a extraordinária capacidade de regeneração e persistência física.
+> - Ferimentos extremamente graves podem ser recuperados com tempo suficiente.
+> - Ao cair abaixo de 0 Vida, pode tentar retornar através de um teste baseado em Vontade.
+> - Sua progressão especial permite alcançar um patamar equivalente ao máximo de uma raça Tier 2 apesar de permanecer classificado como Tier 1.
 >
-> Classes e Raças foram adaptadas a esses sistemas. Habilidades e Classes ainda estão em desenvolvimento, mas as regras abaixo já formam a base atual do jogo.
+> Consulte [[Raças/Demi-Humano|Demi-Humano]].
 >
-> ## Principais mudanças
+> ### Sparda
 >
-> ### Atributos, Perícias e PP
+> - Adicionada a raça **Sparda**.
+> - Sparda não utiliza Tier racial e não pertence ao sistema racial de Avelis.
+> - Mesmo em seu estágio inicial, possui poder natural comparável a raças de patamares muito superiores.
+> - Sua progressão racial não possui limite máximo de nível.
+> - Sua identidade é baseada em sobrevivência extrema e regeneração crescente conforme o corpo sofre dano.
 >
-> - Adicionados seis **Atributos Centrais**: Força, Constituição, Destreza, Intelecto, Espírito e Presença.
-> - Atributos representam capacidades naturais e limites de desenvolvimento; Perícias e Reservas evoluem separadamente.
-> - Testes usam a Perícia apropriada ou, quando ela não existir, o Atributo Central — sem somar ambos automaticamente.
-> - Adicionado o sistema de **PP — Pontos de Perícia**, com custos crescentes e progressão vinculada às Classes quando aplicável.
+> Consulte [[Raças/Sparda|Sparda]].
 >
-> Consulte [[Regra dos Atributos|Atributos]] e [[Regras/Pontos de Perícia|Pontos de Perícia]].
+> ### Caelum
 >
-> ### Proficiência e Precisão
+> - Adicionada a raça **Caelum**.
+> - Caelum não utiliza Tier racial e não pertence ao sistema racial de Avelis.
+> - Mesmo recém-ascendido, já possui capacidade natural equivalente a raças muito acima do padrão inicial.
+> - Sua progressão racial não possui limite máximo de nível.
+> - Sua progressão utiliza regras próprias, separadas da estrutura racial tradicional.
 >
-> - Armas passam a utilizar **Famílias de Proficiência**, como Lâminas, Contundentes, Hastes, Disparo e Armas de Fogo.
-> - A **Proficiência Efetiva** considera a capacidade de manuseio do personagem.
-> - Precisão deixa de ser uma progressão independente e passa a ser derivada do método usado no ataque.
+> Consulte [[Raças/Caelum|Caelum]].
 >
-> Consulte [[Regras/Proficiência|Proficiência]] e [[Regras/Precisão|Precisão]].
+> ## Equipamentos Sobrenaturais
 >
-> ### Habilidades, Linhagens e SP
+> ### Armas Mágicas
 >
-> - Habilidades Ativas e Passivas passam a possuir níveis próprios: até **Lv.4 no Tier 1** e **Lv.8 no Tier 2**.
-> - Evoluir uma Classe amplia o potencial de uma Habilidade, mas não aumenta seu nível automaticamente.
-> - **Linhagens de Habilidade** preservam o progresso entre continuidades, transformações e ramificações encerradas.
-> - **Nível Real** registra o progresso permanente; **Nível Efetivo** respeita a versão disponível na Classe ativa.
-> - SP permanece vinculado à Classe ou Árvore que o concedeu.
+> - Adicionada uma categoria própria para **Armas Mágicas**.
+> - Essas armas passam a possuir regras específicas para propriedades sobrenaturais, efeitos mágicos e interação com sistemas de energia.
 >
-> Consulte [[Habilidades/Níveis de Habilidades|Níveis de Habilidades]] e [[Regras/SP|SP — Pontos de Alma]].
+> Consulte [[Equipamentos/Armas Mágicas|Armas Mágicas]].
 >
-> ### Reservas e progressão racial
+> ### Armas Espirituais
 >
-> - Vida, Estamina, Mana e demais Reservas foram reorganizadas para a nova estrutura de Atributos Centrais.
-> - **Ki** e **Reiryoku** receberam sistemas próprios.
-> - O Nivelamento de Raça agora interage diretamente com Atributos Centrais, PP e escolhas raciais.
+> - Adicionada a categoria de **Armas Espirituais**.
+> - Armas Espirituais funcionam através de princípios próprios e podem interagir diretamente com energia, essência e fenômenos espirituais.
 >
-> Consulte [[Regras/Vida|Vida]], [[Regras/Estamina|Estamina]], [[Regras/Mana|Mana]], [[Regras/Ki|Ki]], [[Regras/Reiryoku|Reiryoku]], [[Regras/Nivelamento de Raça|Nivelamento de Raça]] e [[Regras/Progressão Racial de Atributos Centrais|Progressão Racial de Atributos Centrais]].
->
-> ### Classes e regras gerais
->
-> - Classes de Combate, Magia, Suporte, Trabalho e categorias Especiais foram revisadas para os novos sistemas.
-> - Evoluções passam a interagir com Linhagens de Habilidade e com o progresso permanente de suas Árvores.
-> - Regras de ataque, defesa, movimento, dano e uso de Reservas foram atualizadas e distribuídas em páginas específicas.
->
-> Consulte [[Regras/Classes|Classes]] e as páginas próprias de cada sistema ou Classe.
->
-> ## Sistemas substituídos
->
-> Deixam de ser usados em sua forma anterior:
->
-> - Precisões desenvolvidas como características ou Perícias independentes;
-> - progressão profissional baseada apenas em um Ofício genérico;
-> - Habilidades sem níveis próprios;
-> - aumento automático de Habilidades ao evoluir uma Classe.
->
-> Valores menores e interações específicas permanecem nas páginas correspondentes. Em caso de conflito com uma regra antiga, prevalece a página atual do sistema.
+> Consulte [[Equipamentos/Armas Espirituais|Armas Espirituais]].
 
 > [!update]- Atualizações Anteriores
 >
+>> [!update]- Versão 5.1
+>> **22 de setembro de 2026**
+>>
+>> A versão 5.1 amplia as opções de equipamento, organiza novas fichas de Habilidades e acrescenta regras de progressão e aquisição.
+>>
+>> ## Adições
+>>
+>> ### Equipamentos
+>>
+>> - Adicionados o **Arco do Horizonte Arcano**, o **Cetro do Arcanista Primordial**, o **Ferrão da Abelha Assassina** e a **Foice do Círculo Primordial**.
+>> - Criados e organizados os arquivos dos conjuntos de armadura: **Condutor Arcano**, **Vanguardeiro de Aço Negro**, **Véu de Prata**, **Vestes do Prisma Arcano** e **Trama do Círculo Vivo**. O Condutor Arcano recebeu a versão fortalecida aprovada, e o Vanguardeiro de Aço Negro recebeu os ajustes aprovados de Acerto com Hastes e **Investida Blindada**.
+>>
+>> ### Habilidades
+>>
+>> - Adicionadas fichas individuais de Habilidades Ativas para Arqueiro, Druida, Lanceiro Leve, Mago, Neófito, Prospector e Orbe de Skill.
+>>
+>> ### Regras e progressão
+>>
+>> - Adicionadas regras para compra de PP e custos de Habilidades de Classes não combatentes.
+>> - Adicionadas referências para progressão de Classes de Trabalho e CAST.
+>> - Definida a tabela de [[Regras/XP de Classe e Raça|XP necessário para cada Nível de Classe de Combate, Classe Especial e Raça]].
+>>
+>> [!update]- Versão 5.0
+>> **14 de setembro de 2026**
+>>
+>> ![[assets/Melkor 5.0.png|1100]]
+>>
+>> A versão 5.0 reorganiza as bases do Melkor. Criação, progressão e combate agora compartilham uma estrutura mais clara, construída sobre **Atributos Centrais, Perícias, Pontos de Perícia, Proficiências, Reservas e Linhagens de Habilidade**.
+>>
+>> Classes e Raças foram adaptadas a esses sistemas. Habilidades e Classes ainda estão em desenvolvimento, mas as regras abaixo já formam a base atual do jogo.
+>>
+>> ## Principais mudanças
+>>
+>> ### Atributos, Perícias e PP
+>>
+>> - Adicionados seis **Atributos Centrais**: Força, Constituição, Destreza, Intelecto, Espírito e Presença.
+>> - Atributos representam capacidades naturais e limites de desenvolvimento; Perícias e Reservas evoluem separadamente.
+>> - Testes usam a Perícia apropriada ou, quando ela não existir, o Atributo Central — sem somar ambos automaticamente.
+>> - Adicionado o sistema de **PP — Pontos de Perícia**, com custos crescentes e progressão vinculada às Classes quando aplicável.
+>>
+>> Consulte [[Regra dos Atributos|Atributos]] e [[Regras/Pontos de Perícia|Pontos de Perícia]].
+>>
+>> ### Proficiência e Precisão
+>>
+>> - Armas passam a utilizar **Famílias de Proficiência**, como Lâminas, Contundentes, Hastes, Disparo e Armas de Fogo.
+>> - A **Proficiência Efetiva** considera a capacidade de manuseio do personagem.
+>> - Precisão deixa de ser uma progressão independente e passa a ser derivada do método usado no ataque.
+>>
+>> Consulte [[Regras/Proficiência|Proficiência]] e [[Regras/Precisão|Precisão]].
+>>
+>> ### Habilidades, Linhagens e SP
+>>
+>> - Habilidades Ativas e Passivas passam a possuir níveis próprios: até **Lv.4 no Tier 1** e **Lv.8 no Tier 2**.
+>> - Evoluir uma Classe amplia o potencial de uma Habilidade, mas não aumenta seu nível automaticamente.
+>> - **Linhagens de Habilidade** preservam o progresso entre continuidades, transformações e ramificações encerradas.
+>> - **Nível Real** registra o progresso permanente; **Nível Efetivo** respeita a versão disponível na Classe ativa.
+>> - SP permanece vinculado à Classe ou Árvore que o concedeu.
+>>
+>> Consulte [[Habilidades/Níveis de Habilidades|Níveis de Habilidades]] e [[Regras/SP|SP — Pontos de Alma]].
+>>
+>> ### Reservas e progressão racial
+>>
+>> - Vida, Estamina, Mana e demais Reservas foram reorganizadas para a nova estrutura de Atributos Centrais.
+>> - **Ki** e **Reiryoku** receberam sistemas próprios.
+>> - O Nivelamento de Raça agora interage diretamente com Atributos Centrais, PP e escolhas raciais.
+>>
+>> Consulte [[Regras/Vida|Vida]], [[Regras/Estamina|Estamina]], [[Regras/Mana|Mana]], [[Regras/Ki|Ki]], [[Regras/Reiryoku|Reiryoku]], [[Regras/Nivelamento de Raça|Nivelamento de Raça]] e [[Regras/Progressão Racial de Atributos Centrais|Progressão Racial de Atributos Centrais]].
+>>
+>> ### Classes e regras gerais
+>>
+>> - Classes de Combate, Magia, Suporte, Trabalho e categorias Especiais foram revisadas para os novos sistemas.
+>> - Evoluções passam a interagir com Linhagens de Habilidade e com o progresso permanente de suas Árvores.
+>> - Regras de ataque, defesa, movimento, dano e uso de Reservas foram atualizadas e distribuídas em páginas específicas.
+>>
+>> Consulte [[Regras/Classes|Classes]] e as páginas próprias de cada sistema ou Classe.
+>>
+>> ## Sistemas substituídos
+>>
+>> Deixam de ser usados em sua forma anterior:
+>>
+>> - Precisões desenvolvidas como características ou Perícias independentes;
+>> - progressão profissional baseada apenas em um Ofício genérico;
+>> - Habilidades sem níveis próprios;
+>> - aumento automático de Habilidades ao evoluir uma Classe.
+>>
+>> Valores menores e interações específicas permanecem nas páginas correspondentes. Em caso de conflito com uma regra antiga, prevalece a página atual do sistema.
+>>
 >> [!update]- Versão 4.1
 >> **8 de setembro de 2026**
 >>

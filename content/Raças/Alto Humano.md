@@ -1,6 +1,6 @@
-Os **Altos Humanos** representam um estágio superior da humanidade.
+Os **Altos Humanos** representam a verdadeira humanidade liberada pela Primordial.
 
-O corpo, a mente e a essência de um Alto Humano ultrapassaram os limites naturais de um Humano comum, tornando-se mais resistentes, eficientes e capazes de suportar níveis muito maiores de desenvolvimento.
+Enquanto o [[Humano]] T1 Comum permanece selado, o corpo, a mente e a essência de um Alto Humano expressam o potencial racial humano sem essa limitação. Por isso, são mais resistentes, eficientes e capazes de suportar níveis muito maiores de desenvolvimento.
 
 Apesar dessa evolução, Altos Humanos preservam uma das principais características da humanidade:
 
@@ -15,13 +15,13 @@ Eles não possuem uma especialização natural obrigatória e podem desenvolver 
 | Característica | Valor |
 |---|---:|
 | **Tier Racial** | T1 |
-| **Raridade** | Raro |
+| **Raridade** | Épico |
 | **Nível Racial Máximo** | 20 |
-| **[[Vida]] Base** | 40 |
-| **[[Estamina]] Base** | 120 |
-| **Regeneração de Estamina** | 7 por [[Turno]] |
-| **[[Mana]] Base** | 30 |
-| **Regeneração de Mana** | 2 por [[Turno]] |
+| **[[Vida]] Base** | 50 |
+| **[[Estamina]] Base** | 140 |
+| **Regeneração de Estamina** | 8 por [[Turno]] |
+| **[[Mana]] Base** | 60 |
+| **Regeneração de Mana** | 3 por [[Turno]] |
 | **[[Ki]]** | Não desbloqueado |
 | **[[Reiryoku]]** | Não desbloqueado |
 | **[[Pontos de Ação\|PA]]** | 2 |
@@ -35,13 +35,13 @@ Eles não possuem uma especialização natural obrigatória e podem desenvolver 
 Altos Humanos possuem uma Base Racial equilibrada.
 
 | Atributo Central | Base Racial |
-|---|---:|
-| [[Força]] | **4** |
-| [[Constituição]] | **4** |
-| [[Destreza]] | **4** |
-| [[Intelecto]] | **4** |
-| [[Espírito]] | **4** |
-| [[Presença]] | **4** |
+| ---------------- | ----------: |
+| [[Força]]        |       **4** |
+| [[Constituição]] |       **4** |
+| [[Destreza]]     |       **4** |
+| [[Intelecto]]    |       **4** |
+| [[Espírito]]     |       **4** |
+| [[Presença]]     |       **4** |
 
 Total de Base Racial:
 
@@ -57,7 +57,7 @@ PC adquiridos durante a progressão racial permanecem separados e são adicionad
 
 # Adaptabilidade Superior
 
-Altos Humanos preservam a flexibilidade natural da humanidade em um estágio muito superior.
+Altos Humanos preservam e ampliam a flexibilidade natural da humanidade. Essa é a continuidade aperfeiçoada da adaptabilidade que permanece, de forma limitada, nos Humanos selados.
 
 Sua Base Racial permanece equilibrada entre todos os [[Regra dos Atributos]], sem obrigar o personagem a seguir uma especialização específica.
 
@@ -91,9 +91,13 @@ Altos Humanos possuem:
 - sentidos mais refinados;
 - maior capacidade cardiovascular;
 - maior resistência ao esforço;
-- recuperação física aprimorada.
+- recuperação natural superior;
+- maior resistência a doenças e toxinas;
+- envelhecimento naturalmente lento após a maturidade.
 
 Essas melhorias são representadas principalmente por sua Base Racial superior, suas Reservas e demais características raciais.
+
+Essa recuperação natural não é uma mecânica de regeneração extraordinária. O Alto Humano não possui as mecânicas de sobrevivência ou regeneração próprias de um [[Demi-humano]].
 
 O Alto Humano continua possuindo anatomia essencialmente humana e pode utilizar normalmente equipamentos destinados a humanoides compatíveis.
 
@@ -105,7 +109,7 @@ O Alto Humano continua possuindo anatomia essencialmente humana e pode utilizar 
 
 Altos Humanos possuem naturalmente:
 
-> **40 de [[Vida]] Base**
+> **50 de [[Vida]] Base**
 
 Essa Vida é racial e é somada aos investimentos e demais bônus de Vida do personagem.
 
@@ -115,21 +119,21 @@ Essa Vida é racial e é somada aos investimentos e demais bônus de Vida do per
 
 Altos Humanos possuem naturalmente:
 
-> **120 de [[Estamina]] Base**
+> **140 de [[Estamina]] Base**
 
 Também possuem:
 
-> **7 de Regeneração de Estamina por Turno**
+> **8 de Regeneração de Estamina por Turno**
 
-No início de seu próprio [[Turno]], recuperam 7 de Estamina Atual, sem ultrapassar sua Estamina Máxima.
+No início de seu próprio [[Turno]], recuperam 8 de Estamina Atual, sem ultrapassar sua Estamina Máxima.
 
 Essa regeneração não recupera reduções temporárias da Estamina Máxima causadas por esforço ou Exaustão.
 
 ---
 
-# Núcleo de Mana
+# Núcleo de Mana Liberado
 
-A evolução racial desperta no Alto Humano uma capacidade que um [[Humano]] comum não possui naturalmente:
+A essência racial liberada concede ao Alto Humano um Núcleo de Mana superior ao potencial disponível para um [[Humano]] selado:
 
 > **acesso à [[Mana]].**
 
@@ -137,15 +141,15 @@ Mana é considerada **desbloqueada** para Altos Humanos.
 
 Eles possuem naturalmente:
 
-> **30 de Mana Base**
+> **60 de Mana Base**
 
 e:
 
-> **2 de Regeneração de Mana por Turno**
+> **3 de Regeneração de Mana por Turno**
 
 Essa Mana racial é somada normalmente aos investimentos realizados através de [[Desenvolvimento de Reservas]] e aos demais bônus recebidos pelo personagem.
 
-Possuir Mana não concede automaticamente magias ou Habilidades mágicas.
+O Núcleo de Mana Liberado representa uma reserva, regeneração e eficiência de Mana naturalmente superiores, mas não concede magias ou Habilidades por si só.
 
 O personagem ainda precisa possuir uma fonte capaz de utilizar esse recurso.
 
@@ -246,6 +250,20 @@ Um Alto Humano ainda pode ser afetado normalmente por [[Regras/Dano|Dano]], doen
 
 ---
 
+# Herança da Primordial
+
+A libertação da herança humana pela Primordial fortalece a integridade da essência racial de um Alto Humano.
+
+Altos Humanos possuem maior resistência contra:
+
+- corrupção racial;
+- transformação forçada;
+- degradação da própria essência.
+
+Essa resistência não concede imunidade absoluta. Efeitos suficientemente poderosos ou regras específicas ainda podem afetar um Alto Humano.
+
+---
+
 # Longevidade Elevada
 
 A evolução racial reduz significativamente a deterioração natural do organismo.
@@ -270,6 +288,8 @@ Alto Humano é uma Raça:
 
 > **T1**
 
+Como Raça T1 Épica, o Alto Humano representa praticamente o teto natural do T1. Isso não o transforma em uma Raça T2 nem lhe concede capacidades próprias de Raças de Tier superior.
+
 Seu Nível Racial Máximo é:
 
 > **Nível 20**
@@ -288,8 +308,8 @@ A forma natural de obtenção do Alto Humano é:
 
 | Raça | Tier | Raridade |
 |---|---:|---|
-| [[Humano]] | T0 | Medíocre |
-| **Alto Humano** | T1 | Raro |
+| [[Humano]] | T1 | Comum |
+| **Alto Humano** | T1 | Épico |
 
 Ao evoluir de Humano para Alto Humano:
 

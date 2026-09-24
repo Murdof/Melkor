@@ -4,7 +4,7 @@ Esta regra define o XP necessário para alcançar cada Nível de **Classe de Com
 
 O XP de cada Classe de Combate, Classe Especial e Raça é registrado separadamente. Ao alcançar um novo Tier, utilize a tabela correspondente a ele.
 
-Classes de Trabalho utilizam sua própria progressão e não usam as tabelas desta página. Veja [[Progressao_Classes_de_Trabalho|Progressão de Classes de Trabalho]].
+Classes de Trabalho utilizam sua própria progressão e não usam as tabelas desta página. Veja [[Progressao Classes de Trabalho|Progressão de Classes de Trabalho]].
 
 ---
 
