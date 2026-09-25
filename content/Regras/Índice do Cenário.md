@@ -1,5 +1,3 @@
-## Índice do Cenário
-
 Em cenas de exploração, perigo ambiental, perseguição, infiltração ou interação com um local, o Mestre define um único **Índice do Cenário (IC)**. Ele representa o risco e a complexidade geral daquele lugar ou situação.
 
 Todo teste relevante naquela cena usa o mesmo IC até que os personagens mudem significativamente a situação ou saiam dela.

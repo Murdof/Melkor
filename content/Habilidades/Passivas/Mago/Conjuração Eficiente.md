@@ -105,11 +105,45 @@ Conjuração Eficiente não reduz:
 
 ---
 
-# Resumo da Progressão
+## Conjuração Eficiente | Lv.5
 
-| Nível | Redução Normal | Habilidades de 20+ Mana |
-|---|---:|---:|
-| Lv.1 | -1 Mana | -1 Mana |
-| Lv.2 | -2 Mana | -2 Mana |
-| Lv.3 | -3 Mana | -4 Mana |
-| Lv.4 | -4 Mana | -6 Mana |
+Ao atingir o Tier 2, o controle sobre a formação inicial das magias se torna muito mais eficiente.
+
+### Efeito
+
+Reduz normalmente:
+
+> **6 Mana**
+
+do custo inicial das Habilidades mágicas.
+
+Quando a Habilidade possuir custo inicial de:
+
+> **20 Mana ou mais**
+
+reduz:
+
+> **10 Mana**
+
+### Conjuração Pesada
+
+Quando a Habilidade possuir custo inicial de:
+
+> **40 Mana ou mais**
+
+a redução passa a ser:
+
+> **12 Mana**
+
+### Limites
+
+O custo inicial nunca pode ser reduzido abaixo de:
+
+> **1 Mana**
+
+Conjuração Eficiente não reduz:
+
+- custos de manutenção;
+- custos pagos por Turno;
+- custos adicionais voluntários;
+- aumentos de Mana utilizados por efeitos como [[Sobrecarga]].
